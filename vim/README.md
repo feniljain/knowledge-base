@@ -1,5 +1,21 @@
 # VIM TIPS
 
+## Videos:
+	* http://derekwyatt.org/vim/tutorials/index.html
+	* VimConf 2020: https://www.youtube.com/channel/UCPK_UHtbfcWABCi0F0GPG6w
+
+## Blogs and Articles:
+	* https://medium.com/actualize-network/how-to-learn-vim-a-four-week-plan-cd8b376a9b85
+	* vimcasts.org/blog/2011/05/the-fugitive-series/
+	* https://stackoverflow.com/questions/tagged/vim?tab=votes&pagesize=50
+	* https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim
+
+## Websites:
+	* http://vimcasts.org/
+
+## Repos:
+	* Interesting IDE: https://github.com/onivim/oni2
+
 ## General:
  * To encode ROT-13 on current line: g?? and on current word g?iw
  * % refers to the current file's relative path
@@ -84,3 +100,6 @@
 
 ## PANES:
 * Use C-W-X
+
+## PRESENTATIONS:
+	* https://www.youtube.com/watch?v=GDa7hrbcCB8&feature=emb_logo
