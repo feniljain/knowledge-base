@@ -12,6 +12,8 @@
 	* Ultimate Cheat Sheet of resources: https://docs.google.com/document/d/1Zb9GCWPKeEJ4Dyn2TkT-O3wJ8AFc-IMxZzTugNCjr-8/edit
 	* https://skarlso.github.io/blog/
 	* Interactive Playgrounds for everything: https://www.katacoda.com/
+	* Best Practices ultimate go to guides: https://medium.com/@dgryski/idiomatic-go-resources-966535376dba
+	*  Making your own FTS(Full-Text Search Engine): https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/
 
 ## Videos:
  * https://www.youtube.com/watch?v=2Sm_O75I7H0&list=PLy_6D98if3UJd5hxWNfAqKMr15HZqFnqf
@@ -34,6 +36,7 @@
 	* https://github.com/Alikhll/golang-developer-roadmap
 	* https://github.com/smileisak/go-training
 	* https://github.com/Alikhll/golang-developer-roadmap
+	* Easy access to all architectures(clean, DDD, etc) https://github.com/resotto/goilerplate
 
 ## Packages:
 	* IP Country Mapping Library: https://skarlso.github.io/blog/

@@ -15,3 +15,4 @@
 	* https://jeremyaguilon.me/blog/ranking_interview_questions_by_cram_score
 	* https://yangshun.github.io/tech-interview-handbook/negotiation/
 	* https://www.geeksforgeeks.org/must-coding-questions-company-wise/
+	* Go thorugh for web interviews: https://dev.to/slawomirkolodziej/what-do-you-need-to-know-as-a-junior-frontend-developer-bonus-interview-questions-32ba

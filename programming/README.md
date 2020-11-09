@@ -13,6 +13,7 @@
 	* Interactive Playgrounds for everything: https://www.katacoda.com/
 
 ## Blogs and Articles:
+	* https://thevaluable.dev/(It's especially good!)
 	* https://12factor.net/
 	* https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
 	* https://fireship.io/lessons/
@@ -21,6 +22,7 @@
 	* https://github.com/RajaSrinivasan/assignments
 	* Regexp in deep: https://swtch.com/~rsc/regexp/regexp1.html
 	* Missing sem in unis: https://missing.csail.mit.edu/
+	* https://designsystemchecklist.com/category/design-language/
 
 ## Videos:
 	* System Design: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX

@@ -20,10 +20,12 @@
 ## Videos:
 	* Preparing app for release: https://www.youtube.com/watch?v=nGvPNG-f1-o&feature=youtu.be
 	* https://resocoder.com/flutter-clean-architecture-tdd/
-	* https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ
+	* Velocity_X: https://www.youtube.com/watch?v=G0fGsI-pEOY
 
 ## Repos:
 	* https://github.com/Solido/awesome-flutter
+	* https://github.com/iampawan/VelocityX
 
 ## Packages:
 	* https://pub.dev/packages/background_fetch#-readme-tab-
+	* https://pub.dev/packages/velocity_x
