@@ -16,6 +16,8 @@
 	* https://www.woolha.com/tutorials/rxdart-using-subject-publish-behavior-replay
 	* https://fireship.io/lessons/flutter-widget-positioning-guide/
 	* https://medium.com/@tattwei46/flutter-how-to-do-crud-with-firebase-rtdb-ce61e3ce53a
+	* Complete Flutter Course For Free: https://www.reddit.com/r/FlutterDev/comments/jqqlo2/the_free_complete_udemy_clone_course
+	* Hosting Flutter web apps with nginx on private server: https://medium.com/flutter-community/how-to-host-flutter-using-nginx-a71bcb11d96
 
 ## Videos:
 	* Preparing app for release: https://www.youtube.com/watch?v=nGvPNG-f1-o&feature=youtu.be

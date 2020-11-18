@@ -33,6 +33,7 @@
 	* Arch installer: https://github.com/AnarchyLinux/installer/releases/tag/v1.0.9
 	* Chrome Extension to random places in world as bg: https://github.com/bsudekum/MapTab
 	* Ultimate Project Based Learning Guide: https://github.com/tuvtran/project-based-learning
+	* Project Collectins: https://github.com/sindresorhus/awesome
 
 ## APIs:
 	* https://www.thecocktaildb.com/api.php?ref=apilist.fun

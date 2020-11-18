@@ -11,6 +11,7 @@
 	* Serverless Architectures: https://martinfowler.com/articles/serverless.html
 	* https://skarlso.github.io/blog/
 	* A good go to discussion on reddit for learning devops: https://www.reddit.com/r/devops/comments/jmdce9/monthly_getting_into_devops_thread_202011/
+	* Building service mesh using envoy: https://www.thoughtworks.com/insights/blog/building-service-mesh-envoy-0
 
 ## Videos:
 	* https://www.youtube.com/watch?v=t4H6hdvB9iQ

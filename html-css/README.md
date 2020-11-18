@@ -8,3 +8,7 @@
 	* Logging in frontend: https://dev.to/ackshaey/level-up-your-javascript-browser-logs-with-these-console-log-tips-55o2
 	* Go thorugh for web interviews: https://dev.to/slawomirkolodziej/what-do-you-need-to-know-as-a-junior-frontend-developer-bonus-interview-questions-32ba
 
+## Websites:
+	* https://flexbox.io/
+	* https://cssgrid.io/
+

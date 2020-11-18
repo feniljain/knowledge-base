@@ -28,6 +28,7 @@
  * %F: File path compared to root dir of the project
  * %y gives file extension
  * Use this: `", just before leaving a buffer and the next time you enter, use this again to jump to last line where you left your cursor.
+ * Shift $ : End of the line, Shift ^ : Start of the line
 
 ## StatusLine: 
 * set statusline={content}
