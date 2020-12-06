@@ -13,3 +13,7 @@
 
 ## Repos:
 	* Kubernetes 101 Series: https://github.com/geerlingguy/kubernetes-101
+
+## Tools:
+	* https://kali-linuxtr.net/simulator-kubernetes-attack-simulator.tool
+	* https://github.com/kubernetes-simulator/simulator

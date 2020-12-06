@@ -15,6 +15,7 @@
 
 ## Repos:
 	* Interesting IDE: https://github.com/onivim/oni2
+	* https://github.com/iggredible/Learn-Vim
 
 ## General:
  * To encode ROT-13 on current line: g?? and on current word g?iw

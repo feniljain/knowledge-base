@@ -7,3 +7,4 @@
  
 ## Some good articles:
  * https://dev.to/annajmcdougall/impostor-syndrome-the-biggest-enemy-to-your-progress-is-your-ego-24ke (It's a 3-blog series)
+ * https://medium.com/better-advice/20-things-most-people-learn-too-late-in-life-23674cdbd75c

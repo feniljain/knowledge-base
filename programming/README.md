@@ -11,6 +11,8 @@
 	* Developer Roadmaps: https://roadmap.sh/
 	* SEO Guide: https://www.reddit.com/r/SEO/comments/hqgden/seo_is_easy_the_exact_process_we_use_to_scale_our/?utm_source=share&utm_medium=ios_app&utm_name=iossmf
 	* Interactive Playgrounds for everything: https://www.katacoda.com/
+	* http://rosettacode.org/wiki/Rosetta_Code
+	* https://refactoring.fm/
 
 ## Blogs and Articles:
 	* https://thevaluable.dev/(It's especially good!)
@@ -23,6 +25,9 @@
 	* Regexp in deep: https://swtch.com/~rsc/regexp/regexp1.html
 	* Missing sem in unis: https://missing.csail.mit.edu/
 	* https://designsystemchecklist.com/category/design-language/
+	* Great collection for anything programming: https://techblog.wikimedia.org/
+	* https://github.com/pingcap/talent-plan
+	* https://www.craftinginterpreters.com/
 
 ## Videos:
 	* System Design: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
@@ -38,3 +43,6 @@
 ## APIs:
 	* https://www.thecocktaildb.com/api.php?ref=apilist.fun
 
+## Online books:
+	* Online SRE Book From Google: https://sre.google/sre-book/table-of-contents/
+	* https://atcold.github.io/pytorch-Deep-Learning/

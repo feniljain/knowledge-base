@@ -16,3 +16,4 @@
 ## Videos:
 	* https://www.youtube.com/watch?v=t4H6hdvB9iQ
 	* Ultimate guide to AWS Advocate Certification: https://www.youtube.com/watch?v=RrKRN9zRBWs
+	* https://www.youtube.com/channel/UC4MdpjzjPuop_qWNAvR23JA

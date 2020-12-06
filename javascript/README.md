@@ -14,3 +14,4 @@
 
 ## Libraries:
 	* https://www.chartjs.org/
+	* Fast 3kB React alternative: https://github.com/preactjs/preact
