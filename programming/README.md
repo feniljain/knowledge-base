@@ -13,6 +13,9 @@
  * Interactive Playgrounds for everything: https://www.katacoda.com/
  * http://rosettacode.org/wiki/Rosetta_Code
  * https://refactoring.fm/
+ * Building todo applicatins in various web-dev tools: http://todomvc.com/
+ * OpenSource Firebase Alternative: https://supabase.io/
+ * https://linkedin.github.io/school-of-sre/
 
 ## Blogs and Articles:
  * https://thevaluable.dev/(It's especially good!)
@@ -28,6 +31,8 @@
  * Great collection for anything programming: https://techblog.wikimedia.org/
  * https://github.com/pingcap/talent-plan
  * https://www.craftinginterpreters.com/
+ * https://dev.to/denicmarko/github-repositories-to-improve-your-programming-skills-2d1e
+ * https://dev.to/deleteman123/jwt-authentication-best-practices-3lf9
 
 ## Videos:
  * System Design: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX

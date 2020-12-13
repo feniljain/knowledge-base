@@ -17,3 +17,6 @@
  * https://www.youtube.com/watch?v=t4H6hdvB9iQ
  * Ultimate guide to AWS Advocate Certification: https://www.youtube.com/watch?v=RrKRN9zRBWs
  * https://www.youtube.com/channel/UC4MdpjzjPuop_qWNAvR23JA
+
+## Books:
+ * Great collection of books by mayank bhaiya on cloud native and devops: https://drive.google.com/drive/folders/1NThdt2djlvsb0x3gQ6qA_c4BfCEW3TnY

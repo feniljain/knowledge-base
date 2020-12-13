@@ -14,6 +14,7 @@
  * https://siciarz.net/24-days-rust-conclusion-2016/
  * https://rust-lang-nursery.github.io/rust-cookbook/intro.html
  * Developing your own OS in rust: https://os.phil-opp.com/
+ * https://rustwasm.github.io/
 
 ## Blogs and Articles:
  * https://crafterscircle.io/rust/coding/2019/01/18/tips-for-rust-beginners/
@@ -26,6 +27,9 @@
  * Making a programming language in rust: https://arzg.github.io/lang/0/
  * https://zsiciarz.github.io/24daysofrust/index.html
  * Write a chip8 emulator interpreter: http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/
+ * https://dev.to/davidedelpapa
+ * https://blog.knoldus.com/os-in-rust-an-executable-that-runs-on-bare-metal-part-1/
+ * A very good comparison where rust lacks in comparison to C++: https://www-viva64-com.cdn.ampproject.org/v/s/www.viva64.com/en/amp/b/0733/?amp_js_v=a6&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.viva64.com%2Fen%2Fb%2F0733%2F
 
 ## Repos:
  * https://learning-rust.github.io/
@@ -51,14 +55,15 @@
  * https://www.youtube.com/channel/UCptxtVyJkQAJZcFwBbIDZcg
 
 ## YT Project channels/Playlists:
- * https://www.youtube.com/watch?v=STWuPMcwwbw
- * https://www.youtube.com/watch?v=bR4nGWmfzTk&list=PLVhhUNGAUIQScqB26DdUq4n1Y2n3auM7X
- * https://www.youtube.com/playlist?list=PL7Y5Yox90r8M9yVblJ2ey_2RHo0frcUsX
+ * Hello Rust: https://www.youtube.com/watch?v=STWuPMcwwbw
+ * Crazcalm's Tech Stack: https://www.youtube.com/watch?v=bR4nGWmfzTk&list=PLVhhUNGAUIQScqB26DdUq4n1Y2n3auM7X
+ * Knowledge Hub: https://www.youtube.com/playlist?list=PL7Y5Yox90r8M9yVblJ2ey_2RHo0frcUsX
  * https://www.twitch.tv/museun
- * https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5
- * https://www.youtube.com/watch?v=jx5BPXi8rS4&list=PLTgRMOcmRb3Mees8OLSowzzjAsN14TBM9&index=6
- * https://www.youtube.com/watch?v=jnTZyXtwNj0&list=PLTOeCUgrkpMNEHx6j0vCH0cuyAIVZadnc&index=2
- * https://www.youtube.com/watch?v=c6q0lUtD3FY&list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb&index=5
+ * https://www.twitch.tv/timclicks
+ * Doug Milford: https://www.youtube.com/playlist?list=PLLqEtX6ql2EyPAZ1M2_C0GgVd4A-_L4_5
+ * Packt Video: https://www.youtube.com/watch?v=jx5BPXi8rS4&list=PLTgRMOcmRb3Mees8OLSowzzjAsN14TBM9
+ * J M Archer: https://www.youtube.com/watch?v=jnTZyXtwNj0&list=PLTOeCUgrkpMNEHx6j0vCH0cuyAIVZadnc
+ * Tensor: https://www.youtube.com/watch?v=c6q0lUtD3FY&list=PLJbE2Yu2zumDD5vy2BuSHvFZU0a6RDmgb
 
 ## Books:
  * https://www.oreilly.com/library/view/programming-rust/9781491927274/
@@ -71,6 +76,7 @@
  * https://dev.to/krowemoh/series/9492
  * https://dev.to/krowemoh/series/9410
  * https://dev.to/davidedelpapa/series/9626
+ * https://dev.to/davidedelpapa
 
 ## Official Rust Users website:
  * https://users.rust-lang.org/
