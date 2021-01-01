@@ -15,6 +15,7 @@
  * https://rust-lang-nursery.github.io/rust-cookbook/intro.html
  * Developing your own OS in rust: https://os.phil-opp.com/
  * https://rustwasm.github.io/
+ * https://napi.rs/
 
 ## Blogs and Articles:
  * https://crafterscircle.io/rust/coding/2019/01/18/tips-for-rust-beginners/
@@ -30,6 +31,9 @@
  * https://dev.to/davidedelpapa
  * https://blog.knoldus.com/os-in-rust-an-executable-that-runs-on-bare-metal-part-1/
  * A very good comparison where rust lacks in comparison to C++: https://www-viva64-com.cdn.ampproject.org/v/s/www.viva64.com/en/amp/b/0733/?amp_js_v=a6&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.viva64.com%2Fen%2Fb%2F0733%2F
+ * https://www.fpcomplete.com/blog/
+ * https://www.reddit.com/r/rust/comments/kdfb9k/rusts_option_in_one_figure/
+ * Avg. general articles on rust(Has browser engine build series): https://limpet.net/mbrubeck/
 
 ## Repos:
  * https://learning-rust.github.io/
@@ -80,3 +84,9 @@
 
 ## Official Rust Users website:
  * https://users.rust-lang.org/
+
+## Interesting crates:
+ * https://lib.rs/crates/strum
+
+## Rust Internals:
+ * https://internals.rust-lang.org/t/a-potential-rust-learning-project-group/13620/5

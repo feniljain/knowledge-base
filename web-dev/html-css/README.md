@@ -3,6 +3,7 @@
 ## Videos:
  * 1-line css: https://www.youtube.com/watch?v=qm0IfG1GyZU
  * UI design for coders: https://www.youtube.com/watch?v=0JCUH5daCCE
+ * https://locomotivemtl.github.io/locomotive-scroll/
 
 ## Blogs and Articles:
  * Logging in frontend: https://dev.to/ackshaey/level-up-your-javascript-browser-logs-with-these-console-log-tips-55o2

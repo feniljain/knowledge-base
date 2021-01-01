@@ -3,6 +3,7 @@
 ## Websites:
  * https://kube.academy/courses
  * Public failures of kubernetes: https://k8s.af
+ * https://www.shrlrn.com/practice/kuberneteslabs
 
 ## Blogs and Articles:
  * Importance of CNI in kubernetes: https://www.kloia.com/blog/why-do-we-use-cni-plugins-on-kubernetes

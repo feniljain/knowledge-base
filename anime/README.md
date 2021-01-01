@@ -36,8 +36,25 @@
  * Grand blue
  * Angel Beats
  * Violet Evergarden
- * Plastic Memories
- * Anohana
+ * Anohana: Done
  * Tsuko ga kirei : Romance
  * Kokoro Connect : Romance
  * Kids on the slope: Romance
+ * Keijo
+ * zutto mae kara suki deshita movie : Romance
+ * No. 6
+ * Solo leveling anime
+ * Overlord
+ * Blue Spring Ride
+ * Banana Fish
+ * Love, cubnibyo and other delusions
+ * K-on
+ * Tamako love story
+ * Plastic memories: Done
+ * Nisekoi
+ * Toradora
+
+## Anime Songs:
+ * Kamado Tanjirou no Uta: https://www.youtube.com/watch?v=P-uhgIzHYYo
+ * Gurenge: https://www.youtube.com/watch?v=CkYoNINcruQ
+ * Kamado Tanjirou no Uta cover by akano: https://www.youtube.com/watch?v=Y7YwcHbvysM

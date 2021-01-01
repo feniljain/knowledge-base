@@ -15,18 +15,21 @@
  * Best Practices ultimate go to guides: https://medium.com/@dgryski/idiomatic-go-resources-966535376dba
  * Making your own FTS(Full-Text Search Engine): https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/
  * https://dave.cheney.net/practical-go/presentations/qcon-china.html
+ * Unit testing using mongo go driver: https://medium.com/better-programming/unit-testing-code-using-the-mongo-go-driver-in-golang-7166d1aa72c0
 
 ## Videos:
  * https://www.youtube.com/watch?v=2Sm_O75I7H0&list=PLy_6D98if3UJd5hxWNfAqKMr15HZqFnqf
  * https://www.youtube.com/watch?v=Dq0WFigax_c
  * https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw
  * DGraph Go SystemsConf 2020: https://www.youtube.com/watch?v=inrqE0Grgk0&feature=youtu.be&utm_campaign=Go+Systems+Conf&utm_medium=email&_hsmi=101688656&_hsenc=p2ANqtz-8qYOnMY2mbo7M7fWIlcsES7FqPS70x8sB56PO8L1DLsCmFfBLv5992LQfgavWmcaA0s0ec246yv6o3KSW7kZn3_1w3uw&utm_content=101688656&utm_source=hs_automation
+ * Creating github actions with golang: https://www.youtube.com/watch?v=8IgNY8QT3vk
 
 ## Websites:
  * https://golangnews.com/
  * https://forum.golangbridge.org/
  * https://exercism.io/tracks/go
  * https://gobyexample.com/
+ * Ton of resources and its damn good: https://golangresources.com
 
 ## Courses:
  * https://drive.google.com/drive/folders/1e3zn2-_w5WLw9YdI9wfuxe6FSzcGnBvw
@@ -42,3 +45,4 @@
 
 ## Packages:
  * IP Country Mapping Library: https://skarlso.github.io/blog/
+ * Convert HTML to markdown: https://github.com/JohannesKaufmann/html-to-markdown
