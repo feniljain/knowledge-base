@@ -16,6 +16,7 @@
  * Making your own FTS(Full-Text Search Engine): https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/
  * https://dave.cheney.net/practical-go/presentations/qcon-china.html
  * Unit testing using mongo go driver: https://medium.com/better-programming/unit-testing-code-using-the-mongo-go-driver-in-golang-7166d1aa72c0
+ * Awesome blogs on internal working in general on golang: https://research.swtch.com/
 
 ## Videos:
  * https://www.youtube.com/watch?v=2Sm_O75I7H0&list=PLy_6D98if3UJd5hxWNfAqKMr15HZqFnqf
@@ -29,14 +30,13 @@
  * https://forum.golangbridge.org/
  * https://exercism.io/tracks/go
  * https://gobyexample.com/
- * Ton of resources and its damn good: https://golangresources.com
+ * Ton of resources and it's damn good: https://golangresources.com
 
 ## Courses:
  * https://drive.google.com/drive/folders/1e3zn2-_w5WLw9YdI9wfuxe6FSzcGnBvw
  * https://courses.calhoun.io/
 
 ## Repos:
- * https://github.com/inancgumus/learngo
  * https://github.com/inancgumus/learngo
  * https://github.com/Alikhll/golang-developer-roadmap
  * https://github.com/smileisak/go-training

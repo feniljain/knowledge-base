@@ -16,6 +16,8 @@
  * Developing your own OS in rust: https://os.phil-opp.com/
  * https://rustwasm.github.io/
  * https://napi.rs/
+ * Design patterns in rust: https://rust-unofficial.github.io/patterns/
+ * http://pcwalton.github.io/
 
 ## Blogs and Articles:
  * https://crafterscircle.io/rust/coding/2019/01/18/tips-for-rust-beginners/
@@ -34,6 +36,11 @@
  * https://www.fpcomplete.com/blog/
  * https://www.reddit.com/r/rust/comments/kdfb9k/rusts_option_in_one_figure/
  * Avg. general articles on rust(Has browser engine build series): https://limpet.net/mbrubeck/
+ * https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+ * http://troubles.md/posts/improving-smallvec/
+ * https://vorner.github.io/2021/01/03/dark-side-of-posix-apis.html
+ * https://www.reddit.com/r/rust/comments/kpqmrh/rust_is_now_overall_faster_than_c_in_benchmarks/
+ * https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/
 
 ## Repos:
  * https://learning-rust.github.io/
@@ -49,6 +56,9 @@
  * https://github.com/pingcap/talent-plan
  * Developing OS in rust: https://github.com/rust-osdev
  * A corss-platform CHIP-8, SUPER-CHIP & XO-CHIP interpreter and debugger writter in Rust: https://github.com/philw07/pich8
+ * https://github.com/rust-unofficial/awesome-rust
+ * Awesome Rust web frameworks comparison: https://github.com/flosse/rust-web-framework-comparison
+ * https://objectdisoriented.evokewonder.com/posts/introducing-rustybot-part-1/
 
 ## Videos:
  * Best video series for rust: https://www.youtube.com/playlist?list=PLJbE2Yu2zumDF6BX6_RdPisRVHgzV02NW
@@ -57,6 +67,7 @@
  * https://www.youtube.com/watch?v=y-ks-_VDkiA&list=PL0Fqs05rod8D80WKBCeT326CT8vcAm_N9
  * https://youtu.be/bR4nGWmfzTk
  * https://www.youtube.com/channel/UCptxtVyJkQAJZcFwBbIDZcg
+ * AOC 2020 in Rust: https://www.youtube.com/playlist?list=PLoSY6azqHO7BpQo8jWKi4cFIobJo-TCzU
 
 ## YT Project channels/Playlists:
  * Hello Rust: https://www.youtube.com/watch?v=STWuPMcwwbw
@@ -81,6 +92,7 @@
  * https://dev.to/krowemoh/series/9410
  * https://dev.to/davidedelpapa/series/9626
  * https://dev.to/davidedelpapa
+ * https://dev.to/kbknapp/diving-into-rust-with-a-cli-4gap
 
 ## Official Rust Users website:
  * https://users.rust-lang.org/
@@ -90,3 +102,14 @@
 
 ## Rust Internals:
  * https://internals.rust-lang.org/t/a-potential-rust-learning-project-group/13620/5
+ * https://www.reddit.com/r/rust/comments/kri1sx/exploring_rustffts_simd_architecture, https://users.rust-lang.org/t/exploring-rustffts-simd-architecture/53780
+ * https://www-viva64-com.cdn.ampproject.org/v/s/www.viva64.com/en/amp/b/0733/?amp_js_v=a6&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From %251%24s&ampshare=https%3A%2F%2Fwww.viva64.com%2Fen%2Fb%2F0733%2F
+ * https://people.mpi-sws.org/~dreyer/papers/rustbelt/paper.pdf
+ * https://blog.llvm.org/2019/09/closing-gap-cross-language-lto-between.html
+ * https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/
+ * https://rustc-dev-guide.rust-lang.org/getting-started.html
+
+## Rust and security
+ * https://medium.com/@shnatsel/how-rusts-standard-library-was-vulnerable-for-years-and-nobody-noticed-aebf0503c3d6
+ * https://www.reddit.com/r/rust/comments/909gsd/were_there_any_memory_safety_issues_found_in/
+ * https://www.reddit.com/r/rust/comments/8s7gei/unsafe_rust_in_actixweb_other_libraries/

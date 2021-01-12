@@ -1,4 +1,4 @@
-# Git
+<h2 align="center">GIT</h2>
 
 ## Websites:
  * All emojis which can be used in commits, PRs, etc.(with abbreviation): https://gitmoji.dev/

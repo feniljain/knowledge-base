@@ -1,12 +1,15 @@
 # VIM TIPS
 
+## Cheatsheets:
+ * https://www.reddit.com/r/vim/comments/kq0sbd/a_quick_reference_was_made_for_vim_navigation/
+
 ## Videos:
  * http://derekwyatt.org/vim/tutorials/index.html
  * VimConf 2020: https://www.youtube.com/channel/UCPK_UHtbfcWABCi0F0GPG6w
 
 ## Blogs and Articles:
  * https://medium.com/actualize-network/how-to-learn-vim-a-four-week-plan-cd8b376a9b85
- * vimcasts.org/blog/2011/05/the-fugitive-series/
+ * http://vimcasts.org/blog/2011/05/the-fugitive-series/
  * https://stackoverflow.com/questions/tagged/vim?tab=votes&pagesize=50
  * https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim
 
@@ -30,6 +33,8 @@
  * %y gives file extension
  * Use this: `", just before leaving a buffer and the next time you enter, use this again to jump to last line where you left your cursor.
  * Shift $ : End of the line, Shift ^ : Start of the line
+ * H -> takes you to current visible screen's top and L -> bottom, M -> middle
+ * Press q: in normal mode to access command history
 
 ## StatusLine: 
  * set statusline={content}
@@ -65,18 +70,18 @@
 ## Auto-formatting by vim:
  * Go to the text, type gqip, vim will auto format it in chunks of 80 charaters
 
-## FUGITIVE (NOTE: fugitive affects both the git and vim buffers, so one can be assured of the changes and no side effects while deleting or moving files) :
+## FUGITIVE (NOTE: fugitive affects both git and vim buffers, so one can be assured of the changes and no side effects while deleting or moving files) :
  * One git cycle: Type :Gstatus, use - to stage/unstage files, or on heading to stage/unstage all files. Type cc to commit, write the message and preferably use :x(short for :wq), and then use - again to push your files. For removing changes from a modified file from status window use, X.
  
- * Want to blame or see who made a particular edit, use :Gblame.
+ * Blame or see who made a particular edit, use :Gblame.
  
- * Want to revert to previous version, use :Gread
+ * Revert to previous version, use :Gread
  
- * Want to stage current file, use :Gwrite
+ * Stage current file, use :Gwrite
  
- * Want to rename current file, or move it, use :Gmove
+ * Rename current file, or move it, use :Gmove
  
- * Want to delete a file, use :Gremove
+ * Delete a file, use :Gremove
 
 ## Exchanging Case:
 
@@ -105,3 +110,7 @@
 
 ## PRESENTATIONS:
  * https://www.youtube.com/watch?v=GDa7hrbcCB8&feature=emb_logo
+
+## Plugins:
+ * https://github.com/glacambre/firenvim
+ * https://github.com/tree-sitter/tree-sitter

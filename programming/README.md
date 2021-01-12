@@ -16,6 +16,8 @@
  * OpenSource Firebase Alternative: https://supabase.io/
  * https://linkedin.github.io/school-of-sre/
  * https://resou.me/
+ * Video Index for different math topics: https://proofindex.com/
+ * alsoasked.com
 
 ## Blogs and Articles:
  * https://thevaluable.dev/(It's especially good!)
@@ -37,6 +39,10 @@
  * https://dev.to/denicmarko/50-free-tools-and-resources-you-re-gonna-love-4hd0
  * https://12factor.net/
  * https://dev.to/denicmarko/50-free-tools-and-resources-you-re-gonna-love-part-2-452n
+ * https://dev.to/simonholdorf/10-fantastic-books-by-developers-for-developers-3hgc
+
+## Useful threads:
+ * Correct posture to sit while programming: https://twitter.com/frontenddude/status/1346032968800854016
 
 ## Videos:
  * System Design: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
@@ -52,6 +58,9 @@
  * https://github.com/danistefanovic/build-your-own-x
  * https://github.com/EbookFoundation/free-programming-books
  * Terminal based YouTube player and downloader: https://github.com/mps-youtube/mps-youtube
+ * https://github.com/firstcontributions/first-contributions
+ * App to remind you take breaks to reduce strain on eye: https://github.com/slgobinath/SafeEyes
+ * Full list of general software design patterns: https://github.com/kamranahmedse/design-patterns-for-humans
 
 ## APIs:
  * https://www.thecocktaildb.com/api.php?ref=apilist.fun
@@ -61,3 +70,11 @@
 
 ## Tools:
  * A service better than ngrok, it provides wildcard domains too: http://xip.io/
+
+## Tweets:
+ * https://twitter.com/rmcomplexity/status/1346494114309828608
+
+## Random quotes:
+ * When OOP becomes OOPS
+ * May the best man vim
+ * Vim is the entry drug to Linux... then Configs... then window managers.... and then you are reprogramming bluetooth drivers because volume increases in increment of 5% and it gets on your nerve!!

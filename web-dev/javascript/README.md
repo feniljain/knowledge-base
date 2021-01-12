@@ -15,3 +15,10 @@
 ## Libraries:
  * https://www.chartjs.org/
  * Fast 3kB React alternative: https://github.com/preactjs/preact
+
+## APIs:
+ * https://dev.to/hb/10-fun-apis-to-use-for-your-next-project-2lco
+ * https://api.nasa.gov/
+
+## Tweets:
+ * Javascript repos: https://twitter.com/nirbhayvashisht/status/1348139619582238723

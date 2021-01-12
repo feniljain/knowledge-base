@@ -16,6 +16,11 @@
  * https://yangshun.github.io/tech-interview-handbook/negotiation/
  * https://www.geeksforgeeks.org/must-coding-questions-company-wise/
  * Go thorugh for web interviews: https://dev.to/slawomirkolodziej/what-do-you-need-to-know-as-a-junior-frontend-developer-bonus-interview-questions-32ba
+ * https://dev.to/denicmarko/resources-to-crush-the-technical-interview-1fc4
 
 ## Repos:
  * Awesome guide: https://github.com/jwasham/coding-interview-university
+
+## Tweets:
+ * https://twitter.com/ravinwashere/status/1346725573343657987
+ * https://twitter.com/rmcomplexity/status/1346494114309828608
