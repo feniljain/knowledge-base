@@ -18,6 +18,8 @@
  * https://resou.me/
  * Video Index for different math topics: https://proofindex.com/
  * alsoasked.com
+ * https://thesmartcoder.dev/
+ * https://stripcode.dev/
 
 ## Blogs and Articles:
  * https://thevaluable.dev/(It's especially good!)
@@ -39,10 +41,14 @@
  * https://dev.to/denicmarko/50-free-tools-and-resources-you-re-gonna-love-4hd0
  * https://12factor.net/
  * https://dev.to/denicmarko/50-free-tools-and-resources-you-re-gonna-love-part-2-452n
- * https://dev.to/simonholdorf/10-fantastic-books-by-developers-for-developers-3hgc
+ * https://dev.to/hrishikesh1990/40-free-forever-tools-for-developers-4gdm
+ * https://dev.to/kalashin1/mastering-regular-expressions-2161
+ * https://dzone.com/articles/6-steps-to-collaboration-nirvana
+ * https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513
 
 ## Useful threads:
  * Correct posture to sit while programming: https://twitter.com/frontenddude/status/1346032968800854016
+ * Mistakes not to make as a software engineer: https://twitter.com/bahdcoder/status/1351090302354927616
 
 ## Videos:
  * System Design: https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX
@@ -67,6 +73,8 @@
 
 ## Online books:
  * https://atcold.github.io/pytorch-Deep-Learning/
+ * https://dev.to/jameesy/the-five-books-that-changed-my-life-2ghe
+ * https://dev.to/simonholdorf/10-fantastic-books-by-developers-for-developers-3hgc
 
 ## Tools:
  * A service better than ngrok, it provides wildcard domains too: http://xip.io/

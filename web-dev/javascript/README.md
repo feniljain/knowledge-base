@@ -12,9 +12,10 @@
  * Logging in frontend: https://dev.to/ackshaey/level-up-your-javascript-browser-logs-with-these-console-log-tips-55o2
  * Go thorugh for web interviews: https://dev.to/slawomirkolodziej/what-do-you-need-to-know-as-a-junior-frontend-developer-bonus-interview-questions-32ba
 
-## Libraries:
+## Libraries and packages:
  * https://www.chartjs.org/
  * Fast 3kB React alternative: https://github.com/preactjs/preact
+ * https://github.com/Marak/faker.js
 
 ## APIs:
  * https://dev.to/hb/10-fun-apis-to-use-for-your-next-project-2lco

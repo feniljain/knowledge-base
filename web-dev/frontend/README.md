@@ -8,10 +8,20 @@
 ## Blogs and Articles:
  * Logging in frontend: https://dev.to/ackshaey/level-up-your-javascript-browser-logs-with-these-console-log-tips-55o2
  * Go thorugh for web interviews: https://dev.to/slawomirkolodziej/what-do-you-need-to-know-as-a-junior-frontend-developer-bonus-interview-questions-32ba
+ * https://dev.to/codewithfahad/effective-state-management-in-react-using-context-api-and-hooks-15ch
+ * https://dev.to/savvasstephnds/the-problem-with-autocomplete-and-how-to-fix-it-2ill
+ * Mastering webpack: https://dev.to/kalashin1/mastering-webpack-12fk
+ * React as a UI runtime(Very good article for internal working of React internals): https://iqkui.com/react-as-a-ui-runtime/
+ * React reconcilation: https://reactjs.org/docs/reconciliation.html
+ * requestIdleCallback: https://developers.google.com/web/updates/2015/08/using-requestidlecallback
 
 ## Websites:
  * https://flexbox.io/
  * https://cssgrid.io/
+ * https://jhey.dev
+
+## Repos:
+ * Make your own React renderer: https://github.com/facebook/react/tree/master/packages/react-reconciler
 
 ## Packages:
  * https://www.npmjs.com/package/react-helmet

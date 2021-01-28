@@ -19,7 +19,6 @@
  * Bakugaan
  * Digimon
  * Space Brothers
- * Code Geass
  * tatami galaxy : Romance
  * Suzumiya_Haruhi_no_Yuuutsu
  * Desperate
@@ -41,17 +40,14 @@
  * Kids on the slope: Romance
  * Keijo
  * zutto mae kara suki deshita movie : Romance
- * No. 6
  * Solo leveling anime
  * Overlord
  * Blue Spring Ride
  * Banana Fish
  * Love, cubnibyo and other delusions
  * K-on
- * Tamako love story
  * Plastic memories: Done
  * Nisekoi
- * Toradora
  * Boku no pico
  * Clannad
  * Chunnibyou
@@ -65,10 +61,7 @@
  * Euphoria
  * 2.43
  * Run with the wind
- * Given
- * Daily life of the immortal king
  * Hotarubi no Mori e
- * Ao hau ride
  * Kobayashi no maid dragon
  * Love tyrant
  * Tamako love story
@@ -81,6 +74,20 @@
  * Hellsing/Hellsing UT
  * Drifters
  * Maidens of the savage
+ * Fruits Basket
+ * The day I became a god
+ * Wotakoi
+ * Toaru Majutsu no Index III
+ * 7 seeds
+ * Ao Haru Ride
+ * Id Invaded
+ * Photo Kano
+ * Amagi Brilliant Park
+ * Mankitsu
+ * sk8 the infinity
+ * Devil is a part timer
+ * Pet girl of sakurasou
+ * Yunna and the haunted hot spring
 
 ## Thriller:
  * Shiki: Horror
@@ -94,6 +101,8 @@
  * Eden Of The East
  * Electromagnetic Girlfriend
  * King of Thorn
+ * Fate/Zero
+ * Wonder Egg: The priority
 
 ## Shounen:
  * Bakemonogatari
@@ -118,12 +127,10 @@
  * Clannad
  * Violet Evergarden
  * I want to your pancreas
- * Orange
  * Golden Time
  * Banana fish
  * Grave of the fireflies
  * Ride your wave(Kimi to, Nami ni Noretara)
- * Darling in the FranXX
  * World end
  * Tatami Galaxy
  * Bakuman
@@ -138,6 +145,23 @@
  * Gamers
  * As the moon so beautiful
  * Tonari no kaibustsu-kun
+ * Handa-kun
+ * Boku to kimi no taisetsu na hanashi
+ * sukasuka
+ * Kimi ni Todoke
+ * Tomoko market
+ * Blue spring ride
+ * Tskuigakire
+ * Masamune kuns revenge
+ * The anthem of the heart
+ * Kiznaiver
+ * Wolf girl and Black Prince
+ * Given
+ * Ao hau ride
+ * Wotaku ni Koi wa Muzukashii
+ * Saenai Heroine no Sodatekata
+ * Henneko
+ * 5-Toubun no Hanayome
 
 ## Harem:
  * Boku no pico
@@ -145,10 +169,17 @@
 ## Sports:
  * Slam dunk
 
+## Isekai:
+ * Bofuri
+
 ## Currently watching:
  * Danshi Koukousei no nichijou(Daily lives of highschool boys)
  * Shiki
- * Code Geass
+ * Daily life of the immortal king
+
+## Manga To Read:
+ * One Punch Man
+ * One Piece: Hand drawn one
 
 ## Links:
  * Ultimate mainstream recommendation list: https://imgur.com/q9Xjv4p
@@ -158,6 +189,25 @@
  * Kamado Tanjirou no Uta: https://www.youtube.com/watch?v=P-uhgIzHYYo
  * Gurenge: https://www.youtube.com/watch?v=CkYoNINcruQ
  * Kamado Tanjirou no Uta cover by akano: https://www.youtube.com/watch?v=Y7YwcHbvysM
+ * https://www.youtube.com/watch?v=amcce1oGB2Q
+ * https://github.com/aniplaylist/AniPlaylist
+ * https://www.youtube.com/watch?v=85hxlHzoKI0&list=PLXK8FoyCuvJzHe_8WgpNuGKM4KlJl8QP9
+ * https://www.youtube.com/watch?v=JaBmR8tC1oU&list=PLXK8FoyCuvJzHe_8WgpNuGKM4KlJl8QP9&index=3
+
+## Reddit:
+ * https://www.reddit.com/r/Animesuggest/comments/l0a9xh/your_top_anime_from_each_of_those_genres/
+ * https://www.reddit.com/r/Animesuggest/comments/l4fjal/your_1010_animes_only_your_bestfavourite
+ * https://www.reddit.com/r/Animesuggest/comments/l6h2tu/teenage_school_life_romcom_or_slice_of_life_sort/
+ * https://www.reddit.com/r/Animesuggest/comments/l6exw8/looking_for_a_romance_anime/
+
+## Websites:
+  * https://aniwatch.me/
+  * animesuge.io
+  * animeowl.net
+  * kissanimex.com
+  * animeflix.io
+  * animeultima.to
+  * mangadex.org
 
 ## Completed(I started maintaining this list very late may not have a lot of anime I have watched):
  * Naruto
@@ -230,4 +280,9 @@
  * Inazuma Eleven
  * Rascal doesnt date a bunny girl senpai
  * Seraph of the end
- * The Perfect Insider 
+ * The Perfect Insider
+ * Code Geass
+ * Darling in the Franxx
+ * Orange
+ * No. 6
+ * Rainbow: Nisha Rokubou no Shichinin

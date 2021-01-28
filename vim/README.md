@@ -6,19 +6,30 @@
 ## Videos:
  * http://derekwyatt.org/vim/tutorials/index.html
  * VimConf 2020: https://www.youtube.com/channel/UCPK_UHtbfcWABCi0F0GPG6w
+ * Making tech presentations in vim: https://www.youtube.com/watch?v=GDa7hrbcCB8&feature=emb_logo
 
-## Blogs and Articles:
+## Blogs, Articles and threads:
  * https://medium.com/actualize-network/how-to-learn-vim-a-four-week-plan-cd8b376a9b85
  * http://vimcasts.org/blog/2011/05/the-fugitive-series/
  * https://stackoverflow.com/questions/tagged/vim?tab=votes&pagesize=50
  * https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim
+ * Good resources for learning vimscript, lua, etc. https://www.reddit.com/r/neovim/comments/l1mne8/learning_vimscript_vs_lua/
+ * https://countvajhula.com/2021/01/21/vim-tip-of-the-day-a-series/
+ * Some really good tips: https://jdhao.github.io/2021/01/07/nifty_nvim_techniques_s9/
+ * Hardcore vanilla vim user views: https://gist.github.com/romainl/6b952db7a6138b48657ba0fbb9d65370
 
 ## Websites:
  * http://vimcasts.org/
+ * https://danielmiessler.com/study/vim/
+ * https://openvim.com
+ * https://vim-adventures.com/
+ * https://vimcolorschemes.com/
 
 ## Repos:
  * Interesting IDE: https://github.com/onivim/oni2
  * https://github.com/iggredible/Learn-Vim
+ * Good cheatsheet about everything in vim: https://github.com/mhinz/vim-galore
+ * https://github.com/akrawchyk/awesome-vim
 
 ## General:
  * To encode ROT-13 on current line: g?? and on current word g?iw
@@ -35,8 +46,12 @@
  * Shift $ : End of the line, Shift ^ : Start of the line
  * H -> takes you to current visible screen's top and L -> bottom, M -> middle
  * Press q: in normal mode to access command history
+ * guiw -> Convert word to lowercase, gUiw -> Convert word to uppercase
+ * Tryout: TOhtml -> awesome
+ * Type B in command mode and have a look at completions, try them out(u need fzf)
+ * SCROLLING: Scroll Down: C-E, C-D, C-F, Scroll Up: C-Y, C-U, C-B
 
-## StatusLine: 
+## StatusLine:
  * set statusline={content}
  * Width and Padding in statusline:
 	set statusline = [%4l] => Sets length of content of l register with constraint of 4 characters length (space is kept for empty places)
@@ -72,15 +87,15 @@
 
 ## FUGITIVE (NOTE: fugitive affects both git and vim buffers, so one can be assured of the changes and no side effects while deleting or moving files) :
  * One git cycle: Type :Gstatus, use - to stage/unstage files, or on heading to stage/unstage all files. Type cc to commit, write the message and preferably use :x(short for :wq), and then use - again to push your files. For removing changes from a modified file from status window use, X.
- 
+
  * Blame or see who made a particular edit, use :Gblame.
- 
+
  * Revert to previous version, use :Gread
- 
+
  * Stage current file, use :Gwrite
- 
+
  * Rename current file, or move it, use :Gmove
- 
+
  * Delete a file, use :Gremove
 
 ## Exchanging Case:
@@ -99,18 +114,24 @@
 
 ## IDENTATION:
  * Use gg=G to auto-indent lines
- 
+
  * help expand() -> line number under the cursor(one of it's uses).
  * help system() -> Getting the ouput of running commands in cmd.
  * help filename-modifiers -> Manipulating file names
  * v:throwpoint, v:exception
 
 ## PANES:
- * Use C-W-X
+ * Use C-W-X for swapping panes
+ * Use C-w-h/j/k/l to move between panes
 
-## PRESENTATIONS:
- * https://www.youtube.com/watch?v=GDa7hrbcCB8&feature=emb_logo
+## Coc:
+ * Use :OR to organize imports(only if supported by lang server)
+
+## FZF:
+ * :FZF
+ * :Maps -> Shows all the mappings and search them easily
 
 ## Plugins:
  * https://github.com/glacambre/firenvim
  * https://github.com/tree-sitter/tree-sitter
+ * https://github.com/alexaandru/nvim-lspupdate

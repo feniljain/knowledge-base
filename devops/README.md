@@ -19,6 +19,11 @@
  * https://www.infoq.com/news/2021/01/uber-multi-region-kafka/
  * https://www.finextra.com/blogposting/19729/15-devops-trends-to-watch-for-in-2021
  * Chaos Conf, IBM's principles of chaos engineering: https://www.infoq.com/presentations/ibm-principles-chaos-engineering/
+ * https://techcrunch.com/2021/01/12/grafana-labs-adds-a-free-tier-to-its-managed-observability-platform/
+ * https://microtica.com/blog/8-devops-youtube-channels-to-follow-in-2021/
+ * https://opensource.com/article/21/1/devops-books
+ * https://www.bluematador.com/blog/how-to-pronounce-kubernetes
+ * https://www.reddit.com/r/devops/comments/l6uitk/discussion_what_are_mustread_books_for_devops/
 
 ## Videos:
  * https://www.youtube.com/watch?v=t4H6hdvB9iQ
@@ -32,3 +37,6 @@
 
 ## Repos:
  * https://github.com/donnemartin/system-design-primer
+
+## Threads:
+ * https://www.reddit.com/r/devops/comments/l1t4sf/how_cicd_tools_are_built/

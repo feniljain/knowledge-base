@@ -1,9 +1,12 @@
-<h2 align="center">Flutter</h2>
+<h2 align="center">App Dev</h2>
+
+# FLUTTER:
 
 ## Websites:
  * https://epb.bibl.th-koeln.de/frontdoor/index/index/docId/1498
  * Online Flutter IDE: https://flutlab.io/
  * https://blog.geekyants.com/flutter/home
+ * https://verygood.ventures/blog
 
 ## Blogs and Articles:
  * https://medium.com/stuart-engineering/%EF%B8%8F-the-tricky-task-of-keeping-flutter-running-on-android-2d51bbc60882
@@ -18,6 +21,7 @@
  * https://medium.com/@tattwei46/flutter-how-to-do-crud-with-firebase-rtdb-ce61e3ce53a
  * Complete Flutter Course For Free: https://www.reddit.com/r/FlutterDev/comments/jqqlo2/the_free_complete_udemy_clone_course
  * Hosting Flutter web apps with nginx on private server: https://medium.com/flutter-community/how-to-host-flutter-using-nginx-a71bcb11d96
+ * Best scalability practices for flutter: https://verygood.ventures/blog/scalable-best-practices
 
 ## Videos:
  * Preparing app for release: https://www.youtube.com/watch?v=nGvPNG-f1-o&feature=youtu.be
@@ -27,7 +31,11 @@
 ## Repos:
  * https://github.com/Solido/awesome-flutter
  * https://github.com/iampawan/VelocityX
+ * https://github.com/hydro-sdk/hydro-sdk
 
 ## Packages:
  * https://pub.dev/packages/background_fetch#-readme-tab-
  * https://pub.dev/packages/velocity_x
+
+## Tweets:
+ * ClojureDart, flutter in clojure: https://twitter.com/_eseidel/status/1350843738327707650

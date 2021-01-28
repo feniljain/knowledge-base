@@ -11,3 +11,7 @@
 ## Blogs and articles:
  * https://blog.sanctum.geek.nz/vi-mode-in-tmux/
  * Useful for running same command in all panes together(like exiting all panes together): https://blog.sanctum.geek.nz/sync-tmux-panes/
+ * https://bence.ferdinandy.com/2021/01/12/more-keyboard-less-mouse-my-regolith-tmux-vim-based-workflow/
+
+## Reference Configs:
+ * https://github.com/tpope/tpope/blob/master/.tmux.conf
