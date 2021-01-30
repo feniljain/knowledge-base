@@ -7,6 +7,7 @@
  * Good practices for REST-API: https://dev.to/pragativerma18/restful-api-design-best-practices-4mi8
  * https://martinfowler.com/articles/richardsonMaturityModel.html
  * https://dev.to/charlottebrf_99/authentication-and-authorisation-101-143e
+ * Planning joins to make use of indexes: https://www.dolthub.com/blog/2020-12-28-join-planning/
 
 ## Repos:
  * https://github.com/typicode/json-server

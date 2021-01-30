@@ -11,6 +11,7 @@
 ## Blogs and articles:
  * Good alternatives to common google products: https://dev.to/kiraemclean/what-i-use-now-instead-of-google-56lf
  * https://zerodha.com/varsity/chapter/the-need-to-invest/
+ * https://reactjsexample.com/fast-and-accurate-react-renderer-for-notion/
 
 ## Books:
  * https://xkcd.com/how-to/

@@ -16,10 +16,13 @@
  * Systemd: https://www.linode.com/docs/guides/what-is-systemd/
  * https://ostechnix.com/use-pushd-popd-dirs-commands-faster-cli-navigation/
  * https://training.linuxfoundation.org/resources/free-courses/
+ * Using cURL: https://www.tecmint.com/linux-curl-command-examples/
+ * Using xargs: https://www.tecmint.com/xargs-command-examples/
 
 ## Repos:
  * https://github.com/snori74/linuxupskillchallenge
  * https://github.com/KittyKatt/screenFetch
+ * Interactive CLI tool for HTTP inspection: https://github.com/asciimoo/wuzz
 
 ## Running:
  * https://www.stylecraze.com/articles/effective-ways-to-increase-your-stamina-for-running/#20-tips-to-improve-running-stamina
