@@ -159,4 +159,7 @@
 - https://github.com/andrmuel/vim-curl
 - https://github.com/diepm/vim-rest-console
 - https://github.com/alexaandru/nvim-lspupdate
+- https://github.com/kkoomen/vim-doge
+- https://github.com/skywind3000/asyncrun.extra
+- https://github.com/kosayoda/nvim-lightbulb
 

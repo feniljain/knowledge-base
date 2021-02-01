@@ -73,6 +73,7 @@
 - https://github.com/firstcontributions/first-contributions
 - App to remind you take breaks to reduce strain on eye: https://github.com/slgobinath/SafeEyes
 - Full list of general software design patterns: https://github.com/kamranahmedse/design-patterns-for-humans
+- Alogrithms in java: https://github.com/williamfiset/Algorithms
 
 ## APIs:
 
@@ -83,10 +84,12 @@
 - https://atcold.github.io/pytorch-Deep-Learning/
 - https://dev.to/jameesy/the-five-books-that-changed-my-life-2ghe
 - https://dev.to/simonholdorf/10-fantastic-books-by-developers-for-developers-3hgc
+- https://www.datasciencecentral.com/profiles/blogs/a-free-open-source-book-to-get-started-with-5g
 
 ## Tools:
 
 - A service better than ngrok, it provides wildcard domains too: http://xip.io/
+- https://md-preview.vercel.app/
 
 ## Tweets:
 
@@ -97,4 +100,5 @@
 - When OOP becomes OOPS
 - May the best man vim
 - Vim is the entry drug to Linux... then Configs... then window managers.... and then you are reprogramming bluetooth drivers because volume increases in increment of 5% and it gets on your nerve!!
+- Functional programming is for 10 men dev teams who work with their shoes off and eat hawaiian food on their lunch break
 

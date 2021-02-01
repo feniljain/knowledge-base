@@ -30,6 +30,11 @@
 - https://benjamincongdon.me/blog/2021/01/21/A-Tour-of-Go-116s-iofs-package
 - https://sergio-mendez-uruguay.medium.com/enum-go-cb466bb2f1fe
 - https://mert-akkaya.medium.com/5-secure-coding-tips-in-go-a3e5ec23d7fd
+- https://levelup.gitconnected.com/writing-an-rpc-server-in-go-eb9afd56d1e1
+
+## Blog Projects:
+
+- https://levelup.gitconnected.com/writing-an-rpc-server-in-go-eb9afd56d1e1
 
 ## Videos:
 
@@ -68,6 +73,7 @@
 - https://github.com/go-kit/kit
 - https://github.com/guardrailsio/awesome-golang-security
 - https://github.com/Binject/awesome-go-security
+- Stocks in cli: https://github.com/achannarasappa/ticker
 
 ## Packages:
 

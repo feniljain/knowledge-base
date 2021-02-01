@@ -89,6 +89,8 @@
 - Devil is a part timer
 - Pet girl of sakurasou
 - Yunna and the haunted hot spring
+- Natsume Yuujinchou
+- Great Pretender
 
 ## Thriller:
 

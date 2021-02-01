@@ -21,6 +21,7 @@
 - https://cheats.rs/
 - Best explanation of async in rust: https://os.phil-opp.com/async-await/
 - http://intorust.com/
+- Conditional Compilation: https://doc.rust-lang.org/reference/conditional-compilation.html
 
 ## Blogs and Articles:
 
@@ -61,6 +62,8 @@
 - A good article on error handling, use of result and option at its fullest: https://blog.burntsushi.net/rust-error-handling/#composing-option-and-result
 - https://medium.com/swlh/rust-structs-options-and-traits-485eecd9c718
 - Temporary borrowed value will drop outside scope: https://mrtact.medium.com/polishing-rust-42d9131d1c3
+- https://vorner.github.io/2021/01/31/saving-some-allocations.html
+- Visibility and privacy in rust explained perfectly: https://doc.rust-lang.org/reference/visibility-and-privacy.html
 
 ## Blog Series:
 
@@ -104,6 +107,10 @@
 - JS lexer, parser and interpreter in Rust: https://github.com/boa-dev/boa
 - https://github.com/Qovery/engine
 - https://github.com/google/evcxr
+- https://github.com/nushell/nushell
+- A high level diffing lib for rust based on diffs: https://github.com/mitsuhiko/similar
+- Protobuf implementation in Rust: https://github.com/danburkert/prost
+- https://github.com/fitzgen/bumpalo
 
 ## Videos:
 
@@ -117,7 +124,7 @@
 - Linkerd data plane proxy in rust: https://www.youtube.com/watch?v=wRZE7JlsnpA&feature=youtu.be
 - Super awesome: Polonius rust belt conf, gives also insight into how borrow checker used to work then vs now: https://youtu.be/_agDeiWek8w
 
-## YT Project channels/Playlists:
+## YT and Twitch Project channels/Playlists:
 
 - Hello Rust: https://www.youtube.com/watch?v=STWuPMcwwbw
 - Crazcalm's Tech Stack: https://www.youtube.com/watch?v=bR4nGWmfzTk&list=PLVhhUNGAUIQScqB26DdUq4n1Y2n3auM7X
@@ -194,10 +201,11 @@
 - https://www.reddit.com/r/rust/comments/909gsd/were_there_any_memory_safety_issues_found_in/
 - https://www.reddit.com/r/rust/comments/8s7gei/unsafe_rust_in_actixweb_other_libraries/
 
-## Reddit threads:
+## Reddit threads and tweets:
 
 - https://www.reddit.com/r/rust/comments/kxvz8q/a_pure_rust_implementation_of_webrtc_api/
 - Interesting discussions on ADT, F#, OCaml and other things: https://www.reddit.com/r/rust/comments/l594zl/everywhere_i_go_i_miss_rusts_enums/
+- https://twitter.com/m_ou_se/status/1355867716717047810
 
 ## Rust Learning:
 
