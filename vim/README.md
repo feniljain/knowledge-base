@@ -9,6 +9,9 @@
 - http://derekwyatt.org/vim/tutorials/index.html
 - VimConf 2020: https://www.youtube.com/channel/UCPK_UHtbfcWABCi0F0GPG6w
 - Making tech presentations in vim: https://www.youtube.com/watch?v=GDa7hrbcCB8&feature=emb_logo
+- https://www.youtube.com/watch?v=_NUO4JEtkDw
+- https://www.youtube.com/watch?v=wlR5gYd6um0
+- https://www.youtube.com/watch?v=XA2WjJbmmoM
 
 ## Blogs, Articles and threads:
 
@@ -24,6 +27,16 @@
 - https://nazarii.bardiuk.com/posts/vim-curl.html
 - https://linuxhint.com/how_vim_buffers_work/
 - Everything about vim buffers:https://vim.fandom.com/wiki/Buffers
+- https://www.reddit.com/r/neovim/comments/lcqele/vscodelike_completion_icons/
+
+## Vimscript:
+
+- Vimscript: https://devhints.io/vimscript
+- https://github.com/nanotee/nvim-lua-guide
+- https://learnvimscriptthehardway.stevelosh.com/
+- https://stackoverflow.com/questions/3997078/how-to-paste-yanked-text-into-the-vim-command-line
+- https://this-week-in-rust.org/blog/2021/02/03/this-week-in-rust-376/
+- https://www.reddit.com/r/neovim/comments/lboe92/people_who_rewrote_their_initnvim_in_lua_was_it/
 
 ## Websites:
 
@@ -32,6 +45,7 @@
 - https://openvim.com
 - https://vim-adventures.com/
 - https://vimcolorschemes.com/
+- Vim statusline generator: https://tdaly.co.uk/projects/vim-statusline-generator/
 
 ## Repos:
 
@@ -141,6 +155,9 @@
 
 - Use C-W-X for swapping panes
 - Use C-w-h/j/k/l to move between panes
+- C-W-s horizontal split
+- C-W-v vertical split
+- C-W-o only one window
 
 ## Coc:
 
@@ -162,4 +179,16 @@
 - https://github.com/kkoomen/vim-doge
 - https://github.com/skywind3000/asyncrun.extra
 - https://github.com/kosayoda/nvim-lightbulb
+- Merge branches and tags with fzf: https://github.com/stsewd/fzf-checkout.vim
+- https://github.com/vimwiki/vimwiki
+- https://github.com/ap/vim-buftabline
+- https://github.com/mhinz/vim-signify
+- https://github.com/onsails/lspkind-nvim
+- https://github.com/glepnir/galaxyline.nvim
+
+## VimRCs for reference:
+
+- https://github.com/yunong/dotvim/blob/master/.vimrc#L199
+- https://github.com/awesome-streamers/awesome-streamerrc/blob/master/TheAltF4Stream/init.vim
+- https://github.com/petobens/dotfiles/blob/master/vim/init.vim
 

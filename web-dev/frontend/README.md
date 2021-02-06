@@ -19,17 +19,23 @@
 - https://css-tricks.com/bulletproof-flag-components/
 - https://itnext.io/react-server-side-code-splitting-made-again-a61f8cbbd64b
 - https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9
+- https://orizens.com/blog/react-hooks-retrospective-event-driven-async-hooks/
+- https://kevinngo-js.medium.com/3-ways-to-analyze-react-performance-with-reactime-64f6cbbf330d
+- https://www.aleksandrhovhannisyan.com/blog/svg-tutorial-how-to-code-svg-icons-by-hand/
+- https://christianheilmann.com/2021/01/21/teaching-html-and-css/
 
 ## Websites:
 
 - https://flexbox.io/
 - https://cssgrid.io/
 - https://jhey.dev
+- https://bootswatch.com/
 
 ## Repos:
 
 - Make your own React renderer: https://github.com/facebook/react/tree/master/packages/react-reconciler
 - 30 Days of React: https://github.com/Asabeneh/30-Days-Of-React
+- https://github.com/Serial-Studio/Serial-Studio
 
 ## Packages:
 

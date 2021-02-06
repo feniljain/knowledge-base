@@ -22,6 +22,8 @@
 - Best explanation of async in rust: https://os.phil-opp.com/async-await/
 - http://intorust.com/
 - Conditional Compilation: https://doc.rust-lang.org/reference/conditional-compilation.html
+- https://gfx-rs.github.io/2021/02/02/release-0.7.html
+- https://github.com/danistefanovic/build-your-own-x
 
 ## Blogs and Articles:
 
@@ -37,7 +39,6 @@
 - https://blog.knoldus.com/os-in-rust-an-executable-that-runs-on-bare-metal-part-1/
 - A very good comparison where rust lacks in comparison to C++: https://www-viva64-com.cdn.ampproject.org/v/s/www.viva64.com/en/amp/b/0733/?amp_js_v=a6&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.viva64.com%2Fen%2Fb%2F0733%2F
 - https://www.reddit.com/r/rust/comments/kdfb9k/rusts_option_in_one_figure/
-- Avg. general articles on rust(Has browser engine build series): https://limpet.net/mbrubeck/
 - https://fasterthanli.me/articles/a-half-hour-to-learn-rust
 - http://troubles.md/posts/improving-smallvec/
 - https://vorner.github.io/2021/01/03/dark-side-of-posix-apis.html
@@ -64,6 +65,13 @@
 - Temporary borrowed value will drop outside scope: https://mrtact.medium.com/polishing-rust-42d9131d1c3
 - https://vorner.github.io/2021/01/31/saving-some-allocations.html
 - Visibility and privacy in rust explained perfectly: https://doc.rust-lang.org/reference/visibility-and-privacy.html
+- https://this-week-in-rust.org/blog/2021/02/03/this-week-in-rust-376/
+- https://www.cvedetails.com/product/48677/Rust-lang-Rust.html?vendor_id=19029
+- https://www.reddit.com/r/rust/comments/lcow5j/black_hat_rust_im_writing_a_book_about_offensive/
+- https://robert.kra.hn/posts/2021-02-01_cross-compile-rust/
+- https://www.possiblerust.com/pattern/3-things-to-try-when-you-can-t-make-a-trait-object
+- https://robert.kra.hn/posts/2021-02-03_is-rust-fp/
+- https://cglab.ca/~abeinges/blah/rust-btree-case/
 
 ## Blog Series:
 
@@ -78,6 +86,7 @@
 - https://dev.to/davidedelpapa
 - https://hoverbear.org/tags/#rust
 - http://pcwalton.github.io/
+- Avg. general articles on rust(Has browser engine build series): https://limpet.net/mbrubeck/
 
 ## Repos:
 
@@ -111,6 +120,12 @@
 - A high level diffing lib for rust based on diffs: https://github.com/mitsuhiko/similar
 - Protobuf implementation in Rust: https://github.com/danburkert/prost
 - https://github.com/fitzgen/bumpalo
+- https://github.com/topheman/rust-wasm-experiments
+- https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/
+- https://github.com/tauri-apps/tauri
+- https://github.com/psinghal20/rush
+- https://github.com/ducaale/ht
+- https://github.com/drogue-iot/drogue-device
 
 ## Videos:
 
@@ -123,6 +138,7 @@
 - AOC 2020 in Rust: https://www.youtube.com/playlist?list=PLoSY6azqHO7BpQo8jWKi4cFIobJo-TCzU
 - Linkerd data plane proxy in rust: https://www.youtube.com/watch?v=wRZE7JlsnpA&feature=youtu.be
 - Super awesome: Polonius rust belt conf, gives also insight into how borrow checker used to work then vs now: https://youtu.be/_agDeiWek8w
+- Type Theory for the working Rustacean: https://www.youtube.com/watch?v=BdXWlQsd7RI
 
 ## YT and Twitch Project channels/Playlists:
 
@@ -171,6 +187,14 @@
 - https://dev.to/dbanty/replacing-fastapi-with-rust-part-1-intro-251h
 - https://dev.to/seanchen1991/implementing-an-lru-cache-in-rust-33pp
 - https://codeandbitters.com/lets-build-a-parser/
+- https://levelup.gitconnected.com/building-a-synonym-searcher-in-rust-with-tokio-select-reqwest-3dca2b00d869
+- https://medium.com/the-innovation/rust-caldav-client-from-scratch-da173cfc905d
+- https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html
+- Build DNS server in Rust: https://github.com/EmilHernvall/dnsguide/blob/master/README.md
+- Scalable chat service in Rust: https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html
+- https://www.joshmcguigan.com/blog/build-your-own-shell-rust/
+- https://adventures.michaelfbryan.com/posts/parsing-pdfs-in-rust/
+- https://pwy.io/en/posts/learning-to-fly-pt1/
 
 ## Official Rust Users website:
 
@@ -183,6 +207,7 @@
 
 ## Rust Internals:
 
+- All Active RFCs of Rust: https://rust-lang.github.io/rfcs/
 - https://internals.rust-lang.org/t/a-potential-rust-learning-project-group/13620/5
 - https://www.reddit.com/r/rust/comments/kri1sx/exploring_rustffts_simd_architecture, https://users.rust-lang.org/t/exploring-rustffts-simd-architecture/53780
 - https://www-viva64-com.cdn.ampproject.org/v/s/www.viva64.com/en/amp/b/0733/?amp_js_v=a6&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From %251%24s&ampshare=https%3A%2F%2Fwww.viva64.com%2Fen%2Fb%2F0733%2F
@@ -193,6 +218,8 @@
 - https://github.com/rust-lang/rfcs/pull/2789 , https://github.com/rust-lang/rfcs/blob/master/text/2789-sparse-index.md
 - Damn good articles on rust internals: https://blog.mozilla.org/nnethercote/
 - Variadics in Rust: https://gist.github.com/PoignardAzur/aea33f28e2c58ffe1a93b8f8d3c58667
+- https://github.com/rust-analyzer/rust-analyzer/blob/master/docs/dev/architecture.md
+- https://davidtw.co/media/masters_dissertation.pdf
 
 ## Rust and security
 

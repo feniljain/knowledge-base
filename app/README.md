@@ -25,6 +25,8 @@
 - Hosting Flutter web apps with nginx on private server: https://medium.com/flutter-community/how-to-host-flutter-using-nginx-a71bcb11d96
 - Best scalability practices for flutter: https://verygood.ventures/blog/scalable-best-practices
 - Flutter cheat sheet: https://navoki.com/flutter-commands-a-developer-must-know-cheat-sheet/
+- https://getstream.io/blog/announcing-flutter-sdk-1-0-0-beta/
+- https://flutterawesome.com/a-vpn-app-template-built-with-flutter/
 
 ## Videos:
 

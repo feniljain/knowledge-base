@@ -1,6 +1,15 @@
 <h2 align="center">Web Dev</h2>
 
 ## Blogs And Articles:
- * How do browsers work internally: https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
- * https://www.reddit.com/r/webdev/comments/l6s9o0/is_it_possible_to_know_what_technologies_are/
- * Web Dev Roadmap in 2021: https://github.com/kamranahmedse/developer-roadmap
+
+- How do browsers work internally: https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
+- https://www.reddit.com/r/webdev/comments/l6s9o0/is_it_possible_to_know_what_technologies_are/
+- Web Dev Roadmap in 2021: https://github.com/kamranahmedse/developer-roadmap
+
+## Web-assembly:
+
+- A lot of good resources in lower side of README.md: https://github.com/topheman/webassembly-wasi-experiments
+- https://github.com/topheman/webassembly-wasi-experiments
+- https://github.com/topheman/rust-wasm-experiments
+- https://www.youtube.com/watch?v=fh9WXPu0hw8
+

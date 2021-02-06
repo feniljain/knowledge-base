@@ -21,6 +21,9 @@
 - alsoasked.com
 - https://thesmartcoder.dev/
 - https://stripcode.dev/
+- https://kinesis-ergo.com/explore-keyboards/
+- https://musicforprogramming.net/
+- https://dev.to/jameesy/how-to-get-out-of-tutorial-hell-be-more-like-tony-hawk-1md8
 
 ## Blogs and Articles:
 
@@ -48,6 +51,8 @@
 - https://dzone.com/articles/6-steps-to-collaboration-nirvana
 - https://netflixtechblog.com/life-of-a-netflix-partner-engineer-the-case-of-extra-40-ms-b4c2dd278513
 - https://apiumhub.com/tech-blog-barcelona/software-architecture-newsletters/
+- https://levelup.gitconnected.com/why-your-tech-startup-needs-an-architecture-review-7f57840f0c4d
+- https://biology.stackexchange.com/questions/97635/are-humans-more-adapted-to-light-mode-or-dark-mode
 
 ## Useful threads:
 
@@ -74,10 +79,13 @@
 - App to remind you take breaks to reduce strain on eye: https://github.com/slgobinath/SafeEyes
 - Full list of general software design patterns: https://github.com/kamranahmedse/design-patterns-for-humans
 - Alogrithms in java: https://github.com/williamfiset/Algorithms
+- Algorithms in cpp: https://github.com/TheAlgorithms/C-Plus-Plus
+- Multipurpose serial data viz & processing program: https://github.com/Serial-Studio/Serial-Studio
 
 ## APIs:
 
 - https://www.thecocktaildb.com/api.php?ref=apilist.fun
+- https://aws.random.cat/meow
 
 ## Online books:
 

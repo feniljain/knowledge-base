@@ -91,6 +91,12 @@
 - Yunna and the haunted hot spring
 - Natsume Yuujinchou
 - Great Pretender
+- Brand new animal
+- Bloom into you
+- Black bullet
+- Kanamewo
+- A story of unconditional love
+- Saekano
 
 ## Thriller:
 
@@ -228,6 +234,11 @@
 - animeflix.io
 - animeultima.to
 - mangadex.org
+- aniwatch.me
+- ryanime.com
+- twist.moe
+- 9anime.to
+- 4anime.to
 
 ## Completed(I started maintaining this list very late may not have a lot of anime I have watched):
 
