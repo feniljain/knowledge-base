@@ -12,4 +12,6 @@
 - https://github.com/topheman/webassembly-wasi-experiments
 - https://github.com/topheman/rust-wasm-experiments
 - https://www.youtube.com/watch?v=fh9WXPu0hw8
+- https://levelup.gitconnected.com/webassembly-and-the-wizards-of-hogwarts-bd7c09e5cadf
+- https://blog.logrocket.com/how-to-debug-wasm-and-achieve-a-reliable-stack-trace/
 

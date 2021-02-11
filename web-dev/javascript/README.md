@@ -1,25 +1,35 @@
 <h2 align="center">Javascipt</h2>
 
 ## Websites:
- * https://github.com/ryanmcdermott/clean-code-javascript#table-of-contents
- * https://gabrieltanner.org/
+
+- https://github.com/ryanmcdermott/clean-code-javascript#table-of-contents
+- https://gabrieltanner.org/
 
 ## Blogs and Articles:
- * https://github.com/petkaantonov/bluebird/wiki/Optimization-killers
- * https://www.freecodecamp.org/news/testing-react-hooks/
- * https://www.reddit.com/r/webdev/comments/hqq4zo/how_do_i_make_this_with_css_js_obviously/
- * https://shaktisinghcheema.com/interactive-globe-in-background-of-website/
- * Logging in frontend: https://dev.to/ackshaey/level-up-your-javascript-browser-logs-with-these-console-log-tips-55o2
- * Go thorugh for web interviews: https://dev.to/slawomirkolodziej/what-do-you-need-to-know-as-a-junior-frontend-developer-bonus-interview-questions-32ba
+
+- https://github.com/petkaantonov/bluebird/wiki/Optimization-killers
+- https://www.freecodecamp.org/news/testing-react-hooks/
+- https://www.reddit.com/r/webdev/comments/hqq4zo/how_do_i_make_this_with_css_js_obviously/
+- https://shaktisinghcheema.com/interactive-globe-in-background-of-website/
+- Logging in frontend: https://dev.to/ackshaey/level-up-your-javascript-browser-logs-with-these-console-log-tips-55o2
+- Go thorugh for web interviews: https://dev.to/slawomirkolodziej/what-do-you-need-to-know-as-a-junior-frontend-developer-bonus-interview-questions-32ba
+- https://levelup.gitconnected.com/stack-data-structures-the-call-stack-and-the-event-loop-in-javascript-b52468cf08ee
+- https://dev.to/sagarrth/demystifying-async-await-as-generators-promises-91i
+- https://levelup.gitconnected.com/how-to-rewrite-nested-callbacks-with-async-await-2069a50963f3
+- https://medium.com/javascript-in-plain-english/a-beginners-guide-to-javascript-under-the-hood-bc60fc352163k
 
 ## Libraries and packages:
- * https://www.chartjs.org/
- * Fast 3kB React alternative: https://github.com/preactjs/preact
- * https://github.com/Marak/faker.js
+
+- https://www.chartjs.org/
+- Fast 3kB React alternative: https://github.com/preactjs/preact
+- https://github.com/Marak/faker.js
 
 ## APIs:
- * https://dev.to/hb/10-fun-apis-to-use-for-your-next-project-2lco
- * https://api.nasa.gov/
+
+- https://dev.to/hb/10-fun-apis-to-use-for-your-next-project-2lco
+- https://api.nasa.gov/
 
 ## Tweets:
- * Javascript repos: https://twitter.com/nirbhayvashisht/status/1348139619582238723
+
+- Javascript repos: https://twitter.com/nirbhayvashisht/status/1348139619582238723
+

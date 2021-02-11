@@ -26,6 +26,7 @@
 - https://ubuntu.com/blog/private-home-directories-for-ubuntu-21-04
 - https://popey.com/blog/2021/01/null/
 - https://dev.to/mauro_codes/linux-terminal-the-ultimate-cheat-sheet-2g5b , https://dev.to/mauro_codes/linux-terminal-the-ultimate-cheat-sheet-part-2-11ge
+- https://towardsdatascience.com/linux-shell-commands-can-be-your-time-saver-eabee76914b
 
 ## Repos:
 
@@ -33,6 +34,8 @@
 - https://github.com/KittyKatt/screenFetch
 - Interactive CLI tool for HTTP inspection: https://github.com/asciimoo/wuzz
 - https://github.com/dvorka/hstr
+- Discord in terminal: https://github.com/atlx/discord-term , https://gitlab.com/diamondburned/6cord
+- https://github.com/frankligy/Linux_HandBook_Bioinformatics
 
 ## Courses:
 
@@ -42,7 +45,10 @@
 
 - Unixporn awesome video: https://www.reddit.com/r/linux/comments/l233rc/oc_linux_is_beautiful/
 
-## Bashrc's for reference:
+## Config Repos:
 
 - https://github.com/petobens/dotfiles/blob/master/bashrc
+- https://github.com/kutsan/dotfiles
+- https://github.com/skbolton/titan
+- https://github.com/yutakatay/dotfiles
 

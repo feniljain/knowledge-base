@@ -24,6 +24,7 @@
 - Conditional Compilation: https://doc.rust-lang.org/reference/conditional-compilation.html
 - https://gfx-rs.github.io/2021/02/02/release-0.7.html
 - https://github.com/danistefanovic/build-your-own-x
+- https://foundation.rust-lang.org/
 
 ## Blogs and Articles:
 
@@ -72,6 +73,12 @@
 - https://www.possiblerust.com/pattern/3-things-to-try-when-you-can-t-make-a-trait-object
 - https://robert.kra.hn/posts/2021-02-03_is-rust-fp/
 - https://cglab.ca/~abeinges/blah/rust-btree-case/
+- https://medium.com/dev-genius/object-oriented-programming-in-rust-691baf4d2996
+- https://medium.com/dev-genius/open-source-rust-24-awesome-frameworks-projects-and-libraries-8885112f8a73
+- https://stevedonovan.github.io/rustifications/2018/08/18/rust-closures-are-hard.html
+- https://medium.com/swlh/generics-or-metaprogramming-declarative-macros-with-rust-6fd5f6995584
+- https://medium.com/@phoomparin/a-beginners-guide-to-rust-macros-5c75594498f1
+- https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/
 
 ## Blog Series:
 
@@ -87,6 +94,7 @@
 - https://hoverbear.org/tags/#rust
 - http://pcwalton.github.io/
 - Avg. general articles on rust(Has browser engine build series): https://limpet.net/mbrubeck/
+- https://medium.com/swlh/demystifying-closures-futures-and-async-await-in-rust-part-1-closures-97e531e4dc50
 
 ## Repos:
 
@@ -99,7 +107,7 @@
 - https://github.com/whostolemyhat/learning-projects
 - https://github.com/pingcap/talent-plan
 - Developing OS in rust: https://github.com/rust-osdev
-- A corss-platform CHIP-8, SUPER-CHIP & XO-CHIP interpreter and debugger writter in Rust: https://github.com/philw07/pich8
+- A cross-platform CHIP-8, SUPER-CHIP & XO-CHIP interpreter and debugger writter in Rust: https://github.com/philw07/pich8
 - https://github.com/rust-unofficial/awesome-rust
 - Awesome Rust web frameworks comparison: https://github.com/flosse/rust-web-framework-comparison
 - https://objectdisoriented.evokewonder.com/posts/introducing-rustybot-part-1/
@@ -126,6 +134,11 @@
 - https://github.com/psinghal20/rush
 - https://github.com/ducaale/ht
 - https://github.com/drogue-iot/drogue-device
+- Terminal Chat and video call: https://github.com/lemunozm/termchat
+- Auto-refresh for rust: https://github.com/Canop/bacon/
+- https://github.com/ctz/rustls
+- https://github.com/Peltoche/lsd
+- https://github.com/dtolnay/anyhow
 
 ## Videos:
 
@@ -139,6 +152,8 @@
 - Linkerd data plane proxy in rust: https://www.youtube.com/watch?v=wRZE7JlsnpA&feature=youtu.be
 - Super awesome: Polonius rust belt conf, gives also insight into how borrow checker used to work then vs now: https://youtu.be/_agDeiWek8w
 - Type Theory for the working Rustacean: https://www.youtube.com/watch?v=BdXWlQsd7RI
+- Static vs Dynamic Dispatching, also teaches how to use gdb for debugging rust binaries: https://www.youtube.com/watch?v=tM2r9HD4ivQ
+- Rust's Journey to async/await: https://www.infoq.com/presentations/rust-2019/
 
 ## YT and Twitch Project channels/Playlists:
 
@@ -220,6 +235,8 @@
 - Variadics in Rust: https://gist.github.com/PoignardAzur/aea33f28e2c58ffe1a93b8f8d3c58667
 - https://github.com/rust-analyzer/rust-analyzer/blob/master/docs/dev/architecture.md
 - https://davidtw.co/media/masters_dissertation.pdf
+- https://medium.com/@GolDDranks/things-rust-doesnt-let-you-do-draft-f596a3c740a5
+- https://www.reddit.com/r/rust/comments/2p7v6i/how_does_rust_language_eventually_become_machine/
 
 ## Rust and security
 
@@ -239,4 +256,5 @@
 - https://towardsdatascience.com/you-want-to-learn-rust-but-you-dont-know-where-to-start-fc826402d5ba
 - https://learning-rust.github.io/
 - A lot of resources: https://github.com/ctjhoa/rust-learning
+- https://serokell.io/blog/rust-guide
 

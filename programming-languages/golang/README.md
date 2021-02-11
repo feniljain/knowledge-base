@@ -43,6 +43,14 @@
 - https://blog.golang.org/pipelines
 - State of golang in 2021 currently: https://blog.jetbrains.com/go/2021/02/03/the-state-of-go/
 - Many2Many in GORM: https://arilaverty.medium.com/gorm-go-and-has-many-ceb5bb845f8e
+- https://medium.com/better-programming/3-pitfalls-in-golang-i-wish-i-knew-3f208a8402a7
+- https://johanlejdung.medium.com/a-mini-guide-go-modules-and-private-repositories-fa94c3726cf1
+- https://johnpili.medium.com/controller-requestmapping-in-golang-d2260d698cfa
+- https://medium.com/@ahmet9417/golang-thread-pool-and-scheduler-434dd094715a
+- https://levelup.gitconnected.com/a-practical-approach-to-structuring-go-applications-7f77d7f9c189
+- https://itnext.io/capturing-metrics-with-gos-reverse-proxy-5c36cb20cb20
+- https://life.wongnai.com/writing-a-custom-go-vet-for-better-code-standard-7dc8296b5513
+- https://threkk.medium.com/go-2-generics-in-4-minutes-fa50dda91d7c
 
 ## Blog Series:
 
@@ -51,6 +59,7 @@
 - https://dave.cheney.net/
 - https://blog.gopheracademy.com/
 - Awesome blogs on internal working in general on golang: https://research.swtch.com/
+- S/w design way to golang, awesome series of articles on same: https://threedots.tech/tags/building-business-applications/
 
 ## Blog Projects:
 
@@ -100,11 +109,7 @@
 - https://search.gocenter.io/
 - https://golangflow.io
 - https://egonelbre.com/js/gopher/
-
-## Courses:
-
-- https://drive.google.com/drive/folders/1e3zn2-_w5WLw9YdI9wfuxe6FSzcGnBvw
-- https://courses.calhoun.io/
+- godbolt.org
 
 ## Repos:
 
@@ -120,6 +125,8 @@
 - Visualize Go program GC trace data in real time: https://github.com/davecheney/gcvis
 - https://github.com/dgryski/semgrep-go
 - https://github.com/facebook/ent
+- https://github.com/openfaas/faasd
+- https://github.com/drakkan/sftpgo
 
 ## Packages:
 
@@ -138,4 +145,26 @@
 - https://syslog.ravelin.com/gc-is-bad-and-you-should-feel-bad-e9bdd9324f0
 - Awesome blogs on internal working in general on golang: https://research.swtch.com/
 - https://groups.google.com/g/golang-nuts/c/pIn_mntSw2k
+- https://medium.com/@akshatmittal93/three-phases-story-of-golang-garbage-collector-2aa3328c358d
+- https://github.com/emluque/golang-internals-resources
+
+## Go Learning:
+
+# Blogs and articles:
+
+- https://medium.com/p-society/master-plan-to-learn-golang-edbf85c7ae83
+
+# Courses:
+
+- https://drive.google.com/drive/folders/1e3zn2-_w5WLw9YdI9wfuxe6FSzcGnBvw
+- https://courses.calhoun.io/
+- https://tutorialedge.net/courses/go-testing-bible/
+- https://gameswithgo.org/
+- https://medium.com/p-society/master-plan-to-learn-golang-edbf85c7ae83
+
+# Repos:
+
+- https://github.com/inancgumus/learngo
+- https://github.com/Alikhll/golang-developer-roadmap
+- https://github.com/smileisak/go-training
 

@@ -9,6 +9,7 @@
 ## Plugins:
 
 - https://github.com/jabirali/tmux-tilish
+- https://github.com/tmux-plugins/tmux-prefix-highlight
 
 ## Blogs and articles:
 
@@ -25,4 +26,6 @@
 - https://github.com/awesome-streamers/awesome-streamerrc/blob/master/ThePrimeagen/tmux
 - https://github.com/awesome-streamers/awesome-streamerrc/blob/master/TheAltF4Stream/.tmux.conf.local
 - https://github.com/petobens/dotfiles/blob/master/tmux/tmux.conf
+- https://github.com/kutsan/dotfiles/blob/master/.config/tmux/tmux.conf
+- https://github.com/skbolton/titan/blob/master/tmux/tmux.conf
 

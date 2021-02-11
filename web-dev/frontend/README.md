@@ -23,6 +23,10 @@
 - https://kevinngo-js.medium.com/3-ways-to-analyze-react-performance-with-reactime-64f6cbbf330d
 - https://www.aleksandrhovhannisyan.com/blog/svg-tutorial-how-to-code-svg-icons-by-hand/
 - https://christianheilmann.com/2021/01/21/teaching-html-and-css/
+- https://medium.com/swlh/an-introduction-to-react-server-components-a4e7a13a1574
+- https://medium.com/better-programming/recursive-rendering-with-react-components-10fa07c45456
+- https://css-tricks.com/focus-visible-support-comes-to-firefox/
+- https://www.freecodecamp.org/news/10-css-hacks-every-web-developer-should-know/
 
 ## Websites:
 
@@ -30,6 +34,7 @@
 - https://cssgrid.io/
 - https://jhey.dev
 - https://bootswatch.com/
+- https://akaricons.com/
 
 ## Repos:
 

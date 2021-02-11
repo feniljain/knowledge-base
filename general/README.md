@@ -9,12 +9,16 @@
 - https://altcopy.net
 - Turn any device with a web browser to your computer's second screen: http://deskreen.com/
 - https://www.nothingprivate.ml/
+- Free books: https://www.readanybook.com/
+- slader.com
+- Collection of bitmap fonts: https://github.com/ianhan/BitmapFonts
 
 ## Blogs and articles:
 
 - Good alternatives to common google products: https://dev.to/kiraemclean/what-i-use-now-instead-of-google-56lf
 - https://zerodha.com/varsity/chapter/the-need-to-invest/
 - https://reactjsexample.com/fast-and-accurate-react-renderer-for-notion/
+- https://www.infoworld.com/article/3601728/7-best-practices-for-remote-development-teams.html
 
 ## Books:
 
@@ -26,6 +30,7 @@
 - Temporary emails TUI: https://github.com/sdushantha/tmpmail powered by https://www.1secmail.com/
 - Waifu Motivator plugin: https://github.com/waifu-motivator/waifu-motivator-plugin
 - https://github.com/argosopentech/argos-translate
+- https://github.com/mhxion/awesome-discord-communities
 
 ## Free Creds:
 

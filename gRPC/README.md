@@ -4,6 +4,8 @@
 
 - https://mycodesmells.com/post/pooling-grpc-connections
 - https://iwasnothing.medium.com/grpc-vs-rest-performance-comparison-1fe5fb14a01c
+- https://medium.com/@nate510/structuring-go-grpc-microservices-dd176fdf28d0
+- https://medium.com/@ahmet9417/go-cache-server-using-grpc-and-kubernetes-686834340cdf
 
 ## Library
 

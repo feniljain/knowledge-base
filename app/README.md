@@ -27,6 +27,7 @@
 - Flutter cheat sheet: https://navoki.com/flutter-commands-a-developer-must-know-cheat-sheet/
 - https://getstream.io/blog/announcing-flutter-sdk-1-0-0-beta/
 - https://flutterawesome.com/a-vpn-app-template-built-with-flutter/
+- https://itnext.io/delayed-code-execution-in-flutter-23d60b51e76f
 
 ## Videos:
 

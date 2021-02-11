@@ -53,6 +53,7 @@
 - https://apiumhub.com/tech-blog-barcelona/software-architecture-newsletters/
 - https://levelup.gitconnected.com/why-your-tech-startup-needs-an-architecture-review-7f57840f0c4d
 - https://biology.stackexchange.com/questions/97635/are-humans-more-adapted-to-light-mode-or-dark-mode
+- https://dev.to/treaz/checklist-for-learning-a-new-programming-language-5g67
 
 ## Useful threads:
 
@@ -78,9 +79,12 @@
 - https://github.com/firstcontributions/first-contributions
 - App to remind you take breaks to reduce strain on eye: https://github.com/slgobinath/SafeEyes
 - Full list of general software design patterns: https://github.com/kamranahmedse/design-patterns-for-humans
-- Alogrithms in java: https://github.com/williamfiset/Algorithms
-- Algorithms in cpp: https://github.com/TheAlgorithms/C-Plus-Plus
+- Alogrithms in Java: https://github.com/williamfiset/Algorithms
+- Algorithms in CPP: https://github.com/TheAlgorithms/C-Plus-Plus
+- Algorithms in C: https://github.com/TheAlgorithms
+- Algorithms in Golang: https://github.com/TheAlgorithms/Go
 - Multipurpose serial data viz & processing program: https://github.com/Serial-Studio/Serial-Studio
+- https://github.com/newcharacteryigit/projectidea-cli
 
 ## APIs:
 

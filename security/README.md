@@ -1,5 +1,9 @@
 <h2 align="center">Security</h2>
 
+## Blogs and articles:
+
+- https://codeyourweb.medium.com/golang-for-computer-security-building-an-edr-part3-registry-and-startup-folder-persistence-b4f537f03d98
+
 ## Repos:
 
 - OSINT GHunt(get google acc. info from gmail account): https://github.com/mxrch/GHunt

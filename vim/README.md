@@ -3,6 +3,7 @@
 ## Cheatsheets:
 
 - https://www.reddit.com/r/vim/comments/kq0sbd/a_quick_reference_was_made_for_vim_navigation/
+- https://www.reddit.com/r/neovim/comments/lfvr3z/a_useful_vim_cheat_sheets/
 
 ## Videos:
 
@@ -12,6 +13,8 @@
 - https://www.youtube.com/watch?v=_NUO4JEtkDw
 - https://www.youtube.com/watch?v=wlR5gYd6um0
 - https://www.youtube.com/watch?v=XA2WjJbmmoM
+- VimSpector: https://www.youtube.com/watch?v=-AZUIL1rY3U&feature=youtu.be
+- VimMarks: https://www.youtube.com/watch?v=o4x4jUcHJwk
 
 ## Blogs, Articles and threads:
 
@@ -28,6 +31,9 @@
 - https://linuxhint.com/how_vim_buffers_work/
 - Everything about vim buffers:https://vim.fandom.com/wiki/Buffers
 - https://www.reddit.com/r/neovim/comments/lcqele/vscodelike_completion_icons/
+- https://icyphox.sh/blog/nvim-lua/
+- https://learnxinyminutes.com/docs/lua/
+- https://github.com/nanotee/nvim-lua-guide
 
 ## Vimscript:
 
@@ -191,4 +197,7 @@
 - https://github.com/yunong/dotvim/blob/master/.vimrc#L199
 - https://github.com/awesome-streamers/awesome-streamerrc/blob/master/TheAltF4Stream/init.vim
 - https://github.com/petobens/dotfiles/blob/master/vim/init.vim
+- https://github.com/kutsan/dotfiles/tree/master/.config/nvim
+- https://github.com/awesome-streamers/awesome-streamerrc/blob/master/ThePrimeagen/init.vim
+- https://github.com/awesome-streamers/awesome-streamerrc/blob/master/MelkeyDev/init.vim
 

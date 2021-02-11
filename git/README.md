@@ -13,6 +13,8 @@
 - Awesome method to keep commits standardized: https://dev.to/timmybytes/keeping-git-commit-messages-consistent-with-a-custom-template-1jkm
 - How to write good commit meassages with examples: https://www.conventionalcommits.org/en/v1.0.0-beta.2/
 - How to write good commit messages that matter: https://chris.beams.io/posts/git-commit/
+- https://blog.plover.com/prog/git-prompt-hook-hack.html
+- https://codeburst.io/keep-calm-and-git-bisect-1610c6bced29
 
 ## Github Enhancements:
 

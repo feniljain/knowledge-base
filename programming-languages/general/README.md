@@ -8,8 +8,15 @@
 - https://medium.com/swlh/the-dependency-jungle-841bd1c7bce0
 - https://dlorenc.medium.com/zombie-dependencies-77c34740a7a8
 - https://levelup.gitconnected.com/the-decorator-pattern-in-go-66ed951b0f7c
+- https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/
 
 ## Repos:
 
 - https://github.com/danistefanovic/build-your-own-x
+- https://github.com/mazy1998/asciiVideo
+
+## Lua:
+
+- https://github.com/nanotee/nvim-lua-guide
+- https://learnxinyminutes.com/docs/lua/
 

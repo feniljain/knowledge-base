@@ -31,7 +31,8 @@
 - Astra
 - Legend of galactic heroes
 - MobPsyhco
-- Black Lagoon Gatsu no lion
+- Black Lagoon
+- Gatsu no lion
 - Grand Blue
 - Angel Beats
 - Violet Evergarden
@@ -179,6 +180,8 @@
 - 5-Toubun no Hanayome
 - March comes in like a lion
 - himouto umaru chan
+- Kakushigoto
+- Barakamom
 
 ## Harem:
 
@@ -234,7 +237,6 @@
 - animeflix.io
 - animeultima.to
 - mangadex.org
-- aniwatch.me
 - ryanime.com
 - twist.moe
 - 9anime.to

@@ -3,6 +3,7 @@
 ## Websites:
 
 - https://ipfs.io/
+- https://dzone.com/
 
 ## Blogs And Articles:
 
@@ -18,6 +19,10 @@
 - https://blog.yugabyte.com/building-resilient-graphql-apps-and-scaling-them-to-1m-subscriptions/
 - https://dzone.com/articles/from-the-simple-to-the-complex-monolith-vs-microse
 - https://fauna.com/blog/new-collaboration-authentication-real-time-streaming-capabilities
+- https://dzone.com/articles/10-database-optimization-best-practices-for-web-de
+- https://dzone.com/articles/7-database-optimization-hacks-every-web-developer
+- https://dzone.com/articles/object-relational-mapping-pitfalls
+- https://towardsdatascience.com/create-a-graph-database-in-neo4j-using-python-4172d40f89c4
 
 ## Repos:
 
