@@ -54,6 +54,7 @@
 - https://levelup.gitconnected.com/why-your-tech-startup-needs-an-architecture-review-7f57840f0c4d
 - https://biology.stackexchange.com/questions/97635/are-humans-more-adapted-to-light-mode-or-dark-mode
 - https://dev.to/treaz/checklist-for-learning-a-new-programming-language-5g67
+- https://blog.davemartinez.dev/how-to-get-unstuck-on-coding-problems
 
 ## Useful threads:
 
@@ -85,6 +86,7 @@
 - Algorithms in Golang: https://github.com/TheAlgorithms/Go
 - Multipurpose serial data viz & processing program: https://github.com/Serial-Studio/Serial-Studio
 - https://github.com/newcharacteryigit/projectidea-cli
+- https://github.com/conwnet/github1s
 
 ## APIs:
 

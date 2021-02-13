@@ -25,6 +25,7 @@
 - https://gfx-rs.github.io/2021/02/02/release-0.7.html
 - https://github.com/danistefanovic/build-your-own-x
 - https://foundation.rust-lang.org/
+- https://open.spotify.com/show/6PVQBdYnLaECFjwdpH4PgB?si=XuVgSPfVQeeZcjbmhF39gw
 
 ## Blogs and Articles:
 
@@ -68,7 +69,6 @@
 - Visibility and privacy in rust explained perfectly: https://doc.rust-lang.org/reference/visibility-and-privacy.html
 - https://this-week-in-rust.org/blog/2021/02/03/this-week-in-rust-376/
 - https://www.cvedetails.com/product/48677/Rust-lang-Rust.html?vendor_id=19029
-- https://www.reddit.com/r/rust/comments/lcow5j/black_hat_rust_im_writing_a_book_about_offensive/
 - https://robert.kra.hn/posts/2021-02-01_cross-compile-rust/
 - https://www.possiblerust.com/pattern/3-things-to-try-when-you-can-t-make-a-trait-object
 - https://robert.kra.hn/posts/2021-02-03_is-rust-fp/
@@ -79,6 +79,8 @@
 - https://medium.com/swlh/generics-or-metaprogramming-declarative-macros-with-rust-6fd5f6995584
 - https://medium.com/@phoomparin/a-beginners-guide-to-rust-macros-5c75594498f1
 - https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/
+- https://yrashk.medium.com/launching-wasm-rs-a-collection-of-crates-a-community-4344d2ba75b3
+- https://levelup.gitconnected.com/handling-websocket-and-http-on-the-same-port-with-rust-f65b770722c9
 
 ## Blog Series:
 
@@ -139,6 +141,7 @@
 - https://github.com/ctz/rustls
 - https://github.com/Peltoche/lsd
 - https://github.com/dtolnay/anyhow
+- https://github.com/rusty-crab/warp-api-starter-template
 
 ## Videos:
 
@@ -190,7 +193,7 @@
 - Cross-platform GUI library for Rust: https://github.com/hecrj/iced
 - Futures-based QUIC implementation in Rust: https://github.com/quinn-rs/quinn
 
-## Dev.to and Medium project article series:
+## Dev.to, Medium and youtube project series:
 
 - https://dev.to/jculverhouse/series/1797
 - https://dev.to/krowemoh/series/9492
@@ -210,6 +213,8 @@
 - https://www.joshmcguigan.com/blog/build-your-own-shell-rust/
 - https://adventures.michaelfbryan.com/posts/parsing-pdfs-in-rust/
 - https://pwy.io/en/posts/learning-to-fly-pt1/
+- https://genekuo.medium.com/coding-a-simple-microservices-with-rust-3fbde8e32adc
+- https://www.youtube.com/watch?v=ICVQ8yFhjuw
 
 ## Official Rust Users website:
 
@@ -250,6 +255,8 @@
 - https://www.reddit.com/r/rust/comments/kxvz8q/a_pure_rust_implementation_of_webrtc_api/
 - Interesting discussions on ADT, F#, OCaml and other things: https://www.reddit.com/r/rust/comments/l594zl/everywhere_i_go_i_miss_rusts_enums/
 - https://twitter.com/m_ou_se/status/1355867716717047810
+- https://www.reddit.com/r/rust/comments/lg0a7b/benchmarking_tokio_tasks_and_goroutines/
+- https://www.reddit.com/r/rust/comments/lcow5j/black_hat_rust_im_writing_a_book_about_offensive/
 
 ## Rust Learning:
 

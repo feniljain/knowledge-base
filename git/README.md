@@ -15,6 +15,7 @@
 - How to write good commit messages that matter: https://chris.beams.io/posts/git-commit/
 - https://blog.plover.com/prog/git-prompt-hook-hack.html
 - https://codeburst.io/keep-calm-and-git-bisect-1610c6bced29
+- https://www.geeksforgeeks.org/how-to-write-good-commit-messages-in-github/
 
 ## Github Enhancements:
 

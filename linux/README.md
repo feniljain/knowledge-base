@@ -9,6 +9,7 @@
 - Linux on apple silicon: https://asahilinux.org/
 - Awesome curation of free alternatives to porprietary softwares
 - Everything about curl from daniel himself: https://everything.curl.dev/
+- https://themouseless.dev/
 
 ## Blogs and articles:
 
@@ -27,6 +28,8 @@
 - https://popey.com/blog/2021/01/null/
 - https://dev.to/mauro_codes/linux-terminal-the-ultimate-cheat-sheet-2g5b , https://dev.to/mauro_codes/linux-terminal-the-ultimate-cheat-sheet-part-2-11ge
 - https://towardsdatascience.com/linux-shell-commands-can-be-your-time-saver-eabee76914b
+- https://www.omgubuntu.co.uk/2021/02/linux-release-roundup-flowblade-gthumb-more
+- https://medium.com/swlh/a-perfect-linux-distribution-ca80fe8e443d
 
 ## Repos:
 
@@ -36,6 +39,11 @@
 - https://github.com/dvorka/hstr
 - Discord in terminal: https://github.com/atlx/discord-term , https://gitlab.com/diamondburned/6cord
 - https://github.com/frankligy/Linux_HandBook_Bioinformatics
+- https://github.com/iGio90/Dwarf
+
+## Videos:
+
+- Using timeshift a-z: https://www.youtube.com/watch?v=qh08GvrUivc
 
 ## Courses:
 
@@ -44,6 +52,7 @@
 ## Reddit threads:
 
 - Unixporn awesome video: https://www.reddit.com/r/linux/comments/l233rc/oc_linux_is_beautiful/
+- https://www.reddit.com/r/linuxquestions/comments/liwnkp/use_timeshift_for_backups_and_restore/
 
 ## Config Repos:
 

@@ -23,6 +23,13 @@
 - https://dzone.com/articles/7-database-optimization-hacks-every-web-developer
 - https://dzone.com/articles/object-relational-mapping-pitfalls
 - https://towardsdatascience.com/create-a-graph-database-in-neo4j-using-python-4172d40f89c4
+- Insightful article: https://netflixtechblog.com/edge-authentication-and-token-agnostic-identity-propagation-514e47e0b602
+- https://arinkverma.medium.com/building-high-perf-geocoding-micro-service-with-golang-and-redis-4b689130e717
+- https://www.activestate.com/blog/top-10-sql-commands-everyone-should-know/
+
+## Reddits and twitter threads:
+
+- SQL Interview question cheatsheet: https://twitter.com/Women_who_code/status/1360091409601073152
 
 ## Repos:
 
@@ -34,4 +41,6 @@
 ## Videos:
 
 - Best backend yt channels: https://www.youtube.com/watch?v=eusHw-mUa8Y
+- https://www.infoq.com/presentations/netflix-user-identity/
+- https://www.infoq.com/presentations/netflix-edge-scalability-patterns/
 

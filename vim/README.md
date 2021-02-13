@@ -15,6 +15,7 @@
 - https://www.youtube.com/watch?v=XA2WjJbmmoM
 - VimSpector: https://www.youtube.com/watch?v=-AZUIL1rY3U&feature=youtu.be
 - VimMarks: https://www.youtube.com/watch?v=o4x4jUcHJwk
+- https://www.reddit.com/r/neovim/comments/lhcqbc/hello_world_neovimlua_plugin_neovimlua_plugin/
 
 ## Blogs, Articles and threads:
 

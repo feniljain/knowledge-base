@@ -20,3 +20,7 @@
 - https://github.com/nanotee/nvim-lua-guide
 - https://learnxinyminutes.com/docs/lua/
 
+## Elixir:
+
+- Learning book: https://medium.com/pragmatic-programmers/table-of-contents-28c6d9173c33
+

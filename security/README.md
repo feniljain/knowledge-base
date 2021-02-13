@@ -3,6 +3,7 @@
 ## Blogs and articles:
 
 - https://codeyourweb.medium.com/golang-for-computer-security-building-an-edr-part3-registry-and-startup-folder-persistence-b4f537f03d98
+- https://linearb.io/blog/scaling-security/
 
 ## Repos:
 

@@ -27,6 +27,8 @@
 - https://medium.com/better-programming/recursive-rendering-with-react-components-10fa07c45456
 - https://css-tricks.com/focus-visible-support-comes-to-firefox/
 - https://www.freecodecamp.org/news/10-css-hacks-every-web-developer-should-know/
+- https://shubhs.hashnode.dev/usestate-like-a-pro
+- https://medium.com/javascript-in-plain-english/replacing-lifecycle-methods-with-react-hooks-3dc293d2e73a
 
 ## Websites:
 
@@ -35,6 +37,8 @@
 - https://jhey.dev
 - https://bootswatch.com/
 - https://akaricons.com/
+- https://xenox.hashnode.dev/1-awesamosa-awesome-resources-for-developers
+- https://hotwire.dev/
 
 ## Repos:
 

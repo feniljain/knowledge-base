@@ -11,4 +11,13 @@
 - https://dev.to/mcsee/coupling-the-one-and-only-software-design-problem-2pd7
 - https://levelup.gitconnected.com/multi-tenant-architecture-8c1f597e069c
 - https://levelup.gitconnected.com/level-up-your-programming-with-programmers-pyramid-1d1186d053c0
+- https://www.infoq.com/news/2021/02/agile-build-in-quality/
+- https://carlos-garcia-13446.medium.com/adapter-pattern-with-golang-2e64598eef48
+- https://blog.logrocket.com/youre-wrong-about-singletons/
+- https://medium.com/swlh/how-to-write-a-software-development-project-plan-f238475eda55
+- https://dzone.com/articles/agile-software-development-team-structure-looks-li
+
+## Books:
+
+- Scrum Book: https://medium.com/pragmatic-programmers/table-of-contents-88b09f36f711
 

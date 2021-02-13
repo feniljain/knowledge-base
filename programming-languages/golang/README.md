@@ -51,15 +51,27 @@
 - https://itnext.io/capturing-metrics-with-gos-reverse-proxy-5c36cb20cb20
 - https://life.wongnai.com/writing-a-custom-go-vet-for-better-code-standard-7dc8296b5513
 - https://threkk.medium.com/go-2-generics-in-4-minutes-fa50dda91d7c
+- https://wutch.medium.com/rust-ffi-vs-golang-ffi-cgo-59e6ea3a83c6
+- https://www.infoworld.com/article/3607188/entity-framework-for-go-golang-is-geared-to-data-models.html
+- https://www.reddit.com/r/rust/comments/lg0a7b/benchmarking_tokio_tasks_and_goroutines/
+- https://medium.com/p-society/pass-a-golang-job-interview-bfb6ea83b457
+- https://quii.gitbook.io/learn-go-with-tests/meta/anti-patterns
+- https://rahul-khanna.medium.com/your-first-golang-websocket-fx-data-fc1eb7db35f0
 
 ## Blog Series:
 
+- Amazing blog series collection: https://dev.to/draft/the-best-golang-blogs-4ih7
 - https://hackernoon.com/u/avk-ai
 - https://skarlso.github.io/blog/
 - https://dave.cheney.net/
 - https://blog.gopheracademy.com/
 - Awesome blogs on internal working in general on golang: https://research.swtch.com/
 - S/w design way to golang, awesome series of articles on same: https://threedots.tech/tags/building-business-applications/
+- https://golangbot.com/
+- https://eli.thegreenplace.net/tag/go
+- https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go
+- https://www.ardanlabs.com/blog/
+- https://medium.com/a-journey-with-go
 
 ## Blog Projects:
 
@@ -90,6 +102,8 @@
 ## Go in prod:
 
 - https://reemishirsath.medium.com/uber-engineered-highest-query-per-second-using-golang-65f9a106aa25
+- https://dave.cheney.net/tag/godebug
+- https://pkg.go.dev/runtime
 
 ## Golang-nuts:
 
@@ -147,6 +161,8 @@
 - https://groups.google.com/g/golang-nuts/c/pIn_mntSw2k
 - https://medium.com/@akshatmittal93/three-phases-story-of-golang-garbage-collector-2aa3328c358d
 - https://github.com/emluque/golang-internals-resources
+- https://medium.com/a-journey-with-go/go-builds-linkers-timeline-b312084ddf7d
+- https://wablesushmita.medium.com/cpu-memory-profiling-with-golang-pprof-3deddbd7b964
 
 ## Go Learning:
 

@@ -5,6 +5,7 @@
 - How do browsers work internally: https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
 - https://www.reddit.com/r/webdev/comments/l6s9o0/is_it_possible_to_know_what_technologies_are/
 - Web Dev Roadmap in 2021: https://github.com/kamranahmedse/developer-roadmap
+- https://www.cloudflare.com/en-gb/learning/
 
 ## Web-assembly:
 
@@ -14,4 +15,5 @@
 - https://www.youtube.com/watch?v=fh9WXPu0hw8
 - https://levelup.gitconnected.com/webassembly-and-the-wizards-of-hogwarts-bd7c09e5cadf
 - https://blog.logrocket.com/how-to-debug-wasm-and-achieve-a-reliable-stack-trace/
+- https://blog.bitsrc.io/debugging-webassembly-with-chrome-devtools-99dbad485451
 

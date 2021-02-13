@@ -17,6 +17,7 @@
 - https://dev.to/sagarrth/demystifying-async-await-as-generators-promises-91i
 - https://levelup.gitconnected.com/how-to-rewrite-nested-callbacks-with-async-await-2069a50963f3
 - https://medium.com/javascript-in-plain-english/a-beginners-guide-to-javascript-under-the-hood-bc60fc352163k
+- https://dev.to/karan316/3-underrated-web-dev-youtubers-you-should-check-out-24pm
 
 ## Libraries and packages:
 

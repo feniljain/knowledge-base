@@ -21,6 +21,10 @@
 - https://dev.to/denicmarko/resources-to-crush-the-technical-interview-1fc4
 - https://medium.com/swlh/3-interviews-5-questions-55bd4cae8b9f
 
+## Golang interviews:
+
+- https://medium.com/p-society/pass-a-golang-job-interview-bfb6ea83b457
+
 ## Repos:
 
 - Awesome guide: https://github.com/jwasham/coding-interview-university
