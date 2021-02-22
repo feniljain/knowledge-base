@@ -16,6 +16,12 @@
 - https://blog.logrocket.com/youre-wrong-about-singletons/
 - https://medium.com/swlh/how-to-write-a-software-development-project-plan-f238475eda55
 - https://dzone.com/articles/agile-software-development-team-structure-looks-li
+- https://levelup.gitconnected.com/software-architect-path-2-engineering-management-scrum-4d46dd5aa77b
+- https://medium.com/pragmatic-programmers/table-of-contents-e8bf453fe2b4
+
+## Blogs Series:
+
+- https://www.tedinski.com/2018/01/16/how-humans-write-programs.html
 
 ## Books:
 

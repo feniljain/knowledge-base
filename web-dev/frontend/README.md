@@ -29,6 +29,10 @@
 - https://www.freecodecamp.org/news/10-css-hacks-every-web-developer-should-know/
 - https://shubhs.hashnode.dev/usestate-like-a-pro
 - https://medium.com/javascript-in-plain-english/replacing-lifecycle-methods-with-react-hooks-3dc293d2e73a
+- https://medium.com/javascript-in-plain-english/5-html-tricks-nobody-is-talking-about-a0480104fe19
+- https://dev.to/zachtylr21/improving-your-react-code-custom-hooks-1a27
+- https://dev.to/sm0ke/react-templates-a-curated-list-with-free-projects-4kc
+- https://js.plainenglish.io/a-simple-introduction-to-threejs-9b060c1bb6e7
 
 ## Websites:
 

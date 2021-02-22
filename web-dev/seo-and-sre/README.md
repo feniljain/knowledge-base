@@ -10,3 +10,9 @@
 
 - https://twitter.com/googlesre
 
+<h2 align="center">SRE</h2>
+
+## Blogs And Articles:
+
+- https://stackpulse.com/blog/the-sre-role-and-why-its-in-such-high-demand/
+

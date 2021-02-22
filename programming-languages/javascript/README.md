@@ -18,6 +18,11 @@
 - https://levelup.gitconnected.com/how-to-rewrite-nested-callbacks-with-async-await-2069a50963f3
 - https://medium.com/javascript-in-plain-english/a-beginners-guide-to-javascript-under-the-hood-bc60fc352163k
 - https://dev.to/karan316/3-underrated-web-dev-youtubers-you-should-check-out-24pm
+- https://medium.com/@smashingmag/now-you-see-me-how-to-defer-lazy-load-and-act-with-intersectionobserver-161aa0ffd7e9
+- https://cesarvr.io/post/rust-performance/
+- https://blog.learncodeonline.in/whats-new-in-javascript-21-es12
+- https://www.infoq.com/news/2021/02/modern-javascript-es2017-perform/
+- https://dev.to/spartakyste/the-promises-guide-i-would-have-loved-as-a-junior-developper-3621
 
 ## Libraries and packages:
 

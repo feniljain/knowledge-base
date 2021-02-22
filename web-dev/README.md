@@ -6,6 +6,7 @@
 - https://www.reddit.com/r/webdev/comments/l6s9o0/is_it_possible_to_know_what_technologies_are/
 - Web Dev Roadmap in 2021: https://github.com/kamranahmedse/developer-roadmap
 - https://www.cloudflare.com/en-gb/learning/
+- https://js.plainenglish.io/understanding-nodejs-performance-dc9f2673455e
 
 ## Web-assembly:
 

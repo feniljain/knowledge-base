@@ -1,5 +1,9 @@
 # VIM TIPS
 
+## Vim fun:
+
+- https://twitter.com/nixcraft/status/1363423983291428865
+
 ## Cheatsheets:
 
 - https://www.reddit.com/r/vim/comments/kq0sbd/a_quick_reference_was_made_for_vim_navigation/
@@ -16,6 +20,7 @@
 - VimSpector: https://www.youtube.com/watch?v=-AZUIL1rY3U&feature=youtu.be
 - VimMarks: https://www.youtube.com/watch?v=o4x4jUcHJwk
 - https://www.reddit.com/r/neovim/comments/lhcqbc/hello_world_neovimlua_plugin_neovimlua_plugin/
+- Enhancing vim native completion using youcompleteme: https://www.youtube.com/watch?v=NUr-VvaOEHQ&feature=share
 
 ## Blogs, Articles and threads:
 
@@ -35,6 +40,8 @@
 - https://icyphox.sh/blog/nvim-lua/
 - https://learnxinyminutes.com/docs/lua/
 - https://github.com/nanotee/nvim-lua-guide
+- https://www.reddit.com/r/neovim/comments/ljm7qc/eslint_and_prettier_with_built_in_lsp/
+- Using nvim for reading man pages: https://github.com/neovim/neovim/blob/5ce8158a5d462043306ee67a3261794f169bdb17/runtime/doc/filetype.txt#L509
 
 ## Vimscript:
 
@@ -81,6 +88,7 @@
 - Tryout: TOhtml -> awesome
 - Type B in command mode and have a look at completions, try them out(u need fzf)
 - SCROLLING: Scroll Down: C-E, C-D, C-F, Scroll Up: C-Y, C-U, C-B
+- Use gO to get manpage outline
 
 ## StatusLine:
 
@@ -192,6 +200,10 @@
 - https://github.com/mhinz/vim-signify
 - https://github.com/onsails/lspkind-nvim
 - https://github.com/glepnir/galaxyline.nvim
+- https://github.com/chrisbra/Colorizer
+- https://github.com/vifm/vifm-colors
+- https://philo.top/2021/02/14/golangvimdev/
+- Universal code formatter: https://github.com/google/vim-codefmt
 
 ## VimRCs for reference:
 

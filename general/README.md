@@ -31,6 +31,8 @@
 - Waifu Motivator plugin: https://github.com/waifu-motivator/waifu-motivator-plugin
 - https://github.com/argosopentech/argos-translate
 - https://github.com/mhxion/awesome-discord-communities
+- Skip phone no. auth: https://github.com/Narasimha1997/fake-sms
+- Download Khan Academy Courses: https://github.com/rand-net/khan-dl
 
 ## Free Creds:
 

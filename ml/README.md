@@ -1,5 +1,9 @@
 <h2 align="center">ML</h2>
 
+## Websites:
+
+- https://navana-tech.github.io/IS21SS-indicASRchallenge/data.html
+
 ## Repos:
 
 - https://github.com/abhishekkrthakur/approachingalmost
@@ -8,4 +12,5 @@
 - https://github.com/huggingface/transformers
 - Decensoring Hentai with Deep Neural Networks: https://github.com/deeppomf/DeepCreamPy
 - https://github.com/roboticcam/machine-learning-notes
+- https://github.com/deepmind
 

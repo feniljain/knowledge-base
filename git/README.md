@@ -16,6 +16,8 @@
 - https://blog.plover.com/prog/git-prompt-hook-hack.html
 - https://codeburst.io/keep-calm-and-git-bisect-1610c6bced29
 - https://www.geeksforgeeks.org/how-to-write-good-commit-messages-in-github/
+- Very good cheatsheet: https://github.com/arslanbilal/git-cheat-sheet
+- https://fullstackmaster.medium.com/conventional-git-commit-messages-and-linting-76e1fbb9e14a
 
 ## Github Enhancements:
 

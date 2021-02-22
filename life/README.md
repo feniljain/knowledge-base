@@ -37,6 +37,7 @@
 - A New Earth
 - Relentless
 - The millionare fastlane
+- https://medium.com/mind-cafe/if-you-only-read-a-few-books-in-2020-read-these-1cbac424e4a9
 
 Kmshahco1966
 

@@ -24,6 +24,8 @@
 - https://kinesis-ergo.com/explore-keyboards/
 - https://musicforprogramming.net/
 - https://dev.to/jameesy/how-to-get-out-of-tutorial-hell-be-more-like-tony-hawk-1md8
+- https://noyaml.com/
+- https://github.com/system76/launch
 
 ## Blogs and Articles:
 
@@ -55,6 +57,8 @@
 - https://biology.stackexchange.com/questions/97635/are-humans-more-adapted-to-light-mode-or-dark-mode
 - https://dev.to/treaz/checklist-for-learning-a-new-programming-language-5g67
 - https://blog.davemartinez.dev/how-to-get-unstuck-on-coding-problems
+- https://dev.to/amarachukwu/productivity-hacks-for-developers-2pmj
+- https://dev.to/kevinhickssw/even-senior-developers-have-imposter-syndrome-4e8f
 
 ## Useful threads:
 
@@ -67,6 +71,7 @@
 - https://www.youtube.com/c/TheCodingTrain/videos
 - https://www.youtube.com/watch?v=DPGXJ3PNaDc
 - Myth of a genius programmer: https://www.youtube.com/watch?v=0SARbwvhupQ
+- Write your own 64-bit operating system with asm: https://www.youtube.com/watch?v=FkrpUaGThTQ
 
 ## Repos:
 
@@ -87,6 +92,8 @@
 - Multipurpose serial data viz & processing program: https://github.com/Serial-Studio/Serial-Studio
 - https://github.com/newcharacteryigit/projectidea-cli
 - https://github.com/conwnet/github1s
+- https://larymak.hashnode.dev/know-the-difference-between-coding-and-programming
+- Terminal markdown viewer: https://github.com/d0c-s4vage/lookatme
 
 ## APIs:
 

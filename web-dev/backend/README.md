@@ -19,13 +19,11 @@
 - https://blog.yugabyte.com/building-resilient-graphql-apps-and-scaling-them-to-1m-subscriptions/
 - https://dzone.com/articles/from-the-simple-to-the-complex-monolith-vs-microse
 - https://fauna.com/blog/new-collaboration-authentication-real-time-streaming-capabilities
-- https://dzone.com/articles/10-database-optimization-best-practices-for-web-de
-- https://dzone.com/articles/7-database-optimization-hacks-every-web-developer
-- https://dzone.com/articles/object-relational-mapping-pitfalls
-- https://towardsdatascience.com/create-a-graph-database-in-neo4j-using-python-4172d40f89c4
 - Insightful article: https://netflixtechblog.com/edge-authentication-and-token-agnostic-identity-propagation-514e47e0b602
 - https://arinkverma.medium.com/building-high-perf-geocoding-micro-service-with-golang-and-redis-4b689130e717
-- https://www.activestate.com/blog/top-10-sql-commands-everyone-should-know/
+- https://medium.com/@dunglas/using-the-103-early-hints-status-code-in-go-applications-d98b12fa990f
+- https://js.plainenglish.io/understanding-nodejs-performance-dc9f2673455e
+- https://www.infoq.com/news/2021/01/google-registry-api-alpha/
 
 ## Reddits and twitter threads:
 

@@ -98,6 +98,7 @@
 - Kanamewo
 - A story of unconditional love
 - Saekano
+- Tokyo Majin
 
 ## Thriller:
 

@@ -29,20 +29,41 @@
 
 ## Blogs and Articles:
 
-- https://crafterscircle.io/rust/coding/2019/01/18/tips-for-rust-beginners/
-- https://rust-unofficial.github.io/too-many-lists/first-layout.html
+# Language Features:
+
+- Understanding how HKTs can be implemented in rust: https://rustyyato.github.io/type/system,type/families/2021/02/15/Type-Families-1.html
+- Generalizing over generics in Rust, aka higher kinded types in rust: https://www.reddit.com/r/rust/comments/ll9un4/generalizing_over_generics_in_rust_part_1_aka/
+- A very good comparison where rust lacks in comparison to C++: https://www-viva64-com.cdn.ampproject.org/v/s/www.viva64.com/en/amp/b/0733/?amp_js_v=a6&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.viva64.com%2Fen%2Fb%2F0733%2F
+- Interesting discussion on ADTs in Rust: https://www.reddit.com/r/rust/comments/l594zl/everywhere_i_go_i_miss_rusts_enums/
+- https://medium.com/dev-genius/object-oriented-programming-in-rust-691baf4d2996
+- https://stevedonovan.github.io/rustifications/2018/08/18/rust-closures-are-hard.html
+- Common misconceptions in rust debunked(very good readme): https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md#2-if-t-static-then-t-must-be-valid-for-the-entire-program
+
+# Tutorials:
+
 - https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basicsk
-- http://fredrik.anderzon.se/2016/05/10/rust-for-node-developers-part-1-introduction/
-- Understanding Ownership the hard way: https://chrismorgan.info/blog/rust-ownership-the-hard-way/
 - Why your first fizbuzz program wont work in rust: https://chrismorgan.info/blog/rust-fizzbuzz/
 - Making a programming language in rust: https://arzg.github.io/lang/0/
-- https://zsiciarz.github.io/24daysofrust/index.html
 - Write a chip8 emulator interpreter: http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/
-- https://blog.knoldus.com/os-in-rust-an-executable-that-runs-on-bare-metal-part-1/
-- A very good comparison where rust lacks in comparison to C++: https://www-viva64-com.cdn.ampproject.org/v/s/www.viva64.com/en/amp/b/0733/?amp_js_v=a6&amp_gsa=1#referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fwww.viva64.com%2Fen%2Fb%2F0733%2F
-- https://www.reddit.com/r/rust/comments/kdfb9k/rusts_option_in_one_figure/
-- https://fasterthanli.me/articles/a-half-hour-to-learn-rust
 - http://troubles.md/posts/improving-smallvec/
+- Call Site dependency injection in Rust: https://matklad.github.io/2020/12/28/csdi.html
+- Good explanation of rust modules: https://dev.to/stevepryde/intro-to-rust-modules-3g8k
+- A good article on error handling, use of result and option at its fullest: https://blog.burntsushi.net/rust-error-handling/#composing-option-and-result
+- https://medium.com/@phoomparin/a-beginners-guide-to-rust-macros-5c75594498f1
+- https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/
+- https://matklad.github.io/2021/02/14/for-the-love-of-macros.html
+- https://blog.turbo.fish/proc-macro-basics/
+- https://medium.com/better-programming/rust-events-revisited-926486721e3f
+- https://www.lpalmieri.com/posts/skeleton-and-principles-for-a-maintainable-test-suite/
+
+# Others:
+
+- https://crafterscircle.io/rust/coding/2019/01/18/tips-for-rust-beginners/
+- https://rust-unofficial.github.io/too-many-lists/first-layout.html
+- http://fredrik.anderzon.se/2016/05/10/rust-for-node-developers-part-1-introduction/
+- Understanding Ownership the hard way: https://chrismorgan.info/blog/rust-ownership-the-hard-way/
+- https://blog.knoldus.com/os-in-rust-an-executable-that-runs-on-bare-metal-part-1/
+- https://www.reddit.com/r/rust/comments/kdfb9k/rusts_option_in_one_figure/
 - https://vorner.github.io/2021/01/03/dark-side-of-posix-apis.html
 - https://www.reddit.com/r/rust/comments/kpqmrh/rust_is_now_overall_faster_than_c_in_benchmarks/
 - https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/
@@ -50,19 +71,14 @@
 - https://blog.usejournal.com/rust-and-the-three-laws-of-informatics-4324062b322b
 - https://levelup.gitconnected.com/rust-and-its-ownership-model-effc41e3951
 - https://medium.com/swlh/how-did-i-setup-neovim-for-rust-1763eb2ef98c
-- Call Site dependency injection in Rust: https://matklad.github.io/2020/12/28/csdi.html
-- Good explanation of rust modules: https://dev.to/stevepryde/intro-to-rust-modules-3g8k
 - https://blog.logrocket.com/the-current-state-of-rust-web-frameworks/
 - Live Coding Reverse Proxy in Rust: https://www.snoyman.com/blog/2020/12/live-coding-rust-reverse-proxy/
-- Good collection of blogs and Rust: https://www.snoyman.com/blog/
 - https://macwright.com/2021/01/15/rust.html
 - https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/
 - https://medium.com/better-programming/in-depth-comparison-of-rust-and-cpp-579b1f93a5e9
 - State of Rust GUI lib.s as of Jan 2021: https://dev.to/davidedelpapa/rust-gui-introduction-a-k-a-the-state-of-rust-gui-libraries-as-of-january-2021-40gl
 - https://mrtact.medium.com/polishing-rust-30eeac3c4bf3
-- Interesting discussion on ADTs in Rust: https://www.reddit.com/r/rust/comments/l594zl/everywhere_i_go_i_miss_rusts_enums/
 - https://www.possiblerust.com/guide/how-to-read-rust-functions-part-1
-- A good article on error handling, use of result and option at its fullest: https://blog.burntsushi.net/rust-error-handling/#composing-option-and-result
 - https://medium.com/swlh/rust-structs-options-and-traits-485eecd9c718
 - Temporary borrowed value will drop outside scope: https://mrtact.medium.com/polishing-rust-42d9131d1c3
 - https://vorner.github.io/2021/01/31/saving-some-allocations.html
@@ -73,14 +89,14 @@
 - https://www.possiblerust.com/pattern/3-things-to-try-when-you-can-t-make-a-trait-object
 - https://robert.kra.hn/posts/2021-02-03_is-rust-fp/
 - https://cglab.ca/~abeinges/blah/rust-btree-case/
-- https://medium.com/dev-genius/object-oriented-programming-in-rust-691baf4d2996
 - https://medium.com/dev-genius/open-source-rust-24-awesome-frameworks-projects-and-libraries-8885112f8a73
-- https://stevedonovan.github.io/rustifications/2018/08/18/rust-closures-are-hard.html
 - https://medium.com/swlh/generics-or-metaprogramming-declarative-macros-with-rust-6fd5f6995584
-- https://medium.com/@phoomparin/a-beginners-guide-to-rust-macros-5c75594498f1
-- https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/
 - https://yrashk.medium.com/launching-wasm-rs-a-collection-of-crates-a-community-4344d2ba75b3
 - https://levelup.gitconnected.com/handling-websocket-and-http-on-the-same-port-with-rust-f65b770722c9
+- https://towardsdatascience.com/how-to-design-for-panic-resilience-in-rust-55d5fd2478b9
+- https://taggartsoftware.medium.com/clickonce-for-rust-apps-f96873feb8f1
+- VCS in Rust: https://initialcommit.com/blog/pijul-version-control-system/#
+- https://dustinnewman.medium.com/traits-over-interface-c997fe6175bf
 
 ## Blog Series:
 
@@ -97,6 +113,8 @@
 - http://pcwalton.github.io/
 - Avg. general articles on rust(Has browser engine build series): https://limpet.net/mbrubeck/
 - https://medium.com/swlh/demystifying-closures-futures-and-async-await-in-rust-part-1-closures-97e531e4dc50
+- Good collection of blogs and Rust: https://www.snoyman.com/blog/
+- Educational blog posts for rust beginners: https://github.com/pretzelhammer/rust-blog
 
 ## Repos:
 
@@ -142,6 +160,8 @@
 - https://github.com/Peltoche/lsd
 - https://github.com/dtolnay/anyhow
 - https://github.com/rusty-crab/warp-api-starter-template
+- Safe Rust bridge for creating Erlang NIF functions: https://github.com/rusterlium/rustler
+- Rust parser combinator framework: https://github.com/Geal/nom
 
 ## Videos:
 
@@ -215,6 +235,8 @@
 - https://pwy.io/en/posts/learning-to-fly-pt1/
 - https://genekuo.medium.com/coding-a-simple-microservices-with-rust-3fbde8e32adc
 - https://www.youtube.com/watch?v=ICVQ8yFhjuw
+- https://medium.com/the-polyglot-programmer/what-would-sqlite-would-look-like-if-written-in-rust-part-0-4fc192368984
+- Implementing your own cheatengine: https://lonami.dev/blog/woce-1/
 
 ## Official Rust Users website:
 
@@ -224,6 +246,8 @@
 
 - https://lib.rs/crates/strum
 - Units of measurement: https://docs.rs/crate/uom/0.30.0
+- https://github.com/rust-lang-nursery/error-chain
+- https://github.com/rust-lang-nursery/failure
 
 ## Rust Internals:
 
@@ -242,6 +266,8 @@
 - https://davidtw.co/media/masters_dissertation.pdf
 - https://medium.com/@GolDDranks/things-rust-doesnt-let-you-do-draft-f596a3c740a5
 - https://www.reddit.com/r/rust/comments/2p7v6i/how_does_rust_language_eventually_become_machine/
+- https://gist.github.com/PoignardAzur/8038f5ed7dc8d00e3e9472aca57fb35c
+- https://cfallin.org/blog/2020/09/18/cranelift-isel-1/
 
 ## Rust and security
 
@@ -257,6 +283,7 @@
 - https://twitter.com/m_ou_se/status/1355867716717047810
 - https://www.reddit.com/r/rust/comments/lg0a7b/benchmarking_tokio_tasks_and_goroutines/
 - https://www.reddit.com/r/rust/comments/lcow5j/black_hat_rust_im_writing_a_book_about_offensive/
+- https://www.reddit.com/r/rust/comments/lkvlya/introducing_the_firestorm_profiler/
 
 ## Rust Learning:
 
@@ -264,4 +291,7 @@
 - https://learning-rust.github.io/
 - A lot of resources: https://github.com/ctjhoa/rust-learning
 - https://serokell.io/blog/rust-guide
+- https://www.notion.so/CCSS-Devclub-Rust-Workshop-dccad2c1119d4af7bf78f3d3b4797603
+- https://fasterthanli.me/articles/a-half-hour-to-learn-rust
+- https://zsiciarz.github.io/24daysofrust/index.html
 

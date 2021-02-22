@@ -27,6 +27,10 @@
 - https://www.bluematador.com/blog/how-to-pronounce-kubernetes
 - https://www.reddit.com/r/devops/comments/l6uitk/discussion_what_are_mustread_books_for_devops/
 - https://stackoverflow.blog/2021/01/29/podcast-308-cloudcast-brian-gracely-certification/
+- https://medium.com/swlh/stop-this-microservices-madness-8e4e0695805b
+- https://dzone.com/articles/what-weve-learned-from-coaching-devops-teams-in-gi
+- https://dzone.com/articles/the-2021-devops-trend-everyone-is-missing
+- https://dev.to/scrummastert/how-i-passed-the-aws-certified-developer-associate-exam-1336
 
 ## Videos:
 
@@ -40,10 +44,13 @@
 
 - Great collection of books by mayank bhaiya on cloud native and devops: https://drive.google.com/drive/folders/1NThdt2djlvsb0x3gQ6qA_c4BfCEW3TnY
 
-## Repos:
+## Repos and Tools:
 
 - https://github.com/donnemartin/system-design-primer
 - https://github.com/actions/virtual-environments
+- https://github.com/upgundecha/howtheyaws
+- https://endgame.readthedocs.io/en/latest/
+- https://github.com/salesforce/cloudsplaining
 
 ## Threads:
 

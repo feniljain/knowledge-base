@@ -10,6 +10,7 @@
 - Awesome curation of free alternatives to porprietary softwares
 - Everything about curl from daniel himself: https://everything.curl.dev/
 - https://themouseless.dev/
+- Merge pdfs from terminal: https://pdftk.en.softonic.com/
 
 ## Blogs and articles:
 
@@ -30,6 +31,11 @@
 - https://towardsdatascience.com/linux-shell-commands-can-be-your-time-saver-eabee76914b
 - https://www.omgubuntu.co.uk/2021/02/linux-release-roundup-flowblade-gthumb-more
 - https://medium.com/swlh/a-perfect-linux-distribution-ca80fe8e443d
+- Differences between terminal, console and shell: https://miguelravila.hashnode.dev/terminalconsoleshell
+- https://opensource.com/article/21/2/linux-package-management
+- https://opensource.com/article/21/2/linux-media-players
+- https://stackabuse.com/get-total-size-of-a-directory-in-linux/
+- ZSH Cheatsheet: https://dev.to/twilio/zsh-tricks-to-blow-your-mind-291f
 
 ## Repos:
 
@@ -40,6 +46,22 @@
 - Discord in terminal: https://github.com/atlx/discord-term , https://gitlab.com/diamondburned/6cord
 - https://github.com/frankligy/Linux_HandBook_Bioinformatics
 - https://github.com/iGio90/Dwarf
+- Cheatsheet but uses web scraping completely: https://github.com/Bugswriter/tuxi
+- https://github.com/ohmybash/oh-my-bash
+- https://github.com/unixorn/awesome-zsh-plugins
+- https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet
+- Terminal markdown viewer: https://github.com/d0c-s4vage/lookatme
+- https://github.com/sharkdp/bat
+
+## Terminal tools I use:
+
+- lookatme: Terminal markdown renderer
+- vifm: File manager
+- fresh: Go live reload
+- bacon: rust
+- mpsyt
+- tmux
+- bat
 
 ## Videos:
 

@@ -20,6 +20,8 @@
 - Go thorugh for web interviews: https://dev.to/slawomirkolodziej/what-do-you-need-to-know-as-a-junior-frontend-developer-bonus-interview-questions-32ba
 - https://dev.to/denicmarko/resources-to-crush-the-technical-interview-1fc4
 - https://medium.com/swlh/3-interviews-5-questions-55bd4cae8b9f
+- https://medium.com/better-programming/10-unforgivable-phrases-developers-should-stop-saying-at-interviews-317fd976716b
+- https://gumroad.com/l/perfectresume
 
 ## Golang interviews:
 

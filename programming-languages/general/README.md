@@ -9,6 +9,9 @@
 - https://dlorenc.medium.com/zombie-dependencies-77c34740a7a8
 - https://levelup.gitconnected.com/the-decorator-pattern-in-go-66ed951b0f7c
 - https://www.joelonsoftware.com/2002/11/11/the-law-of-leaky-abstractions/
+- https://eli.thegreenplace.net/2018/covariance-and-contravariance-in-subtyping/
+- Frameworks vs Libraries most simple eg.: https://medium.com/open-marketplace-applications/open-source-discovery-yew-rs-2213ff72c1db
+- What is a monad: https://stackoverflow.com/questions/44965/what-is-a-monad
 
 ## Repos:
 
@@ -22,5 +25,13 @@
 
 ## Elixir:
 
+## Learning:
+
 - Learning book: https://medium.com/pragmatic-programmers/table-of-contents-28c6d9173c33
+- Learning book: https://medium.com/pragmatic-programmers/table-of-contents-796d06946fcf
+
+## General:
+
+- https://medium.com/swlh/8-companies-that-use-elixir-in-production-e79ca809d423
+- https://serokell.io/blog/history-of-erlang-and-elixir
 

@@ -2,6 +2,12 @@
 
 ## Blogs and Articles:
 
+# Tutorials:
+
+- https://alysonn.medium.com/a-virtual-filesystem-in-go-creating-our-foundation-9af62b0e82db
+
+# Others:
+
 - https://bionic.fullstory.com/why-you-should-be-using-errgroup-withcontext-in-golang-server-handlers/
 - https://yourbasic.org/golang/
 - https://www.calhoun.io/guide-to-go/
@@ -57,6 +63,15 @@
 - https://medium.com/p-society/pass-a-golang-job-interview-bfb6ea83b457
 - https://quii.gitbook.io/learn-go-with-tests/meta/anti-patterns
 - https://rahul-khanna.medium.com/your-first-golang-websocket-fx-data-fc1eb7db35f0
+- Drawbacks of append in golang: https://daryl-ng.medium.com/why-you-need-to-avoid-using-append-in-go-8c8502b5d0da
+- https://medium.com/better-programming/my-ultimate-makefile-for-golang-projects-fcc8ca20c9bb
+- https://petomalina.medium.com/you-dont-need-a-dockerfile-to-build-a-go-container-a511617235bf
+- https://burubur.medium.com/golang-test-cases-on-api-call-table-test-38c4c3208020
+- https://carlosmouter.medium.com/golang-test-mocking-using-dependency-injection-f48cddbcf6dd
+- https://medium.com/swlh/go-profile-your-code-like-a-master-1505be38fdba
+- https://levelup.gitconnected.com/persistent-data-structures-for-gophers-persistent-stack-70aa012d3bfa
+- https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc
+- https://medium.com/edgelesssystems/ego-effortlessly-build-confidential-apps-in-go-dc2b1460e1bf
 
 ## Blog Series:
 
@@ -72,6 +87,7 @@
 - https://www.digitalocean.com/community/tutorial_series/how-to-code-in-go
 - https://www.ardanlabs.com/blog/
 - https://medium.com/a-journey-with-go
+- https://eli.thegreenplace.net/
 
 ## Blog Projects:
 
@@ -83,6 +99,8 @@
 - https://levelup.gitconnected.com/writing-fx-modules-517193b9c4f0
 - Making your own FTS(Full-Text Search Engine): https://artem.krylysov.com/blog/2020/07/28/lets-build-a-full-text-search-engine/
 - https://skarlso.github.io/2020/07/23/kubernetes-deploy-golang-react-apps-separately-part1/
+- https://dev.to/feliperosa/getting-started-with-libp2p-in-go-4hoa
+- https://dustinnewman.medium.com/lets-make-a-cache-in-go-ea49fc9ebe93
 
 ## Books:
 
@@ -124,8 +142,9 @@
 - https://golangflow.io
 - https://egonelbre.com/js/gopher/
 - godbolt.org
+- https://go101.org/article/101.html
 
-## Repos:
+## Repos and tools:
 
 - https://github.com/inancgumus/learngo
 - https://github.com/Alikhll/golang-developer-roadmap
@@ -141,6 +160,11 @@
 - https://github.com/facebook/ent
 - https://github.com/openfaas/faasd
 - https://github.com/drakkan/sftpgo
+- https://twitter.com/golangweekly/status/1360655987020091392
+- https://github.com/go101/go101
+- Release go projects as fast and easily as possible: https://goreleaser.com/
+- Alternate go compiler to build and run go apps easily: https://github.com/edgelesssys/ego
+- High level go lib. on top of AMQP: https://github.com/blokur/harego
 
 ## Packages:
 
@@ -163,6 +187,8 @@
 - https://github.com/emluque/golang-internals-resources
 - https://medium.com/a-journey-with-go/go-builds-linkers-timeline-b312084ddf7d
 - https://wablesushmita.medium.com/cpu-memory-profiling-with-golang-pprof-3deddbd7b964
+- https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices/
+- https://blog.golang.org/slices-intro
 
 ## Go Learning:
 
