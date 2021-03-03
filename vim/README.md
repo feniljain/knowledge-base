@@ -21,6 +21,7 @@
 - VimMarks: https://www.youtube.com/watch?v=o4x4jUcHJwk
 - https://www.reddit.com/r/neovim/comments/lhcqbc/hello_world_neovimlua_plugin_neovimlua_plugin/
 - Enhancing vim native completion using youcompleteme: https://www.youtube.com/watch?v=NUr-VvaOEHQ&feature=share
+- Neovim treesitter: https://youtu.be/LPXH7cBN_u8
 
 ## Blogs, Articles and threads:
 
@@ -42,6 +43,7 @@
 - https://github.com/nanotee/nvim-lua-guide
 - https://www.reddit.com/r/neovim/comments/ljm7qc/eslint_and_prettier_with_built_in_lsp/
 - Using nvim for reading man pages: https://github.com/neovim/neovim/blob/5ce8158a5d462043306ee67a3261794f169bdb17/runtime/doc/filetype.txt#L509
+- https://chrisarcand.com/vims-new-cdo-command/
 
 ## Vimscript:
 
@@ -67,6 +69,7 @@
 - https://github.com/iggredible/Learn-Vim
 - Good cheatsheet about everything in vim: https://github.com/mhinz/vim-galore
 - https://github.com/akrawchyk/awesome-vim
+- https://github.com/gdh1995/vimium-c
 
 ## General:
 
@@ -204,6 +207,7 @@
 - https://github.com/vifm/vifm-colors
 - https://philo.top/2021/02/14/golangvimdev/
 - Universal code formatter: https://github.com/google/vim-codefmt
+- Colorscheme for vim: https://github.com/srcery-colors
 
 ## VimRCs for reference:
 
@@ -213,4 +217,6 @@
 - https://github.com/kutsan/dotfiles/tree/master/.config/nvim
 - https://github.com/awesome-streamers/awesome-streamerrc/blob/master/ThePrimeagen/init.vim
 - https://github.com/awesome-streamers/awesome-streamerrc/blob/master/MelkeyDev/init.vim
+- https://github.com/yutkat/dotfiles/blob/master/.config/nvim/init.lua
+- https://github.com/lilydjwg/dotvim
 

@@ -44,11 +44,9 @@
 - zutto mae kara suki deshita movie : Romance
 - Solo leveling anime
 - Overlord
-- Blue Spring Ride
 - Banana Fish
 - Love, cubnibyo and other delusions
 - K-on
-- Plastic memories: Done
 - Nisekoi
 - Boku no pico
 - Clannad
@@ -81,7 +79,6 @@
 - Wotakoi
 - Toaru Majutsu no Index III
 - 7 seeds
-- Ao Haru Ride
 - Id Invaded
 - Photo Kano
 - Amagi Brilliant Park
@@ -99,6 +96,9 @@
 - A story of unconditional love
 - Saekano
 - Tokyo Majin
+- Nijiro days
+- Rikei koi ga
+- 3D real girl
 
 ## Thriller:
 
@@ -196,11 +196,12 @@
 
 - Bofuri
 
-## Currently watching:
+## Currently watching and reading:
 
 - Danshi Koukousei no nichijou(Daily lives of highschool boys)
 - Shiki
 - Daily life of the immortal king
+- Dorohedero
 
 ## Manga To Read:
 
@@ -242,6 +243,9 @@
 - twist.moe
 - 9anime.to
 - 4anime.to
+- animumu.ga
+- animefrenzy.org
+- gogoanime.sh
 
 ## Completed(I started maintaining this list very late may not have a lot of anime I have watched):
 
@@ -321,4 +325,5 @@
 - Orange
 - No. 6
 - Rainbow: Nisha Rokubou no Shichinin
+- Ao Haru Ride
 

@@ -23,12 +23,15 @@
 - https://blog.learncodeonline.in/whats-new-in-javascript-21-es12
 - https://www.infoq.com/news/2021/02/modern-javascript-es2017-perform/
 - https://dev.to/spartakyste/the-promises-guide-i-would-have-loved-as-a-junior-developper-3621
+- https://medium.com/codex/golang-vs-node-js-214a9f9d0e00
 
-## Libraries and packages:
+## Libraries and packages and repos:
 
 - https://www.chartjs.org/
 - Fast 3kB React alternative: https://github.com/preactjs/preact
 - https://github.com/Marak/faker.js
+- https://github.com/N0v0cain3/HowNodeWorks
+- Complete js library for whatsapp: https://github.com/orkestral/venom
 
 ## APIs:
 

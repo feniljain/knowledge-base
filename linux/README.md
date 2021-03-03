@@ -36,6 +36,7 @@
 - https://opensource.com/article/21/2/linux-media-players
 - https://stackabuse.com/get-total-size-of-a-directory-in-linux/
 - ZSH Cheatsheet: https://dev.to/twilio/zsh-tricks-to-blow-your-mind-291f
+- https://dzone.com/articles/linux-kernel-vs-memory-fragmentation-part-i
 
 ## Repos:
 
@@ -82,4 +83,6 @@
 - https://github.com/kutsan/dotfiles
 - https://github.com/skbolton/titan
 - https://github.com/yutakatay/dotfiles
+- https://github.com/yutkat/dotfiles
+- https://github.com/itchyny/dotfiles
 

@@ -31,6 +31,7 @@
 - https://dzone.com/articles/what-weve-learned-from-coaching-devops-teams-in-gi
 - https://dzone.com/articles/the-2021-devops-trend-everyone-is-missing
 - https://dev.to/scrummastert/how-i-passed-the-aws-certified-developer-associate-exam-1336
+- https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad
 
 ## Videos:
 

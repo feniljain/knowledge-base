@@ -40,4 +40,8 @@
 
 - https://ajisatriomaulana.medium.com/dynamic-programming-solve-amazon-coding-interview-using-memoization-with-code-example-2d449ce80b59
 - https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/
+- Alogrithms in Java: https://github.com/williamfiset/Algorithms
+- Algorithms in CPP: https://github.com/TheAlgorithms/C-Plus-Plus
+- Algorithms in C: https://github.com/TheAlgorithms
+- Algorithms in Golang: https://github.com/TheAlgorithms/Go
 

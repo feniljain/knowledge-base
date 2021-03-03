@@ -9,6 +9,7 @@
 - https://sumit-agarwal.medium.com/using-grpc-and-protobuf-in-golang-9c218d662db3
 - https://mehranjnf.medium.com/grpc-simple-way-424d90870de4
 - https://junereycasuga.medium.com/go-grpc-with-go-kit-ff8c9151d2c1
+- https://ideahitme.medium.com/videostreaming-2-n-rust-and-grpc-a90a38519743
 
 ## Repos:
 

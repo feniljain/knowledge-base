@@ -13,4 +13,7 @@
 - Decensoring Hentai with Deep Neural Networks: https://github.com/deeppomf/DeepCreamPy
 - https://github.com/roboticcam/machine-learning-notes
 - https://github.com/deepmind
+- https://github.com/openai/DALL-E
+- https://github.com/iperov/DeepFaceLab
+- https://github.com/google/trax
 

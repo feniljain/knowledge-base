@@ -12,6 +12,7 @@
 - Free books: https://www.readanybook.com/
 - slader.com
 - Collection of bitmap fonts: https://github.com/ianhan/BitmapFonts
+- Download songs from various soures like gaana, itunes, etc.: https://ytmdl.deepjyoti30.dev/
 
 ## Blogs and articles:
 
@@ -19,6 +20,7 @@
 - https://zerodha.com/varsity/chapter/the-need-to-invest/
 - https://reactjsexample.com/fast-and-accurate-react-renderer-for-notion/
 - https://www.infoworld.com/article/3601728/7-best-practices-for-remote-development-teams.html
+- https://entrepreneurshandbook.co/how-to-get-more-done-in-3-hours-than-most-do-in-a-week-c5bcdcff801e
 
 ## Books:
 

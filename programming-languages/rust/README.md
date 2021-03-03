@@ -29,7 +29,7 @@
 
 ## Blogs and Articles:
 
-# Language Features:
+### Language Features:
 
 - Understanding how HKTs can be implemented in rust: https://rustyyato.github.io/type/system,type/families/2021/02/15/Type-Families-1.html
 - Generalizing over generics in Rust, aka higher kinded types in rust: https://www.reddit.com/r/rust/comments/ll9un4/generalizing_over_generics_in_rust_part_1_aka/
@@ -38,8 +38,9 @@
 - https://medium.com/dev-genius/object-oriented-programming-in-rust-691baf4d2996
 - https://stevedonovan.github.io/rustifications/2018/08/18/rust-closures-are-hard.html
 - Common misconceptions in rust debunked(very good readme): https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md#2-if-t-static-then-t-must-be-valid-for-the-entire-program
+- https://dustinnewman.medium.com/traits-over-interface-c997fe6175bf
 
-# Tutorials:
+### Tutorials:
 
 - https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basicsk
 - Why your first fizbuzz program wont work in rust: https://chrismorgan.info/blog/rust-fizzbuzz/
@@ -55,8 +56,10 @@
 - https://blog.turbo.fish/proc-macro-basics/
 - https://medium.com/better-programming/rust-events-revisited-926486721e3f
 - https://www.lpalmieri.com/posts/skeleton-and-principles-for-a-maintainable-test-suite/
+- https://medium.com/swlh/writing-a-proxy-in-rust-and-why-it-is-the-language-of-the-future-265d8bf7c6d2
+- https://www.reddit.com/r/learnrust/comments/lt55mf/any_good_videos_about_rust_in_microcontrollers/
 
-# Others:
+### Others:
 
 - https://crafterscircle.io/rust/coding/2019/01/18/tips-for-rust-beginners/
 - https://rust-unofficial.github.io/too-many-lists/first-layout.html
@@ -96,10 +99,11 @@
 - https://towardsdatascience.com/how-to-design-for-panic-resilience-in-rust-55d5fd2478b9
 - https://taggartsoftware.medium.com/clickonce-for-rust-apps-f96873feb8f1
 - VCS in Rust: https://initialcommit.com/blog/pijul-version-control-system/#
-- https://dustinnewman.medium.com/traits-over-interface-c997fe6175bf
+- https://www.youtube.com/embed/mdUg_mCuqhE
 
 ## Blog Series:
 
+- Very good collection of blogs on rust from one the of important contributors: https://without.boats/
 - https://smallcultfollowing.com/babysteps/
 - Very good blog series: https://fasterthanli.me/articles
 - Blogs from person who wrote zero to hero: https://www.lpalmieri.com/
@@ -162,6 +166,7 @@
 - https://github.com/rusty-crab/warp-api-starter-template
 - Safe Rust bridge for creating Erlang NIF functions: https://github.com/rusterlium/rustler
 - Rust parser combinator framework: https://github.com/Geal/nom
+- https://github.com/alexcrichton/bzip2-rs
 
 ## Videos:
 
@@ -248,6 +253,8 @@
 - Units of measurement: https://docs.rs/crate/uom/0.30.0
 - https://github.com/rust-lang-nursery/error-chain
 - https://github.com/rust-lang-nursery/failure
+- Cross-platform async lib for system info fetching: https://github.com/heim-rs/heim
+- Fast and correct computations with uncertain values: https://crates.io/crates/uncertain
 
 ## Rust Internals:
 

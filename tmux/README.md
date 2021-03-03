@@ -5,6 +5,7 @@
 - Cheat Sheet: https://gist.github.com/andreyvit/2921703
 - Awesome tmux: https://github.com/rothgar/awesome-tmux
 - https://www.bugsnag.com/blog/tmux-and-vim
+- https://github.com/tmuxinator/tmuxinator
 
 ## Plugins:
 
@@ -28,4 +29,5 @@
 - https://github.com/petobens/dotfiles/blob/master/tmux/tmux.conf
 - https://github.com/kutsan/dotfiles/blob/master/.config/tmux/tmux.conf
 - https://github.com/skbolton/titan/blob/master/tmux/tmux.conf
+- https://github.com/yutkat/dotfiles/blob/master/.config/tmux/tmux.conf
 

@@ -2,11 +2,17 @@
 
 ## Blogs and Articles:
 
-# Tutorials:
+### Tutorials:
 
 - https://alysonn.medium.com/a-virtual-filesystem-in-go-creating-our-foundation-9af62b0e82db
 
-# Others:
+### Architecture:
+
+- https://medium.com/lensesio/declarative-bdd-with-golang-3f5f6a1ac5a8
+- https://carlosmouter.medium.com/golang-test-mocking-using-dependency-injection-f48cddbcf6dd
+- https://medium.com/hackernoon/golang-clean-archithecture-efd6d7c43047
+
+### Others:
 
 - https://bionic.fullstory.com/why-you-should-be-using-errgroup-withcontext-in-golang-server-handlers/
 - https://yourbasic.org/golang/
@@ -67,11 +73,15 @@
 - https://medium.com/better-programming/my-ultimate-makefile-for-golang-projects-fcc8ca20c9bb
 - https://petomalina.medium.com/you-dont-need-a-dockerfile-to-build-a-go-container-a511617235bf
 - https://burubur.medium.com/golang-test-cases-on-api-call-table-test-38c4c3208020
-- https://carlosmouter.medium.com/golang-test-mocking-using-dependency-injection-f48cddbcf6dd
 - https://medium.com/swlh/go-profile-your-code-like-a-master-1505be38fdba
 - https://levelup.gitconnected.com/persistent-data-structures-for-gophers-persistent-stack-70aa012d3bfa
 - https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc
 - https://medium.com/edgelesssystems/ego-effortlessly-build-confidential-apps-in-go-dc2b1460e1bf
+- https://medium.com/better-programming/why-you-should-avoid-pointers-in-go-36724365a2a7
+- https://medium.com/vacatronics/20-go-packages-you-can-use-in-your-next-project-7515426559c0
+- https://leogtzr.medium.com/embed-files-in-go-877eeaab0cac
+- https://andrebritopassos.medium.com/logging-with-context-in-go-30366fa29d08
+- https://medium.com/swlh/nats-keep-alive-subscription-in-golang-a80073949371
 
 ## Blog Series:
 
@@ -115,7 +125,6 @@
 - DGraph Go SystemsConf 2020: https://www.youtube.com/watch?v=inrqE0Grgk0&feature=youtu.be&utm_campaign=Go+Systems+Conf&utm_medium=email&_hsmi=101688656&_hsenc=p2ANqtz-8qYOnMY2mbo7M7fWIlcsES7FqPS70x8sB56PO8L1DLsCmFfBLv5992LQfgavWmcaA0s0ec246yv6o3KSW7kZn3_1w3uw&utm_content=101688656&utm_source=hs_automation
 - Creating github actions with golang: https://www.youtube.com/watch?v=8IgNY8QT3vk
 - Featherweight Go: https://www.youtube.com/watch?v=Sw53HGyCGcU
-- Awesome collection of learning resources: https://github.com/inancgumus/learngo
 
 ## Go in prod:
 
@@ -203,6 +212,8 @@
 - https://tutorialedge.net/courses/go-testing-bible/
 - https://gameswithgo.org/
 - https://medium.com/p-society/master-plan-to-learn-golang-edbf85c7ae83
+- Awesome collection of learning resources: https://github.com/inancgumus/learngo
+- https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6
 
 # Repos:
 

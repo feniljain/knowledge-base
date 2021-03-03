@@ -1,4 +1,4 @@
-<h2 align="center">Rust</h2>
+<h2 align="center">General-Programming</h2>
 
 ## Blogs and Articles:
 
@@ -17,21 +17,28 @@
 
 - https://github.com/danistefanovic/build-your-own-x
 - https://github.com/mazy1998/asciiVideo
+- Makes C a build-once-and-run-anywhere-lang like java: https://github.com/jart/cosmopolitan
 
 ## Lua:
 
 - https://github.com/nanotee/nvim-lua-guide
 - https://learnxinyminutes.com/docs/lua/
 
-## Elixir:
+### Elixir:
 
-## Learning:
+### Learning:
 
 - Learning book: https://medium.com/pragmatic-programmers/table-of-contents-28c6d9173c33
 - Learning book: https://medium.com/pragmatic-programmers/table-of-contents-796d06946fcf
 
-## General:
+### General:
 
 - https://medium.com/swlh/8-companies-that-use-elixir-in-production-e79ca809d423
 - https://serokell.io/blog/history-of-erlang-and-elixir
+
+## Python:
+
+### Repos:
+
+- https://github.com/Asabeneh/30-Days-Of-Python
 

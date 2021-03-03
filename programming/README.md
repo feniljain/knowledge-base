@@ -59,6 +59,10 @@
 - https://blog.davemartinez.dev/how-to-get-unstuck-on-coding-problems
 - https://dev.to/amarachukwu/productivity-hacks-for-developers-2pmj
 - https://dev.to/kevinhickssw/even-senior-developers-have-imposter-syndrome-4e8f
+- https://blog.alyssaholland.me/7-alfred-workflows-to-boost-development-productivity
+- https://medium.com/@kevinsmavani007/red-black-tree-47e3249cf17
+- https://javascript.plainenglish.io/the-10-most-popular-programming-articles-february-2021-57b6e162a791
+- https://dev.to/leviathanprogramming/share-your-ideas-what-great-projects-would-be-awesome-to-make-202
 
 ## Useful threads:
 
@@ -85,27 +89,32 @@
 - https://github.com/firstcontributions/first-contributions
 - App to remind you take breaks to reduce strain on eye: https://github.com/slgobinath/SafeEyes
 - Full list of general software design patterns: https://github.com/kamranahmedse/design-patterns-for-humans
-- Alogrithms in Java: https://github.com/williamfiset/Algorithms
-- Algorithms in CPP: https://github.com/TheAlgorithms/C-Plus-Plus
-- Algorithms in C: https://github.com/TheAlgorithms
-- Algorithms in Golang: https://github.com/TheAlgorithms/Go
 - Multipurpose serial data viz & processing program: https://github.com/Serial-Studio/Serial-Studio
 - https://github.com/newcharacteryigit/projectidea-cli
 - https://github.com/conwnet/github1s
 - https://larymak.hashnode.dev/know-the-difference-between-coding-and-programming
 - Terminal markdown viewer: https://github.com/d0c-s4vage/lookatme
+- Updating "BASIC Computer Games" books for 2021: https://github.com/coding-horror/basic-computer-games
+- Complete js library for whatsapp: https://github.com/orkestral/venom
+- Download songs from various soures like gaana, itunes, etc.: https://github.com/deepjyoti30/ytmdl-web-v2
+- https://github.com/google/blockly
 
 ## APIs:
 
 - https://www.thecocktaildb.com/api.php?ref=apilist.fun
 - https://aws.random.cat/meow
 
-## Online books:
+## Books:
 
 - https://atcold.github.io/pytorch-Deep-Learning/
 - https://dev.to/jameesy/the-five-books-that-changed-my-life-2ghe
 - https://dev.to/simonholdorf/10-fantastic-books-by-developers-for-developers-3hgc
 - https://www.datasciencecentral.com/profiles/blogs/a-free-open-source-book-to-get-started-with-5g
+- Head First Design Patterns
+- Kleppmann's Designing Data-Intensive Applications
+- Sam Newman's Building Distributed Systems
+- Brendan Burns Designing Distributed Systems
+- Alex Petrov's Database Internals
 
 ## Tools:
 
