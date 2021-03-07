@@ -246,6 +246,7 @@
 - animumu.ga
 - animefrenzy.org
 - gogoanime.sh
+- moetube.to
 
 ## Completed(I started maintaining this list very late may not have a lot of anime I have watched):
 

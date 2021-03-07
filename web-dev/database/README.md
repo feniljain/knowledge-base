@@ -17,6 +17,7 @@
 - https://www.infoworld.com/article/3607193/3-must-haves-for-your-multicloud-architecture.html
 - https://medium.com/better-programming/how-database-indexing-actually-works-ba6e19e75169
 - How to do faster data migrations in postgres, 8TB of data migration done: https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/faster-data-migrations-in-postgres/ba-p/2150850
+- Dolt, its Git for data: https://github.com/dolthub/dolt
 
 ## Tutorials:
 

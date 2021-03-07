@@ -39,6 +39,9 @@
 - https://stevedonovan.github.io/rustifications/2018/08/18/rust-closures-are-hard.html
 - Common misconceptions in rust debunked(very good readme): https://github.com/pretzelhammer/rust-blog/blob/master/posts/common-rust-lifetime-misconceptions.md#2-if-t-static-then-t-must-be-valid-for-the-entire-program
 - https://dustinnewman.medium.com/traits-over-interface-c997fe6175bf
+- https://dev.to/somedood/generic-impl-blocks-are-kinda-like-macros-1aa0
+- https://www.novatec-gmbh.de/en/blog/the-case-for-the-typestate-pattern-introducing-algebraic-data-types/
+- https://blog.logrocket.com/rust-internationalization-localization-and-translation/
 
 ### Tutorials:
 
@@ -58,6 +61,11 @@
 - https://www.lpalmieri.com/posts/skeleton-and-principles-for-a-maintainable-test-suite/
 - https://medium.com/swlh/writing-a-proxy-in-rust-and-why-it-is-the-language-of-the-future-265d8bf7c6d2
 - https://www.reddit.com/r/learnrust/comments/lt55mf/any_good_videos_about_rust_in_microcontrollers/
+- https://snake.rustbridge.com/
+- Building graphics in rust : https://jduchniewicz.com/posts/2021/02/c-to-rust-or-how-to-render-your-mindset/
+- https://raytracing.github.io/books/RayTracingInOneWeekend.html
+- https://dev.to/xinnks/make-a-back-end-number-guessing-game-with-rust-1hkj
+- https://blogg.bekk.no/building-an-openstreetmap-app-in-rust-part-iv-d82ebc245381
 
 ### Others:
 
@@ -100,6 +108,7 @@
 - https://taggartsoftware.medium.com/clickonce-for-rust-apps-f96873feb8f1
 - VCS in Rust: https://initialcommit.com/blog/pijul-version-control-system/#
 - https://www.youtube.com/embed/mdUg_mCuqhE
+- https://www.fpcomplete.com/blog/captures-closures-async/
 
 ## Blog Series:
 
@@ -119,6 +128,7 @@
 - https://medium.com/swlh/demystifying-closures-futures-and-async-await-in-rust-part-1-closures-97e531e4dc50
 - Good collection of blogs and Rust: https://www.snoyman.com/blog/
 - Educational blog posts for rust beginners: https://github.com/pretzelhammer/rust-blog
+- https://togglebit.io/
 
 ## Repos:
 
@@ -182,6 +192,8 @@
 - Type Theory for the working Rustacean: https://www.youtube.com/watch?v=BdXWlQsd7RI
 - Static vs Dynamic Dispatching, also teaches how to use gdb for debugging rust binaries: https://www.youtube.com/watch?v=tM2r9HD4ivQ
 - Rust's Journey to async/await: https://www.infoq.com/presentations/rust-2019/
+- Learning rust procedural macros: https://www.youtube.com/watch?v=9IbYBl48eTQ
+- Rust proxy server with warp and hyper: https://www.youtube.com/watch?v=eIllaNZisiU
 
 ## YT and Twitch Project channels/Playlists:
 
@@ -226,7 +238,6 @@
 - https://dev.to/davidedelpapa/series/9626
 - https://dev.to/davidedelpapa
 - https://dev.to/kbknapp/diving-into-rust-with-a-cli-4gap
-- https://dev.to/davidedelpapa/rust-gui-introduction-a-k-a-the-state-of-rust-gui-libraries-as-of-january-2021-40gl
 - https://dev.to/dbanty/replacing-fastapi-with-rust-part-1-intro-251h
 - https://dev.to/seanchen1991/implementing-an-lru-cache-in-rust-33pp
 - https://codeandbitters.com/lets-build-a-parser/
@@ -239,7 +250,7 @@
 - https://adventures.michaelfbryan.com/posts/parsing-pdfs-in-rust/
 - https://pwy.io/en/posts/learning-to-fly-pt1/
 - https://genekuo.medium.com/coding-a-simple-microservices-with-rust-3fbde8e32adc
-- https://www.youtube.com/watch?v=ICVQ8yFhjuw
+- Build a fast rest api with actix, psql and diesel: https://www.youtube.com/watch?v=ICVQ8yFhjuw
 - https://medium.com/the-polyglot-programmer/what-would-sqlite-would-look-like-if-written-in-rust-part-0-4fc192368984
 - Implementing your own cheatengine: https://lonami.dev/blog/woce-1/
 

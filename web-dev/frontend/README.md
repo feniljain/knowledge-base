@@ -33,6 +33,7 @@
 - https://dev.to/zachtylr21/improving-your-react-code-custom-hooks-1a27
 - https://dev.to/sm0ke/react-templates-a-curated-list-with-free-projects-4kc
 - https://js.plainenglish.io/a-simple-introduction-to-threejs-9b060c1bb6e7
+- https://xiaoyunyang.medium.com/modeling-ui-states-in-a-react-form-component-using-a-finite-state-machine-d12a6258cd06
 
 ## Websites:
 

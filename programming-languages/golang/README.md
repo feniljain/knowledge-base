@@ -5,6 +5,7 @@
 ### Tutorials:
 
 - https://alysonn.medium.com/a-virtual-filesystem-in-go-creating-our-foundation-9af62b0e82db
+- https://www.brian.dev/self-contained-blog-server-with-go-1-16/
 
 ### Architecture:
 
@@ -131,6 +132,7 @@
 - https://reemishirsath.medium.com/uber-engineered-highest-query-per-second-using-golang-65f9a106aa25
 - https://dave.cheney.net/tag/godebug
 - https://pkg.go.dev/runtime
+- https://levelup.gitconnected.com/go-the-moment-when-cpu-context-switching-blindfolded-us-a7a6eabb2bc1
 
 ## Golang-nuts:
 
@@ -198,6 +200,7 @@
 - https://wablesushmita.medium.com/cpu-memory-profiling-with-golang-pprof-3deddbd7b964
 - https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices/
 - https://blog.golang.org/slices-intro
+- https://adayinthelifeof.nl/2021/03/04/go-map-vs-switch.html
 
 ## Go Learning:
 
@@ -214,6 +217,7 @@
 - https://medium.com/p-society/master-plan-to-learn-golang-edbf85c7ae83
 - Awesome collection of learning resources: https://github.com/inancgumus/learngo
 - https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6
+- https://docs.microsoft.com/en-us/learn/paths/go-first-steps/
 
 # Repos:
 

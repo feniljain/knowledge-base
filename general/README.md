@@ -35,6 +35,9 @@
 - https://github.com/mhxion/awesome-discord-communities
 - Skip phone no. auth: https://github.com/Narasimha1997/fake-sms
 - Download Khan Academy Courses: https://github.com/rand-net/khan-dl
+- https://github.com/RichardLitt/meta-knowledge
+- https://github.com/learn-anything/learn-anything
+- https://github.com/sindresorhus/awesome
 
 ## Free Creds:
 

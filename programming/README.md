@@ -63,6 +63,7 @@
 - https://medium.com/@kevinsmavani007/red-black-tree-47e3249cf17
 - https://javascript.plainenglish.io/the-10-most-popular-programming-articles-february-2021-57b6e162a791
 - https://dev.to/leviathanprogramming/share-your-ideas-what-great-projects-would-be-awesome-to-make-202
+- https://medium.com/pragmatic-programmers/parallel-architecture-312158a98d04
 
 ## Useful threads:
 

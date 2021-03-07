@@ -219,4 +219,5 @@
 - https://github.com/awesome-streamers/awesome-streamerrc/blob/master/MelkeyDev/init.vim
 - https://github.com/yutkat/dotfiles/blob/master/.config/nvim/init.lua
 - https://github.com/lilydjwg/dotvim
+- https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/
 

@@ -24,6 +24,7 @@
 - https://www.infoq.com/news/2021/02/modern-javascript-es2017-perform/
 - https://dev.to/spartakyste/the-promises-guide-i-would-have-loved-as-a-junior-developper-3621
 - https://medium.com/codex/golang-vs-node-js-214a9f9d0e00
+- https://medium.com/pragmatic-programmers/table-of-contents-3e389f19a7d8
 
 ## Libraries and packages and repos:
 

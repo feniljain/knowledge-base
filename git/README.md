@@ -18,6 +18,7 @@
 - https://www.geeksforgeeks.org/how-to-write-good-commit-messages-in-github/
 - Very good cheatsheet: https://github.com/arslanbilal/git-cheat-sheet
 - https://fullstackmaster.medium.com/conventional-git-commit-messages-and-linting-76e1fbb9e14a
+- https://pythonawesome.com/communicate-important-updates-to-your-team-via-git-commit-messages/
 
 ## Github Enhancements:
 

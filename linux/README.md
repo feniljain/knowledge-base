@@ -59,10 +59,15 @@
 - lookatme: Terminal markdown renderer
 - vifm: File manager
 - fresh: Go live reload
-- bacon: rust
 - mpsyt
 - tmux
 - bat
+
+### Rust
+
+- bacon: rust
+- cargo-watch
+- rusty-man
 
 ## Videos:
 
