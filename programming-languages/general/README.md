@@ -35,6 +35,7 @@
 
 - https://medium.com/swlh/8-companies-that-use-elixir-in-production-e79ca809d423
 - https://serokell.io/blog/history-of-erlang-and-elixir
+- https://itnext.io/building-git-in-elixir-part-1-2f2ec245df74
 
 ## Python:
 

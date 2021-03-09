@@ -37,6 +37,8 @@
 - https://stackabuse.com/get-total-size-of-a-directory-in-linux/
 - ZSH Cheatsheet: https://dev.to/twilio/zsh-tricks-to-blow-your-mind-291f
 - https://dzone.com/articles/linux-kernel-vs-memory-fragmentation-part-i
+- https://pythonawesome.com/a-windows-task-manager-lookalike-for-linux/
+- https://www.avaitla16.com/basics-of-curl
 
 ## Repos:
 

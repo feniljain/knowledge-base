@@ -49,7 +49,6 @@
 - K-on
 - Nisekoi
 - Boku no pico
-- Clannad
 - Chunnibyou
 - Hello World
 - Euphonium
@@ -99,8 +98,9 @@
 - Nijiro days
 - Rikei koi ga
 - 3D real girl
+- fog hill of 5 elements
 
-## Thriller:
+## Action and Thriller:
 
 - Shiki: Horror
 - Rainbow: Nisha Rokubou no Shichinin: Thriller
@@ -115,6 +115,7 @@
 - King of Thorn
 - Fate/Zero
 - Wonder Egg: The priority
+- Sword of a stranger: Movie action
 
 ## Shounen:
 
@@ -155,7 +156,6 @@
 - Tokyo Magnitude 8.0
 - Hi Score Girl
 - Sakura-sou no Pet na Kanojo
-- Blue Spring Ride
 - Boarding school Juliet
 - Kokoro connect
 - Tsurezure children
@@ -164,17 +164,15 @@
 - Tonari no kaibustsu-kun
 - Handa-kun
 - Boku to kimi no taisetsu na hanashi
-- sukasuka
+- Sukasuka
 - Kimi ni Todoke
 - Tomoko market
-- Blue spring ride
 - Tskuigakire
 - Masamune kuns revenge
 - The anthem of the heart
 - Kiznaiver
 - Wolf girl and Black Prince
 - Given
-- Ao hau ride
 - Wotaku ni Koi wa Muzukashii
 - Saenai Heroine no Sodatekata
 - Henneko

@@ -6,6 +6,8 @@
 
 - https://alysonn.medium.com/a-virtual-filesystem-in-go-creating-our-foundation-9af62b0e82db
 - https://www.brian.dev/self-contained-blog-server-with-go-1-16/
+- https://andrebritopassos.medium.com/logging-with-context-in-go-30366fa29d08
+- https://medium.com/swlh/nats-keep-alive-subscription-in-golang-a80073949371
 
 ### Architecture:
 
@@ -81,8 +83,7 @@
 - https://medium.com/better-programming/why-you-should-avoid-pointers-in-go-36724365a2a7
 - https://medium.com/vacatronics/20-go-packages-you-can-use-in-your-next-project-7515426559c0
 - https://leogtzr.medium.com/embed-files-in-go-877eeaab0cac
-- https://andrebritopassos.medium.com/logging-with-context-in-go-30366fa29d08
-- https://medium.com/swlh/nats-keep-alive-subscription-in-golang-a80073949371
+- https://michenriksen.com/blog/finding-evil-go-packages/
 
 ## Blog Series:
 

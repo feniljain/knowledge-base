@@ -44,6 +44,7 @@
 - https://www.reddit.com/r/neovim/comments/ljm7qc/eslint_and_prettier_with_built_in_lsp/
 - Using nvim for reading man pages: https://github.com/neovim/neovim/blob/5ce8158a5d462043306ee67a3261794f169bdb17/runtime/doc/filetype.txt#L509
 - https://chrisarcand.com/vims-new-cdo-command/
+- https://www.statox.fr/posts/vim/breaking_habits_floating_window/
 
 ## Vimscript:
 
@@ -208,6 +209,7 @@
 - https://philo.top/2021/02/14/golangvimdev/
 - Universal code formatter: https://github.com/google/vim-codefmt
 - Colorscheme for vim: https://github.com/srcery-colors
+- https://github.com/rcarriga/vim-ultest
 
 ## VimRCs for reference:
 

@@ -44,4 +44,5 @@
 - Algorithms in CPP: https://github.com/TheAlgorithms/C-Plus-Plus
 - Algorithms in C: https://github.com/TheAlgorithms
 - Algorithms in Golang: https://github.com/TheAlgorithms/Go
+- https://www.geeksforgeeks.org/modify-a-matrix-by-converting-each-element-to-xor-of-its-digits/
 

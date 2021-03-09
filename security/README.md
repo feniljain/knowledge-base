@@ -5,6 +5,7 @@
 - https://codeyourweb.medium.com/golang-for-computer-security-building-an-edr-part3-registry-and-startup-folder-persistence-b4f537f03d98
 - https://linearb.io/blog/scaling-security/
 - https://levelup.gitconnected.com/an-unwanted-injection-6a5b6bbc4582
+- https://dzone.com/articles/a-ctf-example-shows-you-the-easy-and-powerful-one
 
 ## Repos and tools:
 

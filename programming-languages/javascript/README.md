@@ -25,6 +25,7 @@
 - https://dev.to/spartakyste/the-promises-guide-i-would-have-loved-as-a-junior-developper-3621
 - https://medium.com/codex/golang-vs-node-js-214a9f9d0e00
 - https://medium.com/pragmatic-programmers/table-of-contents-3e389f19a7d8
+- https://blog.decipher.dev/how-you-should-not-write-code-or-javascript
 
 ## Libraries and packages and repos:
 
@@ -33,6 +34,7 @@
 - https://github.com/Marak/faker.js
 - https://github.com/N0v0cain3/HowNodeWorks
 - Complete js library for whatsapp: https://github.com/orkestral/venom
+- https://www.c-sharpcorner.com/uploadfile/e70b61/how-to-create-thumbnails-of-images-stored-in-database/
 
 ## APIs:
 

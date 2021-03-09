@@ -109,6 +109,7 @@
 - VCS in Rust: https://initialcommit.com/blog/pijul-version-control-system/#
 - https://www.youtube.com/embed/mdUg_mCuqhE
 - https://www.fpcomplete.com/blog/captures-closures-async/
+- Mapping between types of psql, diesel, rust: https://kotiri.com/2018/01/31/postgresql-diesel-rust-types.html
 
 ## Blog Series:
 
@@ -177,6 +178,7 @@
 - Safe Rust bridge for creating Erlang NIF functions: https://github.com/rusterlium/rustler
 - Rust parser combinator framework: https://github.com/Geal/nom
 - https://github.com/alexcrichton/bzip2-rs
+- Actix examples projects: https://github.com/actix/examples
 
 ## Videos:
 
@@ -257,6 +259,7 @@
 ## Official Rust Users website:
 
 - https://users.rust-lang.org/
+- https://users.rust-lang.org/t/beginner-projects-that-can-make-me-comfortable-with-rust/56422/25
 
 ## Interesting crates:
 
@@ -312,4 +315,5 @@
 - https://www.notion.so/CCSS-Devclub-Rust-Workshop-dccad2c1119d4af7bf78f3d3b4797603
 - https://fasterthanli.me/articles/a-half-hour-to-learn-rust
 - https://zsiciarz.github.io/24daysofrust/index.html
+- https://users.rust-lang.org/t/beginner-projects-that-can-make-me-comfortable-with-rust/56422/25
 

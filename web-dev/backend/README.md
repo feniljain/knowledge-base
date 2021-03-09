@@ -24,6 +24,7 @@
 - https://medium.com/@dunglas/using-the-103-early-hints-status-code-in-go-applications-d98b12fa990f
 - https://js.plainenglish.io/understanding-nodejs-performance-dc9f2673455e
 - https://www.infoq.com/news/2021/01/google-registry-api-alpha/
+- https://www.c-sharpcorner.com/uploadfile/e70b61/how-to-create-thumbnails-of-images-stored-in-database/
 
 ## Reddits and twitter threads:
 

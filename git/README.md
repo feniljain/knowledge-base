@@ -19,6 +19,7 @@
 - Very good cheatsheet: https://github.com/arslanbilal/git-cheat-sheet
 - https://fullstackmaster.medium.com/conventional-git-commit-messages-and-linting-76e1fbb9e14a
 - https://pythonawesome.com/communicate-important-updates-to-your-team-via-git-commit-messages/
+- https://www.freecodecamp.org/news/git-cheat-sheet/amp/
 
 ## Github Enhancements:
 
