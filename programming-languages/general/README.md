@@ -26,6 +26,10 @@
 
 ### Elixir:
 
+### Websites:
+
+- https://lunatic.solutions/
+
 ### Learning:
 
 - Learning book: https://medium.com/pragmatic-programmers/table-of-contents-28c6d9173c33
@@ -42,4 +46,5 @@
 ### Repos:
 
 - https://github.com/Asabeneh/30-Days-Of-Python
+- Attempt by dropbox to use LLVM as compiler backend to make python much faster: https://blog.pyston.org/
 

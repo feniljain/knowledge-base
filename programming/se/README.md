@@ -18,6 +18,7 @@
 - https://dzone.com/articles/agile-software-development-team-structure-looks-li
 - https://levelup.gitconnected.com/software-architect-path-2-engineering-management-scrum-4d46dd5aa77b
 - https://medium.com/pragmatic-programmers/table-of-contents-e8bf453fe2b4
+- https://mastanca.medium.com/clean-architecture-ddd-a-mixed-approach-773ab4623e14
 
 ## Blogs Series:
 

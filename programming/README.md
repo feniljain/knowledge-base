@@ -99,6 +99,9 @@
 - Complete js library for whatsapp: https://github.com/orkestral/venom
 - Download songs from various soures like gaana, itunes, etc.: https://github.com/deepjyoti30/ytmdl-web-v2
 - https://github.com/google/blockly
+- Self taught computer science: https://github.com/ossu/computer-science
+- https://dev.to/kethmars/what-are-3-non-tech-books-that-have-made-you-a-better-developer-and-person-497j
+- Mathematical viz engine used by 3blue1brown: https://github.com/3b1b/manim
 
 ## APIs:
 

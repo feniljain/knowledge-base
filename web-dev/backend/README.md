@@ -25,6 +25,7 @@
 - https://js.plainenglish.io/understanding-nodejs-performance-dc9f2673455e
 - https://www.infoq.com/news/2021/01/google-registry-api-alpha/
 - https://www.c-sharpcorner.com/uploadfile/e70b61/how-to-create-thumbnails-of-images-stored-in-database/
+- https://medium.com/att-israel/the-10-commandments-of-building-a-resilient-robust-scalable-and-never-fail-web-app-35ea504e3820
 
 ## Reddits and twitter threads:
 

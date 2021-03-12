@@ -7,6 +7,7 @@
 - Web Dev Roadmap in 2021: https://github.com/kamranahmedse/developer-roadmap
 - https://www.cloudflare.com/en-gb/learning/
 - https://js.plainenglish.io/understanding-nodejs-performance-dc9f2673455e
+- https://codeburst.io/web-monetization-api-a-new-web-monetization-alternative-eb72b5c58bd6
 
 ## Repos:
 

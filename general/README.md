@@ -21,6 +21,8 @@
 - https://reactjsexample.com/fast-and-accurate-react-renderer-for-notion/
 - https://www.infoworld.com/article/3601728/7-best-practices-for-remote-development-teams.html
 - https://entrepreneurshandbook.co/how-to-get-more-done-in-3-hours-than-most-do-in-a-week-c5bcdcff801e
+- https://medium.com/personal-growth/5-things-confident-people-dont-do-c24a4049c3a5
+- https://blog.andreizgirvaci.com/creating-a-slick-yet-accessible-email-signature
 
 ## Books:
 

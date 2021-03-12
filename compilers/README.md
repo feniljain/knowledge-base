@@ -6,6 +6,9 @@
 - Making dynamically typed language's compilation faster: https://mozilla.github.io/pdf.js/web/viewer.html
 - https://cfallin.org/blog/2020/09/18/cranelift-isel-1/
 - Incrementalized Pointer and Escape Analysis, Compiler optimization technique: https://people.csail.mit.edu/rinard/paper/pldi01.pdf
+- Yet another compiler visualizer: https://ashutoshbsathe.github.io/yacv/
+- https://suif.stanford.edu/dragonbook/
+- https://go.googlesource.com/gollvm
 
 ## Blogs and articles:
 

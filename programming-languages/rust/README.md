@@ -66,6 +66,7 @@
 - https://raytracing.github.io/books/RayTracingInOneWeekend.html
 - https://dev.to/xinnks/make-a-back-end-number-guessing-game-with-rust-1hkj
 - https://blogg.bekk.no/building-an-openstreetmap-app-in-rust-part-iv-d82ebc245381
+- https://buterajay.medium.com/sharing-state-in-rust-closures-e8f36d519e6a
 
 ### Others:
 
@@ -110,6 +111,7 @@
 - https://www.youtube.com/embed/mdUg_mCuqhE
 - https://www.fpcomplete.com/blog/captures-closures-async/
 - Mapping between types of psql, diesel, rust: https://kotiri.com/2018/01/31/postgresql-diesel-rust-types.html
+- https://blog.usejournal.com/6-useful-rust-macros-that-you-might-not-have-seen-before-59d1386f7bc5
 
 ## Blog Series:
 
@@ -225,6 +227,7 @@
 - Futures explained in 200 lines of rust: https://cfsamson.github.io/books-futures-explained/2_a_mental_model_for_futures.html
 - https://www.beginrust.com/
 - Performance Book: https://github.com/nnethercote/perf-book
+- Book on rust macros: https://danielkeep.github.io/tlborm/book/index.html
 
 ## Interesting Projects:
 

@@ -8,12 +8,15 @@
 - https://www.brian.dev/self-contained-blog-server-with-go-1-16/
 - https://andrebritopassos.medium.com/logging-with-context-in-go-30366fa29d08
 - https://medium.com/swlh/nats-keep-alive-subscription-in-golang-a80073949371
+- https://betterprogramming.pub/golang-feature-flags-a-simple-go-implementation-without-a-back-end-7c5c00078a58
+- https://medium.com/a-journey-with-go/go-debugging-with-delve-core-dumps-384145b2e8d9
 
 ### Architecture:
 
 - https://medium.com/lensesio/declarative-bdd-with-golang-3f5f6a1ac5a8
 - https://carlosmouter.medium.com/golang-test-mocking-using-dependency-injection-f48cddbcf6dd
 - https://medium.com/hackernoon/golang-clean-archithecture-efd6d7c43047
+- https://mastanca.medium.com/clean-architecture-ddd-a-mixed-approach-773ab4623e14
 
 ### Others:
 
@@ -84,6 +87,7 @@
 - https://medium.com/vacatronics/20-go-packages-you-can-use-in-your-next-project-7515426559c0
 - https://leogtzr.medium.com/embed-files-in-go-877eeaab0cac
 - https://michenriksen.com/blog/finding-evil-go-packages/
+- http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html
 
 ## Blog Series:
 
@@ -134,6 +138,7 @@
 - https://dave.cheney.net/tag/godebug
 - https://pkg.go.dev/runtime
 - https://levelup.gitconnected.com/go-the-moment-when-cpu-context-switching-blindfolded-us-a7a6eabb2bc1
+- https://medium.com/swlh/memory-optimizations-for-go-systems-48d95cf64a13
 
 ## Golang-nuts:
 
@@ -177,6 +182,7 @@
 - Release go projects as fast and easily as possible: https://goreleaser.com/
 - Alternate go compiler to build and run go apps easily: https://github.com/edgelesssys/ego
 - High level go lib. on top of AMQP: https://github.com/blokur/harego
+- GOLLVM: https://go.googlesource.com/gollvm
 
 ## Packages:
 
@@ -202,6 +208,7 @@
 - https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices/
 - https://blog.golang.org/slices-intro
 - https://adayinthelifeof.nl/2021/03/04/go-map-vs-switch.html
+- https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html
 
 ## Go Learning:
 

@@ -11,6 +11,8 @@
 - Everything about curl from daniel himself: https://everything.curl.dev/
 - https://themouseless.dev/
 - Merge pdfs from terminal: https://pdftk.en.softonic.com/
+- Early unix pdp11 emulator: http://pdp11.aiju.de/
+- Unix community forum like users.rust-lang.org: https://community.unix.com/
 
 ## Blogs and articles:
 
@@ -55,6 +57,7 @@
 - https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet
 - Terminal markdown viewer: https://github.com/d0c-s4vage/lookatme
 - https://github.com/sharkdp/bat
+- The earliest versions of the very first known c compiler: https://github.com/mortdeus/legacy-cc
 
 ## Terminal tools I use:
 
@@ -64,8 +67,13 @@
 - mpsyt
 - tmux
 - bat
+- w3m
+- cht.sh
+- gotop
+- htop
+- spotify-tui
 
-### Rust
+### Rust Dev
 
 - bacon: rust
 - cargo-watch

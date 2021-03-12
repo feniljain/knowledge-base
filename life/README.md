@@ -21,6 +21,7 @@
 - https://medium.com/personal-growth/4-things-productive-people-dont-do-1758a4d92998
 - https://business.tutsplus.com/tutorials/handling-employees-that-want-to-quit--cms-29546#:~:text=Get%20very%20clear%20about%20the,told%20any%20of%20their%20colleagues
 - https://medium.com/the-post-grad-survival-guide/5-signs-you-are-wasting-your-life-44e474935a53
+- https://forge.medium.com/how-to-plan-with-people-who-dont-like-to-plan-e360a92cd683
 
 ## Random quotes:
 

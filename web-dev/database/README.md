@@ -18,6 +18,8 @@
 - https://medium.com/better-programming/how-database-indexing-actually-works-ba6e19e75169
 - How to do faster data migrations in postgres, 8TB of data migration done: https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/faster-data-migrations-in-postgres/ba-p/2150850
 - Dolt, its Git for data: https://github.com/dolthub/dolt
+- Database Sharding: https://dev.to/renaissanceengineer/database-sharding-explained-2021-database-scaling-tutorial-5cej
+- https://calpaterson.com/ttl-hell.html
 
 ## Tutorials:
 
