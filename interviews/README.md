@@ -22,6 +22,7 @@
 - https://medium.com/swlh/3-interviews-5-questions-55bd4cae8b9f
 - https://medium.com/better-programming/10-unforgivable-phrases-developers-should-stop-saying-at-interviews-317fd976716b
 - https://gumroad.com/l/perfectresume
+- https://lars.hupel.info/articles/routing-the-interview/
 
 ## Golang interviews:
 

@@ -29,6 +29,7 @@
 - https://flutterawesome.com/a-vpn-app-template-built-with-flutter/
 - https://itnext.io/delayed-code-execution-in-flutter-23d60b51e76f
 - https://medium.com/better-programming/flutter-is-about-to-win-over-the-web-be0a205af03d
+- https://alphamikle.dev/why-should-you-use-isolates-in-flutter
 
 ## Videos:
 

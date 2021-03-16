@@ -45,6 +45,9 @@
 - Using nvim for reading man pages: https://github.com/neovim/neovim/blob/5ce8158a5d462043306ee67a3261794f169bdb17/runtime/doc/filetype.txt#L509
 - https://chrisarcand.com/vims-new-cdo-command/
 - https://www.statox.fr/posts/vim/breaking_habits_floating_window/
+- https://www.reddit.com/r/vim/comments/22ztqp/why_does_nerdtree_exist_whats_wrong_with_netrw/
+- https://vonheikemen.github.io/devlog/tools/using-netrw-vim-builtin-file-explorer/
+- https://stackoverflow.com/questions/1445992/vim-file-navigation
 
 ## Vimscript:
 
@@ -71,6 +74,7 @@
 - Good cheatsheet about everything in vim: https://github.com/mhinz/vim-galore
 - https://github.com/akrawchyk/awesome-vim
 - https://github.com/gdh1995/vimium-c
+- https://github.com/dofy/learn-vim
 
 ## General:
 
@@ -93,6 +97,14 @@
 - Type B in command mode and have a look at completions, try them out(u need fzf)
 - SCROLLING: Scroll Down: C-E, C-D, C-F, Scroll Up: C-Y, C-U, C-B
 - Use gO to get manpage outline
+- use ga on any char to get its ascii code
+- g< to open up last messages
+- gU{action} uppercases everything acc. to action, actions eg.: i{ -> in curly brackets, iw -> in word
+- gi jump back to last insert location
+- g/{search text}/norm! {command}
+- <Ctrl-W>= -> Make all splits equal
+- ={action} -> auto-ident lines according to action, eg. actions can be i} -> in curly braces
+- :dig -> use special characters
 
 ## StatusLine:
 
@@ -202,7 +214,7 @@
 - https://github.com/vimwiki/vimwiki
 - https://github.com/ap/vim-buftabline
 - https://github.com/mhinz/vim-signify
-- https://github.com/onsails/lspkind-nvim
+- VSCode like pictograms with lsp: https://github.com/onsails/lspkind-nvim
 - https://github.com/glepnir/galaxyline.nvim
 - https://github.com/chrisbra/Colorizer
 - https://github.com/vifm/vifm-colors
@@ -210,6 +222,8 @@
 - Universal code formatter: https://github.com/google/vim-codefmt
 - Colorscheme for vim: https://github.com/srcery-colors
 - https://github.com/rcarriga/vim-ultest
+- Language packs for a lot of common formats: https://github.com/sheerun/vim-polyglot(Good collection)
+- Distraction free writing in vim: https://github.com/junegunn/goyo.vim
 
 ## VimRCs for reference:
 
@@ -222,4 +236,6 @@
 - https://github.com/yutkat/dotfiles/blob/master/.config/nvim/init.lua
 - https://github.com/lilydjwg/dotvim
 - https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/
+- https://github.com/jchassoul/dotfiles/blob/master/config/vim/vimrc
+- https://github.com/siduck76/neovim-dots
 

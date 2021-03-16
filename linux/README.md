@@ -13,6 +13,7 @@
 - Merge pdfs from terminal: https://pdftk.en.softonic.com/
 - Early unix pdp11 emulator: http://pdp11.aiju.de/
 - Unix community forum like users.rust-lang.org: https://community.unix.com/
+- http://www.linuxfromscratch.org/lfs/
 
 ## Blogs and articles:
 
@@ -58,6 +59,8 @@
 - Terminal markdown viewer: https://github.com/d0c-s4vage/lookatme
 - https://github.com/sharkdp/bat
 - The earliest versions of the very first known c compiler: https://github.com/mortdeus/legacy-cc
+- https://github.com/vi/websocat
+- Core GNU utils rewritten in rust: https://github.com/uutils/coreutils
 
 ## Terminal tools I use:
 
@@ -72,6 +75,7 @@
 - gotop
 - htop
 - spotify-tui
+- wuzz
 
 ### Rust Dev
 
@@ -82,6 +86,7 @@
 ## Videos:
 
 - Using timeshift a-z: https://www.youtube.com/watch?v=qh08GvrUivc
+- Linux filesystem: https://youtu.be/42iQKuQodW4
 
 ## Courses:
 

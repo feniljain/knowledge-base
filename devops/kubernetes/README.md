@@ -27,6 +27,7 @@
 ## Repos:
 
 - Kubernetes 101 Series: https://github.com/geerlingguy/kubernetes-101
+- https://github.com/nats-io
 
 ## Tools:
 

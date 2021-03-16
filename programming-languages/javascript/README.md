@@ -26,6 +26,9 @@
 - https://medium.com/codex/golang-vs-node-js-214a9f9d0e00
 - https://medium.com/pragmatic-programmers/table-of-contents-3e389f19a7d8
 - https://blog.decipher.dev/how-you-should-not-write-code-or-javascript
+- https://itnext.io/the-art-of-type-programming-cfd933bdfff7
+- https://dev.to/trekhleb/gyro-web-accessing-the-device-orientation-in-javascript-2492
+- https://betterprogramming.pub/how-promises-actually-work-in-javascript-1c80b1af7193
 
 ## Libraries and packages and repos:
 

@@ -20,6 +20,9 @@
 - Dolt, its Git for data: https://github.com/dolthub/dolt
 - Database Sharding: https://dev.to/renaissanceengineer/database-sharding-explained-2021-database-scaling-tutorial-5cej
 - https://calpaterson.com/ttl-hell.html
+- https://dnlhg.com/posts/database-ux-ideas
+- https://www.datasciencecentral.com/profiles/blogs/why-is-database-backup-testing-important-for-your-business
+- https://www.datasciencecentral.com/profiles/blogs/best-practices-of-data-cleansing-1
 
 ## Tutorials:
 

@@ -26,6 +26,7 @@
 - https://dev.to/jameesy/how-to-get-out-of-tutorial-hell-be-more-like-tony-hawk-1md8
 - https://noyaml.com/
 - https://github.com/system76/launch
+- https://www.what-to-code.com/
 
 ## Blogs and Articles:
 
@@ -64,6 +65,8 @@
 - https://javascript.plainenglish.io/the-10-most-popular-programming-articles-february-2021-57b6e162a791
 - https://dev.to/leviathanprogramming/share-your-ideas-what-great-projects-would-be-awesome-to-make-202
 - https://medium.com/pragmatic-programmers/parallel-architecture-312158a98d04
+- https://fjolt.com/article/the-weirdest-programming-languages
+- https://medium.com/s/the-firewall/classified-the-art-of-restricting-personal-data-4aca5b3ffee
 
 ## Useful threads:
 
@@ -102,6 +105,7 @@
 - Self taught computer science: https://github.com/ossu/computer-science
 - https://dev.to/kethmars/what-are-3-non-tech-books-that-have-made-you-a-better-developer-and-person-497j
 - Mathematical viz engine used by 3blue1brown: https://github.com/3b1b/manim
+- https://github.com/LeCoupa/awesome-cheatsheets
 
 ## APIs:
 

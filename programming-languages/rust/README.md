@@ -67,6 +67,7 @@
 - https://dev.to/xinnks/make-a-back-end-number-guessing-game-with-rust-1hkj
 - https://blogg.bekk.no/building-an-openstreetmap-app-in-rust-part-iv-d82ebc245381
 - https://buterajay.medium.com/sharing-state-in-rust-closures-e8f36d519e6a
+- https://gill.net.in/posts/auth-microservice-rust-actix-web1.0-diesel-complete-tutorial/
 
 ### Others:
 
@@ -112,6 +113,7 @@
 - https://www.fpcomplete.com/blog/captures-closures-async/
 - Mapping between types of psql, diesel, rust: https://kotiri.com/2018/01/31/postgresql-diesel-rust-types.html
 - https://blog.usejournal.com/6-useful-rust-macros-that-you-might-not-have-seen-before-59d1386f7bc5
+- https://d3lm.medium.com/rust-beware-of-escape-sequences-85ec90e9e243/
 
 ## Blog Series:
 
@@ -181,6 +183,7 @@
 - Rust parser combinator framework: https://github.com/Geal/nom
 - https://github.com/alexcrichton/bzip2-rs
 - Actix examples projects: https://github.com/actix/examples
+- https://github.com/heim-rs/heim
 
 ## Videos:
 
@@ -234,6 +237,7 @@
 - https://github.com/htrefil/rkvm
 - Cross-platform GUI library for Rust: https://github.com/hecrj/iced
 - Futures-based QUIC implementation in Rust: https://github.com/quinn-rs/quinn
+- Rewrite of Core GNU utils in rust: https://github.com/uutils/coreutils/
 
 ## Dev.to, Medium and youtube project series:
 
@@ -258,6 +262,7 @@
 - Build a fast rest api with actix, psql and diesel: https://www.youtube.com/watch?v=ICVQ8yFhjuw
 - https://medium.com/the-polyglot-programmer/what-would-sqlite-would-look-like-if-written-in-rust-part-0-4fc192368984
 - Implementing your own cheatengine: https://lonami.dev/blog/woce-1/
+- https://nimrodshn.medium.com/writing-a-storage-engine-in-rust-writing-a-persistent-btree-part-1-916b6f3e2934
 
 ## Official Rust Users website:
 

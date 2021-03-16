@@ -8,10 +8,17 @@
 - https://www.cloudflare.com/en-gb/learning/
 - https://js.plainenglish.io/understanding-nodejs-performance-dc9f2673455e
 - https://codeburst.io/web-monetization-api-a-new-web-monetization-alternative-eb72b5c58bd6
+- https://dev.to/danytulumidis/5-daily-resources-for-web-developers-1dgg
+
+## Videos:
+
+- Browser hacking: Let's get the "Canvas Cycle" JS demo running in our Browser!: https://www.youtube.com/watch?v=b3a5V45LLss
 
 ## Repos:
 
 - https://github.com/microsoft/Web-Dev-For-Beginners
+- Single Sign-On Multi-Factor portal for web apps: https://github.com/authelia/authelia
+- Clones of various websites: https://github.com/GorvGoyl/Clone-Wars
 
 ## Web-assembly:
 
@@ -22,4 +29,5 @@
 - https://levelup.gitconnected.com/webassembly-and-the-wizards-of-hogwarts-bd7c09e5cadf
 - https://blog.logrocket.com/how-to-debug-wasm-and-achieve-a-reliable-stack-trace/
 - https://blog.bitsrc.io/debugging-webassembly-with-chrome-devtools-99dbad485451
+- https://github.com/WebAssembly
 

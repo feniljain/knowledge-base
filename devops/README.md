@@ -32,6 +32,7 @@
 - https://dzone.com/articles/the-2021-devops-trend-everyone-is-missing
 - https://dev.to/scrummastert/how-i-passed-the-aws-certified-developer-associate-exam-1336
 - https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad
+- https://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html
 
 ## Videos:
 
@@ -52,6 +53,7 @@
 - https://github.com/upgundecha/howtheyaws
 - https://endgame.readthedocs.io/en/latest/
 - https://github.com/salesforce/cloudsplaining
+- https://github.com/nats-io
 
 ## Threads:
 

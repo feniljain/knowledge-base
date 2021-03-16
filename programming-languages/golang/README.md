@@ -2,6 +2,11 @@
 
 ## Blogs and Articles:
 
+### Language features:
+
+- Type aliases change json.Unmarshal behaviour: https://groups.google.com/g/golang-nuts/c/k_qMPw4Anhc
+- Named return values: https://tour.golang.org/basics/7
+
 ### Tutorials:
 
 - https://alysonn.medium.com/a-virtual-filesystem-in-go-creating-our-foundation-9af62b0e82db
@@ -10,6 +15,10 @@
 - https://medium.com/swlh/nats-keep-alive-subscription-in-golang-a80073949371
 - https://betterprogramming.pub/golang-feature-flags-a-simple-go-implementation-without-a-back-end-7c5c00078a58
 - https://medium.com/a-journey-with-go/go-debugging-with-delve-core-dumps-384145b2e8d9
+- https://www.reddit.com/r/golang/comments/m4xmpf/containerize_your_go_developer_environment_series/
+- https://rahul-khanna.medium.com/your-first-golang-websocket-fx-data-fc1eb7db35f0
+- https://medium.com/geekculture/designing-a-websocket-server-in-golang-reformers-golang-implementation-strategy-bcd2dc9e368e
+- Unit testing using mongo go driver: https://medium.com/better-programming/unit-testing-code-using-the-mongo-go-driver-in-golang-7166d1aa72c0
 
 ### Architecture:
 
@@ -17,6 +26,8 @@
 - https://carlosmouter.medium.com/golang-test-mocking-using-dependency-injection-f48cddbcf6dd
 - https://medium.com/hackernoon/golang-clean-archithecture-efd6d7c43047
 - https://mastanca.medium.com/clean-architecture-ddd-a-mixed-approach-773ab4623e14
+- https://dave.cheney.net/2016/08/20/solid-go-design
+- https://levelup.gitconnected.com/the-command-pattern-with-go-fd5dabc84c7
 
 ### Others:
 
@@ -29,7 +40,6 @@
 - Interactive Playgrounds for everything: https://www.katacoda.com/
 - Best Practices ultimate go to guides: https://medium.com/@dgryski/idiomatic-go-resources-966535376dba
 - https://dave.cheney.net/practical-go/presentations/qcon-china.html
-- Unit testing using mongo go driver: https://medium.com/better-programming/unit-testing-code-using-the-mongo-go-driver-in-golang-7166d1aa72c0
 - Deobfuscating golang functions: https://medium.com/walmartglobaltech/de-ofuscating-golang-functions-93f610f4fb76
 - https://leogtzr.medium.com/how-to-use-makefiles-for-your-golang-development-b4c438fe0bdd
 - Go in 5 mins. : https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510
@@ -52,7 +62,7 @@
 - https://blog.golang.org/go15gc
 - https://syslog.ravelin.com/go-and-a-not-tiny-amount-of-memory-a7a9430d4d22
 - https://syslog.ravelin.com/further-dangers-of-large-heaps-in-go-7a267b57d487
-- https://lukechampine.com/hackmap.html?ref=hackernoon.com
+- https://lukechampine.com/hackmap.html
 - Good exmaples on producer-consumer pattern with use of error groups and wait groups: https://medium.com/@guy.grigsby/go-concurrency-producer-consumer-3ec79e852334
 - https://tokd.medium.com/fasthttp-proxy-server-in-golang-b6a049be05fb
 - A good article with a lot of new commands to learn about too: https://medium.com/swlh/the-dependency-jungle-841bd1c7bce0
@@ -74,7 +84,6 @@
 - https://www.reddit.com/r/rust/comments/lg0a7b/benchmarking_tokio_tasks_and_goroutines/
 - https://medium.com/p-society/pass-a-golang-job-interview-bfb6ea83b457
 - https://quii.gitbook.io/learn-go-with-tests/meta/anti-patterns
-- https://rahul-khanna.medium.com/your-first-golang-websocket-fx-data-fc1eb7db35f0
 - Drawbacks of append in golang: https://daryl-ng.medium.com/why-you-need-to-avoid-using-append-in-go-8c8502b5d0da
 - https://medium.com/better-programming/my-ultimate-makefile-for-golang-projects-fcc8ca20c9bb
 - https://petomalina.medium.com/you-dont-need-a-dockerfile-to-build-a-go-container-a511617235bf
@@ -183,6 +192,7 @@
 - Alternate go compiler to build and run go apps easily: https://github.com/edgelesssys/ego
 - High level go lib. on top of AMQP: https://github.com/blokur/harego
 - GOLLVM: https://go.googlesource.com/gollvm
+- Golang bot for instagram DM auomation: https://github.com/hbollon/IGopher
 
 ## Packages:
 
@@ -191,6 +201,7 @@
 - DI: https://github.com/elliotchance/dingo
 - DI: https://pkg.go.dev/go.uber.org/fx
 - https://pkg.go.dev/golang.org/x/sync/errgroup
+- Terminal string styling: https://github.com/jwalton/gchalk
 
 ## Go Internals:
 
@@ -209,6 +220,7 @@
 - https://blog.golang.org/slices-intro
 - https://adayinthelifeof.nl/2021/03/04/go-map-vs-switch.html
 - https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html
+- https://github.com/system-pclub/GCatch
 
 ## Go Learning:
 

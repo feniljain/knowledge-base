@@ -10,6 +10,7 @@
 - https://mehranjnf.medium.com/grpc-simple-way-424d90870de4
 - https://junereycasuga.medium.com/go-grpc-with-go-kit-ff8c9151d2c1
 - https://ideahitme.medium.com/videostreaming-2-n-rust-and-grpc-a90a38519743
+- https://leccajavier.medium.com/grpc-beautiful-architecture-d957d6d82316
 
 ## Repos:
 

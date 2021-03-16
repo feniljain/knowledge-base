@@ -12,6 +12,8 @@
 - https://eli.thegreenplace.net/2018/covariance-and-contravariance-in-subtyping/
 - Frameworks vs Libraries most simple eg.: https://medium.com/open-marketplace-applications/open-source-discovery-yew-rs-2213ff72c1db
 - What is a monad: https://stackoverflow.com/questions/44965/what-is-a-monad
+- https://erik-engheim.medium.com/the-case-against-curly-braces-languages-dd0a55840fcb
+- https://medium.com/swlh/the-easiest-language-to-learn-functional-programming-5cc5751a7cf0
 
 ## Repos:
 
@@ -40,8 +42,13 @@
 - https://medium.com/swlh/8-companies-that-use-elixir-in-production-e79ca809d423
 - https://serokell.io/blog/history-of-erlang-and-elixir
 - https://itnext.io/building-git-in-elixir-part-1-2f2ec245df74
+- https://itnext.io/building-apis-with-phoenix-framework-a7e280b7fa4a
 
 ## Python:
+
+### Blogs and articles:
+
+- https://towardsdatascience.com/why-decorators-in-python-are-pure-genius-1e812949a81e
 
 ### Repos:
 
