@@ -20,8 +20,14 @@
 - https://fullstackmaster.medium.com/conventional-git-commit-messages-and-linting-76e1fbb9e14a
 - https://pythonawesome.com/communicate-important-updates-to-your-team-via-git-commit-messages/
 - https://www.freecodecamp.org/news/git-cheat-sheet/amp/
+- How to make a draft PR: https://blog.idrisolubisi.com/how-to-create-github-draft-pull-requests
+- https://github.blog/2021-03-16-improving-large-monorepo-performance-on-github/
 
 ## Github Enhancements:
 
 - https://github.com/sindresorhus/refined-github
+
+## Learning:
+
+- https://vickyikechukwu.hashnode.dev/introduction-to-git-in-16-minutes
 

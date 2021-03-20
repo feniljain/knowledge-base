@@ -3,6 +3,7 @@
 ## Websites:
 
 - https://navana-tech.github.io/IS21SS-indicASRchallenge/data.html
+- Cheapest cloud gpus for deep learning: https://gpu.land/
 
 ## Repos:
 
@@ -16,4 +17,5 @@
 - https://github.com/openai/DALL-E
 - https://github.com/iperov/DeepFaceLab
 - https://github.com/google/trax
+- https://github.com/harskish/ganspace
 

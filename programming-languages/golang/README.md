@@ -19,6 +19,9 @@
 - https://rahul-khanna.medium.com/your-first-golang-websocket-fx-data-fc1eb7db35f0
 - https://medium.com/geekculture/designing-a-websocket-server-in-golang-reformers-golang-implementation-strategy-bcd2dc9e368e
 - Unit testing using mongo go driver: https://medium.com/better-programming/unit-testing-code-using-the-mongo-go-driver-in-golang-7166d1aa72c0
+- https://levelup.gitconnected.com/implement-a-finite-state-machine-in-golang-f0438b6bc0a8
+- https://medium.com/aigent/meet-nanoq-high-performance-brokerless-pub-sub-for-streaming-real-time-data-with-golang-6630d3067f4e
+- https://medium.com/ably-realtime/guide-to-pub-sub-in-golang-c3c259c8d63f
 
 ### Architecture:
 
@@ -193,6 +196,7 @@
 - High level go lib. on top of AMQP: https://github.com/blokur/harego
 - GOLLVM: https://go.googlesource.com/gollvm
 - Golang bot for instagram DM auomation: https://github.com/hbollon/IGopher
+- Update go-version without any manual hassle: https://github.com/udhos/update-golang
 
 ## Packages:
 
@@ -221,6 +225,7 @@
 - https://adayinthelifeof.nl/2021/03/04/go-map-vs-switch.html
 - https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html
 - https://github.com/system-pclub/GCatch
+- https://songlh.github.io/paper/gcatch.pdf
 
 ## Go Learning:
 

@@ -68,6 +68,10 @@
 - https://blogg.bekk.no/building-an-openstreetmap-app-in-rust-part-iv-d82ebc245381
 - https://buterajay.medium.com/sharing-state-in-rust-closures-e8f36d519e6a
 - https://gill.net.in/posts/auth-microservice-rust-actix-web1.0-diesel-complete-tutorial/
+- https://dev.to/xinnks/deploy-a-rust-website-on-heroku-1l45
+- https://manishearth.github.io/blog/2021/03/15/arenas-in-rust/
+- Using rustdoc(an extremely detaied guide): https://www.tangramvision.com/blog/making-great-docs-with-rustdoc
+- https://blog.urth.org/2021/03/14/writing-a-postgres-sql-pretty-printer-in-rust-part-1/
 
 ### Others:
 
@@ -114,6 +118,11 @@
 - Mapping between types of psql, diesel, rust: https://kotiri.com/2018/01/31/postgresql-diesel-rust-types.html
 - https://blog.usejournal.com/6-useful-rust-macros-that-you-might-not-have-seen-before-59d1386f7bc5
 - https://d3lm.medium.com/rust-beware-of-escape-sequences-85ec90e9e243/
+- Writing neovim plugins in rust: https://blog.usejournal.com/a-detailed-guide-to-writing-your-first-neovim-plugin-in-rust-a81604c606b1
+- Yet Another Performant Entity-Component System Library: https://jojolepro.com/blog/2021-01-13_planck_ecs/
+- Having pandas alternative in rust: https://able.bio/haixuanTao/data-manipulation-polars-vs-rust--3def44c8
+- A minimalist Rust WebAssembly project template: https://github.com/thedjinn/MiniWASM
+- https://cfallin.org/blog/2021/03/15/cranelift-isel-3/
 
 ## Blog Series:
 
@@ -134,6 +143,7 @@
 - Good collection of blogs and Rust: https://www.snoyman.com/blog/
 - Educational blog posts for rust beginners: https://github.com/pretzelhammer/rust-blog
 - https://togglebit.io/
+- https://cfallin.org/blog/
 
 ## Repos:
 
@@ -184,6 +194,7 @@
 - https://github.com/alexcrichton/bzip2-rs
 - Actix examples projects: https://github.com/actix/examples
 - https://github.com/heim-rs/heim
+- https://github.com/bottom-software-foundation/bottom-rs?ref=HackerTabExtension
 
 ## Videos:
 
@@ -277,6 +288,7 @@
 - https://github.com/rust-lang-nursery/failure
 - Cross-platform async lib for system info fetching: https://github.com/heim-rs/heim
 - Fast and correct computations with uncertain values: https://crates.io/crates/uncertain
+- https://davidkoloski.me/blog/rkyv-is-faster-than/
 
 ## Rust Internals:
 
@@ -297,6 +309,7 @@
 - https://www.reddit.com/r/rust/comments/2p7v6i/how_does_rust_language_eventually_become_machine/
 - https://gist.github.com/PoignardAzur/8038f5ed7dc8d00e3e9472aca57fb35c
 - https://cfallin.org/blog/2020/09/18/cranelift-isel-1/
+- https://kornel.ski/rust-c-speed
 
 ## Rust and security
 
@@ -324,4 +337,5 @@
 - https://fasterthanli.me/articles/a-half-hour-to-learn-rust
 - https://zsiciarz.github.io/24daysofrust/index.html
 - https://users.rust-lang.org/t/beginner-projects-that-can-make-me-comfortable-with-rust/56422/25
+- https://github.com/crazymykl/rust-koans
 

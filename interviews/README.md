@@ -4,7 +4,8 @@
 
 - https://leetfree.com/
 - https://yangshun.github.io/tech-interview-handbook/negotiation/
-- https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
+- https://www.teamblind.com/post/New-Year-Gift--
+- Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 - https://www.stopstalk.com/
 
 ## Blogs and Articles:

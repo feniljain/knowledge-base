@@ -33,6 +33,7 @@
 - https://dev.to/scrummastert/how-i-passed-the-aws-certified-developer-associate-exam-1336
 - https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad
 - https://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html
+- https://aws.amazon.com/blogs/aws/aws-fault-injection-simulator-use-controlled-experiments-to-boost-resilience/
 
 ## Videos:
 
@@ -54,6 +55,7 @@
 - https://endgame.readthedocs.io/en/latest/
 - https://github.com/salesforce/cloudsplaining
 - https://github.com/nats-io
+- https://github.com/haad/proxychains
 
 ## Threads:
 

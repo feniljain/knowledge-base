@@ -67,6 +67,8 @@
 - https://medium.com/pragmatic-programmers/parallel-architecture-312158a98d04
 - https://fjolt.com/article/the-weirdest-programming-languages
 - https://medium.com/s/the-firewall/classified-the-art-of-restricting-personal-data-4aca5b3ffee
+- https://dev.to/whitep4nth3r/my-twitch-live-coding-setup-in-obs-4he0
+- Adding your own serach engine in firefox: https://www.reddit.com/r/firefox/comments/61x5ps/possible_to_set_searx_as_search_engine_for/
 
 ## Useful threads:
 

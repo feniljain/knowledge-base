@@ -8,6 +8,7 @@
 - https://dzone.com/articles/a-ctf-example-shows-you-the-easy-and-powerful-one
 - https://medium.com/pinata/how-to-build-erc-721-nfts-with-ipfs-e76a21d8f914
 - https://www.imperva.com/blog/http-desync-attacks-and-defence-methods/
+- https://medium.com/swlh/why-lets-encrypt-is-a-really-really-really-bad-idea-d69308887801
 
 ## Repos and tools:
 

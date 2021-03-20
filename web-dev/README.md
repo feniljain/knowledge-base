@@ -9,6 +9,7 @@
 - https://js.plainenglish.io/understanding-nodejs-performance-dc9f2673455e
 - https://codeburst.io/web-monetization-api-a-new-web-monetization-alternative-eb72b5c58bd6
 - https://dev.to/danytulumidis/5-daily-resources-for-web-developers-1dgg
+- https://panopticlick.eff.org/static/browser-uniqueness.pdf
 
 ## Videos:
 

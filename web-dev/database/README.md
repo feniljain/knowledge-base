@@ -3,6 +3,7 @@
 ## Websites:
 
 - https://dzone.com/
+- https://dbdiagram.io/
 
 ## Blogs And Articles:
 
@@ -22,7 +23,8 @@
 - https://calpaterson.com/ttl-hell.html
 - https://dnlhg.com/posts/database-ux-ideas
 - https://www.datasciencecentral.com/profiles/blogs/why-is-database-backup-testing-important-for-your-business
-- https://www.datasciencecentral.com/profiles/blogs/best-practices-of-data-cleansing-1
+- https://www.datasciencecentral.com/profiles/blogs/best-practices-of-data-cleansing-1 -https://itnext.io/two-proven-tricks-to-keep-your-database-up-to-date-across-the-environments-a9b82fc3017d
+- https://raft.github.io/
 
 ## Tutorials:
 

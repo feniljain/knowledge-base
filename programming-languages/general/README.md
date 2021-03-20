@@ -14,6 +14,9 @@
 - What is a monad: https://stackoverflow.com/questions/44965/what-is-a-monad
 - https://erik-engheim.medium.com/the-case-against-curly-braces-languages-dd0a55840fcb
 - https://medium.com/swlh/the-easiest-language-to-learn-functional-programming-5cc5751a7cf0
+- https://bellmar.medium.com/programming-paradigms-as-language-destiny-f533607d5024
+- https://www.researchgate.net/publication/241111987_Programming_Paradigms_for_Dummies_What_Every_Programmer_Should_Know
+- Arenas in languages: https://manishearth.github.io/blog/2021/03/15/arenas-in-rust/
 
 ## Repos:
 

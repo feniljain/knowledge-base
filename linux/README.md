@@ -41,6 +41,14 @@
 - ZSH Cheatsheet: https://dev.to/twilio/zsh-tricks-to-blow-your-mind-291f
 - https://dzone.com/articles/linux-kernel-vs-memory-fragmentation-part-i
 - https://pythonawesome.com/a-windows-task-manager-lookalike-for-linux/
+- Nice collection of commands: https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/
+- https://levelup.gitconnected.com/5-super-handy-linux-commands-that-everyone-should-be-aware-of-a70b08d2c635
+- https://blog.learncodeonline.in/automating-linux-installation-using-vagrant-and-virtualbox
+- https://fedoramagazine.org/4-cool-new-projects-to-try-in-copr-for-march-2021/
+
+## Cheatsheets:
+
+- https://opensource.com/article/21/3/grep-cheat-sheet
 - https://www.avaitla16.com/basics-of-curl
 
 ## Repos:
@@ -61,10 +69,12 @@
 - The earliest versions of the very first known c compiler: https://github.com/mortdeus/legacy-cc
 - https://github.com/vi/websocat
 - Core GNU utils rewritten in rust: https://github.com/uutils/coreutils
+- https://github.com/flameshot-org/flameshot
 
 ## Terminal tools I use:
 
-- lookatme: Terminal markdown renderer
+- lookatme: Terminal markdown renderer in python
+- glow: Terminal markdown renderer in golang
 - vifm: File manager
 - fresh: Go live reload
 - mpsyt
@@ -76,6 +86,7 @@
 - htop
 - spotify-tui
 - wuzz
+- flameshot
 
 ### Rust Dev
 
@@ -105,4 +116,5 @@
 - https://github.com/yutakatay/dotfiles
 - https://github.com/yutkat/dotfiles
 - https://github.com/itchyny/dotfiles
+- https://github.com/kisancodes/dotfiles
 

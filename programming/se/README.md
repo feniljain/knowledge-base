@@ -24,6 +24,10 @@
 
 - https://www.tedinski.com/2018/01/16/how-humans-write-programs.html
 
+## Tweets and reddit threads:
+
+- https://twitter.com/macerub/status/1371147795873288199
+
 ## Books:
 
 - Scrum Book: https://medium.com/pragmatic-programmers/table-of-contents-88b09f36f711

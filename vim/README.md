@@ -48,6 +48,7 @@
 - https://www.reddit.com/r/vim/comments/22ztqp/why_does_nerdtree_exist_whats_wrong_with_netrw/
 - https://vonheikemen.github.io/devlog/tools/using-netrw-vim-builtin-file-explorer/
 - https://stackoverflow.com/questions/1445992/vim-file-navigation
+- https://blog.usejournal.com/a-detailed-guide-to-writing-your-first-neovim-plugin-in-rust-a81604c606b1
 
 ## Vimscript:
 
@@ -105,6 +106,7 @@
 - <Ctrl-W>= -> Make all splits equal
 - ={action} -> auto-ident lines according to action, eg. actions can be i} -> in curly braces
 - :dig -> use special characters
+- Performing calculations in vim: in insert mode type <C+r>= and do the calculation
 
 ## StatusLine:
 
@@ -227,7 +229,7 @@
 
 ## VimRCs for reference:
 
-- https://github.com/yunong/dotvim/blob/master/.vimrc#L199
+- https://github.com/yunong/dotvim/blob/master/.vimrc
 - https://github.com/awesome-streamers/awesome-streamerrc/blob/master/TheAltF4Stream/init.vim
 - https://github.com/petobens/dotfiles/blob/master/vim/init.vim
 - https://github.com/kutsan/dotfiles/tree/master/.config/nvim

@@ -18,6 +18,10 @@
 - https://dev.to/rinkiyakedad/kyverno-simplify-managing-k8s-clusters-2kej
 - https://dev.to/rwilsonreleaseapp/why-is-kubernetes-so-hard-i42
 
+## Blog series and articles:
+
+- https://dev.to/vascoalramos/learning-kubernetes-concepts-part-1-pb0
+
 ## Videos:
 
 - Implementing RBAC in kubenetes: https://www.youtube.com/watch?v=U67OwM-e9rQ

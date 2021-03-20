@@ -35,6 +35,9 @@
 - https://js.plainenglish.io/a-simple-introduction-to-threejs-9b060c1bb6e7
 - https://xiaoyunyang.medium.com/modeling-ui-states-in-a-react-form-component-using-a-finite-state-machine-d12a6258cd06
 - https://dev.to/abbeyperini/toggle-dark-mode-in-react-28c9
+- https://betterprogramming.pub/how-to-render-large-lists-faster-on-websites-and-apps-12c6389bf13e
+- https://dev.to/lucasandre/5-useful-sites-for-frontend-devs-1212
+- OP css animation ultimate collection: https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40
 
 ## Websites:
 

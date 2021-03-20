@@ -29,6 +29,8 @@
 - https://itnext.io/the-art-of-type-programming-cfd933bdfff7
 - https://dev.to/trekhleb/gyro-web-accessing-the-device-orientation-in-javascript-2492
 - https://betterprogramming.pub/how-promises-actually-work-in-javascript-1c80b1af7193
+- https://itnext.io/13-handy-rxjs-operators-ab5a9a1db60
+- https://dev.to/thomascullen/build-a-react-router-clone-from-scratch-38dp
 
 ## Libraries and packages and repos:
 
@@ -47,4 +49,10 @@
 ## Tweets:
 
 - Javascript repos: https://twitter.com/nirbhayvashisht/status/1348139619582238723
+
+# Typescript
+
+## Learning:
+
+- https://www.freecodecamp.org/news/learn-typescript-with-this-crash-course/
 

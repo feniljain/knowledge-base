@@ -31,6 +31,10 @@
 - https://medium.com/better-programming/flutter-is-about-to-win-over-the-web-be0a205af03d
 - https://alphamikle.dev/why-should-you-use-isolates-in-flutter
 
+## Flutter internals:
+
+- https://levelup.gitconnected.com/flutters-skia-engine-takes-cross-platform-app-development-to-a-new-level-85cc5f92ca9b
+
 ## Videos:
 
 - Preparing app for release: https://www.youtube.com/watch?v=nGvPNG-f1-o&feature=youtu.be
