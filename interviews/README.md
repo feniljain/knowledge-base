@@ -24,6 +24,7 @@
 - https://medium.com/better-programming/10-unforgivable-phrases-developers-should-stop-saying-at-interviews-317fd976716b
 - https://gumroad.com/l/perfectresume
 - https://lars.hupel.info/articles/routing-the-interview/
+- https://betterprogramming.pub/how-i-got-into-google-without-a-cs-degree-f1d3c0a3f10e
 
 ## Golang interviews:
 
@@ -37,6 +38,7 @@
 
 - https://twitter.com/ravinwashere/status/1346725573343657987
 - https://twitter.com/rmcomplexity/status/1346494114309828608
+- https://twitter.com/coolpythoncodes/status/1374400847036051463
 
 ## CC:
 

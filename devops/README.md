@@ -34,6 +34,9 @@
 - https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad
 - https://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html
 - https://aws.amazon.com/blogs/aws/aws-fault-injection-simulator-use-controlled-experiments-to-boost-resilience/
+- https://dev.to/mariehposa/achieving-continuous-integration-and-deployment-with-jenkins-4d6k
+- https://dev.to/aws-builders/solutions-architect-tips-the-5-types-of-architecture-diagrams-3pl3
+- https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/
 
 ## Videos:
 

@@ -58,3 +58,10 @@
 - https://github.com/Asabeneh/30-Days-Of-Python
 - Attempt by dropbox to use LLVM as compiler backend to make python much faster: https://blog.pyston.org/
 
+## CPP
+
+### Blogs and articles:
+
+- https://medium.com/pranayaggarwal25/coroutines-in-cpp-15afdf88e17e
+- https://en.cppreference.com/w/cpp/language/raii
+

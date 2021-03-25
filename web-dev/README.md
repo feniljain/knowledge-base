@@ -10,6 +10,7 @@
 - https://codeburst.io/web-monetization-api-a-new-web-monetization-alternative-eb72b5c58bd6
 - https://dev.to/danytulumidis/5-daily-resources-for-web-developers-1dgg
 - https://panopticlick.eff.org/static/browser-uniqueness.pdf
+- https://levelup.gitconnected.com/making-your-extension-compatible-with-both-chrome-and-firefox-ecc53b7e6ed2
 
 ## Videos:
 

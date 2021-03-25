@@ -9,6 +9,7 @@
 - https://medium.com/pinata/how-to-build-erc-721-nfts-with-ipfs-e76a21d8f914
 - https://www.imperva.com/blog/http-desync-attacks-and-defence-methods/
 - https://medium.com/swlh/why-lets-encrypt-is-a-really-really-really-bad-idea-d69308887801
+- https://medium.com/swlh/hacking-json-web-tokens-jwts-9122efe91e4a
 
 ## Repos and tools:
 
@@ -19,9 +20,7 @@
 - https://github.com/evilsocket/ditto
 - https://endgame.readthedocs.io/en/latest/
 - https://github.com/projectdiscovery/nuclei-templates
-
-## Tools:
-
+- https://github.com/Malfrats/xeuledoc
 - https://www.modsecurity.org/
 - https://github.com/salesforce/cloudsplaining
 

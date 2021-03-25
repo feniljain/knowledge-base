@@ -99,11 +99,13 @@
 - Rikei koi ga
 - 3D real girl
 - fog hill of 5 elements
+- Seitokai Yakuindomo
+- ID: Invaded
+- Dagashi Kashi: ref: https://twitter.com/AshGandawa/status/1372070107808202752
 
 ## Action and Thriller:
 
 - Shiki: Horror
-- Rainbow: Nisha Rokubou no Shichinin: Thriller
 - Mahou Shoujo Madoka★Magica: Thriller
 - Gyakkyou Burai Kaiji: Ultimate Survivor: Thriller
 - Gankutsuou: The Count of Monte Cristo: Thriller
@@ -119,7 +121,6 @@
 
 ## Shounen:
 
-- Bakemonogatari
 - Seven Deadly Sins
 
 ## Fiction & Mystery:
@@ -197,8 +198,7 @@
 ## Currently watching and reading:
 
 - Danshi Koukousei no nichijou(Daily lives of highschool boys)
-- Shiki
-- Daily life of the immortal king
+- Monogatari series
 - Dorohedero
 
 ## Manga To Read:
@@ -210,6 +210,10 @@
 
 - Ultimate mainstream recommendation list: https://imgur.com/q9Xjv4p
 - https://www.reddit.com/r/anime/wiki/recommendations
+
+## Repos:
+
+- https://github.com/holo-gfx/mangadex
 
 ## Anime Songs:
 
@@ -326,4 +330,6 @@
 - No. 6
 - Rainbow: Nisha Rokubou no Shichinin
 - Ao Haru Ride
+- Kimi ni todoke
+- Daily life of the immortal king
 

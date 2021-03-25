@@ -22,6 +22,12 @@
 - https://levelup.gitconnected.com/implement-a-finite-state-machine-in-golang-f0438b6bc0a8
 - https://medium.com/aigent/meet-nanoq-high-performance-brokerless-pub-sub-for-streaming-real-time-data-with-golang-6630d3067f4e
 - https://medium.com/ably-realtime/guide-to-pub-sub-in-golang-c3c259c8d63f
+- https://leogtzr.medium.com/how-to-use-makefiles-for-your-golang-development-b4c438fe0bdd
+- https://medium.com/swlh/dependency-injection-in-go-using-fx-6a623c5c5e01
+- Good exmaples on producer-consumer pattern with use of error groups and wait groups: https://medium.com/@guy.grigsby/go-concurrency-producer-consumer-3ec79e852334
+- Many2Many in GORM: https://arilaverty.medium.com/gorm-go-and-has-many-ceb5bb845f8e
+- https://itnext.io/capturing-metrics-with-gos-reverse-proxy-5c36cb20cb20
+- https://johanlejdung.medium.com/a-mini-guide-go-modules-and-private-repositories-fa94c3726cf1
 
 ### Architecture:
 
@@ -31,30 +37,31 @@
 - https://mastanca.medium.com/clean-architecture-ddd-a-mixed-approach-773ab4623e14
 - https://dave.cheney.net/2016/08/20/solid-go-design
 - https://levelup.gitconnected.com/the-command-pattern-with-go-fd5dabc84c7
+- https://medium.com/@diegoholiveira/how-im-organizing-my-go-applications-bc543f2316b2
+- https://blog.carlmjohnson.net/post/2020/go-cli-how-to-and-advice/
+- https://dzone.com/articles/tools-to-improve-your-golang-code-quality
+- Gin API Template: https://github.com/husseinraed/gin-api-template
+- https://levelup.gitconnected.com/a-practical-approach-to-structuring-go-applications-7f77d7f9c189
+- https://medium.com/swlh/go-decorator-pattern-2379974077b1
 
 ### Others:
 
 - https://bionic.fullstory.com/why-you-should-be-using-errgroup-withcontext-in-golang-server-handlers/
 - https://yourbasic.org/golang/
 - https://www.calhoun.io/guide-to-go/
-- https://blog.carlmjohnson.net/post/2020/go-cli-how-to-and-advice/
 - https://medium.com/@ozdemir.zynl/rest-api-error-handling-in-go-behavioral-type-assertion-509d93636afd
 - Ultimate Cheat Sheet of resources: https://docs.google.com/document/d/1Zb9GCWPKeEJ4Dyn2TkT-O3wJ8AFc-IMxZzTugNCjr-8/edit
 - Interactive Playgrounds for everything: https://www.katacoda.com/
 - Best Practices ultimate go to guides: https://medium.com/@dgryski/idiomatic-go-resources-966535376dba
 - https://dave.cheney.net/practical-go/presentations/qcon-china.html
 - Deobfuscating golang functions: https://medium.com/walmartglobaltech/de-ofuscating-golang-functions-93f610f4fb76
-- https://leogtzr.medium.com/how-to-use-makefiles-for-your-golang-development-b4c438fe0bdd
 - Go in 5 mins. : https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510
 - https://princepereira.medium.com/how-to-convert-function-name-to-string-and-same-back-to-function-call-in-golang-c6a2f3da0915
-- https://dzone.com/articles/tools-to-improve-your-golang-code-quality
 - Using SSE in golang: https://itnext.io/create-go-service-the-easy-way-iv-c1f6b91401c1?source=friends_link&sk=f5c0173302d5c4a3ebb883072deace34
-- Gin API Template: https://github.com/husseinraed/gin-api-template
 - Ideas for your next Go project: https://smoqadam.me/posts/a-few-ideas-for-your-next-go-project/
 - https://benjamincongdon.me/blog/2021/01/21/A-Tour-of-Go-116s-iofs-package
 - https://sergio-mendez-uruguay.medium.com/enum-go-cb466bb2f1fe
 - https://mert-akkaya.medium.com/5-secure-coding-tips-in-go-a3e5ec23d7fd
-- https://medium.com/swlh/dependency-injection-in-go-using-fx-6a623c5c5e01
 - https://devrajcoder.medium.com/why-go-compiles-so-fast-772435b6bd86
 - https://stackoverflow.com/questions/2976630/how-does-go-compile-so-quickly
 - https://dave.cheney.net/2017/06/11/go-without-package-scoped-variables
@@ -66,20 +73,15 @@
 - https://syslog.ravelin.com/go-and-a-not-tiny-amount-of-memory-a7a9430d4d22
 - https://syslog.ravelin.com/further-dangers-of-large-heaps-in-go-7a267b57d487
 - https://lukechampine.com/hackmap.html
-- Good exmaples on producer-consumer pattern with use of error groups and wait groups: https://medium.com/@guy.grigsby/go-concurrency-producer-consumer-3ec79e852334
 - https://tokd.medium.com/fasthttp-proxy-server-in-golang-b6a049be05fb
 - A good article with a lot of new commands to learn about too: https://medium.com/swlh/the-dependency-jungle-841bd1c7bce0
 - Decorator pattern: https://levelup.gitconnected.com/the-decorator-pattern-in-go-66ed951b0f7c
 - https://medium.com/@guy.grigsby/go-scatter-gather-pattern-a439c70afe16
 - https://blog.golang.org/pipelines
 - State of golang in 2021 currently: https://blog.jetbrains.com/go/2021/02/03/the-state-of-go/
-- Many2Many in GORM: https://arilaverty.medium.com/gorm-go-and-has-many-ceb5bb845f8e
 - https://medium.com/better-programming/3-pitfalls-in-golang-i-wish-i-knew-3f208a8402a7
-- https://johanlejdung.medium.com/a-mini-guide-go-modules-and-private-repositories-fa94c3726cf1
 - https://johnpili.medium.com/controller-requestmapping-in-golang-d2260d698cfa
 - https://medium.com/@ahmet9417/golang-thread-pool-and-scheduler-434dd094715a
-- https://levelup.gitconnected.com/a-practical-approach-to-structuring-go-applications-7f77d7f9c189
-- https://itnext.io/capturing-metrics-with-gos-reverse-proxy-5c36cb20cb20
 - https://life.wongnai.com/writing-a-custom-go-vet-for-better-code-standard-7dc8296b5513
 - https://threkk.medium.com/go-2-generics-in-4-minutes-fa50dda91d7c
 - https://wutch.medium.com/rust-ffi-vs-golang-ffi-cgo-59e6ea3a83c6
@@ -100,6 +102,7 @@
 - https://leogtzr.medium.com/embed-files-in-go-877eeaab0cac
 - https://michenriksen.com/blog/finding-evil-go-packages/
 - http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html
+- https://betterprogramming.pub/how-to-crack-the-top-25-golang-interview-questions-a94396d6c808
 
 ## Blog Series:
 
@@ -157,6 +160,7 @@
 - Code coverage discussion in golang: https://groups.google.com/g/golang-nuts/c/YC6A4DQEyl8
 - Why is closing channel not idempotent: https://groups.google.com/g/golang-nuts/c/_Q6FCjWIr18/m/J5Js1VogjIoJ?pli=1
 - Way to to use go.mod to contribute to open source projects: https://groups.google.com/g/golang-nuts/c/gjM1zVnd7Ek
+- Go mod versioning, how to turn automatic bump off: https://groups.google.com/g/golang-nuts/c/s2t_dDawRv0
 
 ## Websites:
 
@@ -197,6 +201,7 @@
 - GOLLVM: https://go.googlesource.com/gollvm
 - Golang bot for instagram DM auomation: https://github.com/hbollon/IGopher
 - Update go-version without any manual hassle: https://github.com/udhos/update-golang
+- https://github.com/golang/mobile
 
 ## Packages:
 
@@ -232,6 +237,7 @@
 # Blogs and articles:
 
 - https://medium.com/p-society/master-plan-to-learn-golang-edbf85c7ae83
+- https://www.calhoun.io/guide-to-go/
 
 # Courses:
 

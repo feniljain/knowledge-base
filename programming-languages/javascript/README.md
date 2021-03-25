@@ -30,7 +30,8 @@
 - https://dev.to/trekhleb/gyro-web-accessing-the-device-orientation-in-javascript-2492
 - https://betterprogramming.pub/how-promises-actually-work-in-javascript-1c80b1af7193
 - https://itnext.io/13-handy-rxjs-operators-ab5a9a1db60
-- https://dev.to/thomascullen/build-a-react-router-clone-from-scratch-38dp
+- https://www.lambdatest.com/blog/nodejs-best-practices/
+- https://dev.to/sanspanic/pure-vs-impure-functions-50aj
 
 ## Libraries and packages and repos:
 

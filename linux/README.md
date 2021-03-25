@@ -14,6 +14,7 @@
 - Early unix pdp11 emulator: http://pdp11.aiju.de/
 - Unix community forum like users.rust-lang.org: https://community.unix.com/
 - http://www.linuxfromscratch.org/lfs/
+- https://copy.sh/v86/
 
 ## Blogs and articles:
 
@@ -45,6 +46,10 @@
 - https://levelup.gitconnected.com/5-super-handy-linux-commands-that-everyone-should-be-aware-of-a70b08d2c635
 - https://blog.learncodeonline.in/automating-linux-installation-using-vagrant-and-virtualbox
 - https://fedoramagazine.org/4-cool-new-projects-to-try-in-copr-for-march-2021/
+- Showing image and video content on terminal: https://saitoha.github.io/libsixel/
+- https://blogs.gnome.org/tbernard/2021/03/22/drawing-mockups/
+- https://www.kernel.org/doc/html/latest/admin-guide/efi-stub.html
+- https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/
 
 ## Cheatsheets:
 
@@ -70,6 +75,8 @@
 - https://github.com/vi/websocat
 - Core GNU utils rewritten in rust: https://github.com/uutils/coreutils
 - https://github.com/flameshot-org/flameshot
+- Run a command using another linux machine power: https://github.com/Overv/outrun
+- https://github.com/willdoescode/nat
 
 ## Terminal tools I use:
 
@@ -107,6 +114,7 @@
 
 - Unixporn awesome video: https://www.reddit.com/r/linux/comments/l233rc/oc_linux_is_beautiful/
 - https://www.reddit.com/r/linuxquestions/comments/liwnkp/use_timeshift_for_backups_and_restore/
+- https://www.reddit.com/r/linux4noobs/comments/m9dt8l/how_do_linux_machines_allow_simultaneous_use_by/
 
 ## Config Repos:
 
@@ -117,4 +125,5 @@
 - https://github.com/yutkat/dotfiles
 - https://github.com/itchyny/dotfiles
 - https://github.com/kisancodes/dotfiles
+- https://github.com/mathiasbynens/dotfiles
 

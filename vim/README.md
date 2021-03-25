@@ -49,6 +49,7 @@
 - https://vonheikemen.github.io/devlog/tools/using-netrw-vim-builtin-file-explorer/
 - https://stackoverflow.com/questions/1445992/vim-file-navigation
 - https://blog.usejournal.com/a-detailed-guide-to-writing-your-first-neovim-plugin-in-rust-a81604c606b1
+- https://twitter.com/mfussenegger/status/1373626590253490178
 
 ## Vimscript:
 
@@ -71,6 +72,7 @@
 ## Repos:
 
 - Interesting IDE: https://github.com/onivim/oni2
+- https://github.com/taohexxx/navim
 - https://github.com/iggredible/Learn-Vim
 - Good cheatsheet about everything in vim: https://github.com/mhinz/vim-galore
 - https://github.com/akrawchyk/awesome-vim
@@ -226,6 +228,8 @@
 - https://github.com/rcarriga/vim-ultest
 - Language packs for a lot of common formats: https://github.com/sheerun/vim-polyglot(Good collection)
 - Distraction free writing in vim: https://github.com/junegunn/goyo.vim
+- https://github.com/glepnir/spaceline.vim
+- https://github.com/ghifarit53/tokyonight-vim
 
 ## VimRCs for reference:
 

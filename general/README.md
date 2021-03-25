@@ -13,6 +13,7 @@
 - slader.com
 - Collection of bitmap fonts: https://github.com/ianhan/BitmapFonts
 - Download songs from various soures like gaana, itunes, etc.: https://ytmdl.deepjyoti30.dev/
+- Ranks of reddit bots: https://botrank.pastimes.eu/
 
 ## Blogs and articles:
 
@@ -23,6 +24,11 @@
 - https://entrepreneurshandbook.co/how-to-get-more-done-in-3-hours-than-most-do-in-a-week-c5bcdcff801e
 - https://medium.com/personal-growth/5-things-confident-people-dont-do-c24a4049c3a5
 - https://blog.andreizgirvaci.com/creating-a-slick-yet-accessible-email-signature
+
+## Tools:
+
+- https://www.producthunt.com/posts/kbee
+- https://www.producthunt.com/posts/songlio
 
 ## Books:
 

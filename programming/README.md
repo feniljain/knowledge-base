@@ -27,6 +27,7 @@
 - https://noyaml.com/
 - https://github.com/system76/launch
 - https://www.what-to-code.com/
+- Graph based knowledge-base tool: https://obsidian.md/
 
 ## Blogs and Articles:
 
@@ -69,6 +70,10 @@
 - https://medium.com/s/the-firewall/classified-the-art-of-restricting-personal-data-4aca5b3ffee
 - https://dev.to/whitep4nth3r/my-twitch-live-coding-setup-in-obs-4he0
 - Adding your own serach engine in firefox: https://www.reddit.com/r/firefox/comments/61x5ps/possible_to_set_searx_as_search_engine_for/
+- https://habr.com/en/company/hetmansoftware/blog/548032/
+- https://alimammiya.hashnode.dev/c-programming-course-for-free
+- https://medium.com/pragmatic-programmers/directory-of-pragmatic-programmer-books-on-medium-6a5cbadbd4b4
+- https://rossulbricht.medium.com/decentralize-social-media-cc47dcfd4f99
 
 ## Useful threads:
 
@@ -125,6 +130,7 @@
 - Sam Newman's Building Distributed Systems
 - Brendan Burns Designing Distributed Systems
 - Alex Petrov's Database Internals
+- https://medium.com/pragmatic-programmers/directory-of-pragmatic-programmer-books-on-medium-6a5cbadbd4b4
 
 ## Tools:
 

@@ -72,6 +72,7 @@
 - https://manishearth.github.io/blog/2021/03/15/arenas-in-rust/
 - Using rustdoc(an extremely detaied guide): https://www.tangramvision.com/blog/making-great-docs-with-rustdoc
 - https://blog.urth.org/2021/03/14/writing-a-postgres-sql-pretty-printer-in-rust-part-1/
+- https://medium.com/@knoldus/schedule-the-program-in-rust-a368f710a17f
 
 ### Others:
 
@@ -123,6 +124,7 @@
 - Having pandas alternative in rust: https://able.bio/haixuanTao/data-manipulation-polars-vs-rust--3def44c8
 - A minimalist Rust WebAssembly project template: https://github.com/thedjinn/MiniWASM
 - https://cfallin.org/blog/2021/03/15/cranelift-isel-3/
+- Lit article: https://medium.com/@polyglot_factotum/rust-concurrency-five-easy-pieces-871f1c62906a
 
 ## Blog Series:
 
@@ -194,7 +196,8 @@
 - https://github.com/alexcrichton/bzip2-rs
 - Actix examples projects: https://github.com/actix/examples
 - https://github.com/heim-rs/heim
-- https://github.com/bottom-software-foundation/bottom-rs?ref=HackerTabExtension
+- https://github.com/bottom-software-foundation/bottom-rs
+- Server HTTPS with Rust and Tide using automatic certificates from Lets encrypt: and https://github.com/http-rs/tide-acme
 
 ## Videos:
 
@@ -274,6 +277,7 @@
 - https://medium.com/the-polyglot-programmer/what-would-sqlite-would-look-like-if-written-in-rust-part-0-4fc192368984
 - Implementing your own cheatengine: https://lonami.dev/blog/woce-1/
 - https://nimrodshn.medium.com/writing-a-storage-engine-in-rust-writing-a-persistent-btree-part-1-916b6f3e2934
+- https://dev.to/nheindev/build-the-hello-world-of-blockchain-in-go-bli
 
 ## Official Rust Users website:
 

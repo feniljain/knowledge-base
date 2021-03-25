@@ -38,6 +38,13 @@
 - https://betterprogramming.pub/how-to-render-large-lists-faster-on-websites-and-apps-12c6389bf13e
 - https://dev.to/lucasandre/5-useful-sites-for-frontend-devs-1212
 - OP css animation ultimate collection: https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40
+- React vs Vue: https://dzone.com/articles/react-vs-vue-in-2021-best-javascript-framework
+- https://www.lambdatest.com/blog/nodejs-best-practices/
+- https://daily.dev/blog/tailwind-css-jit-compiler-first-impression
+- https://codeadrian.hashnode.dev/improving-website-performance-by-eliminating-render-blocking-css-and-javascript
+- https://dev.to/mbellagamba/data-fetching-react-hook-4dfc
+- https://dev.to/prnvbirajdar/my-first-portfolio-website-using-next-tailwind-and-typescript-4lg3
+- https://dev.to/anuradha9712/debouncing-v-s-throttling-lb2
 
 ## Websites:
 
@@ -54,6 +61,7 @@
 - Make your own React renderer: https://github.com/facebook/react/tree/master/packages/react-reconciler
 - 30 Days of React: https://github.com/Asabeneh/30-Days-Of-React
 - https://github.com/Serial-Studio/Serial-Studio
+- Ready to go customer chat: https://github.com/papercups-io/papercups
 
 ## Packages:
 
@@ -62,4 +70,8 @@
 ## Tweets:
 
 - Templates: https://twitter.com/sunilc_/status/1347962741789626370
+
+## Learning:
+
+- https://dev.to/adiatiayu/10-free-and-affordable-resources-to-learn-frontend-web-development-1ehb
 

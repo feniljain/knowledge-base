@@ -30,6 +30,8 @@
 - https://itnext.io/delayed-code-execution-in-flutter-23d60b51e76f
 - https://medium.com/better-programming/flutter-is-about-to-win-over-the-web-be0a205af03d
 - https://alphamikle.dev/why-should-you-use-isolates-in-flutter
+- https://blog.albertobonacina.com/foldables-and-flutter-very-interesting-duo
+- https://flutteragency.com/ssl-pinning-via-self-generated-signed-certificates/
 
 ## Flutter internals:
 
@@ -62,7 +64,12 @@
 
 # Android
 
+## Websites:
+
+- No-code app dev: https://www.appsheet.com/
+
 ## Repos:
 
 - https://github.com/airbnb/mavericks
+- https://github.com/google/accompanist
 

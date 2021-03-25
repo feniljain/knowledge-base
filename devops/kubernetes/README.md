@@ -17,10 +17,15 @@
 - https://openai.com/blog/scaling-kubernetes-to-7500-nodes/
 - https://dev.to/rinkiyakedad/kyverno-simplify-managing-k8s-clusters-2kej
 - https://dev.to/rwilsonreleaseapp/why-is-kubernetes-so-hard-i42
+- https://twitter.com/bibryam/status/1373583176212299776
 
-## Blog series and articles:
+## Blog series:
 
 - https://dev.to/vascoalramos/learning-kubernetes-concepts-part-1-pb0
+
+## Reddit and twitter threads:
+
+- 47 things to become a kubernetes expert: https://twitter.com/bibryam/status/1373583176212299776
 
 ## Videos:
 

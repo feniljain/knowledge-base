@@ -25,6 +25,7 @@
 - https://www.datasciencecentral.com/profiles/blogs/why-is-database-backup-testing-important-for-your-business
 - https://www.datasciencecentral.com/profiles/blogs/best-practices-of-data-cleansing-1 -https://itnext.io/two-proven-tricks-to-keep-your-database-up-to-date-across-the-environments-a9b82fc3017d
 - https://raft.github.io/
+- https://scalegrid.io/blog/which-is-the-best-postgresql-gui-2019-comparison/
 
 ## Tutorials:
 
@@ -33,4 +34,5 @@
 ## Repos:
 
 - https://github.com/jameycribbs/hare
+- https://github.com/RedisJSON/RedisJSON
 

@@ -22,6 +22,8 @@
 - https://www.freecodecamp.org/news/git-cheat-sheet/amp/
 - How to make a draft PR: https://blog.idrisolubisi.com/how-to-create-github-draft-pull-requests
 - https://github.blog/2021-03-16-improving-large-monorepo-performance-on-github/
+- https://semaphoreci.com/blog/what-is-monorepo
+- https://github.com/irevenko/octotui
 
 ## Github Enhancements:
 
