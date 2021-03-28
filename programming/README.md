@@ -28,6 +28,7 @@
 - https://github.com/system76/launch
 - https://www.what-to-code.com/
 - Graph based knowledge-base tool: https://obsidian.md/
+- https://www.producthunt.com/posts/vs-code-theme-studio
 
 ## Blogs and Articles:
 
@@ -74,6 +75,9 @@
 - https://alimammiya.hashnode.dev/c-programming-course-for-free
 - https://medium.com/pragmatic-programmers/directory-of-pragmatic-programmer-books-on-medium-6a5cbadbd4b4
 - https://rossulbricht.medium.com/decentralize-social-media-cc47dcfd4f99
+- https://medium.com/geekculture/how-i-create-a-whatsapp-rest-api-and-cli-to-automate-my-messages-with-golang-part-1-3dd5b805462
+- https://opensource.com/article/21/3/open-source-tools-web-design
+- Explaining under the hood workings for various technologies: https://craigtaub.dev/introducing-my-under-the-hood-of-series
 
 ## Useful threads:
 
@@ -113,6 +117,8 @@
 - https://dev.to/kethmars/what-are-3-non-tech-books-that-have-made-you-a-better-developer-and-person-497j
 - Mathematical viz engine used by 3blue1brown: https://github.com/3b1b/manim
 - https://github.com/LeCoupa/awesome-cheatsheets
+- https://github.com/microsoft/codetour
+- https://github.com/doctolib/code-tours-github
 
 ## APIs:
 

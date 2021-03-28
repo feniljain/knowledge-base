@@ -29,6 +29,11 @@
 ## Golang interviews:
 
 - https://medium.com/p-society/pass-a-golang-job-interview-bfb6ea83b457
+- https://dev.to/educative/crack-the-top-50-golang-interview-questions-384i
+
+## SQL interviews:
+
+- https://towardsdatascience.com/crack-data-science-interviews-advanced-sql-skills-in-2021-322fef819c6c
 
 ## Repos:
 
@@ -49,4 +54,6 @@
 - Algorithms in C: https://github.com/TheAlgorithms
 - Algorithms in Golang: https://github.com/TheAlgorithms/Go
 - https://www.geeksforgeeks.org/modify-a-matrix-by-converting-each-element-to-xor-of-its-digits/
+- https://www.geeksforgeeks.org/left-rotate-digits-of-node-values-of-all-levels-of-a-binary-tree-in-increasing-order/
+- https://dev.to/thatanjan/everything-you-need-to-know-about-tree-data-structure-2c02
 

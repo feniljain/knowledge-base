@@ -24,6 +24,13 @@
 - https://github.blog/2021-03-16-improving-large-monorepo-performance-on-github/
 - https://semaphoreci.com/blog/what-is-monorepo
 - https://github.com/irevenko/octotui
+- https://acompiler.com/git-best-practices/
+- Interesting guide: https://dzone.com/articles/git-reset-head
+- https://dev.to/leah_m_vogel/tags-vs-branches-in-git-4pm
+
+## Git Internals:
+
+- https://dev.to/craigtaub/under-the-hood-of-git-309f
 
 ## Github Enhancements:
 

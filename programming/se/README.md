@@ -19,6 +19,8 @@
 - https://levelup.gitconnected.com/software-architect-path-2-engineering-management-scrum-4d46dd5aa77b
 - https://medium.com/pragmatic-programmers/table-of-contents-e8bf453fe2b4
 - https://mastanca.medium.com/clean-architecture-ddd-a-mixed-approach-773ab4623e14
+- https://medium.com/serious-scrum/sorry-scrum-the-game-might-be-over-for-you-915227f3a0d
+- https://www.bennadel.com/blog/4014-the-coldfusion-monolith-allows-my-team-to-move-fast-and-deploy-hella-often.htm
 
 ## Blogs Series:
 

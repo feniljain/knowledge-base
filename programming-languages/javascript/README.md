@@ -32,6 +32,8 @@
 - https://itnext.io/13-handy-rxjs-operators-ab5a9a1db60
 - https://www.lambdatest.com/blog/nodejs-best-practices/
 - https://dev.to/sanspanic/pure-vs-impure-functions-50aj
+- https://javascript.whenprogramming.com/17-great-articles-about-javascript-7c2a5f062ea3
+- https://dev.to/evansibok/introduction-to-typescript-and-its-basic-types-47i0
 
 ## Libraries and packages and repos:
 

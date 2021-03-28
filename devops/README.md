@@ -37,6 +37,10 @@
 - https://dev.to/mariehposa/achieving-continuous-integration-and-deployment-with-jenkins-4d6k
 - https://dev.to/aws-builders/solutions-architect-tips-the-5-types-of-architecture-diagrams-3pl3
 - https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/
+- https://iximiuz.com/en/posts/container-networking-is-simple/
+- https://towardsdev.com/why-proxy-pattern-9422c76caee7
+- https://blog.cloudflare.com/route-leak-detection/
+- https://blog.codecentric.de/en/2021/03/fargate-with-efs-and-aurora-serverless-using-aws-cdk/
 
 ## Videos:
 

@@ -45,6 +45,9 @@
 - https://dev.to/mbellagamba/data-fetching-react-hook-4dfc
 - https://dev.to/prnvbirajdar/my-first-portfolio-website-using-next-tailwind-and-typescript-4lg3
 - https://dev.to/anuradha9712/debouncing-v-s-throttling-lb2
+- https://betterprogramming.pub/how-to-improve-rendering-performance-in-a-1-000-item-react-list-85be129b8c0d
+- https://javascript.plainenglish.io/clean-architecture-vuex-by-example-a65cf2c18d5f
+- https://blog.yogeshchavan.dev/speed-up-your-coding-using-emmet-a-really-powerful-tool-1
 
 ## Websites:
 
@@ -62,6 +65,7 @@
 - 30 Days of React: https://github.com/Asabeneh/30-Days-Of-React
 - https://github.com/Serial-Studio/Serial-Studio
 - Ready to go customer chat: https://github.com/papercups-io/papercups
+- https://github.com/alexgurr/react-coding-challenges
 
 ## Packages:
 
@@ -74,4 +78,14 @@
 ## Learning:
 
 - https://dev.to/adiatiayu/10-free-and-affordable-resources-to-learn-frontend-web-development-1ehb
+
+# CSS:
+
+## Websites:
+
+## Blogs And Articles:
+
+- https://www.sitepoint.com/css-path-function-squeaky-portraits/
+- https://hulyakarakaya.hashnode.dev/level-up-your-css-with-these-39-resources
+- https://famzil.medium.com/how-to-remove-unused-css-in-your-website-dfa9d2067679
 

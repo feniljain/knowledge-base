@@ -10,6 +10,7 @@
 - https://www.imperva.com/blog/http-desync-attacks-and-defence-methods/
 - https://medium.com/swlh/why-lets-encrypt-is-a-really-really-really-bad-idea-d69308887801
 - https://medium.com/swlh/hacking-json-web-tokens-jwts-9122efe91e4a
+- https://fingerprintjs.com/blog/audio-fingerprinting/
 
 ## Repos and tools:
 

@@ -29,7 +29,6 @@
 - http://vimcasts.org/blog/2011/05/the-fugitive-series/
 - https://stackoverflow.com/questions/tagged/vim?tab=votes&pagesize=50
 - https://stackoverflow.com/questions/1218390/what-is-your-most-productive-shortcut-with-vim
-- Good resources for learning vimscript, lua, etc. https://www.reddit.com/r/neovim/comments/l1mne8/learning_vimscript_vs_lua/
 - https://countvajhula.com/2021/01/21/vim-tip-of-the-day-a-series/
 - Some really good tips: https://jdhao.github.io/2021/01/07/nifty_nvim_techniques_s9/
 - Hardcore vanilla vim user views: https://gist.github.com/romainl/6b952db7a6138b48657ba0fbb9d65370
@@ -37,19 +36,25 @@
 - https://nazarii.bardiuk.com/posts/vim-curl.html
 - https://linuxhint.com/how_vim_buffers_work/
 - Everything about vim buffers:https://vim.fandom.com/wiki/Buffers
-- https://www.reddit.com/r/neovim/comments/lcqele/vscodelike_completion_icons/
 - https://icyphox.sh/blog/nvim-lua/
 - https://learnxinyminutes.com/docs/lua/
 - https://github.com/nanotee/nvim-lua-guide
-- https://www.reddit.com/r/neovim/comments/ljm7qc/eslint_and_prettier_with_built_in_lsp/
 - Using nvim for reading man pages: https://github.com/neovim/neovim/blob/5ce8158a5d462043306ee67a3261794f169bdb17/runtime/doc/filetype.txt#L509
 - https://chrisarcand.com/vims-new-cdo-command/
 - https://www.statox.fr/posts/vim/breaking_habits_floating_window/
-- https://www.reddit.com/r/vim/comments/22ztqp/why_does_nerdtree_exist_whats_wrong_with_netrw/
 - https://vonheikemen.github.io/devlog/tools/using-netrw-vim-builtin-file-explorer/
 - https://stackoverflow.com/questions/1445992/vim-file-navigation
 - https://blog.usejournal.com/a-detailed-guide-to-writing-your-first-neovim-plugin-in-rust-a81604c606b1
 - https://twitter.com/mfussenegger/status/1373626590253490178
+
+## Reddit threads:
+
+- https://www.reddit.com/r/vim/comments/mcwt62/made_my_first_vim_plugin_mine_sweeping_in_vim_and/
+- https://www.reddit.com/r/vim/comments/22ztqp/why_does_nerdtree_exist_whats_wrong_with_netrw/
+- https://www.reddit.com/r/neovim/comments/ljm7qc/eslint_and_prettier_with_built_in_lsp/
+- https://www.reddit.com/r/neovim/comments/lcqele/vscodelike_completion_icons/
+- Good resources for learning vimscript, lua, etc. https://www.reddit.com/r/neovim/comments/l1mne8/learning_vimscript_vs_lua/
+- https://www.reddit.com/r/neovim/comments/lboe92/people_who_rewrote_their_initnvim_in_lua_was_it/
 
 ## Vimscript:
 
@@ -78,6 +83,7 @@
 - https://github.com/akrawchyk/awesome-vim
 - https://github.com/gdh1995/vimium-c
 - https://github.com/dofy/learn-vim
+- https://github.com/rockerBOO/awesome-neovim
 
 ## General:
 
@@ -230,6 +236,11 @@
 - Distraction free writing in vim: https://github.com/junegunn/goyo.vim
 - https://github.com/glepnir/spaceline.vim
 - https://github.com/ghifarit53/tokyonight-vim
+- https://github.com/ruanyl/vim-gh-line
+- https://github.com/JoosepAlviste/nvim-ts-context-commentstring
+- https://github.com/beauwilliams/statusline.lua
+- https://github.com/romgrk/barbar.nvim
+- https://github.com/lervag/vimtex
 
 ## VimRCs for reference:
 

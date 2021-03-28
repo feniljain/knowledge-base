@@ -29,6 +29,8 @@
 - https://itnext.io/http-compression-boost-your-servers-speed-a5bad6403452
 - Latency numbers every programmer should know(awesome): https://gist.github.com/hellerbarde/2843375
 - Good article on using JWT safely: https://medium.com/swlh/hacking-json-web-tokens-jwts-9122efe91e4a
+- Best practices for JWTs: https://tools.ietf.org/html/draft-ietf-oauth-jwt-bcp-07
+- https://blog.cloudflare.com/data-loss-prevention/
 
 ## Reddits and twitter threads:
 

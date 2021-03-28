@@ -22,6 +22,7 @@
 ## Blog series:
 
 - https://dev.to/vascoalramos/learning-kubernetes-concepts-part-1-pb0
+- https://iximiuz.com/en/
 
 ## Reddit and twitter threads:
 

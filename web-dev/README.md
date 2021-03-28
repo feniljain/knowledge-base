@@ -11,6 +11,8 @@
 - https://dev.to/danytulumidis/5-daily-resources-for-web-developers-1dgg
 - https://panopticlick.eff.org/static/browser-uniqueness.pdf
 - https://levelup.gitconnected.com/making-your-extension-compatible-with-both-chrome-and-firefox-ecc53b7e6ed2
+- https://slack.engineering/client-tracing-understanding-mobile-and-desktop-application-performance-at-scale/
+- https://andrewbaisden.hashnode.dev/50-cool-web-and-mobile-project-ideas-for-2021
 
 ## Videos:
 
@@ -21,6 +23,7 @@
 - https://github.com/microsoft/Web-Dev-For-Beginners
 - Single Sign-On Multi-Factor portal for web apps: https://github.com/authelia/authelia
 - Clones of various websites: https://github.com/GorvGoyl/Clone-Wars
+- https://fingerprintjs.com/blog/audio-fingerprinting/
 
 ## Web-assembly:
 

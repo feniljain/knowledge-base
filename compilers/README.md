@@ -15,4 +15,5 @@
 
 - https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/
 - https://blog.llvm.org/
+- https://en.wikipedia.org/wiki/Static_single_assignment_form
 

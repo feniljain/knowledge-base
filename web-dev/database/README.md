@@ -26,6 +26,10 @@
 - https://www.datasciencecentral.com/profiles/blogs/best-practices-of-data-cleansing-1 -https://itnext.io/two-proven-tricks-to-keep-your-database-up-to-date-across-the-environments-a9b82fc3017d
 - https://raft.github.io/
 - https://scalegrid.io/blog/which-is-the-best-postgresql-gui-2019-comparison/
+- https://blog.couchbase.com/distributed-multi-document-acid-transactions/
+- https://www.imaginarycloud.com/blog/mongodb-vs-mysql/
+- Demn good resource for learning everything SQL: https://theartofpostgresql.com/
+- https://towardsdatascience.com/crack-data-science-interviews-advanced-sql-skills-in-2021-322fef819c6c
 
 ## Tutorials:
 

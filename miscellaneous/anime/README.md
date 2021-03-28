@@ -102,6 +102,7 @@
 - Seitokai Yakuindomo
 - ID: Invaded
 - Dagashi Kashi: ref: https://twitter.com/AshGandawa/status/1372070107808202752
+- Fate Series
 
 ## Action and Thriller:
 

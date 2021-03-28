@@ -50,11 +50,14 @@
 - https://blogs.gnome.org/tbernard/2021/03/22/drawing-mockups/
 - https://www.kernel.org/doc/html/latest/admin-guide/efi-stub.html
 - https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/
+- https://opensource.com/article/21/3/input-output-bash
+- https://opensource.com/article/21/3/sed-cheat-sheet
 
 ## Cheatsheets:
 
 - https://opensource.com/article/21/3/grep-cheat-sheet
 - https://www.avaitla16.com/basics-of-curl
+- https://opensource.com/downloads/sed-cheat-sheet
 
 ## Repos:
 
@@ -115,6 +118,8 @@
 - Unixporn awesome video: https://www.reddit.com/r/linux/comments/l233rc/oc_linux_is_beautiful/
 - https://www.reddit.com/r/linuxquestions/comments/liwnkp/use_timeshift_for_backups_and_restore/
 - https://www.reddit.com/r/linux4noobs/comments/m9dt8l/how_do_linux_machines_allow_simultaneous_use_by/
+- https://www.reddit.com/r/linux4noobs/comments/membnt/are_there_any_benefits_of_using_arch_instead_of/
+- https://www.reddit.com/r/linuxmasterrace/comments/mdrebh/um/
 
 ## Config Repos:
 

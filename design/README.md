@@ -3,4 +3,9 @@
 ## Websites:
 
 - https://www.producthunt.com/posts/foont
+- https://thenounproject.com/
+
+## Blogs and articles:
+
+- https://opensource.com/article/21/3/open-source-tools-web-design
 

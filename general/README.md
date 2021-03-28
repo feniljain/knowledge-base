@@ -25,6 +25,10 @@
 - https://medium.com/personal-growth/5-things-confident-people-dont-do-c24a4049c3a5
 - https://blog.andreizgirvaci.com/creating-a-slick-yet-accessible-email-signature
 
+## Lit subreddits:
+
+- https://www.reddit.com/r/redditmoment/
+
 ## Tools:
 
 - https://www.producthunt.com/posts/kbee

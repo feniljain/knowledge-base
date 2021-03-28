@@ -17,6 +17,7 @@
 - https://bellmar.medium.com/programming-paradigms-as-language-destiny-f533607d5024
 - https://www.researchgate.net/publication/241111987_Programming_Paradigms_for_Dummies_What_Every_Programmer_Should_Know
 - Arenas in languages: https://manishearth.github.io/blog/2021/03/15/arenas-in-rust/
+- https://www.c-sharpcorner.com/uploadfile/akkiraju/functional-programming-in-simple-explained/
 
 ## Repos:
 

@@ -64,6 +64,10 @@
 
 # Android
 
+## Blogs and articles:
+
+- https://www.androidpolice.com/2021/03/27/install-use-custom-rom-no-google-apps/
+
 ## Websites:
 
 - No-code app dev: https://www.appsheet.com/

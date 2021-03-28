@@ -28,6 +28,7 @@
 - Many2Many in GORM: https://arilaverty.medium.com/gorm-go-and-has-many-ceb5bb845f8e
 - https://itnext.io/capturing-metrics-with-gos-reverse-proxy-5c36cb20cb20
 - https://johanlejdung.medium.com/a-mini-guide-go-modules-and-private-repositories-fa94c3726cf1
+- Dim article, has parsing, lexing, generation, etc.: https://levelup.gitconnected.com/metaprogram-in-go-5a2a7e989613
 
 ### Architecture:
 
@@ -103,6 +104,7 @@
 - https://michenriksen.com/blog/finding-evil-go-packages/
 - http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html
 - https://betterprogramming.pub/how-to-crack-the-top-25-golang-interview-questions-a94396d6c808
+- https://rytisbiel.com/2021/03/06/darker-corners-of-go/
 
 ## Blog Series:
 
@@ -137,6 +139,8 @@
 
 - https://gumroad.com/l/generative-art-in-golang
 - Golang generative art: https://www.reddit.com/r/golang/comments/lb4je7/finally_my_book_generative_art_in_go_got_released/
+- https://www.reddit.com/r/golang/comments/mcey65/practical_go_lessons_book_700_pages_41_chapters/
+- https://www.practical-go-lessons.com/
 
 ## Videos:
 
@@ -176,6 +180,7 @@
 - https://egonelbre.com/js/gopher/
 - godbolt.org
 - https://go101.org/article/101.html
+- https://www.practical-go-lessons.com/
 
 ## Repos and tools:
 
@@ -202,6 +207,7 @@
 - Golang bot for instagram DM auomation: https://github.com/hbollon/IGopher
 - Update go-version without any manual hassle: https://github.com/udhos/update-golang
 - https://github.com/golang/mobile
+- https://github.com/tversteeg/sprite-gen
 
 ## Packages:
 
@@ -211,6 +217,8 @@
 - DI: https://pkg.go.dev/go.uber.org/fx
 - https://pkg.go.dev/golang.org/x/sync/errgroup
 - Terminal string styling: https://github.com/jwalton/gchalk
+- Obfuscate go code: https://go.libhunt.com/garble-alternatives
+- Rust task runner and build tool: https://rust.libhunt.com/cargo-make-alternatives, https://github.com/sagiegurari/cargo-make
 
 ## Go Internals:
 
@@ -238,6 +246,8 @@
 
 - https://medium.com/p-society/master-plan-to-learn-golang-edbf85c7ae83
 - https://www.calhoun.io/guide-to-go/
+- https://www.reddit.com/r/golang/comments/mcey65/practical_go_lessons_book_700_pages_41_chapters/
+- https://towardsdev.com/learning-golang-9297e2eee49a
 
 # Courses:
 
@@ -249,6 +259,7 @@
 - Awesome collection of learning resources: https://github.com/inancgumus/learngo
 - https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6
 - https://docs.microsoft.com/en-us/learn/paths/go-first-steps/
+- https://www.practical-go-lessons.com/
 
 # Repos:
 

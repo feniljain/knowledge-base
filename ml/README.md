@@ -10,6 +10,8 @@
 - https://towardsdatascience.com/genetic-algorithm-in-r-hyperparameter-tuning-5fc6439d2962
 - https://deepai.org/machine-learning-glossary-and-terms/interpolation
 - https://deepai.org/machine-learning-glossary-and-terms/hypergeometric-distribution
+- https://deepai.org/machine-learning-glossary-and-terms/bidirectional-recurrent-neural-networks
+- https://towardsdatascience.com/using-tfrecords-to-train-a-cnn-on-mnist-aec141d65e3d
 
 ## Repos:
 

@@ -29,7 +29,7 @@
 
 ## Blogs and Articles:
 
-### Language Features:
+### Language Features And Practices:
 
 - Understanding how HKTs can be implemented in rust: https://rustyyato.github.io/type/system,type/families/2021/02/15/Type-Families-1.html
 - Generalizing over generics in Rust, aka higher kinded types in rust: https://www.reddit.com/r/rust/comments/ll9un4/generalizing_over_generics_in_rust_part_1_aka/
@@ -42,6 +42,9 @@
 - https://dev.to/somedood/generic-impl-blocks-are-kinda-like-macros-1aa0
 - https://www.novatec-gmbh.de/en/blog/the-case-for-the-typestate-pattern-introducing-algebraic-data-types/
 - https://blog.logrocket.com/rust-internationalization-localization-and-translation/
+- https://www.novatec-gmbh.de/en/blog/the-case-for-the-typestate-pattern-the-typestate-pattern-itself/
+- Informative article on rust's zero types: https://www.hardmo.de/article/2021-03-14-zst-proof-types.md
+- https://aloso.github.io/2021/03/18/raii-guards.html
 
 ### Tutorials:
 
@@ -73,6 +76,8 @@
 - Using rustdoc(an extremely detaied guide): https://www.tangramvision.com/blog/making-great-docs-with-rustdoc
 - https://blog.urth.org/2021/03/14/writing-a-postgres-sql-pretty-printer-in-rust-part-1/
 - https://medium.com/@knoldus/schedule-the-program-in-rust-a368f710a17f
+- The GPIO war: macro bunkers for typestate explosions: https://www.ecorax.net/macro-bunker-1/
+- https://kerkour.com/blog/rust-execute-from-memory/
 
 ### Others:
 
@@ -125,6 +130,9 @@
 - A minimalist Rust WebAssembly project template: https://github.com/thedjinn/MiniWASM
 - https://cfallin.org/blog/2021/03/15/cranelift-isel-3/
 - Lit article: https://medium.com/@polyglot_factotum/rust-concurrency-five-easy-pieces-871f1c62906a
+- https://www.ikiapps.com/programming/2019/07/26/is-rust-good-for-apps
+- https://www.collabora.com/news-and-blog/blog/2021/03/24/rust-integrating-llvm-source-base-code-coverage-with-gitlab/
+- Very insightful article on async rust, its shortcomings and splits in ecosystems: https://tomaka.medium.com/a-look-back-at-asynchronous-rust-d54d63934a1c
 
 ## Blog Series:
 
@@ -146,6 +154,8 @@
 - Educational blog posts for rust beginners: https://github.com/pretzelhammer/rust-blog
 - https://togglebit.io/
 - https://cfallin.org/blog/
+- https://kerkour.com/
+- https://aloso.github.io/
 
 ## Repos:
 
@@ -198,6 +208,7 @@
 - https://github.com/heim-rs/heim
 - https://github.com/bottom-software-foundation/bottom-rs
 - Server HTTPS with Rust and Tide using automatic certificates from Lets encrypt: and https://github.com/http-rs/tide-acme
+- https://github.com/awslabs/aws-lambda-rust-runtime
 
 ## Videos:
 
@@ -215,6 +226,8 @@
 - Rust's Journey to async/await: https://www.infoq.com/presentations/rust-2019/
 - Learning rust procedural macros: https://www.youtube.com/watch?v=9IbYBl48eTQ
 - Rust proxy server with warp and hyper: https://www.youtube.com/watch?v=eIllaNZisiU
+- Cheaply writing interpreters: https://www.youtube.com/watch?v=V8dnIw3amLA
+- Overview of rust(4 part series): https://www.youtube.com/watch?v=gesNaLkUJeA&list=PLP2yfE2-FXdQmXLvrQ5QN64enbF_KCYQW
 
 ## YT and Twitch Project channels/Playlists:
 
@@ -283,6 +296,7 @@
 
 - https://users.rust-lang.org/
 - https://users.rust-lang.org/t/beginner-projects-that-can-make-me-comfortable-with-rust/56422/25
+- https://users.rust-lang.org/t/good-explanation-of-static/57266/2
 
 ## Interesting crates:
 
@@ -293,6 +307,7 @@
 - Cross-platform async lib for system info fetching: https://github.com/heim-rs/heim
 - Fast and correct computations with uncertain values: https://crates.io/crates/uncertain
 - https://davidkoloski.me/blog/rkyv-is-faster-than/
+- e-graphs to provide a new way to build program optimizers and synthesizers: https://egraphs-good.github.io/
 
 ## Rust Internals:
 
@@ -330,6 +345,7 @@
 - https://www.reddit.com/r/rust/comments/lg0a7b/benchmarking_tokio_tasks_and_goroutines/
 - https://www.reddit.com/r/rust/comments/lcow5j/black_hat_rust_im_writing_a_book_about_offensive/
 - https://www.reddit.com/r/rust/comments/lkvlya/introducing_the_firestorm_profiler/
+- https://www.reddit.com/r/rust/comments/m7fxaz/implementing_raii_guards_in_rust/
 
 ## Rust Learning:
 
@@ -342,4 +358,5 @@
 - https://zsiciarz.github.io/24daysofrust/index.html
 - https://users.rust-lang.org/t/beginner-projects-that-can-make-me-comfortable-with-rust/56422/25
 - https://github.com/crazymykl/rust-koans
+- Overview of rust(4 part series): https://www.youtube.com/watch?v=gesNaLkUJeA&list=PLP2yfE2-FXdQmXLvrQ5QN64enbF_KCYQW
 
