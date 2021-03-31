@@ -45,6 +45,7 @@
 - https://www.novatec-gmbh.de/en/blog/the-case-for-the-typestate-pattern-the-typestate-pattern-itself/
 - Informative article on rust's zero types: https://www.hardmo.de/article/2021-03-14-zst-proof-types.md
 - https://aloso.github.io/2021/03/18/raii-guards.html
+- Everything about pin/unpin in rust: https://fasterthanli.me/articles/pin-and-suffering
 
 ### Tutorials:
 
@@ -78,6 +79,7 @@
 - https://medium.com/@knoldus/schedule-the-program-in-rust-a368f710a17f
 - The GPIO war: macro bunkers for typestate explosions: https://www.ecorax.net/macro-bunker-1/
 - https://kerkour.com/blog/rust-execute-from-memory/
+- https://medium.com/swlh/writing-a-modern-http-s-tunnel-in-rust-56e70d898700
 
 ### Others:
 
@@ -133,6 +135,7 @@
 - https://www.ikiapps.com/programming/2019/07/26/is-rust-good-for-apps
 - https://www.collabora.com/news-and-blog/blog/2021/03/24/rust-integrating-llvm-source-base-code-coverage-with-gitlab/
 - Very insightful article on async rust, its shortcomings and splits in ecosystems: https://tomaka.medium.com/a-look-back-at-asynchronous-rust-d54d63934a1c
+- Very detailed and well exampled article on pin and unpin in async rust: https://fasterthanli.me/articles/pin-and-suffering
 
 ## Blog Series:
 
@@ -217,6 +220,7 @@
 - https://www.youtube.com/playlist?list=PLTOeCUgrkpMNEHx6j0vCH0cuyAIVZadnc
 - https://www.youtube.com/watch?v=y-ks-_VDkiA&list=PL0Fqs05rod8D80WKBCeT326CT8vcAm_N9
 - https://youtu.be/bR4nGWmfzTk
+- Easy Rust: https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
 - https://www.youtube.com/channel/UCptxtVyJkQAJZcFwBbIDZcg
 - AOC 2020 in Rust: https://www.youtube.com/playlist?list=PLoSY6azqHO7BpQo8jWKi4cFIobJo-TCzU
 - Linkerd data plane proxy in rust: https://www.youtube.com/watch?v=wRZE7JlsnpA&feature=youtu.be
@@ -349,6 +353,8 @@
 
 ## Rust Learning:
 
+### Blogs and articles:
+
 - https://towardsdatascience.com/you-want-to-learn-rust-but-you-dont-know-where-to-start-fc826402d5ba
 - https://learning-rust.github.io/
 - A lot of resources: https://github.com/ctjhoa/rust-learning
@@ -358,5 +364,10 @@
 - https://zsiciarz.github.io/24daysofrust/index.html
 - https://users.rust-lang.org/t/beginner-projects-that-can-make-me-comfortable-with-rust/56422/25
 - https://github.com/crazymykl/rust-koans
+- https://loige.co/where-to-go-to-learn-rust-in-2021/
+
+### Videos:
+
+- Easy Rust: https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
 - Overview of rust(4 part series): https://www.youtube.com/watch?v=gesNaLkUJeA&list=PLP2yfE2-FXdQmXLvrQ5QN64enbF_KCYQW
 

@@ -47,6 +47,7 @@
 - Banana Fish
 - Love, cubnibyo and other delusions
 - K-on
+- K-project
 - Nisekoi
 - Boku no pico
 - Chunnibyou
@@ -97,7 +98,6 @@
 - Tokyo Majin
 - Nijiro days
 - Rikei koi ga
-- 3D real girl
 - fog hill of 5 elements
 - Seitokai Yakuindomo
 - ID: Invaded
@@ -163,7 +163,7 @@
 - Tsurezure children
 - Gamers
 - As the moon so beautiful
-- Tonari no kaibustsu-kun
+- Tonari no kaibustsu-kun(My little monster)
 - Handa-kun
 - Boku to kimi no taisetsu na hanashi
 - Sukasuka
@@ -183,6 +183,8 @@
 - himouto umaru chan
 - Kakushigoto
 - Barakamom
+- 3D kanojo: Real Girl
+- Sing "yesterday for me"
 
 ## Harem:
 

@@ -7,6 +7,7 @@
 - AWS Talks: https://resources.awscloud.com/aws-modern-applications
 - Interactive Playgrounds for everything: https://www.katacoda.com/
 - Awesome Architecture Diagrams: https://app.ilograph.com/
+- https://container.training/
 
 ## Blogs and Articles:
 
@@ -64,7 +65,8 @@
 - https://github.com/nats-io
 - https://github.com/haad/proxychains
 
-## Threads:
+## Reddit threads:
 
 - https://www.reddit.com/r/devops/comments/l1t4sf/how_cicd_tools_are_built/
+- https://www.reddit.com/r/devops/comments/mewcv5/eli5_container_ecosystem/
 

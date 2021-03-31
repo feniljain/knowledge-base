@@ -32,6 +32,7 @@
 - https://alphamikle.dev/why-should-you-use-isolates-in-flutter
 - https://blog.albertobonacina.com/foldables-and-flutter-very-interesting-duo
 - https://flutteragency.com/ssl-pinning-via-self-generated-signed-certificates/
+- https://medium.com/dartlang/announcing-dart-support-for-github-actions-3d892642104
 
 ## Flutter internals:
 
@@ -67,6 +68,7 @@
 ## Blogs and articles:
 
 - https://www.androidpolice.com/2021/03/27/install-use-custom-rom-no-google-apps/
+- https://medium.com/easyread/how-to-simplify-your-android-view-binding-delegation-d07812b2a616
 
 ## Websites:
 

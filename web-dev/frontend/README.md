@@ -48,6 +48,9 @@
 - https://betterprogramming.pub/how-to-improve-rendering-performance-in-a-1-000-item-react-list-85be129b8c0d
 - https://javascript.plainenglish.io/clean-architecture-vuex-by-example-a65cf2c18d5f
 - https://blog.yogeshchavan.dev/speed-up-your-coding-using-emmet-a-really-powerful-tool-1
+- https://itnext.io/simple-tips-for-writing-clean-react-components-c3facbf6680e
+- https://javascript.plainenglish.io/your-pwa-is-going-to-break-in-august-2021-34982f329f40
+- https://blog.bitsrc.io/is-it-the-beginning-of-the-end-for-pwas-da0fb032d545
 
 ## Websites:
 
@@ -58,6 +61,7 @@
 - https://akaricons.com/
 - https://xenox.hashnode.dev/1-awesamosa-awesome-resources-for-developers
 - https://hotwire.dev/
+- https://progressier.com/
 
 ## Repos:
 

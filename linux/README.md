@@ -15,6 +15,7 @@
 - Unix community forum like users.rust-lang.org: https://community.unix.com/
 - http://www.linuxfromscratch.org/lfs/
 - https://copy.sh/v86/
+- https://regolith-on-stage.org/
 
 ## Blogs and articles:
 
@@ -80,6 +81,8 @@
 - https://github.com/flameshot-org/flameshot
 - Run a command using another linux machine power: https://github.com/Overv/outrun
 - https://github.com/willdoescode/nat
+- Create a bootable usb drive with multiple os at same time, it gives a intutive ui to choose between which to boot: https://github.com/ventoy/Ventoy
+- https://github.com/phw/peek
 
 ## Terminal tools I use:
 

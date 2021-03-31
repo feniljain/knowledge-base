@@ -30,6 +30,9 @@
 - https://www.imaginarycloud.com/blog/mongodb-vs-mysql/
 - Demn good resource for learning everything SQL: https://theartofpostgresql.com/
 - https://towardsdatascience.com/crack-data-science-interviews-advanced-sql-skills-in-2021-322fef819c6c
+- https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/
+- https://jvns.ca/blog/2014/12/14/fun-with-threads/
+- https://medium.com/easyread/til-becareful-on-postgres-query-for-less-than-or-equal-on-timestamp-9e486b657fc
 
 ## Tutorials:
 

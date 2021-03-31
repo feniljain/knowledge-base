@@ -29,6 +29,7 @@
 - https://www.what-to-code.com/
 - Graph based knowledge-base tool: https://obsidian.md/
 - https://www.producthunt.com/posts/vs-code-theme-studio
+- https://thoughtbot.com/upcase
 
 ## Blogs and Articles:
 
@@ -78,6 +79,14 @@
 - https://medium.com/geekculture/how-i-create-a-whatsapp-rest-api-and-cli-to-automate-my-messages-with-golang-part-1-3dd5b805462
 - https://opensource.com/article/21/3/open-source-tools-web-design
 - Explaining under the hood workings for various technologies: https://craigtaub.dev/introducing-my-under-the-hood-of-series
+- https://journal.stuffwithstuff.com/2015/02/01/what-color-is-your-function/
+- Emoji under the hood: https://tonsky.me/blog/emoji
+- https://devchat.tv/clean-coders/cc-031-the-greatest-programming-books-youve-never-heard-of-with-robert-uncle-bob-martin/
+- https://levelup.gitconnected.com/vlang-for-automation-scripting-5d977ee97de
+
+## Blog Series:
+
+- Damn good articles on general programming stuff: https://journal.stuffwithstuff.com/category/code/
 
 ## Useful threads:
 
@@ -119,6 +128,8 @@
 - https://github.com/LeCoupa/awesome-cheatsheets
 - https://github.com/microsoft/codetour
 - https://github.com/doctolib/code-tours-github
+- https://github.com/public-apis/public-apis
+- https://github.com/microsoft/verona
 
 ## APIs:
 

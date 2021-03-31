@@ -6,6 +6,7 @@
 - Public failures of kubernetes: https://k8s.af
 - https://www.shrlrn.com/practice/kuberneteslabs
 - https://kube101.jeffgeerling.com/
+- https://container.training/
 
 ## Blogs and Articles:
 
@@ -18,6 +19,7 @@
 - https://dev.to/rinkiyakedad/kyverno-simplify-managing-k8s-clusters-2kej
 - https://dev.to/rwilsonreleaseapp/why-is-kubernetes-so-hard-i42
 - https://twitter.com/bibryam/status/1373583176212299776
+- https://medium.com/bb-tutorials-and-thoughts/kubernetes-learn-sidecar-container-pattern-6d8c21f873d
 
 ## Blog series:
 

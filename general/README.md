@@ -34,6 +34,30 @@
 - https://www.producthunt.com/posts/kbee
 - https://www.producthunt.com/posts/songlio
 
+## Browser Extensions:
+
+- https://addons.mozilla.org/en-GB/firefox/addon/tree-style-tab/
+
+## Browser Extensions I use(Firefox):
+
+- Add custom search engine
+- Adjust Screen Brightness
+- Auto Tab Discard
+- Clear Cache
+- ColorZilla
+- daily.dev
+- DarkReader
+- Firefox Multi-Account Containers
+- GNOME Shell Integration
+- Google Translate for Firefox
+- JSONView
+- Medium Unlimited
+- Momentum
+- Simple Tab Groups
+- Surfingkeys
+- Fireshot
+- DuckDuckGo Privacy Essentials(disabled currently)
+
 ## Books:
 
 - https://xkcd.com/how-to/

@@ -8,6 +8,7 @@
 
 - https://www.reddit.com/r/vim/comments/kq0sbd/a_quick_reference_was_made_for_vim_navigation/
 - https://www.reddit.com/r/neovim/comments/lfvr3z/a_useful_vim_cheat_sheets/
+- https://vim.rtorr.com/
 
 ## Videos:
 
@@ -45,9 +46,17 @@
 - https://vonheikemen.github.io/devlog/tools/using-netrw-vim-builtin-file-explorer/
 - https://stackoverflow.com/questions/1445992/vim-file-navigation
 - https://blog.usejournal.com/a-detailed-guide-to-writing-your-first-neovim-plugin-in-rust-a81604c606b1
-- https://twitter.com/mfussenegger/status/1373626590253490178
+- https://raygervais.dev/articles/2021/3/neovim-lsp/
+- Best vim tips: https://vim.fandom.com/wiki/Best_Vim_Tips
+- http://www.viemu.com/a-why-vi-vim.html
+- https://joshldavis.com/2014/04/05/vim-tab-madness-buffers-vs-tabs:
+- Using vim-surround plugin: http://www.futurile.net/2016/03/19/vim-surround-plugin-tutorial/
 
-## Reddit threads:
+## Blog series:
+
+- https://thoughtbot.com/blog/tags/vim
+
+## Reddit threads and tweets:
 
 - https://www.reddit.com/r/vim/comments/mcwt62/made_my_first_vim_plugin_mine_sweeping_in_vim_and/
 - https://www.reddit.com/r/vim/comments/22ztqp/why_does_nerdtree_exist_whats_wrong_with_netrw/
@@ -55,6 +64,7 @@
 - https://www.reddit.com/r/neovim/comments/lcqele/vscodelike_completion_icons/
 - Good resources for learning vimscript, lua, etc. https://www.reddit.com/r/neovim/comments/l1mne8/learning_vimscript_vs_lua/
 - https://www.reddit.com/r/neovim/comments/lboe92/people_who_rewrote_their_initnvim_in_lua_was_it/
+- https://twitter.com/mfussenegger/status/1373626590253490178
 
 ## Vimscript:
 
@@ -84,6 +94,7 @@
 - https://github.com/gdh1995/vimium-c
 - https://github.com/dofy/learn-vim
 - https://github.com/rockerBOO/awesome-neovim
+- https://vim.spf13.com/
 
 ## General:
 
@@ -241,6 +252,9 @@
 - https://github.com/beauwilliams/statusline.lua
 - https://github.com/romgrk/barbar.nvim
 - https://github.com/lervag/vimtex
+- https://github.com/martini97/project-config.nvim
+- Bringing native unix commands to vim commands, like :Unlink, Chmod +x: https://github.com/tpope/vim-eunuch
+- https://github.com/editorconfig/editorconfig-vim
 
 ## VimRCs for reference:
 

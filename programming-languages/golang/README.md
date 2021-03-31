@@ -6,6 +6,7 @@
 
 - Type aliases change json.Unmarshal behaviour: https://groups.google.com/g/golang-nuts/c/k_qMPw4Anhc
 - Named return values: https://tour.golang.org/basics/7
+- Complete guide on go modules, with command explanations: https://zaracooper.github.io/blog/posts/go-module-tidbits/
 
 ### Tutorials:
 
@@ -29,6 +30,8 @@
 - https://itnext.io/capturing-metrics-with-gos-reverse-proxy-5c36cb20cb20
 - https://johanlejdung.medium.com/a-mini-guide-go-modules-and-private-repositories-fa94c3726cf1
 - Dim article, has parsing, lexing, generation, etc.: https://levelup.gitconnected.com/metaprogram-in-go-5a2a7e989613
+- Profiling go programs: https://blog.golang.org/pprof
+- Diagnostics of golang programs: https://golang.org/doc/diagnostics
 
 ### Architecture:
 
@@ -105,6 +108,7 @@
 - http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html
 - https://betterprogramming.pub/how-to-crack-the-top-25-golang-interview-questions-a94396d6c808
 - https://rytisbiel.com/2021/03/06/darker-corners-of-go/
+- https://medium.com/easyread/til-becareful-on-postgres-query-for-less-than-or-equal-on-timestamp-9e486b657fc
 
 ## Blog Series:
 
@@ -121,6 +125,7 @@
 - https://www.ardanlabs.com/blog/
 - https://medium.com/a-journey-with-go
 - https://eli.thegreenplace.net/
+- Different go tools usage: https://dev.to/mariocarrion/go-tip-profiling-32e4
 
 ## Blog Projects:
 
@@ -178,7 +183,7 @@
 - https://search.gocenter.io/
 - https://golangflow.io
 - https://egonelbre.com/js/gopher/
-- godbolt.org
+- https://godbolt.org/
 - https://go101.org/article/101.html
 - https://www.practical-go-lessons.com/
 
@@ -240,30 +245,29 @@
 - https://github.com/system-pclub/GCatch
 - https://songlh.github.io/paper/gcatch.pdf
 
-## Go Learning:
+# Go Learning:
 
-# Blogs and articles:
+## Blogs and articles:
 
 - https://medium.com/p-society/master-plan-to-learn-golang-edbf85c7ae83
 - https://www.calhoun.io/guide-to-go/
 - https://www.reddit.com/r/golang/comments/mcey65/practical_go_lessons_book_700_pages_41_chapters/
 - https://towardsdev.com/learning-golang-9297e2eee49a
 
-# Courses:
+## Courses:
 
 - https://drive.google.com/drive/folders/1e3zn2-_w5WLw9YdI9wfuxe6FSzcGnBvw
 - https://courses.calhoun.io/
 - https://tutorialedge.net/courses/go-testing-bible/
 - https://gameswithgo.org/
 - https://medium.com/p-society/master-plan-to-learn-golang-edbf85c7ae83
-- Awesome collection of learning resources: https://github.com/inancgumus/learngo
 - https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6
 - https://docs.microsoft.com/en-us/learn/paths/go-first-steps/
 - https://www.practical-go-lessons.com/
 
-# Repos:
+## Repos:
 
-- https://github.com/inancgumus/learngo
 - https://github.com/Alikhll/golang-developer-roadmap
 - https://github.com/smileisak/go-training
+- Awesome collection of learning resources: https://github.com/inancgumus/learngo
 
