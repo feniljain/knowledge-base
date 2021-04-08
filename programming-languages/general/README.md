@@ -53,6 +53,8 @@
 ### Blogs and articles:
 
 - https://towardsdatascience.com/why-decorators-in-python-are-pure-genius-1e812949a81e
+- https://towardsdatascience.com/switch-case-statements-are-coming-to-python-d0caf7b2bfd3
+- https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/
 
 ### Repos:
 

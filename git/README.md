@@ -27,6 +27,7 @@
 - https://acompiler.com/git-best-practices/
 - Interesting guide: https://dzone.com/articles/git-reset-head
 - https://dev.to/leah_m_vogel/tags-vs-branches-in-git-4pm
+- https://levelup.gitconnected.com/git-worktrees-the-best-git-feature-youve-never-heard-of-9cd21df67baf
 
 ## Git Internals:
 
@@ -39,4 +40,9 @@
 ## Learning:
 
 - https://vickyikechukwu.hashnode.dev/introduction-to-git-in-16-minutes
+
+## Github Blogs:
+
+- https://github.blog/2021-03-30-github-advanced-security-security-overview-beta-secret-scanning-private-repos/
+- https://github.blog/2021-03-25-how-github-actions-renders-large-scale-logs/
 

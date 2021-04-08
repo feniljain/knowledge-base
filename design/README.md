@@ -5,6 +5,7 @@
 - https://www.producthunt.com/posts/foont
 - https://thenounproject.com/
 - photopea.com
+- https://getintopc.com/softwares/video-editing/adobe-premiere-pro-cc-2020-free-download-1153326/
 
 ## Blogs and articles:
 

@@ -30,22 +30,22 @@
 - Graph based knowledge-base tool: https://obsidian.md/
 - https://www.producthunt.com/posts/vs-code-theme-studio
 - https://thoughtbot.com/upcase
+- https://thevaluable.dev/(It's especially good!)
+- https://12factor.net/
+- https://selfimproving.dev/
+- https://fireship.io/lessons/
+- https://www.craftinginterpreters.com/
 
 ## Blogs and Articles:
 
-- https://thevaluable.dev/(It's especially good!)
-- https://12factor.net/
 - https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
-- https://fireship.io/lessons/
 - http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html
-- https://selfimproving.dev/
 - https://github.com/RajaSrinivasan/assignments
 - Regexp in deep: https://swtch.com/~rsc/regexp/regexp1.html
 - Missing sem in unis: https://missing.csail.mit.edu/
 - https://designsystemchecklist.com/category/design-language/
 - Great collection for anything programming: https://techblog.wikimedia.org/
 - https://github.com/pingcap/talent-plan
-- https://www.craftinginterpreters.com/
 - https://dev.to/denicmarko/github-repositories-to-improve-your-programming-skills-2d1e
 - https://dev.to/deleteman123/jwt-authentication-best-practices-3lf9
 - https://dev.to/itzami/how-i-use-notion-as-a-developer-36lc
@@ -83,6 +83,11 @@
 - Emoji under the hood: https://tonsky.me/blog/emoji
 - https://devchat.tv/clean-coders/cc-031-the-greatest-programming-books-youve-never-heard-of-with-robert-uncle-bob-martin/
 - https://levelup.gitconnected.com/vlang-for-automation-scripting-5d977ee97de
+- https://dev.to/andrewbaisden/50-cool-web-and-mobile-project-ideas-for-2021-1pgl
+- https://betterprogramming.pub/5-reasons-why-software-developers-should-write-technical-articles-5d75775d0e63
+- https://www.anandtech.com/show/16584/arm-announces-armv9-architecture
+- https://betterprogramming.pub/the-key-framework-i-followed-to-learn-any-new-technical-skill-efeca85ab315
+- https://levelup.gitconnected.com/armv9-what-is-the-big-deal-4528f20f78f3
 
 ## Blog Series:
 
@@ -100,6 +105,7 @@
 - https://www.youtube.com/watch?v=DPGXJ3PNaDc
 - Myth of a genius programmer: https://www.youtube.com/watch?v=0SARbwvhupQ
 - Write your own 64-bit operating system with asm: https://www.youtube.com/watch?v=FkrpUaGThTQ
+- Parsing json quickly, story about simdjson: https://www.youtube.com/watch?v=wlvKAT7SZIQ
 
 ## Repos:
 
@@ -130,6 +136,8 @@
 - https://github.com/doctolib/code-tours-github
 - https://github.com/public-apis/public-apis
 - https://github.com/microsoft/verona
+- World's fastest json library: https://github.com/simdjson/simdjson
+- https://github.com/rust-lang/stdsimd
 
 ## APIs:
 

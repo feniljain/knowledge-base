@@ -42,6 +42,8 @@
 - https://towardsdev.com/why-proxy-pattern-9422c76caee7
 - https://blog.cloudflare.com/route-leak-detection/
 - https://blog.codecentric.de/en/2021/03/fargate-with-efs-and-aurora-serverless-using-aws-cdk/
+- https://betterprogramming.pub/solutions-architect-tips-the-5-types-of-architecture-diagrams-eb0c11996f9e
+- https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116
 
 ## Videos:
 
@@ -64,6 +66,7 @@
 - https://github.com/salesforce/cloudsplaining
 - https://github.com/nats-io
 - https://github.com/haad/proxychains
+- https://github.com/binhnguyennus/awesome-scalability/
 
 ## Reddit threads:
 

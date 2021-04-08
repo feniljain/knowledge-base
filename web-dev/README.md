@@ -13,6 +13,7 @@
 - https://levelup.gitconnected.com/making-your-extension-compatible-with-both-chrome-and-firefox-ecc53b7e6ed2
 - https://slack.engineering/client-tracing-understanding-mobile-and-desktop-application-performance-at-scale/
 - https://andrewbaisden.hashnode.dev/50-cool-web-and-mobile-project-ideas-for-2021
+- https://betterprogramming.pub/7-amazing-web-apis-you-probably-didnt-know-existed-2db46f723ab9
 
 ## Videos:
 
@@ -27,12 +28,31 @@
 
 ## Web-assembly:
 
+### Websites:
+
+- https://www.serverlesschats.com/93/
+- https://www.assemblyscript.org/
+- https://wasmbyexample.dev/home.en-us.html
+- https://madewithwebassembly.com/
+- Gameboy emulator in wasm: https://madewithwebassembly.com/showcase/binjgb/
+
+### Videos:
+
+- Bringing webassembly outside browser using wasi: https://www.youtube.com/watch?v=fh9WXPu0hw8
+
+### Blogs and articles:
+
+- https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/
+- http://www.jakubkonka.com/2020/04/28/rust-wasi-from-scratch.html
+- https://blog.bitsrc.io/debugging-webassembly-with-chrome-devtools-99dbad485451
+- https://blog.logrocket.com/how-to-debug-wasm-and-achieve-a-reliable-stack-trace/
+- https://levelup.gitconnected.com/webassembly-and-the-wizards-of-hogwarts-bd7c09e5cadf
+- https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/
+
+### Repos:
+
+- https://github.com/WebAssembly
 - A lot of good resources in lower side of README.md: https://github.com/topheman/webassembly-wasi-experiments
 - https://github.com/topheman/webassembly-wasi-experiments
 - https://github.com/topheman/rust-wasm-experiments
-- https://www.youtube.com/watch?v=fh9WXPu0hw8
-- https://levelup.gitconnected.com/webassembly-and-the-wizards-of-hogwarts-bd7c09e5cadf
-- https://blog.logrocket.com/how-to-debug-wasm-and-achieve-a-reliable-stack-trace/
-- https://blog.bitsrc.io/debugging-webassembly-with-chrome-devtools-99dbad485451
-- https://github.com/WebAssembly
 

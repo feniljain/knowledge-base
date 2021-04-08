@@ -53,6 +53,9 @@
 - https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/
 - https://opensource.com/article/21/3/input-output-bash
 - https://opensource.com/article/21/3/sed-cheat-sheet
+- https://www.phoronix.com/scan.php?page=news_item&px=Arch-Linux-Does-Archinstall
+- https://askubuntu.com/questions/248914/what-is-hardware-enablement-hwe
+- https://wiki.archlinux.org/index.php/Preload
 
 ## Cheatsheets:
 
@@ -83,6 +86,8 @@
 - https://github.com/willdoescode/nat
 - Create a bootable usb drive with multiple os at same time, it gives a intutive ui to choose between which to boot: https://github.com/ventoy/Ventoy
 - https://github.com/phw/peek
+- https://github.com/akavel/up
+- Terminal image viewer: https://github.com/atanunq/viu
 
 ## Terminal tools I use:
 

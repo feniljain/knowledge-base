@@ -103,6 +103,10 @@
 - ID: Invaded
 - Dagashi Kashi: ref: https://twitter.com/AshGandawa/status/1372070107808202752
 - Fate Series
+- Basilisk
+- non non biyori
+- Monster musume
+  -Uzuki chan wants to hang out
 
 ## Action and Thriller:
 
@@ -119,10 +123,12 @@
 - Fate/Zero
 - Wonder Egg: The priority
 - Sword of a stranger: Movie action
+- Inuyashiki
 
 ## Shounen:
 
 - Seven Deadly Sins
+- Deadman wonderland
 
 ## Fiction & Mystery:
 
@@ -185,6 +191,7 @@
 - Barakamom
 - 3D kanojo: Real Girl
 - Sing "yesterday for me"
+- Aoi bungaku: No longer human
 
 ## Harem:
 
@@ -335,4 +342,6 @@
 - Ao Haru Ride
 - Kimi ni todoke
 - Daily life of the immortal king
+- HunterXHunter
+- 3-Gatsu no lion
 

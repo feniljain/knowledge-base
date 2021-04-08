@@ -23,6 +23,7 @@
 - https://www.reddit.com/r/neovim/comments/lhcqbc/hello_world_neovimlua_plugin_neovimlua_plugin/
 - Enhancing vim native completion using youcompleteme: https://www.youtube.com/watch?v=NUr-VvaOEHQ&feature=share
 - Neovim treesitter: https://youtu.be/LPXH7cBN_u8
+- Configuring Language Servers: https://www.youtube.com/watch?v=5VJjIzD_xM8
 
 ## Blogs, Articles and threads:
 
@@ -255,6 +256,11 @@
 - https://github.com/martini97/project-config.nvim
 - Bringing native unix commands to vim commands, like :Unlink, Chmod +x: https://github.com/tpope/vim-eunuch
 - https://github.com/editorconfig/editorconfig-vim
+- https://www.reddit.com/r/neovim/comments/mhy2p8/nlspsettings_a_plugin_for_setting_neovim_lsp_with/
+- https://github.com/DougBeney/vim-reddit
+- https://github.com/twitvim/twitvim
+- https://github.com/vim-test/vim-test
+- Plug 'josa42/vim-lightline-coc'
 
 ## VimRCs for reference:
 

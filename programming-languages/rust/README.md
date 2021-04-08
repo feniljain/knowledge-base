@@ -46,6 +46,8 @@
 - Informative article on rust's zero types: https://www.hardmo.de/article/2021-03-14-zst-proof-types.md
 - https://aloso.github.io/2021/03/18/raii-guards.html
 - Everything about pin/unpin in rust: https://fasterthanli.me/articles/pin-and-suffering
+- https://dev.to/senyeezus/ergonomic-error-handling-with-rust-13bj
+- https://aloso.github.io/2021/03/28/module-system.html
 
 ### Tutorials:
 
@@ -80,6 +82,7 @@
 - The GPIO war: macro bunkers for typestate explosions: https://www.ecorax.net/macro-bunker-1/
 - https://kerkour.com/blog/rust-execute-from-memory/
 - https://medium.com/swlh/writing-a-modern-http-s-tunnel-in-rust-56e70d898700
+- https://github.com/topheman/webassembly-wasi-experiments
 
 ### Others:
 
@@ -136,6 +139,7 @@
 - https://www.collabora.com/news-and-blog/blog/2021/03/24/rust-integrating-llvm-source-base-code-coverage-with-gitlab/
 - Very insightful article on async rust, its shortcomings and splits in ecosystems: https://tomaka.medium.com/a-look-back-at-asynchronous-rust-d54d63934a1c
 - Very detailed and well exampled article on pin and unpin in async rust: https://fasterthanli.me/articles/pin-and-suffering
+- https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md
 
 ## Blog Series:
 
@@ -232,6 +236,8 @@
 - Rust proxy server with warp and hyper: https://www.youtube.com/watch?v=eIllaNZisiU
 - Cheaply writing interpreters: https://www.youtube.com/watch?v=V8dnIw3amLA
 - Overview of rust(4 part series): https://www.youtube.com/watch?v=gesNaLkUJeA&list=PLP2yfE2-FXdQmXLvrQ5QN64enbF_KCYQW
+- From electron to wasm to rust and back to electron: https://www.youtube.com/watch?v=lLzFJenzBng
+- Criminally Fast Rust: https://www.youtube.com/watch?v=ArYBosljGj0
 
 ## YT and Twitch Project channels/Playlists:
 
@@ -312,6 +318,7 @@
 - Fast and correct computations with uncertain values: https://crates.io/crates/uncertain
 - https://davidkoloski.me/blog/rkyv-is-faster-than/
 - e-graphs to provide a new way to build program optimizers and synthesizers: https://egraphs-good.github.io/
+- Rust task runner and build tool: https://rust.libhunt.com/cargo-make-alternatives, https://github.com/sagiegurari/cargo-make
 
 ## Rust Internals:
 

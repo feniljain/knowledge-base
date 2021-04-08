@@ -11,6 +11,7 @@
 - https://medium.com/swlh/why-lets-encrypt-is-a-really-really-really-bad-idea-d69308887801
 - https://medium.com/swlh/hacking-json-web-tokens-jwts-9122efe91e4a
 - https://fingerprintjs.com/blog/audio-fingerprinting/
+- https://infosecwriteups.com/exploiting-http-request-smuggling-te-cl-xss-to-website-takeover-c0fc634a661b
 
 ## Repos and tools:
 
@@ -24,4 +25,6 @@
 - https://github.com/Malfrats/xeuledoc
 - https://www.modsecurity.org/
 - https://github.com/salesforce/cloudsplaining
+- https://github.com/Datalux/Osintgram
+- https://github.com/Lifka/hacking-resource
 

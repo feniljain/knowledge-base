@@ -14,6 +14,7 @@
 - Collection of bitmap fonts: https://github.com/ianhan/BitmapFonts
 - Download songs from various soures like gaana, itunes, etc.: https://ytmdl.deepjyoti30.dev/
 - Ranks of reddit bots: https://botrank.pastimes.eu/
+- https://www.oppia.org/
 
 ## Blogs and articles:
 
@@ -74,6 +75,7 @@
 - https://github.com/RichardLitt/meta-knowledge
 - https://github.com/learn-anything/learn-anything
 - https://github.com/sindresorhus/awesome
+- A multi-tree based task number: https://github.com/climech/grit
 
 ## Free Creds:
 

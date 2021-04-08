@@ -34,6 +34,9 @@
 - https://dev.to/sanspanic/pure-vs-impure-functions-50aj
 - https://javascript.whenprogramming.com/17-great-articles-about-javascript-7c2a5f062ea3
 - https://dev.to/evansibok/introduction-to-typescript-and-its-basic-types-47i0
+- https://dev.to/sumaiyaasif/async-and-await-and-what-is-it-actually-doing-34l
+- https://dev.to/garvitmotwani/10-new-javascript-features-in-es2020-that-you-should-know-3ohf
+- https://dev.to/garvitmotwani/8-javascript-tips-tricks-that-no-one-teaches-24g1
 
 ## Libraries and packages and repos:
 

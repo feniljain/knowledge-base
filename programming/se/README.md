@@ -21,6 +21,7 @@
 - https://mastanca.medium.com/clean-architecture-ddd-a-mixed-approach-773ab4623e14
 - https://medium.com/serious-scrum/sorry-scrum-the-game-might-be-over-for-you-915227f3a0d
 - https://www.bennadel.com/blog/4014-the-coldfusion-monolith-allows-my-team-to-move-fast-and-deploy-hella-often.htm
+- https://dev.to/poudyal_rabin/how-to-avoid-flow-zone-a-false-sense-of-hyper-productivity-1n57
 
 ## Blogs Series:
 

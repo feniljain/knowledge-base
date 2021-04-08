@@ -7,6 +7,7 @@
 - Type aliases change json.Unmarshal behaviour: https://groups.google.com/g/golang-nuts/c/k_qMPw4Anhc
 - Named return values: https://tour.golang.org/basics/7
 - Complete guide on go modules, with command explanations: https://zaracooper.github.io/blog/posts/go-module-tidbits/
+- https://blog.urth.org/2021/03/27/down-the-golang-nil-rabbit-hole/
 
 ### Tutorials:
 
@@ -32,6 +33,9 @@
 - Dim article, has parsing, lexing, generation, etc.: https://levelup.gitconnected.com/metaprogram-in-go-5a2a7e989613
 - Profiling go programs: https://blog.golang.org/pprof
 - Diagnostics of golang programs: https://golang.org/doc/diagnostics
+- Using zap for logging: https://harshnanchahal.medium.com/golang-structured-logging-using-zap-2c02c3ffcd65
+- https://towardsdev.com/creating-a-simple-ethereum-smart-contract-in-golang-138b9439f64e
+- https://blog.jse.li/posts/torrent/
 
 ### Architecture:
 
@@ -47,6 +51,7 @@
 - Gin API Template: https://github.com/husseinraed/gin-api-template
 - https://levelup.gitconnected.com/a-practical-approach-to-structuring-go-applications-7f77d7f9c189
 - https://medium.com/swlh/go-decorator-pattern-2379974077b1
+- https://medium.com/swlh/developing-a-web-application-in-go-using-the-layered-architecture-8fc13209c808
 
 ### Others:
 
@@ -109,6 +114,7 @@
 - https://betterprogramming.pub/how-to-crack-the-top-25-golang-interview-questions-a94396d6c808
 - https://rytisbiel.com/2021/03/06/darker-corners-of-go/
 - https://medium.com/easyread/til-becareful-on-postgres-query-for-less-than-or-equal-on-timestamp-9e486b657fc
+- https://medium.com/swlh/bad-go-frivolous-sprintf-2ad28fedf1a0
 
 ## Blog Series:
 
@@ -213,6 +219,7 @@
 - Update go-version without any manual hassle: https://github.com/udhos/update-golang
 - https://github.com/golang/mobile
 - https://github.com/tversteeg/sprite-gen
+- Static analyzer suggesting struct re-arrangements to provide memory allocation efficiency: https://github.com/orijtech/structslop
 
 ## Packages:
 
@@ -223,7 +230,7 @@
 - https://pkg.go.dev/golang.org/x/sync/errgroup
 - Terminal string styling: https://github.com/jwalton/gchalk
 - Obfuscate go code: https://go.libhunt.com/garble-alternatives
-- Rust task runner and build tool: https://rust.libhunt.com/cargo-make-alternatives, https://github.com/sagiegurari/cargo-make
+- https://github.com/lucas-clemente/quic-go
 
 ## Go Internals:
 
@@ -244,6 +251,9 @@
 - https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html
 - https://github.com/system-pclub/GCatch
 - https://songlh.github.io/paper/gcatch.pdf
+- https://medium.com/orijtech-developers/efficient-struct-packing-guided-pass-for-go-92255872ec72
+- https://www.reddit.com/r/golang/comments/mige3h/searching_for_a_good_book_for_advanced_go_topics/
+- https://tpaschalis.github.io/golang-time-now/
 
 # Go Learning:
 

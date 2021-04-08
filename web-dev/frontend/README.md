@@ -8,11 +8,17 @@
 
 ## Blogs and Articles:
 
+### Tutorials:
+
+- https://dev.to/savvasstephnds/the-problem-with-autocomplete-and-how-to-fix-it-2ill
+- Mastering webpack: https://dev.to/kalashin1/mastering-webpack-12fk
+- https://ordinarycoders.medium.com/how-to-use-chart-js-8f26208dd050
+
+## Others:
+
 - Logging in frontend: https://dev.to/ackshaey/level-up-your-javascript-browser-logs-with-these-console-log-tips-55o2
 - Go thorugh for web interviews: https://dev.to/slawomirkolodziej/what-do-you-need-to-know-as-a-junior-frontend-developer-bonus-interview-questions-32ba
 - https://dev.to/codewithfahad/effective-state-management-in-react-using-context-api-and-hooks-15ch
-- https://dev.to/savvasstephnds/the-problem-with-autocomplete-and-how-to-fix-it-2ill
-- Mastering webpack: https://dev.to/kalashin1/mastering-webpack-12fk
 - React as a UI runtime(Very good article for internal working of React internals): https://iqkui.com/react-as-a-ui-runtime/
 - React reconcilation: https://reactjs.org/docs/reconciliation.html
 - requestIdleCallback: https://developers.google.com/web/updates/2015/08/using-requestidlecallback
@@ -51,6 +57,12 @@
 - https://itnext.io/simple-tips-for-writing-clean-react-components-c3facbf6680e
 - https://javascript.plainenglish.io/your-pwa-is-going-to-break-in-august-2021-34982f329f40
 - https://blog.bitsrc.io/is-it-the-beginning-of-the-end-for-pwas-da0fb032d545
+- https://betterprogramming.pub/7-amazing-web-apis-you-probably-didnt-know-existed-2db46f723ab9
+- https://www.freecodecamp.org/news/how-to-animate-react-apps/
+- https://medium.com/codex/part-of-why-i-think-react-is-junk-e4db95e15ef4
+- Seeing live preview for different fonts setting their line height, and other options alongwith diff. lang support: https://input.djr.com/preview/
+- https://github.blog/2021-03-25-how-github-actions-renders-large-scale-logs/
+- https://dev.to/andrewbaisden/how-to-deploy-a-node-express-app-to-vercel-2aa
 
 ## Websites:
 
@@ -92,4 +104,5 @@
 - https://www.sitepoint.com/css-path-function-squeaky-portraits/
 - https://hulyakarakaya.hashnode.dev/level-up-your-css-with-these-39-resources
 - https://famzil.medium.com/how-to-remove-unused-css-in-your-website-dfa9d2067679
+- https://css-irl.info/animating-underlines/
 

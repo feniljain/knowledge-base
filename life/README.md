@@ -19,9 +19,10 @@
 - https://waitbutwhy.com/2018/04/picking-career.html
 - https://medium.com/mind-cafe/this-morning-routine-will-save-you-20-hours-per-week-a05c68b8e73c
 - https://medium.com/personal-growth/4-things-productive-people-dont-do-1758a4d92998
-- https://business.tutsplus.com/tutorials/handling-employees-that-want-to-quit--cms-29546#:~:text=Get%20very%20clear%20about%20the,told%20any%20of%20their%20colleagues
+- https://business.tutsplus.com/tutorials/handling-employees-that-want-to-quit--cms-29546
 - https://medium.com/the-post-grad-survival-guide/5-signs-you-are-wasting-your-life-44e474935a53
 - https://forge.medium.com/how-to-plan-with-people-who-dont-like-to-plan-e360a92cd683
+- https://medium.com/personal-growth/the-rule-of-70-20-10-a993c9e3e02f
 
 ## Random quotes:
 

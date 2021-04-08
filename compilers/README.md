@@ -3,6 +3,7 @@
 ## Websites:
 
 - Convert codes from various languages into assembly: https://godbolt.org/
+- https://www.craftinginterpreters.com/
 
 ## Courses:
 
@@ -13,7 +14,7 @@
 - Yet another compiler visualizer: https://ashutoshbsathe.github.io/yacv/
 - https://suif.stanford.edu/dragonbook/
 - https://go.googlesource.com/gollvm
-- - https://cfallin.org/blog/2021/03/15/cranelift-isel-3/
+- https://cfallin.org/blog/2021/03/15/cranelift-isel-3/
 
 ## Blogs and articles:
 
