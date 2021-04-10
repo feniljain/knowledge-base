@@ -14,6 +14,8 @@
 - https://slack.engineering/client-tracing-understanding-mobile-and-desktop-application-performance-at-scale/
 - https://andrewbaisden.hashnode.dev/50-cool-web-and-mobile-project-ideas-for-2021
 - https://betterprogramming.pub/7-amazing-web-apis-you-probably-didnt-know-existed-2db46f723ab9
+- https://itnext.io/we-rendered-a-million-web-pages-to-find-out-what-makes-the-web-slow-72bbba9ade96
+- https://developers.google.com/web/updates/2020/10/http-cache-partitioning
 
 ## Videos:
 

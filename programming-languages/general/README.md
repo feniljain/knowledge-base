@@ -18,6 +18,7 @@
 - https://www.researchgate.net/publication/241111987_Programming_Paradigms_for_Dummies_What_Every_Programmer_Should_Know
 - Arenas in languages: https://manishearth.github.io/blog/2021/03/15/arenas-in-rust/
 - https://www.c-sharpcorner.com/uploadfile/akkiraju/functional-programming-in-simple-explained/
+- https://blogs.gentoo.org/mgorny/2021/02/19/the-modern-packagers-security-nightmare/
 
 ## Repos:
 
@@ -61,10 +62,23 @@
 - https://github.com/Asabeneh/30-Days-Of-Python
 - Attempt by dropbox to use LLVM as compiler backend to make python much faster: https://blog.pyston.org/
 
-## CPP
+## C and CPP
 
 ### Blogs and articles:
 
 - https://medium.com/pranayaggarwal25/coroutines-in-cpp-15afdf88e17e
 - https://en.cppreference.com/w/cpp/language/raii
+- https://medium.com/swlh/c-project-structure-for-cmake-67d60135f6f5
+- https://blog.sourcerer.io/building-another-website-this-time-in-c-93b7abdb9671
+- https://knowthecode.io/yoda-conditions-yoda-not-yoda/
+
+## Zig
+
+### Websites:
+
+- https://ziglearn.org/
+
+### Blogs and articles:
+
+- https://medium.com/swlh/zig-the-introduction-dcd173a86975
 

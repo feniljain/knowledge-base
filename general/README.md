@@ -25,6 +25,7 @@
 - https://entrepreneurshandbook.co/how-to-get-more-done-in-3-hours-than-most-do-in-a-week-c5bcdcff801e
 - https://medium.com/personal-growth/5-things-confident-people-dont-do-c24a4049c3a5
 - https://blog.andreizgirvaci.com/creating-a-slick-yet-accessible-email-signature
+- https://medium.com/swlh/the-top-10-most-useful-online-courses-you-can-take-for-free-411aaa0dd80d
 
 ## Lit subreddits:
 
@@ -34,10 +35,6 @@
 
 - https://www.producthunt.com/posts/kbee
 - https://www.producthunt.com/posts/songlio
-
-## Browser Extensions:
-
-- https://addons.mozilla.org/en-GB/firefox/addon/tree-style-tab/
 
 ## Browser Extensions I use(Firefox):
 

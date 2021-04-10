@@ -52,6 +52,9 @@
 - http://www.viemu.com/a-why-vi-vim.html
 - https://joshldavis.com/2014/04/05/vim-tab-madness-buffers-vs-tabs:
 - Using vim-surround plugin: http://www.futurile.net/2016/03/19/vim-surround-plugin-tutorial/
+- Note taking in vim wih markdown and latex: https://ericchapdelaine.com/articles/how-i-take-notes
+- https://levelup.gitconnected.com/7-surprising-vim-tricks-that-will-save-you-hours-b158d23fe9b7
+- https://betterprogramming.pub/15-reasons-why-i-use-emacs-with-gifs-5b03c6608b61
 
 ## Blog series:
 
@@ -66,6 +69,7 @@
 - Good resources for learning vimscript, lua, etc. https://www.reddit.com/r/neovim/comments/l1mne8/learning_vimscript_vs_lua/
 - https://www.reddit.com/r/neovim/comments/lboe92/people_who_rewrote_their_initnvim_in_lua_was_it/
 - https://twitter.com/mfussenegger/status/1373626590253490178
+- Using neovim as postman: https://www.reddit.com/r/neovim/comments/mljr50/use_neovim_as_rest_api_client/
 
 ## Vimscript:
 
@@ -221,7 +225,7 @@
 - :FZF
 - :Maps -> Shows all the mappings and search them easily
 
-## Plugins:
+## Vimscript Plugins:
 
 - https://github.com/glacambre/firenvim
 - https://github.com/tree-sitter/tree-sitter
@@ -261,6 +265,15 @@
 - https://github.com/twitvim/twitvim
 - https://github.com/vim-test/vim-test
 - Plug 'josa42/vim-lightline-coc'
+- https://github.com/chrisbra/csv.vim
+- https://github.com/tpope/vim-capslock
+- https://github.com/tpope/vim-dadbod
+- https://github.com/lambdalisue/suda.vim
+
+## Lua plugins:
+
+- https://github.com/p00f/nvim-ts-rainbow
+- https://github.com/kyazdani42/nvim-tree.lua
 
 ## VimRCs for reference:
 

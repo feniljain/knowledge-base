@@ -25,6 +25,7 @@
 - https://gfx-rs.github.io/2021/02/02/release-0.7.html
 - https://github.com/danistefanovic/build-your-own-x
 - https://foundation.rust-lang.org/
+- https://www.wezm.net/v2/posts/2020/100-rust-binaries/
 - https://open.spotify.com/show/6PVQBdYnLaECFjwdpH4PgB?si=XuVgSPfVQeeZcjbmhF39gw
 
 ## Blogs and Articles:
@@ -83,6 +84,10 @@
 - https://kerkour.com/blog/rust-execute-from-memory/
 - https://medium.com/swlh/writing-a-modern-http-s-tunnel-in-rust-56e70d898700
 - https://github.com/topheman/webassembly-wasi-experiments
+- Writing a DBMS engine in Rust: https://stencillogic.medium.com/dbms-engine-in-rust-696ce79d18df
+- https://towardsdatascience.com/a-simple-text-summarizer-written-in-rust-4df05f9327a5
+- https://www.hackernoon.com/how-i-used-rust-lunatic-to-build-a-telnet-chat-server-with-webassembly-rb3l33cg
+- https://kerkour.com/blog/rust-small-docker-image/
 
 ### Others:
 
@@ -140,6 +145,9 @@
 - Very insightful article on async rust, its shortcomings and splits in ecosystems: https://tomaka.medium.com/a-look-back-at-asynchronous-rust-d54d63934a1c
 - Very detailed and well exampled article on pin and unpin in async rust: https://fasterthanli.me/articles/pin-and-suffering
 - https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md
+- https://radekvit.medium.com/avoiding-single-threaded-memory-access-bugs-with-rust-for-c-developers-2b7fc9c877ec
+- https://levelup.gitconnected.com/the-ref-keyword-in-rust-a81e64cda3af
+- https://gendignoux.com/blog/2021/04/01/rust-async-streams-futures-part1.html
 
 ## Blog Series:
 
@@ -216,6 +224,8 @@
 - https://github.com/bottom-software-foundation/bottom-rs
 - Server HTTPS with Rust and Tide using automatic certificates from Lets encrypt: and https://github.com/http-rs/tide-acme
 - https://github.com/awslabs/aws-lambda-rust-runtime
+- Implementation of QUIC and HTTP/3: https://github.com/cloudflare/quiche
+- Add cargo add, rm and upgrade to your main cargo command: https://github.com/killercup/cargo-edit
 
 ## Videos:
 
@@ -372,6 +382,8 @@
 - https://users.rust-lang.org/t/beginner-projects-that-can-make-me-comfortable-with-rust/56422/25
 - https://github.com/crazymykl/rust-koans
 - https://loige.co/where-to-go-to-learn-rust-in-2021/
+- https://medium.com/javarevisited/7-best-rust-programming-courses-and-books-for-beginners-in-2021-2ed2311af46c
+- https://betterprogramming.pub/17-resources-to-help-you-learn-rust-in-2021-31b6ac661f37
 
 ### Videos:
 

@@ -8,6 +8,7 @@
 - Named return values: https://tour.golang.org/basics/7
 - Complete guide on go modules, with command explanations: https://zaracooper.github.io/blog/posts/go-module-tidbits/
 - https://blog.urth.org/2021/03/27/down-the-golang-nil-rabbit-hole/
+- https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/
 
 ### Tutorials:
 
@@ -36,6 +37,8 @@
 - Using zap for logging: https://harshnanchahal.medium.com/golang-structured-logging-using-zap-2c02c3ffcd65
 - https://towardsdev.com/creating-a-simple-ethereum-smart-contract-in-golang-138b9439f64e
 - https://blog.jse.li/posts/torrent/
+- https://medium.com/random-life-journal/develop-a-large-scale-concurrent-urls-scraper-in-go-eec38d6f8fee
+- https://medium.com/dev-genius/real-time-key-value-store-in-golang-d53b27ea4947
 
 ### Architecture:
 
@@ -115,6 +118,8 @@
 - https://rytisbiel.com/2021/03/06/darker-corners-of-go/
 - https://medium.com/easyread/til-becareful-on-postgres-query-for-less-than-or-equal-on-timestamp-9e486b657fc
 - https://medium.com/swlh/bad-go-frivolous-sprintf-2ad28fedf1a0
+- https://levelup.gitconnected.com/automate-your-go-applications-with-gradle-docker-3c4aa4ddd9bb
+- https://www.mess.org/2021/03/26/Left-Recursive-PEG-Parser-Generator/
 
 ## Blog Series:
 
@@ -132,6 +137,7 @@
 - https://medium.com/a-journey-with-go
 - https://eli.thegreenplace.net/
 - Different go tools usage: https://dev.to/mariocarrion/go-tip-profiling-32e4
+- Rust in blockchain: https://rustinblockchain.org/newsletters/
 
 ## Blog Projects:
 
@@ -220,6 +226,7 @@
 - https://github.com/golang/mobile
 - https://github.com/tversteeg/sprite-gen
 - Static analyzer suggesting struct re-arrangements to provide memory allocation efficiency: https://github.com/orijtech/structslop
+- Dependency analysis tool for go packages: https://github.com/adonovan/spaghetti
 
 ## Packages:
 

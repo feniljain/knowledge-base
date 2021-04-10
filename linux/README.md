@@ -16,6 +16,14 @@
 - http://www.linuxfromscratch.org/lfs/
 - https://copy.sh/v86/
 - https://regolith-on-stage.org/
+- https://linuxjourney.com/
+- http://linuxcommand.org/
+- https://linuxsurvival.com/linux-tutorial-introduction/
+- https://help.ubuntu.com/community/UsingTheTerminal
+- https://lym.readthedocs.io/en/latest/
+- https://ryanstutorials.net/linuxtutorial/
+- http://swift.siphos.be/linux_sea/index.html
+- https://www.billdietrich.me/Linux.html
 
 ## Blogs and articles:
 
@@ -112,6 +120,29 @@
 - cargo-watch
 - rusty-man
 
+## Terminal tools to checkout:
+
+- Linux client for shazam(written in rust): https://github.com/marin-m/SongRec
+- Terminal recorder: https://github.com/sassman/t-rec-rs
+- Terminal interface for stack overflow: https://github.com/samtay/so
+- Linux kernel manager and activity monitor: https://github.com/orhun/kmon
+- Switch between kubernetes contexts: https://github.com/onatm/kx
+- Minimap generator: https://github.com/wfxr/code-minimap
+- Implementation of tldr in rust: https://github.com/dbrgn/tealdeer
+- Bandwith utilization tool: https://github.com/imsnif/bandwhich
+- Load testing of a web application with a tui: https://github.com/hatoo/oha
+- Run a given command everytime a file is modified: https://github.com/watchexec/watchexec
+- Preview github markdown offline: https://github.com/grapegrip/wool
+- Creating beautiful image of code(exactly like carbon, but offline): https://github.com/Aloxaf/silicon
+
+## Wallpapers collection:
+
+- https://wallpaperaccess.com/kurzgesagt
+
+## Browser Extensions:
+
+- https://addons.mozilla.org/en-GB/firefox/addon/tree-style-tab/
+
 ## Videos:
 
 - Using timeshift a-z: https://www.youtube.com/watch?v=qh08GvrUivc
@@ -131,6 +162,7 @@
 
 ## Config Repos:
 
+- https://github.com/jsatk/list-of-dotfiles
 - https://github.com/petobens/dotfiles/blob/master/bashrc
 - https://github.com/kutsan/dotfiles
 - https://github.com/skbolton/titan

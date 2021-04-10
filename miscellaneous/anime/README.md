@@ -106,7 +106,7 @@
 - Basilisk
 - non non biyori
 - Monster musume
-  -Uzuki chan wants to hang out
+- Uzuki chan wants to hang out
 
 ## Action and Thriller:
 
@@ -124,6 +124,7 @@
 - Wonder Egg: The priority
 - Sword of a stranger: Movie action
 - Inuyashiki
+- yu yu hakusho(like hunter X hunter)
 
 ## Shounen:
 
@@ -192,6 +193,7 @@
 - 3D kanojo: Real Girl
 - Sing "yesterday for me"
 - Aoi bungaku: No longer human
+- chihayafuru
 
 ## Harem:
 
@@ -234,6 +236,7 @@
 - https://github.com/aniplaylist/AniPlaylist
 - https://www.youtube.com/watch?v=85hxlHzoKI0&list=PLXK8FoyCuvJzHe_8WgpNuGKM4KlJl8QP9
 - https://www.youtube.com/watch?v=JaBmR8tC1oU&list=PLXK8FoyCuvJzHe_8WgpNuGKM4KlJl8QP9&index=3
+- Primes daily bangers playlist: https://www.youtube.com/playlist?list=PLpvrfXJz4_9F-ICZgwo4tPcbZQa5MPpQ2
 
 ## Reddit:
 

@@ -31,6 +31,7 @@
 - Good article on using JWT safely: https://medium.com/swlh/hacking-json-web-tokens-jwts-9122efe91e4a
 - Best practices for JWTs: https://tools.ietf.org/html/draft-ietf-oauth-jwt-bcp-07
 - https://blog.cloudflare.com/data-loss-prevention/
+- https://itnext.io/modern-storage-is-plenty-fast-it-is-the-apis-that-are-bad-6a68319fbc1a
 
 ## Reddits and twitter threads:
 

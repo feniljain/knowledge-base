@@ -10,4 +10,5 @@
 - https://en.wikipedia.org/wiki/Inferno_(operating_system)
 - https://git.kernel.org/pub/scm/linux/kernel/git/next/linux-next.git/commit/rust?id=c77c8025525c36c9d2b9d82e4539403701276a1d
 - https://dev.to/tobychui/i-write-my-own-web-desktop-os-for-3-years-and-this-is-what-it-looks-like-now-2903
+- https://muhammedimdaad.medium.com/rtos-01-into-real-time-operating-systems-a14cbd717a09
 

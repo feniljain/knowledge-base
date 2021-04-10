@@ -15,6 +15,7 @@
 - https://suif.stanford.edu/dragonbook/
 - https://go.googlesource.com/gollvm
 - https://cfallin.org/blog/2021/03/15/cranelift-isel-3/
+- https://secret.club/2021/04/09/std-clamp.html
 
 ## Blogs and articles:
 

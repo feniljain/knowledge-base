@@ -1,5 +1,9 @@
 <h2 align="center">Security</h2>
 
+## Websites:
+
+- https://xsleaks.dev/
+
 ## Blogs and articles:
 
 - https://codeyourweb.medium.com/golang-for-computer-security-building-an-edr-part3-registry-and-startup-folder-persistence-b4f537f03d98
@@ -12,6 +16,8 @@
 - https://medium.com/swlh/hacking-json-web-tokens-jwts-9122efe91e4a
 - https://fingerprintjs.com/blog/audio-fingerprinting/
 - https://infosecwriteups.com/exploiting-http-request-smuggling-te-cl-xss-to-website-takeover-c0fc634a661b
+- https://portswigger.net/daily-swig/new-xs-leak-techniques-reveal-fresh-ways-to-expose-user-information
+- https://infosecwriteups.com/cross-site-content-and-status-types-leakage-ef2dab0a492
 
 ## Repos and tools:
 

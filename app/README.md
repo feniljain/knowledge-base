@@ -33,6 +33,7 @@
 - https://blog.albertobonacina.com/foldables-and-flutter-very-interesting-duo
 - https://flutteragency.com/ssl-pinning-via-self-generated-signed-certificates/
 - https://medium.com/dartlang/announcing-dart-support-for-github-actions-3d892642104
+- https://www.reddit.com/r/Fuchsia/comments/mmbefx/dart_ui_ram_usage/
 
 ## Flutter internals:
 

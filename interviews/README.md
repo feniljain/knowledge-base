@@ -26,6 +26,10 @@
 - https://lars.hupel.info/articles/routing-the-interview/
 - https://betterprogramming.pub/how-i-got-into-google-without-a-cs-degree-f1d3c0a3f10e
 
+## Books:
+
+- Aptitude: R.S.Agarwal
+
 ## Golang interviews:
 
 - https://medium.com/p-society/pass-a-golang-job-interview-bfb6ea83b457
@@ -47,6 +51,8 @@
 
 ## CC:
 
+### Blogs and articles:
+
 - https://ajisatriomaulana.medium.com/dynamic-programming-solve-amazon-coding-interview-using-memoization-with-code-example-2d449ce80b59
 - https://www.geeksforgeeks.org/competitive-programming-a-complete-guide/
 - Alogrithms in Java: https://github.com/williamfiset/Algorithms
@@ -56,4 +62,8 @@
 - https://www.geeksforgeeks.org/modify-a-matrix-by-converting-each-element-to-xor-of-its-digits/
 - https://www.geeksforgeeks.org/left-rotate-digits-of-node-values-of-all-levels-of-a-binary-tree-in-increasing-order/
 - https://dev.to/thatanjan/everything-you-need-to-know-about-tree-data-structure-2c02
+
+### Repos:
+
+- https://github.com/QasimWani/LeetHub
 

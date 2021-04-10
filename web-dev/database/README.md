@@ -33,6 +33,12 @@
 - https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/
 - https://jvns.ca/blog/2014/12/14/fun-with-threads/
 - https://medium.com/easyread/til-becareful-on-postgres-query-for-less-than-or-equal-on-timestamp-9e486b657fc
+- https://www.cybertec-postgresql.com/en/how-the-postgresql-query-optimizer-works/
+- https://betterprogramming.pub/from-15-000-database-connections-to-under-100-dfd34062da4c
+
+## Blog Series:
+
+- https://www.digitalocean.com/blog/
 
 ## Tutorials:
 

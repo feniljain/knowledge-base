@@ -139,6 +139,12 @@
 - World's fastest json library: https://github.com/simdjson/simdjson
 - https://github.com/rust-lang/stdsimd
 
+## Extensions:
+
+- https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo?hl=en
+- https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb
+- https://chrome.google.com/webstore/detail/highlighter/fdfcjfoifbjplmificlkdfneafllkgmn
+
 ## APIs:
 
 - https://www.thecocktaildb.com/api.php?ref=apilist.fun
