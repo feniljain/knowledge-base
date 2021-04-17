@@ -7,6 +7,8 @@
 
 ## Blogs and Articles:
 
+### Others:
+
 - https://github.com/petkaantonov/bluebird/wiki/Optimization-killers
 - https://www.freecodecamp.org/news/testing-react-hooks/
 - https://www.reddit.com/r/webdev/comments/hqq4zo/how_do_i_make_this_with_css_js_obviously/
@@ -37,6 +39,10 @@
 - https://dev.to/sumaiyaasif/async-and-await-and-what-is-it-actually-doing-34l
 - https://dev.to/garvitmotwani/10-new-javascript-features-in-es2020-that-you-should-know-3ohf
 - https://dev.to/garvitmotwani/8-javascript-tips-tricks-that-no-one-teaches-24g1
+
+### Tutorials:
+
+- https://dev.to/whitep4nth3r/how-to-build-test-and-release-a-node-module-in-es6-296b
 
 ## Libraries and packages and repos:
 

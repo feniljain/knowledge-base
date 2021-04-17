@@ -44,7 +44,6 @@
 - zutto mae kara suki deshita movie : Romance
 - Solo leveling anime
 - Overlord
-- Banana Fish
 - Love, cubnibyo and other delusions
 - K-on
 - K-project
@@ -107,6 +106,9 @@
 - non non biyori
 - Monster musume
 - Uzuki chan wants to hang out
+- Idoly parody
+- non non biyori
+- Zombieland saga
 
 ## Action and Thriller:
 
@@ -130,6 +132,7 @@
 
 - Seven Deadly Sins
 - Deadman wonderland
+- Beyond the boundary
 
 ## Fiction & Mystery:
 
@@ -195,13 +198,11 @@
 - Aoi bungaku: No longer human
 - chihayafuru
 
-## Harem:
-
-- Boku no pico
-
 ## Sports:
 
 - Slam dunk
+- Stars align
+- Free!
 
 ## Isekai:
 

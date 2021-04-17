@@ -55,6 +55,7 @@
 - https://levelup.gitconnected.com/a-practical-approach-to-structuring-go-applications-7f77d7f9c189
 - https://medium.com/swlh/go-decorator-pattern-2379974077b1
 - https://medium.com/swlh/developing-a-web-application-in-go-using-the-layered-architecture-8fc13209c808
+- https://levelup.gitconnected.com/the-mediator-pattern-in-go-344ee5c8c2f4
 
 ### Others:
 
@@ -120,6 +121,7 @@
 - https://medium.com/swlh/bad-go-frivolous-sprintf-2ad28fedf1a0
 - https://levelup.gitconnected.com/automate-your-go-applications-with-gradle-docker-3c4aa4ddd9bb
 - https://www.mess.org/2021/03/26/Left-Recursive-PEG-Parser-Generator/
+- https://tobyokewole.medium.com/a-deep-dive-into-gos-context-package-fa1b6393494b
 
 ## Blog Series:
 
@@ -167,6 +169,7 @@
 - DGraph Go SystemsConf 2020: https://www.youtube.com/watch?v=inrqE0Grgk0&feature=youtu.be&utm_campaign=Go+Systems+Conf&utm_medium=email&_hsmi=101688656&_hsenc=p2ANqtz-8qYOnMY2mbo7M7fWIlcsES7FqPS70x8sB56PO8L1DLsCmFfBLv5992LQfgavWmcaA0s0ec246yv6o3KSW7kZn3_1w3uw&utm_content=101688656&utm_source=hs_automation
 - Creating github actions with golang: https://www.youtube.com/watch?v=8IgNY8QT3vk
 - Featherweight Go: https://www.youtube.com/watch?v=Sw53HGyCGcU
+- Using delve: https://www.youtube.com/watch?v=r033vEzL6a4&t=627s&ab_channel=BryanEnglish
 
 ## Go in prod:
 
@@ -227,6 +230,7 @@
 - https://github.com/tversteeg/sprite-gen
 - Static analyzer suggesting struct re-arrangements to provide memory allocation efficiency: https://github.com/orijtech/structslop
 - Dependency analysis tool for go packages: https://github.com/adonovan/spaghetti
+- Golang security checker: https://github.com/securego/gosec
 
 ## Packages:
 
@@ -238,6 +242,7 @@
 - Terminal string styling: https://github.com/jwalton/gchalk
 - Obfuscate go code: https://go.libhunt.com/garble-alternatives
 - https://github.com/lucas-clemente/quic-go
+- Vulnerability audit tool: https://community.sonatype.com/t/golang-vulnerability-audit-tool-nancy/1452
 
 ## Go Internals:
 

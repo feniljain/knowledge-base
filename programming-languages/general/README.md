@@ -19,6 +19,7 @@
 - Arenas in languages: https://manishearth.github.io/blog/2021/03/15/arenas-in-rust/
 - https://www.c-sharpcorner.com/uploadfile/akkiraju/functional-programming-in-simple-explained/
 - https://blogs.gentoo.org/mgorny/2021/02/19/the-modern-packagers-security-nightmare/
+- https://medium.com/att-israel/its-time-you-learn-about-monads-4ebe687e3ec7
 
 ## Repos:
 
@@ -32,6 +33,10 @@
 - https://learnxinyminutes.com/docs/lua/
 
 ### Elixir:
+
+### Repos:
+
+- https://github.com/elixir-nx/livebook
 
 ### Websites:
 
@@ -56,6 +61,7 @@
 - https://towardsdatascience.com/why-decorators-in-python-are-pure-genius-1e812949a81e
 - https://towardsdatascience.com/switch-case-statements-are-coming-to-python-d0caf7b2bfd3
 - https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/
+- https://towardsdatascience.com/hidden-gems-of-python-76020b14e42f
 
 ### Repos:
 

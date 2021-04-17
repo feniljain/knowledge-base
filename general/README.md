@@ -26,6 +26,8 @@
 - https://medium.com/personal-growth/5-things-confident-people-dont-do-c24a4049c3a5
 - https://blog.andreizgirvaci.com/creating-a-slick-yet-accessible-email-signature
 - https://medium.com/swlh/the-top-10-most-useful-online-courses-you-can-take-for-free-411aaa0dd80d
+- https://dev.to/technoglot/prioritize-tasks-like-a-boss-with-the-eisenhower-method-5a5e
+- https://javascript.plainenglish.io/cool-neural-networks-that-you-can-try-right-now-75dbac9f69d2
 
 ## Lit subreddits:
 

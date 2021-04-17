@@ -41,5 +41,9 @@
 - The millionare fastlane
 - https://medium.com/mind-cafe/if-you-only-read-a-few-books-in-2020-read-these-1cbac424e4a9
 
+## Songs playlist, I dont know where to keep them:
+
+- Total banger collection: https://www.youtube.com/watch?v=5XHxe0s5DmY
+
 Kmshahco1966
 

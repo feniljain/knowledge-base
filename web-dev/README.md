@@ -16,6 +16,7 @@
 - https://betterprogramming.pub/7-amazing-web-apis-you-probably-didnt-know-existed-2db46f723ab9
 - https://itnext.io/we-rendered-a-million-web-pages-to-find-out-what-makes-the-web-slow-72bbba9ade96
 - https://developers.google.com/web/updates/2020/10/http-cache-partitioning
+- https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/
 
 ## Videos:
 

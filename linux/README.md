@@ -159,6 +159,7 @@
 - https://www.reddit.com/r/linux4noobs/comments/m9dt8l/how_do_linux_machines_allow_simultaneous_use_by/
 - https://www.reddit.com/r/linux4noobs/comments/membnt/are_there_any_benefits_of_using_arch_instead_of/
 - https://www.reddit.com/r/linuxmasterrace/comments/mdrebh/um/
+- https://www.reddit.com/r/neovim/comments/mom96v/could_someone_share_their_workflow_for_using/
 
 ## Config Repos:
 

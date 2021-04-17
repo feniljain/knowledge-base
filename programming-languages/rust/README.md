@@ -49,6 +49,7 @@
 - Everything about pin/unpin in rust: https://fasterthanli.me/articles/pin-and-suffering
 - https://dev.to/senyeezus/ergonomic-error-handling-with-rust-13bj
 - https://aloso.github.io/2021/03/28/module-system.html
+- https://betterprogramming.pub/structuring-rust-project-for-testability-18207b5d0243
 
 ### Tutorials:
 
@@ -88,6 +89,9 @@
 - https://towardsdatascience.com/a-simple-text-summarizer-written-in-rust-4df05f9327a5
 - https://www.hackernoon.com/how-i-used-rust-lunatic-to-build-a-telnet-chat-server-with-webassembly-rb3l33cg
 - https://kerkour.com/blog/rust-small-docker-image/
+- https://reime005.medium.com/svelte-with-rust-and-a-graphql-rest-api-wrapper-9812462b94e3
+- https://doko-demo-doa.medium.com/rust-gtk-on-windows-getting-started-14aa2d7c825d
+- https://medium.com/pragmatic-programmers/getting-started-with-yew-6924588d11a7
 
 ### Others:
 

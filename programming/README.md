@@ -88,6 +88,8 @@
 - https://www.anandtech.com/show/16584/arm-announces-armv9-architecture
 - https://betterprogramming.pub/the-key-framework-i-followed-to-learn-any-new-technical-skill-efeca85ab315
 - https://levelup.gitconnected.com/armv9-what-is-the-big-deal-4528f20f78f3
+- https://dev.to/adamcoster/documentation-as-code-40a7
+- https://medium.com/on-technology/describing-software-engineers-swes-ff2b4a407f98
 
 ## Blog Series:
 
@@ -162,6 +164,7 @@
 - Brendan Burns Designing Distributed Systems
 - Alex Petrov's Database Internals
 - https://medium.com/pragmatic-programmers/directory-of-pragmatic-programmer-books-on-medium-6a5cbadbd4b4
+- https://dev.to/jordienr/4-books-that-are-not-about-computers-that-made-me-a-good-software-developer-2hac
 
 ## Tools:
 

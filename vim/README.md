@@ -24,6 +24,7 @@
 - Enhancing vim native completion using youcompleteme: https://www.youtube.com/watch?v=NUr-VvaOEHQ&feature=share
 - Neovim treesitter: https://youtu.be/LPXH7cBN_u8
 - Configuring Language Servers: https://www.youtube.com/watch?v=5VJjIzD_xM8
+- Learn lua in one video: https://www.youtube.com/watch?v=iMacxZQMPXs
 
 ## Blogs, Articles and threads:
 
@@ -55,6 +56,11 @@
 - Note taking in vim wih markdown and latex: https://ericchapdelaine.com/articles/how-i-take-notes
 - https://levelup.gitconnected.com/7-surprising-vim-tricks-that-will-save-you-hours-b158d23fe9b7
 - https://betterprogramming.pub/15-reasons-why-i-use-emacs-with-gifs-5b03c6608b61
+- https://alpha2phi.medium.com/neovim-init-lua-e80f4f136030
+- https://thevaluable.dev/tags/mouseless/
+- https://thevaluable.dev/vim-advanced/
+- All commands of netrw: https://gist.github.com/t-mart/610795fcf7998559ea80
+- Vimspector guide: https://puremourning.github.io/vimspector-web/demo-setup.html#getting-started
 
 ## Blog series:
 
@@ -100,6 +106,7 @@
 - https://github.com/dofy/learn-vim
 - https://github.com/rockerBOO/awesome-neovim
 - https://vim.spf13.com/
+- https://github.com/Kethku/neovide
 
 ## General:
 
@@ -269,6 +276,8 @@
 - https://github.com/tpope/vim-capslock
 - https://github.com/tpope/vim-dadbod
 - https://github.com/lambdalisue/suda.vim
+- https://github.com/mg979/vim-visual-multi
+- https://github.com/simnalamburt/vim-mundo
 
 ## Lua plugins:
 
@@ -288,4 +297,10 @@
 - https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/
 - https://github.com/jchassoul/dotfiles/blob/master/config/vim/vimrc
 - https://github.com/siduck76/neovim-dots
+- https://github.com/junegunn/vim-easy-align
+
+## LuaRCs for reference:
+
+- https://github.com/crivotz/nv-ide
+- Damn good luarc: https://github.com/ChristianChiarulli/LunarVim
 

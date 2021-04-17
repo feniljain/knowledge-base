@@ -12,6 +12,7 @@
 - https://deepai.org/machine-learning-glossary-and-terms/hypergeometric-distribution
 - https://deepai.org/machine-learning-glossary-and-terms/bidirectional-recurrent-neural-networks
 - https://towardsdatascience.com/using-tfrecords-to-train-a-cnn-on-mnist-aec141d65e3d
+- https://towardsdatascience.com/a-checklist-to-track-your-data-science-progress-bf92e878edf2
 
 ## Repos:
 
@@ -28,4 +29,5 @@
 - https://github.com/google/trax
 - https://github.com/harskish/ganspace
 - https://github.com/EleutherAI/gpt-neo
+- https://github.com/Layout-Parser/layout-parser
 

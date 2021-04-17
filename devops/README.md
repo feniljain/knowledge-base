@@ -8,6 +8,7 @@
 - Interactive Playgrounds for everything: https://www.katacoda.com/
 - Awesome Architecture Diagrams: https://app.ilograph.com/
 - https://container.training/
+- http://highscalability.com/
 
 ## Blogs and Articles:
 
@@ -44,6 +45,7 @@
 - https://blog.codecentric.de/en/2021/03/fargate-with-efs-and-aurora-serverless-using-aws-cdk/
 - https://betterprogramming.pub/solutions-architect-tips-the-5-types-of-architecture-diagrams-eb0c11996f9e
 - https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116
+- https://blog.hotstar.com/hotstars-journey-from-ec2-to-containers-86ea4e4880fd
 
 ## Videos:
 

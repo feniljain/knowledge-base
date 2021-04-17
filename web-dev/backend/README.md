@@ -44,6 +44,7 @@
 - WebRTC in go: https://pion.ly/
 - https://github.com/ipfs/go-ipfs
 - https://github.com/rails/kredis
+- Implementation of google's global, consistent authorization system, Zanzibar: https://github.com/ory/keto
 
 ## Videos:
 

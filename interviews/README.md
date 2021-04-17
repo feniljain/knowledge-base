@@ -25,6 +25,9 @@
 - https://gumroad.com/l/perfectresume
 - https://lars.hupel.info/articles/routing-the-interview/
 - https://betterprogramming.pub/how-i-got-into-google-without-a-cs-degree-f1d3c0a3f10e
+- https://ayomideoyekanmi.medium.com/on-getting-into-google-8bb1afcfd526
+- https://daqo.medium.com/facebook-senior-software-engineer-interview-the-only-post-youll-need-to-read-e4604ff2336d
+- https://medium.com/on-technology/describing-software-engineers-swes-ff2b4a407f98
 
 ## Books:
 
@@ -62,6 +65,7 @@
 - https://www.geeksforgeeks.org/modify-a-matrix-by-converting-each-element-to-xor-of-its-digits/
 - https://www.geeksforgeeks.org/left-rotate-digits-of-node-values-of-all-levels-of-a-binary-tree-in-increasing-order/
 - https://dev.to/thatanjan/everything-you-need-to-know-about-tree-data-structure-2c02
+- https://medium.com/@kevinsmavani007/red-black-tree-47e3249cf17
 
 ### Repos:
 

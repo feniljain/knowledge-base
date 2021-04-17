@@ -29,6 +29,7 @@
 ## Reddit and twitter threads:
 
 - 47 things to become a kubernetes expert: https://twitter.com/bibryam/status/1373583176212299776
+- Security in kubernetes: https://twitter.com/kubesploit
 
 ## Videos:
 

@@ -4,6 +4,7 @@
 
 - https://www.joelonsoftware.com/
 - https://www.eventbrite.com/e/design-patterns-5-weeks-with-uncle-bob-registration-135889155121?fbclid=IwAR2vtTQdQFU_4B-y05uqTV-l6DzDVNlddPQOJh1v8uo7R2bXQC4CBeVVU1k
+- SE diagramams: https://www.gleek.io/
 
 ## Blogs and Articles:
 
@@ -22,6 +23,7 @@
 - https://medium.com/serious-scrum/sorry-scrum-the-game-might-be-over-for-you-915227f3a0d
 - https://www.bennadel.com/blog/4014-the-coldfusion-monolith-allows-my-team-to-move-fast-and-deploy-hella-often.htm
 - https://dev.to/poudyal_rabin/how-to-avoid-flow-zone-a-false-sense-of-hyper-productivity-1n57
+- http://www.dossier-andreas.net/software_architecture/ports_and_adapters.html
 
 ## Blogs Series:
 

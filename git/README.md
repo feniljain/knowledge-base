@@ -28,6 +28,7 @@
 - Interesting guide: https://dzone.com/articles/git-reset-head
 - https://dev.to/leah_m_vogel/tags-vs-branches-in-git-4pm
 - https://levelup.gitconnected.com/git-worktrees-the-best-git-feature-youve-never-heard-of-9cd21df67baf
+- https://dev.to/pavlosisaris/git-commits-an-effective-style-guide-2kkn
 
 ## Git Internals:
 
@@ -49,4 +50,14 @@
 ## Interesting commands:
 
 - git log --oneline --decorate --graph --all
+
+## Commit type:
+
+- feat: a new feature
+- fix: a bug fix
+- docs: changes to documentation
+- style: formatting, missing semi colons, etc; no code change
+- refactor: refactoring production code
+- test: adding tests, refactoring test; no production code change
+- chore: updating build tasks, package manager configs, etc; no production code change
 
