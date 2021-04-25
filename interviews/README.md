@@ -28,6 +28,8 @@
 - https://ayomideoyekanmi.medium.com/on-getting-into-google-8bb1afcfd526
 - https://daqo.medium.com/facebook-senior-software-engineer-interview-the-only-post-youll-need-to-read-e4604ff2336d
 - https://medium.com/on-technology/describing-software-engineers-swes-ff2b4a407f98
+- https://www.reddit.com/r/leetcode/comments/j6a6fr/suggestions_for_system_design_prep/
+- https://medium.com/geekculture/top-10-system-design-interview-questions-10f7b5ea123d
 
 ## Books:
 
@@ -66,6 +68,7 @@
 - https://www.geeksforgeeks.org/left-rotate-digits-of-node-values-of-all-levels-of-a-binary-tree-in-increasing-order/
 - https://dev.to/thatanjan/everything-you-need-to-know-about-tree-data-structure-2c02
 - https://medium.com/@kevinsmavani007/red-black-tree-47e3249cf17
+- https://himnickson.medium.com/matrix-chain-multiplication-using-dynamic-programming-a-brief-explanation-with-an-example-c565aa21ebec
 
 ### Repos:
 

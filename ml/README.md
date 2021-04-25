@@ -13,6 +13,8 @@
 - https://deepai.org/machine-learning-glossary-and-terms/bidirectional-recurrent-neural-networks
 - https://towardsdatascience.com/using-tfrecords-to-train-a-cnn-on-mnist-aec141d65e3d
 - https://towardsdatascience.com/a-checklist-to-track-your-data-science-progress-bf92e878edf2
+- https://deepai.org/machine-learning-glossary-and-terms/gated-neural-network
+- https://towardsdatascience.com/autoencoder-network-optimization-for-dimensionality-reduction-67922ccc6889
 
 ## Repos:
 

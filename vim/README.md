@@ -1,4 +1,4 @@
-# VIM TIPS
+<h2 align="center">Vim</h2>
 
 ## Vim fun:
 
@@ -25,6 +25,7 @@
 - Neovim treesitter: https://youtu.be/LPXH7cBN_u8
 - Configuring Language Servers: https://www.youtube.com/watch?v=5VJjIzD_xM8
 - Learn lua in one video: https://www.youtube.com/watch?v=iMacxZQMPXs
+- Neovim Tutorial livereload on plugin development: https://www.youtube.com/embed/mZZ2qQJ933k?feature=oembed&enablejsapi=1
 
 ## Blogs, Articles and threads:
 
@@ -107,6 +108,8 @@
 - https://github.com/rockerBOO/awesome-neovim
 - https://vim.spf13.com/
 - https://github.com/Kethku/neovide
+- Everthing about vim: https://github.com/mhinz/vim-galore
+- https://github.com/rhysd/vim.wasm
 
 ## General:
 
@@ -283,6 +286,12 @@
 
 - https://github.com/p00f/nvim-ts-rainbow
 - https://github.com/kyazdani42/nvim-tree.lua
+- https://github.com/nvim-telescope/telescope-arecibo.nvim
+- https://github.com/lewis6991/gitsigns.nvim
+- https://github.com/b3nj5m1n/kommentary
+- https://github.com/phaazon/hop.nvim
+- https://github.com/folke/lsp-trouble.nvim
+- https://github.com/folke/lsp-colors.nvim
 
 ## VimRCs for reference:
 
@@ -303,4 +312,5 @@
 
 - https://github.com/crivotz/nv-ide
 - Damn good luarc: https://github.com/ChristianChiarulli/LunarVim
+- https://gitlab.com/famiu/dot-nvim/
 

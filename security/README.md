@@ -18,6 +18,9 @@
 - https://infosecwriteups.com/exploiting-http-request-smuggling-te-cl-xss-to-website-takeover-c0fc634a661b
 - https://portswigger.net/daily-swig/new-xs-leak-techniques-reveal-fresh-ways-to-expose-user-information
 - https://infosecwriteups.com/cross-site-content-and-status-types-leakage-ef2dab0a492
+- https://christian-schneider.net/CrossSiteWebSocketHijacking.html
+- https://hacks.mozilla.org/2020/04/twitter-direct-message-caching-and-firefox/
+- https://mailing.bugbountyexplained.com/
 
 ## Repos and tools:
 

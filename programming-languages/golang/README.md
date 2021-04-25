@@ -122,6 +122,7 @@
 - https://levelup.gitconnected.com/automate-your-go-applications-with-gradle-docker-3c4aa4ddd9bb
 - https://www.mess.org/2021/03/26/Left-Recursive-PEG-Parser-Generator/
 - https://tobyokewole.medium.com/a-deep-dive-into-gos-context-package-fa1b6393494b
+- https://medium.com/geekculture/make-music-with-maths-and-go-ii-7d49d438b83c
 
 ## Blog Series:
 
@@ -160,12 +161,13 @@
 - Golang generative art: https://www.reddit.com/r/golang/comments/lb4je7/finally_my_book_generative_art_in_go_got_released/
 - https://www.reddit.com/r/golang/comments/mcey65/practical_go_lessons_book_700_pages_41_chapters/
 - https://www.practical-go-lessons.com/
+- https://docs.google.com/document/d/1QQq8Yf90ar59OUQM6qRDS6Bwk5hfOCpcqw_WUX43YOg/
 
 ## Videos:
 
-- https://www.youtube.com/watch?v=2Sm_O75I7H0&list=PLy_6D98if3UJd5hxWNfAqKMr15HZqFnqf
-- https://www.youtube.com/watch?v=Dq0WFigax_c
-- https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw
+- GRPC course for golang: https://www.youtube.com/watch?v=2Sm_O75I7H0&list=PLy_6D98if3UJd5hxWNfAqKMr15HZqFnqf
+- Featherweight go: https://www.youtube.com/watch?v=Dq0WFigax_c
+- JustForFunc: https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw
 - DGraph Go SystemsConf 2020: https://www.youtube.com/watch?v=inrqE0Grgk0&feature=youtu.be&utm_campaign=Go+Systems+Conf&utm_medium=email&_hsmi=101688656&_hsenc=p2ANqtz-8qYOnMY2mbo7M7fWIlcsES7FqPS70x8sB56PO8L1DLsCmFfBLv5992LQfgavWmcaA0s0ec246yv6o3KSW7kZn3_1w3uw&utm_content=101688656&utm_source=hs_automation
 - Creating github actions with golang: https://www.youtube.com/watch?v=8IgNY8QT3vk
 - Featherweight Go: https://www.youtube.com/watch?v=Sw53HGyCGcU
@@ -266,6 +268,7 @@
 - https://medium.com/orijtech-developers/efficient-struct-packing-guided-pass-for-go-92255872ec72
 - https://www.reddit.com/r/golang/comments/mige3h/searching_for_a_good_book_for_advanced_go_topics/
 - https://tpaschalis.github.io/golang-time-now/
+- https://medium.com/dev-genius/golang-101-looking-at-how-garbage-collector-works-98392737a475
 
 # Go Learning:
 

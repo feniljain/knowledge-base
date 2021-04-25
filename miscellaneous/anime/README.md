@@ -109,6 +109,8 @@
 - Idoly parody
 - non non biyori
 - Zombieland saga
+- Myriad Colors Phantom World
+- Angels of Death
 
 ## Action and Thriller:
 
@@ -212,7 +214,8 @@
 
 - Danshi Koukousei no nichijou(Daily lives of highschool boys)
 - Monogatari series
-- Dorohedero
+- Hunter x Hunter
+- 3-gatsu no lion manga
 
 ## Manga To Read:
 
@@ -348,4 +351,5 @@
 - Daily life of the immortal king
 - HunterXHunter
 - 3-Gatsu no lion
+- Bakemonogatari
 

@@ -27,6 +27,8 @@
 - https://foundation.rust-lang.org/
 - https://www.wezm.net/v2/posts/2020/100-rust-binaries/
 - https://open.spotify.com/show/6PVQBdYnLaECFjwdpH4PgB?si=XuVgSPfVQeeZcjbmhF39gw
+- https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
+- https://tourofrust.com/
 
 ## Blogs and Articles:
 
@@ -50,6 +52,8 @@
 - https://dev.to/senyeezus/ergonomic-error-handling-with-rust-13bj
 - https://aloso.github.io/2021/03/28/module-system.html
 - https://betterprogramming.pub/structuring-rust-project-for-testability-18207b5d0243
+- https://areweyeetyet.rs/
+- https://maurya-anjani.medium.com/rust-lang-creating-a-singleton-pattern-16438ffaca59
 
 ### Tutorials:
 
@@ -92,6 +96,10 @@
 - https://reime005.medium.com/svelte-with-rust-and-a-graphql-rest-api-wrapper-9812462b94e3
 - https://doko-demo-doa.medium.com/rust-gtk-on-windows-getting-started-14aa2d7c825d
 - https://medium.com/pragmatic-programmers/getting-started-with-yew-6924588d11a7
+- https://medium.com/@knoldus/enhance-code-quality-using-matches-macro-in-rust-4654cdfcb6ac
+- https://medium.com/dev-genius/as-a-tech-guy-you-will-thank-me-for-these-websites-be09e86ebcef
+- https://levelup.gitconnected.com/handling-websocket-and-http-on-the-same-port-with-rust-f65b770722c9
+- https://levelup.gitconnected.com/lets-build-a-single-binary-grpc-server-client-with-rust-498c1cb900d3
 
 ### Others:
 
@@ -152,6 +160,10 @@
 - https://radekvit.medium.com/avoiding-single-threaded-memory-access-bugs-with-rust-for-c-developers-2b7fc9c877ec
 - https://levelup.gitconnected.com/the-ref-keyword-in-rust-a81e64cda3af
 - https://gendignoux.com/blog/2021/04/01/rust-async-streams-futures-part1.html
+- https://medium.com/the-unpopular-opinions-of-a-senior-developer/microsoft-officially-supports-rust-powered-web-framework-d39271cc55f6
+- https://trentmay.medium.com/a-simple-base64-implementation-with-rust-80b3b75ce095
+- https://medium.com/swlh/a-look-at-rust-winrt-a9426a06f68b
+- https://medium.com/tresorit-engineering/collecting-broadcast-udp-packets-using-async-networking-in-rust-7fd93a631eac
 
 ## Blog Series:
 
@@ -230,6 +242,7 @@
 - https://github.com/awslabs/aws-lambda-rust-runtime
 - Implementation of QUIC and HTTP/3: https://github.com/cloudflare/quiche
 - Add cargo add, rm and upgrade to your main cargo command: https://github.com/killercup/cargo-edit
+- Minesweeper in WinRT: https://github.com/robmikh/minesweeper-rs
 
 ## Videos:
 
@@ -333,6 +346,7 @@
 - https://davidkoloski.me/blog/rkyv-is-faster-than/
 - e-graphs to provide a new way to build program optimizers and synthesizers: https://egraphs-good.github.io/
 - Rust task runner and build tool: https://rust.libhunt.com/cargo-make-alternatives, https://github.com/sagiegurari/cargo-make
+- A small and fast async runtime: https://lib.rs/crates/smol
 
 ## Rust Internals:
 
@@ -371,8 +385,14 @@
 - https://www.reddit.com/r/rust/comments/lcow5j/black_hat_rust_im_writing_a_book_about_offensive/
 - https://www.reddit.com/r/rust/comments/lkvlya/introducing_the_firestorm_profiler/
 - https://www.reddit.com/r/rust/comments/m7fxaz/implementing_raii_guards_in_rust/
+- https://www.reddit.com/r/learnrust/comments/mwuzny/list_of_beginners_level_open_source_rust_project/
 
 ## Rust Learning:
+
+## Websites:
+
+- https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
+- https://tourofrust.com/
 
 ### Blogs and articles:
 

@@ -11,6 +11,8 @@
 - https://junereycasuga.medium.com/go-grpc-with-go-kit-ff8c9151d2c1
 - https://ideahitme.medium.com/videostreaming-2-n-rust-and-grpc-a90a38519743
 - https://leccajavier.medium.com/grpc-beautiful-architecture-d957d6d82316
+- https://levelup.gitconnected.com/lets-build-a-single-binary-grpc-server-client-with-rust-498c1cb900d3
+- https://levelup.gitconnected.com/an-up-to-date-review-of-grpc-with-golang-b8cc78b584f7
 
 ## Repos:
 

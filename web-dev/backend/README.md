@@ -32,6 +32,10 @@
 - Best practices for JWTs: https://tools.ietf.org/html/draft-ietf-oauth-jwt-bcp-07
 - https://blog.cloudflare.com/data-loss-prevention/
 - https://itnext.io/modern-storage-is-plenty-fast-it-is-the-apis-that-are-bad-6a68319fbc1a
+- https://dev.to/flippedcoding/implementing-passwordless-authentication-in-node-js-43m0
+- Very good collection of much lesser known things in HTTP: https://httptoolkit.tech/blog/http-wtf/
+- https://netflixtechblog.com/building-fast-com-4857fe0f8adb
+- https://betterprogramming.pub/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9
 
 ## Reddits and twitter threads:
 

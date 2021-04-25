@@ -24,46 +24,64 @@
 - https://ryanstutorials.net/linuxtutorial/
 - http://swift.siphos.be/linux_sea/index.html
 - https://www.billdietrich.me/Linux.html
+- Dennis Ritchie's bell labs home page: https://www.bell-labs.com/usr/dmr/www/
+- The original unix manual: https://www.bell-labs.com/usr/dmr/www/manintro.html
 
 ## Blogs and articles:
 
 - https://www.techradar.com/best/best-linux-distros
-- 7 bash tutorials to enhance bash skills: https://opensource.com/article/21/1/bash
 - https://www.educba.com/linux-lvm/
 - Systemd: https://www.linode.com/docs/guides/what-is-systemd/
 - https://ostechnix.com/use-pushd-popd-dirs-commands-faster-cli-navigation/
 - https://training.linuxfoundation.org/resources/free-courses/
-- Using cURL: https://www.tecmint.com/linux-curl-command-examples/
-- Using xargs: https://www.tecmint.com/xargs-command-examples/
 - https://www.collabora.com/news-and-blog/blog/2020/03/05/pipewire-the-media-service-transforming-the-linux-multimedia-landscape/
-- https://www.howtogeek.com/562941/how-to-use-the-awk-command-on-linux/
 - https://opensource.com/article/21/2/emoji-linux
 - https://ubuntu.com/blog/private-home-directories-for-ubuntu-21-04
 - https://popey.com/blog/2021/01/null/
-- https://dev.to/mauro_codes/linux-terminal-the-ultimate-cheat-sheet-2g5b , https://dev.to/mauro_codes/linux-terminal-the-ultimate-cheat-sheet-part-2-11ge
-- https://towardsdatascience.com/linux-shell-commands-can-be-your-time-saver-eabee76914b
 - https://www.omgubuntu.co.uk/2021/02/linux-release-roundup-flowblade-gthumb-more
 - https://medium.com/swlh/a-perfect-linux-distribution-ca80fe8e443d
 - Differences between terminal, console and shell: https://miguelravila.hashnode.dev/terminalconsoleshell
 - https://opensource.com/article/21/2/linux-package-management
 - https://opensource.com/article/21/2/linux-media-players
 - https://stackabuse.com/get-total-size-of-a-directory-in-linux/
-- ZSH Cheatsheet: https://dev.to/twilio/zsh-tricks-to-blow-your-mind-291f
 - https://dzone.com/articles/linux-kernel-vs-memory-fragmentation-part-i
 - https://pythonawesome.com/a-windows-task-manager-lookalike-for-linux/
-- Nice collection of commands: https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/
-- https://levelup.gitconnected.com/5-super-handy-linux-commands-that-everyone-should-be-aware-of-a70b08d2c635
 - https://blog.learncodeonline.in/automating-linux-installation-using-vagrant-and-virtualbox
 - https://fedoramagazine.org/4-cool-new-projects-to-try-in-copr-for-march-2021/
 - Showing image and video content on terminal: https://saitoha.github.io/libsixel/
 - https://blogs.gnome.org/tbernard/2021/03/22/drawing-mockups/
 - https://www.kernel.org/doc/html/latest/admin-guide/efi-stub.html
 - https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/
-- https://opensource.com/article/21/3/input-output-bash
-- https://opensource.com/article/21/3/sed-cheat-sheet
 - https://www.phoronix.com/scan.php?page=news_item&px=Arch-Linux-Does-Archinstall
 - https://askubuntu.com/questions/248914/what-is-hardware-enablement-hwe
 - https://wiki.archlinux.org/index.php/Preload
+- https://meepy.medium.com/creating-a-kernel-from-scratch-1a1aa569780f
+- https://medium.com/swlh/i-installed-arch-linux-now-what-b032ebe8be06
+- https://blog.sourcerer.io/featured-github-repository-ms-dos-5ecf27cacb38
+- https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234
+- https://dev.to/josephmidura/how-to-manage-multiple-ssh-key-pairs-1ik
+- https://unixism.net/loti/what_is_io_uring.html
+- https://sourceware.org/systemtap/
+- https://en.wikipedia.org/wiki/Halloween_documents
+- https://betterprogramming.pub/4-linux-monitoring-tools-you-should-use-38a136e68639
+- https://stephenagrice.medium.com/take-your-linux-workspace-anywhere-backup-for-nerds-fdbf40b0421
+
+## Bash and ZSH:
+
+- https://devmount.medium.com/9-evil-bash-commands-explained-709412e92bd7
+- https://betterprogramming.pub/15-essential-linux-command-line-tips-and-tricks-95e2bfa2890f
+- https://opensource.com/article/21/3/input-output-bash
+- https://opensource.com/article/21/3/sed-cheat-sheet
+- 7 bash tutorials to enhance bash skills: https://opensource.com/article/21/1/bash
+- https://dev.to/mauro_codes/linux-terminal-the-ultimate-cheat-sheet-2g5b , https://dev.to/mauro_codes/linux-terminal-the-ultimate-cheat-sheet-part-2-11ge
+- Using cURL: https://www.tecmint.com/linux-curl-command-examples/
+- Using xargs: https://www.tecmint.com/xargs-command-examples/
+- https://www.howtogeek.com/562941/how-to-use-the-awk-command-on-linux/
+- https://towardsdatascience.com/linux-shell-commands-can-be-your-time-saver-eabee76914b
+- ZSH Cheatsheet: https://dev.to/twilio/zsh-tricks-to-blow-your-mind-291f
+- https://betterprogramming.pub/the-most-productive-shell-commands-and-command-line-tricks-ec1415283259
+- https://levelup.gitconnected.com/5-super-handy-linux-commands-that-everyone-should-be-aware-of-a70b08d2c635
+- Nice collection of commands: https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/
 
 ## Cheatsheets:
 
@@ -147,6 +165,7 @@
 
 - Using timeshift a-z: https://www.youtube.com/watch?v=qh08GvrUivc
 - Linux filesystem: https://youtu.be/42iQKuQodW4
+- eBPF - Rethiking the linux kernel: https://www.infoq.com/presentations/facebook-google-bpf-linux-kernel/
 
 ## Courses:
 

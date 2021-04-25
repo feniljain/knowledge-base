@@ -46,6 +46,8 @@
 - https://betterprogramming.pub/solutions-architect-tips-the-5-types-of-architecture-diagrams-eb0c11996f9e
 - https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116
 - https://blog.hotstar.com/hotstars-journey-from-ec2-to-containers-86ea4e4880fd
+- https://medium.com/airbnb-engineering/dynein-building-a-distributed-delayed-job-queueing-system-93ab10f05f99
+- https://github.com/netdata/netdata
 
 ## Videos:
 
@@ -74,4 +76,6 @@
 
 - https://www.reddit.com/r/devops/comments/l1t4sf/how_cicd_tools_are_built/
 - https://www.reddit.com/r/devops/comments/mewcv5/eli5_container_ecosystem/
+- https://www.reddit.com/r/devops/comments/mwt294/best_strategy_to_dynamically_create_and_deploy/
+- https://www.reddit.com/r/devops/comments/mx1ms5/strategy_for_securing_docker_images_before_pushed/
 

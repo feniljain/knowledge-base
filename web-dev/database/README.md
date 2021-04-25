@@ -35,6 +35,7 @@
 - https://medium.com/easyread/til-becareful-on-postgres-query-for-less-than-or-equal-on-timestamp-9e486b657fc
 - https://www.cybertec-postgresql.com/en/how-the-postgresql-query-optimizer-works/
 - https://betterprogramming.pub/from-15-000-database-connections-to-under-100-dfd34062da4c
+- https://www.philipotoole.com/7-years-of-open-source-database-development-lessons-learned/
 
 ## Blog Series:
 

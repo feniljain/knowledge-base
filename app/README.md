@@ -50,6 +50,8 @@
 - https://github.com/Solido/awesome-flutter
 - https://github.com/iampawan/VelocityX
 - https://github.com/hydro-sdk/hydro-sdk
+- https://github.com/isar
+- High-performant, web standards-compliant rendering engine based on flutter: https://github.com/openkraken
 
 ## Packages:
 

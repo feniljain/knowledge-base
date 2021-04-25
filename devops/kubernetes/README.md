@@ -20,6 +20,7 @@
 - https://dev.to/rwilsonreleaseapp/why-is-kubernetes-so-hard-i42
 - https://twitter.com/bibryam/status/1373583176212299776
 - https://medium.com/bb-tutorials-and-thoughts/kubernetes-learn-sidecar-container-pattern-6d8c21f873d
+- https://medium.com/swlh/kubernetes-ingress-controller-overview-81abbaca19ec
 
 ## Blog series:
 

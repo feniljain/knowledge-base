@@ -17,6 +17,7 @@
 - https://itnext.io/we-rendered-a-million-web-pages-to-find-out-what-makes-the-web-slow-72bbba9ade96
 - https://developers.google.com/web/updates/2020/10/http-cache-partitioning
 - https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/
+- https://dev.to/jordanfinners/never-use-a-number-or-currency-formatting-library-again-mhb
 
 ## Videos:
 
@@ -28,6 +29,7 @@
 - Single Sign-On Multi-Factor portal for web apps: https://github.com/authelia/authelia
 - Clones of various websites: https://github.com/GorvGoyl/Clone-Wars
 - https://fingerprintjs.com/blog/audio-fingerprinting/
+- https://github.com/30-seconds/30-seconds-web
 
 ## Web-assembly:
 

@@ -52,6 +52,7 @@
 - https://github.com/N0v0cain3/HowNodeWorks
 - Complete js library for whatsapp: https://github.com/orkestral/venom
 - https://www.c-sharpcorner.com/uploadfile/e70b61/how-to-create-thumbnails-of-images-stored-in-database/
+- https://github.com/30-seconds/30-seconds-of-code
 
 ## APIs:
 
@@ -61,6 +62,10 @@
 ## Tweets:
 
 - Javascript repos: https://twitter.com/nirbhayvashisht/status/1348139619582238723
+
+## Learning:
+
+- https://dev.to/worldindev/200-js-resources-to-master-programming-3aj6/
 
 # Typescript
 

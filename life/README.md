@@ -23,6 +23,11 @@
 - https://medium.com/the-post-grad-survival-guide/5-signs-you-are-wasting-your-life-44e474935a53
 - https://forge.medium.com/how-to-plan-with-people-who-dont-like-to-plan-e360a92cd683
 - https://medium.com/personal-growth/the-rule-of-70-20-10-a993c9e3e02f
+- https://www.swyx.io/35-principles/
+
+## Reddit and twitter threds:
+
+- https://twitter.com/swyx/status/1385349095074656259
 
 ## Random quotes:
 
@@ -44,6 +49,7 @@
 ## Songs playlist, I dont know where to keep them:
 
 - Total banger collection: https://www.youtube.com/watch?v=5XHxe0s5DmY
+-
 
 Kmshahco1966
 

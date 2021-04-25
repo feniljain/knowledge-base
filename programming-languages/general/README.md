@@ -62,6 +62,7 @@
 - https://towardsdatascience.com/switch-case-statements-are-coming-to-python-d0caf7b2bfd3
 - https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/
 - https://towardsdatascience.com/hidden-gems-of-python-76020b14e42f
+- https://python.plainenglish.io/a-solution-to-boost-python-speed-1000x-times-c9e7d5be2f40
 
 ### Repos:
 
@@ -77,6 +78,15 @@
 - https://medium.com/swlh/c-project-structure-for-cmake-67d60135f6f5
 - https://blog.sourcerer.io/building-another-website-this-time-in-c-93b7abdb9671
 - https://knowthecode.io/yoda-conditions-yoda-not-yoda/
+- https://medium.com/free-code-camp/understand-your-programs-memory-92431fa8c6b
+- https://medium.com/@connorbrereton/what-does-gcc-main-c-do-bc96824a60a4
+- https://ewire77.medium.com/why-writing-code-in-c-will-make-you-a-better-programmer-dc0b1ab9dd
+- https://medium.com/dev-genius/c-programming-hacks-01-memory-efficient-struct-design-8e7252c2b986
+- https://medium.com/@jasonmeisel/ranges-code-quality-and-the-future-of-c-99adc6199608
+
+### Repos:
+
+- https://github.com/taichi-dev/taichi
 
 ## Zig
 

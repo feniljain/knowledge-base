@@ -29,6 +29,7 @@
 - https://dev.to/leah_m_vogel/tags-vs-branches-in-git-4pm
 - https://levelup.gitconnected.com/git-worktrees-the-best-git-feature-youve-never-heard-of-9cd21df67baf
 - https://dev.to/pavlosisaris/git-commits-an-effective-style-guide-2kkn
+- https://dev.to/javidjms/git-write-better-commits-with-gitmoji-3193
 
 ## Git Internals:
 

@@ -43,7 +43,6 @@
 - https://dev.to/abbeyperini/toggle-dark-mode-in-react-28c9
 - https://betterprogramming.pub/how-to-render-large-lists-faster-on-websites-and-apps-12c6389bf13e
 - https://dev.to/lucasandre/5-useful-sites-for-frontend-devs-1212
-- OP css animation ultimate collection: https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40
 - React vs Vue: https://dzone.com/articles/react-vs-vue-in-2021-best-javascript-framework
 - https://www.lambdatest.com/blog/nodejs-best-practices/
 - https://daily.dev/blog/tailwind-css-jit-compiler-first-impression
@@ -63,6 +62,8 @@
 - Seeing live preview for different fonts setting their line height, and other options alongwith diff. lang support: https://input.djr.com/preview/
 - https://github.blog/2021-03-25-how-github-actions-renders-large-scale-logs/
 - https://dev.to/andrewbaisden/how-to-deploy-a-node-express-app-to-vercel-2aa
+- https://dev.to/exwhyzed/15-free-reactjs-templates-for-your-next-project-313m
+- https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb
 
 ## Websites:
 
@@ -82,14 +83,16 @@
 - https://github.com/Serial-Studio/Serial-Studio
 - Ready to go customer chat: https://github.com/papercups-io/papercups
 - https://github.com/alexgurr/react-coding-challenges
+- https://github.com/fsouza/prettierd
 
 ## Packages:
 
 - https://www.npmjs.com/package/react-helmet
 
-## Tweets:
+## Tweets and reddit threads:
 
 - Templates: https://twitter.com/sunilc_/status/1347962741789626370
+- https://www.reddit.com/r/WebdevTutorials/comments/mwo69l/top_21_web_development_trends_to_look_out_for_in/
 
 ## Learning:
 
@@ -105,4 +108,6 @@
 - https://hulyakarakaya.hashnode.dev/level-up-your-css-with-these-39-resources
 - https://famzil.medium.com/how-to-remove-unused-css-in-your-website-dfa9d2067679
 - https://css-irl.info/animating-underlines/
+- https://dev.to/kiranrajvjd/15-awesome-css-animation-resources-4mhi
+- OP css animation ultimate collection: https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40
 

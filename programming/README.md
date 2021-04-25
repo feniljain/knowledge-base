@@ -90,6 +90,7 @@
 - https://levelup.gitconnected.com/armv9-what-is-the-big-deal-4528f20f78f3
 - https://dev.to/adamcoster/documentation-as-code-40a7
 - https://medium.com/on-technology/describing-software-engineers-swes-ff2b4a407f98
+- https://levelup.gitconnected.com/the-30-most-influential-developers-ever-581c373d1c87
 
 ## Blog Series:
 
@@ -140,6 +141,8 @@
 - https://github.com/microsoft/verona
 - World's fastest json library: https://github.com/simdjson/simdjson
 - https://github.com/rust-lang/stdsimd
+- Save disk space by cleaning non-essential files from software projects: https://github.com/tbillington/kondo
+- https://github.com/skywind3000/awesome-cheatsheets
 
 ## Extensions:
 
