@@ -30,6 +30,7 @@
 - https://levelup.gitconnected.com/git-worktrees-the-best-git-feature-youve-never-heard-of-9cd21df67baf
 - https://dev.to/pavlosisaris/git-commits-an-effective-style-guide-2kkn
 - https://dev.to/javidjms/git-write-better-commits-with-gitmoji-3193
+- https://twitter.com/offlinemark/status/1387833240321417222?s=20
 
 ## Git Internals:
 
@@ -38,6 +39,12 @@
 ## Github Enhancements:
 
 - https://github.com/sindresorhus/refined-github
+
+## Videos:
+
+- Git Bare repo: https://www.youtube.com/watch?v=8aZW9mYOxhc
+- Manage dotfiles with git bare repo: https://www.youtube.com/watch?v=tBoLDpTWVOM
+- Using git worktree(prime): https://www.youtube.com/watch?v=2uEqYw-N8uE
 
 ## Learning:
 

@@ -4,6 +4,7 @@
 
 - https://9fans.topicbox.com/groups/9fans
 - https://9p.io/plan9/
+- https://ebpf.io/
 
 ## Blog and articles:
 
@@ -13,4 +14,6 @@
 - https://muhammedimdaad.medium.com/rtos-01-into-real-time-operating-systems-a14cbd717a09
 - https://erik-engheim.medium.com/the-genius-of-risc-v-microprocessors-b19d735abaa6
 - https://www.cl.cam.ac.uk/teaching/1617/ECAD+Arch/files/docs/RISCVGreenCardv8-20151013.pdf
+- https://todayamerican.medium.com/the-hidden-but-awesome-feature-of-intel-cpus-which-nobody-told-you-about-1596381039d6
+- https://engineering.fb.com/2021/04/27/developer-tools/reverse-debugging/
 

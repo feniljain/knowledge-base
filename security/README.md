@@ -21,6 +21,7 @@
 - https://christian-schneider.net/CrossSiteWebSocketHijacking.html
 - https://hacks.mozilla.org/2020/04/twitter-direct-message-caching-and-firefox/
 - https://mailing.bugbountyexplained.com/
+- https://medium.com/@rockprofile/i-opened-my-connection-to-ssh-attacks-and-these-were-the-requests-i-saw-a5999d62e511
 
 ## Repos and tools:
 

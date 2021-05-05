@@ -36,14 +36,20 @@
 - Very good collection of much lesser known things in HTTP: https://httptoolkit.tech/blog/http-wtf/
 - https://netflixtechblog.com/building-fast-com-4857fe0f8adb
 - https://betterprogramming.pub/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9
+- https://dev.to/kushagra_mehta/from-zero-to-hero-l-in-authentication-part-1-38od
+- https://sharma1612harshit.medium.com/back-pressure-rate-limiting-9ed9d544409e
+- https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb
+- https://medium.com/pragmatic-programmers/understanding-security-basics-1c2b1d5371d8
 
 ## Reddits and twitter threads:
 
 - SQL Interview question cheatsheet: https://twitter.com/Women_who_code/status/1360091409601073152
 - Backend developer cheatsheet: https://twitter.com/sunilc_/status/1373549827070431232
+- https://twitter.com/nodepractices/
 
 ## Repos:
 
+- All best practices of node: https://github.com/goldbergyoni/nodebestpractices
 - https://github.com/typicode/json-server
 - WebRTC in go: https://pion.ly/
 - https://github.com/ipfs/go-ipfs

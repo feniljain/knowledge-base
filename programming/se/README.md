@@ -24,6 +24,7 @@
 - https://www.bennadel.com/blog/4014-the-coldfusion-monolith-allows-my-team-to-move-fast-and-deploy-hella-often.htm
 - https://dev.to/poudyal_rabin/how-to-avoid-flow-zone-a-false-sense-of-hyper-productivity-1n57
 - http://www.dossier-andreas.net/software_architecture/ports_and_adapters.html
+- https://medium.com/young-coder/the-devils-dictionary-of-software-design-8f4fab207808
 
 ## Blogs Series:
 

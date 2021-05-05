@@ -28,6 +28,7 @@
 - https://medium.com/swlh/the-top-10-most-useful-online-courses-you-can-take-for-free-411aaa0dd80d
 - https://dev.to/technoglot/prioritize-tasks-like-a-boss-with-the-eisenhower-method-5a5e
 - https://javascript.plainenglish.io/cool-neural-networks-that-you-can-try-right-now-75dbac9f69d2
+- https://dev.to/gedalyakrycer/165-developer-resources-i-discovered-in-2020-2021-6ma
 
 ## Lit subreddits:
 

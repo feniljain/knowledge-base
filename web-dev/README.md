@@ -18,6 +18,9 @@
 - https://developers.google.com/web/updates/2020/10/http-cache-partitioning
 - https://www.clever-cloud.com/blog/engineering/2021/04/12/introduction-to-biscuit/
 - https://dev.to/jordanfinners/never-use-a-number-or-currency-formatting-library-again-mhb
+- https://dev.to/hichamelbsi/accessibility-is-a-priority-3jbf
+- https://dev.to/rohitrana/how-the-web-works-1hd7
+- https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/
 
 ## Videos:
 

@@ -13,4 +13,9 @@
 ## Blogs and articles:
 
 - https://opensource.com/article/21/3/open-source-tools-web-design
+- https://dev.to/kiranrajvjd/40-awesome-illustrations-resources-for-your-web-projects-2fea
+
+## Repos:
+
+- https://github.com/bradtraversy/design-resources-for-developers/
 

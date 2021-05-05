@@ -39,6 +39,8 @@
 - https://blog.jse.li/posts/torrent/
 - https://medium.com/random-life-journal/develop-a-large-scale-concurrent-urls-scraper-in-go-eec38d6f8fee
 - https://medium.com/dev-genius/real-time-key-value-store-in-golang-d53b27ea4947
+- https://medium.com/@bradford_hamilton/building-an-api-with-graphql-and-go-9350df5c9356
+- https://medium.com/schkn/monitoring-systemd-services-in-realtime-with-chronograf-285c650c1a73
 
 ### Architecture:
 
@@ -56,6 +58,8 @@
 - https://medium.com/swlh/go-decorator-pattern-2379974077b1
 - https://medium.com/swlh/developing-a-web-application-in-go-using-the-layered-architecture-8fc13209c808
 - https://levelup.gitconnected.com/the-mediator-pattern-in-go-344ee5c8c2f4
+- https://github.com/xinliangnote/go-gin-api
+- https://github.com/golang-standards/project-layout
 
 ### Others:
 
@@ -123,6 +127,10 @@
 - https://www.mess.org/2021/03/26/Left-Recursive-PEG-Parser-Generator/
 - https://tobyokewole.medium.com/a-deep-dive-into-gos-context-package-fa1b6393494b
 - https://medium.com/geekculture/make-music-with-maths-and-go-ii-7d49d438b83c
+- https://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/
+- https://boats.gitlab.io/blog/post/poll-drop/
+- https://levelup.gitconnected.com/golang-optimizing-docker-image-size-from-2-4-gb-to-100-mb-using-docker-multi-stage-build-process-5b808f20e808
+- https://medium.com/a-journey-with-go/go-built-in-functions-optimizations-70c5abb3a680
 
 ## Blog Series:
 

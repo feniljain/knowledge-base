@@ -9,6 +9,7 @@
 - https://www.reddit.com/r/vim/comments/kq0sbd/a_quick_reference_was_made_for_vim_navigation/
 - https://www.reddit.com/r/neovim/comments/lfvr3z/a_useful_vim_cheat_sheets/
 - https://vim.rtorr.com/
+- https://www.reddit.com/r/vim/comments/n0w3d7/an_animated_vim_cheatsheet_svg_version_is/
 
 ## Videos:
 
@@ -62,6 +63,10 @@
 - https://thevaluable.dev/vim-advanced/
 - All commands of netrw: https://gist.github.com/t-mart/610795fcf7998559ea80
 - Vimspector guide: https://puremourning.github.io/vimspector-web/demo-setup.html#getting-started
+- All lists in vim: https://codeinthehole.com/tips/vim-lists/
+- https://til.codeinthehole.com/posts/you-can-jump-to-previous-quickfix-lists-in-vim/
+- https://til.codeinthehole.com/posts/how-to-add-project-specific-vim-settings/
+- https://til.codeinthehole.com/posts/universal-ctags-can-index-more-things-than-i-realised/
 
 ## Blog series:
 
@@ -95,6 +100,7 @@
 - https://vim-adventures.com/
 - https://vimcolorschemes.com/
 - Vim statusline generator: https://tdaly.co.uk/projects/vim-statusline-generator/
+- https://nvim-awesome.vercel.app/
 
 ## Repos:
 
@@ -284,6 +290,7 @@
 
 ## Lua plugins:
 
+- Collection of neovim plugins: https://nvim-awesome.vercel.app/
 - https://github.com/p00f/nvim-ts-rainbow
 - https://github.com/kyazdani42/nvim-tree.lua
 - https://github.com/nvim-telescope/telescope-arecibo.nvim
@@ -292,6 +299,8 @@
 - https://github.com/phaazon/hop.nvim
 - https://github.com/folke/lsp-trouble.nvim
 - https://github.com/folke/lsp-colors.nvim
+- https://github.com/karb94/neoscroll.nvim
+- https://github.com/sindrets/diffview.nvim
 
 ## VimRCs for reference:
 

@@ -35,6 +35,7 @@
 - https://selfimproving.dev/
 - https://fireship.io/lessons/
 - https://www.craftinginterpreters.com/
+- https://programmerhumor.io/
 
 ## Blogs and Articles:
 
@@ -64,7 +65,6 @@
 - https://dev.to/amarachukwu/productivity-hacks-for-developers-2pmj
 - https://dev.to/kevinhickssw/even-senior-developers-have-imposter-syndrome-4e8f
 - https://blog.alyssaholland.me/7-alfred-workflows-to-boost-development-productivity
-- https://medium.com/@kevinsmavani007/red-black-tree-47e3249cf17
 - https://javascript.plainenglish.io/the-10-most-popular-programming-articles-february-2021-57b6e162a791
 - https://dev.to/leviathanprogramming/share-your-ideas-what-great-projects-would-be-awesome-to-make-202
 - https://medium.com/pragmatic-programmers/parallel-architecture-312158a98d04
@@ -91,6 +91,8 @@
 - https://dev.to/adamcoster/documentation-as-code-40a7
 - https://medium.com/on-technology/describing-software-engineers-swes-ff2b4a407f98
 - https://levelup.gitconnected.com/the-30-most-influential-developers-ever-581c373d1c87
+- https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm?signin=true
+- https://dev.to/wassimchegham/the-subtle-art-of-being-a-developer-advocate-gdg
 
 ## Blog Series:
 

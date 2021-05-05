@@ -7,6 +7,7 @@
 - https://www.shrlrn.com/practice/kuberneteslabs
 - https://kube101.jeffgeerling.com/
 - https://container.training/
+- https://100daysofkubernetes.io/
 
 ## Blogs and Articles:
 
@@ -44,6 +45,7 @@
 - https://github.com/nats-io
 - https://github.com/magnologan/awesome-k8s-security
 - https://github.com/chaos-mesh
+- https://github.com/kelseyhightower/kubernetes-the-hard-way
 
 ## Tools:
 

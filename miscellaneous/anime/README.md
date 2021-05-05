@@ -111,6 +111,7 @@
 - Zombieland saga
 - Myriad Colors Phantom World
 - Angels of Death
+- Higehiro: after being rejected, I shaved and took in a highschool runaway
 
 ## Action and Thriller:
 
@@ -199,6 +200,9 @@
 - Sing "yesterday for me"
 - Aoi bungaku: No longer human
 - chihayafuru
+- Colorful
+- Couple of cuckoos
+- Fate series
 
 ## Sports:
 
@@ -267,6 +271,7 @@
 - gogoanime.sh
 - moetube.to
 - haho.moe
+- 9anime.at
 
 ## Completed(I started maintaining this list very late may not have a lot of anime I have watched):
 

@@ -13,8 +13,9 @@
 - https://dev.to/savvasstephnds/the-problem-with-autocomplete-and-how-to-fix-it-2ill
 - Mastering webpack: https://dev.to/kalashin1/mastering-webpack-12fk
 - https://ordinarycoders.medium.com/how-to-use-chart-js-8f26208dd050
+- https://dev.to/ms_yogii/usereducer-instead-of-usestate-while-calling-apis-3e1l
 
-## Others:
+### Others:
 
 - Logging in frontend: https://dev.to/ackshaey/level-up-your-javascript-browser-logs-with-these-console-log-tips-55o2
 - Go thorugh for web interviews: https://dev.to/slawomirkolodziej/what-do-you-need-to-know-as-a-junior-frontend-developer-bonus-interview-questions-32ba
@@ -64,6 +65,8 @@
 - https://dev.to/andrewbaisden/how-to-deploy-a-node-express-app-to-vercel-2aa
 - https://dev.to/exwhyzed/15-free-reactjs-templates-for-your-next-project-313m
 - https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb
+- https://dev.to/koolkishan/what-is-virtual-dom-how-virtual-dom-works-what-is-reconciliation-what-is-diffing-algorithm-what-makes-react-so-fast-327a
+- https://dev.to/davidepacilio/30-free-react-dashboard-templates-and-themes-49g4
 
 ## Websites:
 
@@ -110,4 +113,5 @@
 - https://css-irl.info/animating-underlines/
 - https://dev.to/kiranrajvjd/15-awesome-css-animation-resources-4mhi
 - OP css animation ultimate collection: https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40
+- https://dev.to/peterlunch/a-painless-guide-to-understanding-css-positioning-2nbh/
 

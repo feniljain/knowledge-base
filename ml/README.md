@@ -32,4 +32,5 @@
 - https://github.com/harskish/ganspace
 - https://github.com/EleutherAI/gpt-neo
 - https://github.com/Layout-Parser/layout-parser
+- https://github.com/lutzroeder/netron
 

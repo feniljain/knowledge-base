@@ -20,6 +20,7 @@
 - https://www.c-sharpcorner.com/uploadfile/akkiraju/functional-programming-in-simple-explained/
 - https://blogs.gentoo.org/mgorny/2021/02/19/the-modern-packagers-security-nightmare/
 - https://medium.com/att-israel/its-time-you-learn-about-monads-4ebe687e3ec7
+- https://suzdalnitski.medium.com/oop-design-patterns-bd2c4fb3014c/
 
 ## Repos:
 
@@ -68,6 +69,8 @@
 
 - https://github.com/Asabeneh/30-Days-Of-Python
 - Attempt by dropbox to use LLVM as compiler backend to make python much faster: https://blog.pyston.org/
+- https://github.com/jackfrued/Python-100-Days
+- https://github.com/TheAlgorithms/Python
 
 ## C and CPP
 
@@ -83,6 +86,12 @@
 - https://ewire77.medium.com/why-writing-code-in-c-will-make-you-a-better-programmer-dc0b1ab9dd
 - https://medium.com/dev-genius/c-programming-hacks-01-memory-efficient-struct-design-8e7252c2b986
 - https://medium.com/@jasonmeisel/ranges-code-quality-and-the-future-of-c-99adc6199608
+- https://ajmmertens.medium.com/a-closer-look-at-bake-a-tool-that-makes-building-c-c-code-effortless-b2e0409fad8f
+- https://medium.com/hackernoon/learn-c-multi-threading-in-5-minutes-8b881c92941f
+- https://medium.com/applied/applied-c-return-multiple-values-b142ff8c014a
+- https://medium.com/@vgasparyan1995/what-is-an-allocator-c8df15a93ed
+- Allocators in cpp: https://www.youtube.com/watch?v=0MdSJsCTRkY
+- https://betterprogramming.pub/5-advanced-c-programming-concepts-for-developers-22a9dd35e361
 
 ### Repos:
 

@@ -9,6 +9,9 @@
 - https://medium.com/rtkal/distributed-cache-design-348cbe334df1
 - https://netflixtechblog.medium.com/tips-for-high-availability-be0472f2599c
 - https://medium.com/geekculture/top-10-system-design-interview-questions-10f7b5ea123d
+- https://betterprogramming.pub/design-ubers-backend-a-systems-design-walkthrough-c88f8959de97
+- https://medium.com/swlh/building-scalable-distributed-systems-part-1-introduction-to-scalable-systems-9ca471fd77d7
+- https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb
 
 ## Repos:
 

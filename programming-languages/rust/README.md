@@ -29,6 +29,7 @@
 - https://open.spotify.com/show/6PVQBdYnLaECFjwdpH4PgB?si=XuVgSPfVQeeZcjbmhF39gw
 - https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
 - https://tourofrust.com/
+- https://forge.rust-lang.org/
 
 ## Blogs and Articles:
 
@@ -100,6 +101,8 @@
 - https://medium.com/dev-genius/as-a-tech-guy-you-will-thank-me-for-these-websites-be09e86ebcef
 - https://levelup.gitconnected.com/handling-websocket-and-http-on-the-same-port-with-rust-f65b770722c9
 - https://levelup.gitconnected.com/lets-build-a-single-binary-grpc-server-client-with-rust-498c1cb900d3
+- https://medium.com/fcats-blockchain-incubator/implementing-digital-signatures-in-rust-1a42c64c10a
+- Dependency Injection in Rust: https://medium.com/swlh/dependency-injection-in-rust-using-waiter-di-f5140ff798ef
 
 ### Others:
 
@@ -164,6 +167,8 @@
 - https://trentmay.medium.com/a-simple-base64-implementation-with-rust-80b3b75ce095
 - https://medium.com/swlh/a-look-at-rust-winrt-a9426a06f68b
 - https://medium.com/tresorit-engineering/collecting-broadcast-udp-packets-using-async-networking-in-rust-7fd93a631eac
+- https://trentmay.medium.com/writing-a-hex-dump-utility-in-rust-e98b3355e530
+- https://medium.com/geekculture/rust-for-pi-projects-d1fd9a0c51ef
 
 ## Blog Series:
 
@@ -190,6 +195,7 @@
 
 ## Repos:
 
+- Infomation useful to people contributing to rust: https://github.com/rust-lang/rust-forge
 - https://github.com/rust-lang/rustlings
 - https://github.com/not-yet-awesome-rust/not-yet-awesome-rust
 - full-stack projects: https://github.com/steadylearner/Rust-Full-Stack

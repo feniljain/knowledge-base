@@ -26,6 +26,7 @@
 - https://www.billdietrich.me/Linux.html
 - Dennis Ritchie's bell labs home page: https://www.bell-labs.com/usr/dmr/www/
 - The original unix manual: https://www.bell-labs.com/usr/dmr/www/manintro.html
+- https://distrowatch.com/
 
 ## Blogs and articles:
 
@@ -65,6 +66,15 @@
 - https://en.wikipedia.org/wiki/Halloween_documents
 - https://betterprogramming.pub/4-linux-monitoring-tools-you-should-use-38a136e68639
 - https://stephenagrice.medium.com/take-your-linux-workspace-anywhere-backup-for-nerds-fdbf40b0421
+- https://medium.com/100-days-of-linux/chroot-a-linux-wonder-fc36ed08087e
+- https://medium.com/schkn/monitoring-systemd-services-in-realtime-with-chronograf-285c650c1a73
+- https://taylor-abraham.medium.com/how-to-automate-your-dev-environment-with-tmuxinator-c4f2b049be6
+- How to use netcat and dd: https://levelup.gitconnected.com/two-overlooked-commands-for-unix-ninjas-55b8bfc4dc84
+- Using awk: https://dane-bulat.medium.com/the-awk-programming-language-an-introduction-7035d343cd30
+
+## Blog series:
+
+- https://medium.com/100-days-of-linux/
 
 ## Bash and ZSH:
 
@@ -114,6 +124,7 @@
 - https://github.com/phw/peek
 - https://github.com/akavel/up
 - Terminal image viewer: https://github.com/atanunq/viu
+- General live reload tool: https://github.com/cortesi/modd
 
 ## Terminal tools I use:
 
@@ -166,6 +177,7 @@
 - Using timeshift a-z: https://www.youtube.com/watch?v=qh08GvrUivc
 - Linux filesystem: https://youtu.be/42iQKuQodW4
 - eBPF - Rethiking the linux kernel: https://www.infoq.com/presentations/facebook-google-bpf-linux-kernel/
+- Wayland: https://www.youtube.com/watch?v=g1BoZnekkyM
 
 ## Courses:
 

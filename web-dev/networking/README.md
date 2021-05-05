@@ -1,8 +1,9 @@
 <h2 align="center">Networking</h2>
 
-## Networking:
+## Websites:
 
 - https://hpbn.co/
+- https://http3-explained.haxx.se/
 
 ## Blogs and Articles:
 
@@ -15,6 +16,9 @@
 - https://en.wikipedia.org/wiki/Serial_number_arithmetic
 - https://www.pdl.cmu.edu/mailinglists/ips/mail/msg00133.html
 - Very good collection of much lesser known things in HTTP: https://httptoolkit.tech/blog/http-wtf/
+- https://blog.cloudflare.com/http-3-from-root-to-tip/
+- https://medium.com/100-days-of-linux/working-with-systemd-networkd-e461cfe80e6d
+- https://medium.com/100-days-of-linux/7-fundamental-use-cases-of-netcat-866364eb1742
 
 ## Reddit and twitter threads:
 

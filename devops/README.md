@@ -48,6 +48,7 @@
 - https://blog.hotstar.com/hotstars-journey-from-ec2-to-containers-86ea4e4880fd
 - https://medium.com/airbnb-engineering/dynein-building-a-distributed-delayed-job-queueing-system-93ab10f05f99
 - https://github.com/netdata/netdata
+- https://medium.com/pragmatic-programmers/discover-services-with-serf-926086d0430d
 
 ## Videos:
 

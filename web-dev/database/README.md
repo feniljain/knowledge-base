@@ -36,6 +36,7 @@
 - https://www.cybertec-postgresql.com/en/how-the-postgresql-query-optimizer-works/
 - https://betterprogramming.pub/from-15-000-database-connections-to-under-100-dfd34062da4c
 - https://www.philipotoole.com/7-years-of-open-source-database-development-lessons-learned/
+- https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/
 
 ## Blog Series:
 
@@ -49,4 +50,5 @@
 
 - https://github.com/jameycribbs/hare
 - https://github.com/RedisJSON/RedisJSON
+- https://github.com/pingcap/dumpling
 

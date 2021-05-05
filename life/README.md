@@ -33,6 +33,8 @@
 
 - It's better to be hated for who you are, than to be loved for what you are not
 - Words don't have the power to hut you, unless the one who said it means a lot to you
+- Beware of missing chances; otherwise it may be altogether too late some day
+- Persistence is very important, do not give up until you are forced to give up
 
 ## Books:
 
@@ -49,7 +51,6 @@
 ## Songs playlist, I dont know where to keep them:
 
 - Total banger collection: https://www.youtube.com/watch?v=5XHxe0s5DmY
--
 
 Kmshahco1966
 

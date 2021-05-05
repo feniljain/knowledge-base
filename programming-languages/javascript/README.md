@@ -39,6 +39,7 @@
 - https://dev.to/sumaiyaasif/async-and-await-and-what-is-it-actually-doing-34l
 - https://dev.to/garvitmotwani/10-new-javascript-features-in-es2020-that-you-should-know-3ohf
 - https://dev.to/garvitmotwani/8-javascript-tips-tricks-that-no-one-teaches-24g1
+- https://dev.to/worldindev/400-javascript-interview-questions-with-answers-2fcj
 
 ### Tutorials:
 
