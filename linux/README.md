@@ -30,47 +30,58 @@
 
 ## Blogs and articles:
 
-- https://www.techradar.com/best/best-linux-distros
+### Linux tools:
+
+- https://ostechnix.com/use-pushd-popd-dirs-commands-faster-cli-navigation/
+- https://opensource.com/article/21/2/emoji-linux
+- Differences between terminal, console and shell: https://miguelravila.hashnode.dev/terminalconsoleshell
+- https://stackabuse.com/get-total-size-of-a-directory-in-linux/
+- https://pythonawesome.com/a-windows-task-manager-lookalike-for-linux/
+- Showing image and video content on terminal: https://saitoha.github.io/libsixel/
+- https://blogs.gnome.org/tbernard/2021/03/22/drawing-mockups/
+- https://www.phoronix.com/scan.php?page=news_item&px=Arch-Linux-Does-Archinstall
+- https://betterprogramming.pub/4-linux-monitoring-tools-you-should-use-38a136e68639
+- Using awk: https://dane-bulat.medium.com/the-awk-programming-language-an-introduction-7035d343cd30
+- https://medium.com/100-days-of-linux/chroot-a-linux-wonder-fc36ed08087e
+- How to use netcat and dd: https://levelup.gitconnected.com/two-overlooked-commands-for-unix-ninjas-55b8bfc4dc84
+- https://levelup.gitconnected.com/navigate-your-unix-shell-history-like-a-boss-5722ef45689f
+
+### Linux working:
+
 - https://www.educba.com/linux-lvm/
 - Systemd: https://www.linode.com/docs/guides/what-is-systemd/
-- https://ostechnix.com/use-pushd-popd-dirs-commands-faster-cli-navigation/
-- https://training.linuxfoundation.org/resources/free-courses/
 - https://www.collabora.com/news-and-blog/blog/2020/03/05/pipewire-the-media-service-transforming-the-linux-multimedia-landscape/
-- https://opensource.com/article/21/2/emoji-linux
 - https://ubuntu.com/blog/private-home-directories-for-ubuntu-21-04
 - https://popey.com/blog/2021/01/null/
 - https://www.omgubuntu.co.uk/2021/02/linux-release-roundup-flowblade-gthumb-more
-- https://medium.com/swlh/a-perfect-linux-distribution-ca80fe8e443d
-- Differences between terminal, console and shell: https://miguelravila.hashnode.dev/terminalconsoleshell
 - https://opensource.com/article/21/2/linux-package-management
 - https://opensource.com/article/21/2/linux-media-players
-- https://stackabuse.com/get-total-size-of-a-directory-in-linux/
 - https://dzone.com/articles/linux-kernel-vs-memory-fragmentation-part-i
-- https://pythonawesome.com/a-windows-task-manager-lookalike-for-linux/
-- https://blog.learncodeonline.in/automating-linux-installation-using-vagrant-and-virtualbox
-- https://fedoramagazine.org/4-cool-new-projects-to-try-in-copr-for-march-2021/
-- Showing image and video content on terminal: https://saitoha.github.io/libsixel/
-- https://blogs.gnome.org/tbernard/2021/03/22/drawing-mockups/
 - https://www.kernel.org/doc/html/latest/admin-guide/efi-stub.html
-- https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/
-- https://www.phoronix.com/scan.php?page=news_item&px=Arch-Linux-Does-Archinstall
 - https://askubuntu.com/questions/248914/what-is-hardware-enablement-hwe
 - https://wiki.archlinux.org/index.php/Preload
 - https://meepy.medium.com/creating-a-kernel-from-scratch-1a1aa569780f
-- https://medium.com/swlh/i-installed-arch-linux-now-what-b032ebe8be06
-- https://blog.sourcerer.io/featured-github-repository-ms-dos-5ecf27cacb38
-- https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234
-- https://dev.to/josephmidura/how-to-manage-multiple-ssh-key-pairs-1ik
+- https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c23
 - https://unixism.net/loti/what_is_io_uring.html
 - https://sourceware.org/systemtap/
+- Signals in linux: https://medium.com/100-days-of-linux/understanding-linux-process-signals-53d44c85c706
+
+### Others:
+
+- https://www.techradar.com/best/best-linux-distros
+- https://training.linuxfoundation.org/resources/free-courses/
+- https://medium.com/swlh/a-perfect-linux-distribution-ca80fe8e443d
+- https://blog.learncodeonline.in/automating-linux-installation-using-vagrant-and-virtualbox
+- https://fedoramagazine.org/4-cool-new-projects-to-try-in-copr-for-march-2021/
+- https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/
+- https://medium.com/swlh/i-installed-arch-linux-now-what-b032ebe8be06
+- https://blog.sourcerer.io/featured-github-repository-ms-dos-5ecf27cacb38
+- https://dev.to/josephmidura/how-to-manage-multiple-ssh-key-pairs-1ik
 - https://en.wikipedia.org/wiki/Halloween_documents
-- https://betterprogramming.pub/4-linux-monitoring-tools-you-should-use-38a136e68639
 - https://stephenagrice.medium.com/take-your-linux-workspace-anywhere-backup-for-nerds-fdbf40b0421
-- https://medium.com/100-days-of-linux/chroot-a-linux-wonder-fc36ed08087e
 - https://medium.com/schkn/monitoring-systemd-services-in-realtime-with-chronograf-285c650c1a73
 - https://taylor-abraham.medium.com/how-to-automate-your-dev-environment-with-tmuxinator-c4f2b049be6
-- How to use netcat and dd: https://levelup.gitconnected.com/two-overlooked-commands-for-unix-ninjas-55b8bfc4dc84
-- Using awk: https://dane-bulat.medium.com/the-awk-programming-language-an-introduction-7035d343cd30
+- https://medium.com/swlh/dual-boot-arch-linux-and-windows-the-right-way-7f59969f7525
 
 ## Blog series:
 
@@ -100,6 +111,13 @@
 - https://opensource.com/downloads/sed-cheat-sheet
 
 ## Repos:
+
+### Fun tools:
+
+- https://github.com/hugomd/parrot.live
+- https://github.com/busyloop/lolcat
+
+### Others:
 
 - https://github.com/snori74/linuxupskillchallenge
 - https://github.com/KittyKatt/screenFetch
@@ -163,6 +181,7 @@
 - Run a given command everytime a file is modified: https://github.com/watchexec/watchexec
 - Preview github markdown offline: https://github.com/grapegrip/wool
 - Creating beautiful image of code(exactly like carbon, but offline): https://github.com/Aloxaf/silicon
+- Counting number of lines of each programming language: https://github.com/XAMPPRocky/tokei/
 
 ## Wallpapers collection:
 

@@ -35,6 +35,7 @@
 - Words don't have the power to hut you, unless the one who said it means a lot to you
 - Beware of missing chances; otherwise it may be altogether too late some day
 - Persistence is very important, do not give up until you are forced to give up
+- What worries you, masters you
 
 ## Books:
 

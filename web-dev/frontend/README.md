@@ -14,6 +14,7 @@
 - Mastering webpack: https://dev.to/kalashin1/mastering-webpack-12fk
 - https://ordinarycoders.medium.com/how-to-use-chart-js-8f26208dd050
 - https://dev.to/ms_yogii/usereducer-instead-of-usestate-while-calling-apis-3e1l
+- https://dev.to/bibekkakati/how-to-use-vibration-api-in-your-website-4dp4
 
 ### Others:
 
@@ -70,9 +71,6 @@
 
 ## Websites:
 
-- https://flexbox.io/
-- https://cssgrid.io/
-- https://jhey.dev
 - https://bootswatch.com/
 - https://akaricons.com/
 - https://xenox.hashnode.dev/1-awesamosa-awesome-resources-for-developers
@@ -105,6 +103,10 @@
 
 ## Websites:
 
+- https://flexbox.io/
+- https://cssgrid.io/
+- https://jhey.dev
+
 ## Blogs And Articles:
 
 - https://www.sitepoint.com/css-path-function-squeaky-portraits/
@@ -114,4 +116,6 @@
 - https://dev.to/kiranrajvjd/15-awesome-css-animation-resources-4mhi
 - OP css animation ultimate collection: https://dev.to/afif/100-underline-overlay-animation-the-ultimate-css-collection-4p40
 - https://dev.to/peterlunch/a-painless-guide-to-understanding-css-positioning-2nbh/
+- https://dev.to/afif/build-your-responsive-website-without-media-query-omj
+- https://dev.to/kiranrajvjd/the-ultimate-web-developer-resources-list-200-resources-2gf5
 

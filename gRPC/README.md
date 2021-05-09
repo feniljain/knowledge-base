@@ -18,4 +18,4 @@
 
 - https://github.com/grpc-ecosystem/grpc-gateway
 - https://github.com/go-masonry/mortar
-
+- https://github.com/simplesteph/grpc-go-course

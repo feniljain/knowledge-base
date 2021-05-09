@@ -1,5 +1,7 @@
 <h2 align="center">Vim</h2>
 
+# FENIL REMEMBER THIS: https://matta9001.medium.com/a-warning-from-a-vim-user-a76ce08ce3c6
+
 ## Vim fun:
 
 - https://twitter.com/nixcraft/status/1363423983291428865
@@ -27,6 +29,7 @@
 - Configuring Language Servers: https://www.youtube.com/watch?v=5VJjIzD_xM8
 - Learn lua in one video: https://www.youtube.com/watch?v=iMacxZQMPXs
 - Neovim Tutorial livereload on plugin development: https://www.youtube.com/embed/mZZ2qQJ933k?feature=oembed&enablejsapi=1
+- Vim profiling: https://www.youtube.com/watch?v=wQ9uB8I0cCg
 
 ## Blogs, Articles and threads:
 
@@ -67,6 +70,9 @@
 - https://til.codeinthehole.com/posts/you-can-jump-to-previous-quickfix-lists-in-vim/
 - https://til.codeinthehole.com/posts/how-to-add-project-specific-vim-settings/
 - https://til.codeinthehole.com/posts/universal-ctags-can-index-more-things-than-i-realised/
+- Setting up vimspector: https://alpha2phi.medium.com/neovim-debugging-application-70c525754064
+- https://www.reddit.com/r/neovim/comments/le1duu/nvim_lsp_and_typescript_eslint_and_prettier/
+- https://jose-elias-alvarez.medium.com/configuring-neovims-lsp-client-for-typescript-development-5789d58ea9c
 
 ## Blog series:
 
@@ -287,8 +293,9 @@
 - https://github.com/lambdalisue/suda.vim
 - https://github.com/mg979/vim-visual-multi
 - https://github.com/simnalamburt/vim-mundo
+- Measuring startup times of various aspects of vim: https://github.com/tweekmonster/startuptime.vim
 
-## Lua plugins:
+## Lua/Nvim plugins:
 
 - Collection of neovim plugins: https://nvim-awesome.vercel.app/
 - https://github.com/p00f/nvim-ts-rainbow
@@ -301,6 +308,15 @@
 - https://github.com/folke/lsp-colors.nvim
 - https://github.com/karb94/neoscroll.nvim
 - https://github.com/sindrets/diffview.nvim
+- https://github.com/glepnir/dashboard-nvim
+- https://github.com/nvim-treesitter/nvim-treesitter-refactor
+- https://github.com/mhartington/nvim-typescript
+- https://github.com/wbthomason/packer.nvim
+- https://github.com/romgrk/barbar.nvim
+- https://github.com/mfussenegger/nvim-dap
+- https://github.com/phaazon/hop.nvim
+- https://github.com/lewis6991/spellsitter.nvim
+- https://github.com/jose-elias-alvarez/nvim-lsp-ts-utils
 
 ## VimRCs for reference:
 

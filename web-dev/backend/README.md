@@ -40,6 +40,11 @@
 - https://sharma1612harshit.medium.com/back-pressure-rate-limiting-9ed9d544409e
 - https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb
 - https://medium.com/pragmatic-programmers/understanding-security-basics-1c2b1d5371d8
+- https://netflixtechblog.com/keeping-netflix-reliable-using-prioritized-load-shedding-6cc827b02f94
+- https://medium.com/system-design-blog/long-polling-vs-websockets-vs-server-sent-events-c43ba96df7c1
+- https://netflixtechblog.com/performance-comparison-of-video-coding-standards-an-adaptive-streaming-perspective-d45d0183ca95
+- https://instagram-engineering.com/thundering-herds-promises-82191c8af57d
+- https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf
 
 ## Reddits and twitter threads:
 

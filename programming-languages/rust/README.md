@@ -103,6 +103,7 @@
 - https://levelup.gitconnected.com/lets-build-a-single-binary-grpc-server-client-with-rust-498c1cb900d3
 - https://medium.com/fcats-blockchain-incubator/implementing-digital-signatures-in-rust-1a42c64c10a
 - Dependency Injection in Rust: https://medium.com/swlh/dependency-injection-in-rust-using-waiter-di-f5140ff798ef
+- https://blog.svgames.pl/article/running-rust-on-android
 
 ### Others:
 
@@ -169,6 +170,8 @@
 - https://medium.com/tresorit-engineering/collecting-broadcast-udp-packets-using-async-networking-in-rust-7fd93a631eac
 - https://trentmay.medium.com/writing-a-hex-dump-utility-in-rust-e98b3355e530
 - https://medium.com/geekculture/rust-for-pi-projects-d1fd9a0c51ef
+- http://mbuffett.com/posts/incomplete-macro-walkthrough/
+- https://medium.com/swlh/controlling-threads-using-phantomdata-in-rust-3a53eb0c172
 
 ## Blog Series:
 
@@ -374,6 +377,7 @@
 - https://gist.github.com/PoignardAzur/8038f5ed7dc8d00e3e9472aca57fb35c
 - https://cfallin.org/blog/2020/09/18/cranelift-isel-1/
 - https://kornel.ski/rust-c-speed
+- https://github.com/rust-lang/rfcs/blob/master/text/1298-incremental-compilation.md
 
 ## Rust and security
 

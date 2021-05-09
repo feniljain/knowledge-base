@@ -7,4 +7,5 @@
 - https://dev.to/dabit3/the-complete-guide-to-full-stack-ethereum-development-3j13
 - https://medium.com/coinmonks/ethereum-foundation-announces-berlin-hardfork-603773bbc2aa
 - https://medium.com/fcats-blockchain-incubator/implementing-digital-signatures-in-rust-1a42c64c10a
+- https://dev.to/dabit3/building-graphql-apis-on-ethereum-4poa
 

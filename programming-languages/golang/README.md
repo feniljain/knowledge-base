@@ -131,6 +131,7 @@
 - https://boats.gitlab.io/blog/post/poll-drop/
 - https://levelup.gitconnected.com/golang-optimizing-docker-image-size-from-2-4-gb-to-100-mb-using-docker-multi-stage-build-process-5b808f20e808
 - https://medium.com/a-journey-with-go/go-built-in-functions-optimizations-70c5abb3a680
+- https://encore.dev/guide/go.mod
 
 ## Blog Series:
 
@@ -253,6 +254,7 @@
 - Obfuscate go code: https://go.libhunt.com/garble-alternatives
 - https://github.com/lucas-clemente/quic-go
 - Vulnerability audit tool: https://community.sonatype.com/t/golang-vulnerability-audit-tool-nancy/1452
+- https://dev.to/alexisvisco/new-golang-package-to-reduce-code-duplication-in-apis-945
 
 ## Go Internals:
 
@@ -286,6 +288,8 @@
 - https://www.calhoun.io/guide-to-go/
 - https://www.reddit.com/r/golang/comments/mcey65/practical_go_lessons_book_700_pages_41_chapters/
 - https://towardsdev.com/learning-golang-9297e2eee49a
+- Resources collected over 3 years: https://www.reddit.com/r/golang/comments/n5ppx5/some_resources_that_have_helped_me_learn_golang/
+- https://dev.to/moficodes/go-crash-course-part-1-18h1
 
 ## Courses:
 

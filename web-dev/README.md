@@ -21,6 +21,7 @@
 - https://dev.to/hichamelbsi/accessibility-is-a-priority-3jbf
 - https://dev.to/rohitrana/how-the-web-works-1hd7
 - https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/
+- https://medium.com/pragmatic-programmers/understanding-web-api-protocols-practices-and-styles-aa64f2a20a3d
 
 ## Videos:
 

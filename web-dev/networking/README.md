@@ -19,6 +19,7 @@
 - https://blog.cloudflare.com/http-3-from-root-to-tip/
 - https://medium.com/100-days-of-linux/working-with-systemd-networkd-e461cfe80e6d
 - https://medium.com/100-days-of-linux/7-fundamental-use-cases-of-netcat-866364eb1742
+- https://blog.bitsrc.io/will-webtransport-replace-webrtc-in-near-future-436c4f7f3484
 
 ## Reddit and twitter threads:
 

@@ -92,6 +92,7 @@
 - https://medium.com/@vgasparyan1995/what-is-an-allocator-c8df15a93ed
 - Allocators in cpp: https://www.youtube.com/watch?v=0MdSJsCTRkY
 - https://betterprogramming.pub/5-advanced-c-programming-concepts-for-developers-22a9dd35e361
+- https://medium.com/leaningtech/cheerp-2-6-rc1-the-cpp-compiler-for-the-web-8873be6601b1
 
 ### Repos:
 

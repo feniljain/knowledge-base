@@ -44,6 +44,7 @@
 ### Tutorials:
 
 - https://dev.to/whitep4nth3r/how-to-build-test-and-release-a-node-module-in-es6-296b
+- https://dev.to/laurieontech/a-guide-to-eslint-4mj7
 
 ## Libraries and packages and repos:
 

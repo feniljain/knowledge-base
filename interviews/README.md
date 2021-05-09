@@ -31,6 +31,7 @@
 - https://www.reddit.com/r/leetcode/comments/j6a6fr/suggestions_for_system_design_prep/
 - https://medium.com/geekculture/top-10-system-design-interview-questions-10f7b5ea123d
 - https://medium.com/illumination/the-responses-i-got-from-a-software-developer-candidate-that-made-me-hire-him-98ff8bf01298
+- https://medium.com/swlh/10-amusing-red-flags-during-a-software-engineering-interview-af7e98b717c3
 
 ## Books:
 

@@ -93,6 +93,7 @@
 - https://levelup.gitconnected.com/the-30-most-influential-developers-ever-581c373d1c87
 - https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm?signin=true
 - https://dev.to/wassimchegham/the-subtle-art-of-being-a-developer-advocate-gdg
+- https://medium.com/qiskit/learn-more-about-the-ibm-quantum-developer-certification-and-how-to-take-it-for-free-d237f9765dc5
 
 ## Blog Series:
 
