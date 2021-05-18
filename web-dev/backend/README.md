@@ -45,6 +45,10 @@
 - https://netflixtechblog.com/performance-comparison-of-video-coding-standards-an-adaptive-streaming-perspective-d45d0183ca95
 - https://instagram-engineering.com/thundering-herds-promises-82191c8af57d
 - https://blog.bitsrc.io/bff-pattern-backend-for-frontend-an-introduction-e4fa965128bf
+- https://blog.bitsrc.io/my-favorite-microservice-design-patterns-for-node-js-fe048c635d83
+- https://changelog.com/posts/you-might-as-well-timestamp-it
+- https://medium.com/intrinsic/why-should-i-use-a-reverse-proxy-if-node-js-is-production-ready-5a079408b2ca
+- https://timothystepro.medium.com/visualizing-kafka-20bc384803e7
 
 ## Reddits and twitter threads:
 
@@ -60,6 +64,7 @@
 - https://github.com/ipfs/go-ipfs
 - https://github.com/rails/kredis
 - Implementation of google's global, consistent authorization system, Zanzibar: https://github.com/ory/keto
+- https://github.com/minimaxir/big-list-of-naughty-strings
 
 ## Videos:
 

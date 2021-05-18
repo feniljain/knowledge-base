@@ -15,6 +15,7 @@
 - Download songs from various soures like gaana, itunes, etc.: https://ytmdl.deepjyoti30.dev/
 - Ranks of reddit bots: https://botrank.pastimes.eu/
 - https://www.oppia.org/
+- https://www.triangulate.xyz/
 
 ## Blogs and articles:
 

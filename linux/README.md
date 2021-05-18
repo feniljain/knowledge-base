@@ -27,6 +27,7 @@
 - Dennis Ritchie's bell labs home page: https://www.bell-labs.com/usr/dmr/www/
 - The original unix manual: https://www.bell-labs.com/usr/dmr/www/manintro.html
 - https://distrowatch.com/
+- Problems in flatpak: https://flatkill.org/
 
 ## Blogs and articles:
 
@@ -82,6 +83,7 @@
 - https://medium.com/schkn/monitoring-systemd-services-in-realtime-with-chronograf-285c650c1a73
 - https://taylor-abraham.medium.com/how-to-automate-your-dev-environment-with-tmuxinator-c4f2b049be6
 - https://medium.com/swlh/dual-boot-arch-linux-and-windows-the-right-way-7f59969f7525
+- https://github.com/AkihiroSuda/lima/tree/master
 
 ## Blog series:
 
@@ -143,6 +145,7 @@
 - https://github.com/akavel/up
 - Terminal image viewer: https://github.com/atanunq/viu
 - General live reload tool: https://github.com/cortesi/modd
+- https://github.com/pbatard/rufus
 
 ## Terminal tools I use:
 
@@ -160,6 +163,7 @@
 - spotify-tui
 - wuzz
 - flameshot
+- Terminal audio visualizer: cava
 
 ### Rust Dev
 

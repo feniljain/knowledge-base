@@ -71,7 +71,6 @@
 - https://til.codeinthehole.com/posts/how-to-add-project-specific-vim-settings/
 - https://til.codeinthehole.com/posts/universal-ctags-can-index-more-things-than-i-realised/
 - Setting up vimspector: https://alpha2phi.medium.com/neovim-debugging-application-70c525754064
-- https://www.reddit.com/r/neovim/comments/le1duu/nvim_lsp_and_typescript_eslint_and_prettier/
 - https://jose-elias-alvarez.medium.com/configuring-neovims-lsp-client-for-typescript-development-5789d58ea9c
 
 ## Blog series:
@@ -88,6 +87,8 @@
 - https://www.reddit.com/r/neovim/comments/lboe92/people_who_rewrote_their_initnvim_in_lua_was_it/
 - https://twitter.com/mfussenegger/status/1373626590253490178
 - Using neovim as postman: https://www.reddit.com/r/neovim/comments/mljr50/use_neovim_as_rest_api_client/
+- Tips for writing plugins using treesitter: https://www.reddit.com/r/neovim/comments/n89mye/question_tipps_for_writing_a_treesittermodule/?%24deep_link=true&correlation_id=a58179dc-6aa3-4d09-b5d5-caf8ed5dcaee&post_fullname=t3_n89mye&post_index=1&ref=email_digest&ref_campaign=email_digest&ref_source=email&utm_content=post_title&%243p=e_as&_branch_match_id=912301934204285292
+- https://www.reddit.com/r/neovim/comments/le1duu/nvim_lsp_and_typescript_eslint_and_prettier/
 
 ## Vimscript:
 
@@ -317,6 +318,8 @@
 - https://github.com/phaazon/hop.nvim
 - https://github.com/lewis6991/spellsitter.nvim
 - https://github.com/jose-elias-alvarez/nvim-lsp-ts-utils
+- https://github.com/Vhyrro/neorg
+- Must needed for flutter dev: https://github.com/akinsho/flutter-tools.nvim
 
 ## VimRCs for reference:
 

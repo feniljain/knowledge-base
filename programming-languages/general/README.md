@@ -21,6 +21,7 @@
 - https://blogs.gentoo.org/mgorny/2021/02/19/the-modern-packagers-security-nightmare/
 - https://medium.com/att-israel/its-time-you-learn-about-monads-4ebe687e3ec7
 - https://suzdalnitski.medium.com/oop-design-patterns-bd2c4fb3014c/
+- https://medium.com/codex/mid-function-returns-are-still-controversial-928313bcec3c
 
 ## Repos:
 
@@ -42,11 +43,12 @@
 ### Websites:
 
 - https://lunatic.solutions/
+- https://elixirforum.com/
 
 ### Learning:
 
 - Learning book: https://medium.com/pragmatic-programmers/table-of-contents-28c6d9173c33
-- Learning book: https://medium.com/pragmatic-programmers/table-of-contents-796d06946fcf
+- https://pragprog.com/titles/sbsockets/real-time-phoenix/
 
 ### General:
 
@@ -54,6 +56,9 @@
 - https://serokell.io/blog/history-of-erlang-and-elixir
 - https://itnext.io/building-git-in-elixir-part-1-2f2ec245df74
 - https://itnext.io/building-apis-with-phoenix-framework-a7e280b7fa4a
+- https://kacperperzankowski.medium.com/concurrent-genserver-in-elixir-6eae3b4225f2
+- https://medium.com/glia-tech/picking-up-elixir-the-first-six-months-11292a7c829a
+- https://pragmaticstudio.com/elixir
 
 ## Python:
 

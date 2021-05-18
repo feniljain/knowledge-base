@@ -104,6 +104,10 @@
 - https://medium.com/fcats-blockchain-incubator/implementing-digital-signatures-in-rust-1a42c64c10a
 - Dependency Injection in Rust: https://medium.com/swlh/dependency-injection-in-rust-using-waiter-di-f5140ff798ef
 - https://blog.svgames.pl/article/running-rust-on-android
+- https://betterprogramming.pub/production-grade-logging-in-rust-applications-2c7fffd108a6
+- https://ideahitme.medium.com/videostreaming-2-n-rust-and-grpc-a90a38519743
+- https://dev.to/xinnks/deploy-a-rust-website-on-heroku-1l45
+- https://dev.to/steadylearner/how-to-deploy-rust-web-app-with-digitalocean-h2o
 
 ### Others:
 
@@ -172,6 +176,9 @@
 - https://medium.com/geekculture/rust-for-pi-projects-d1fd9a0c51ef
 - http://mbuffett.com/posts/incomplete-macro-walkthrough/
 - https://medium.com/swlh/controlling-threads-using-phantomdata-in-rust-3a53eb0c172
+- https://ryhl.io/blog/actors-with-tokio/
+- https://daviderad.medium.com/no-bs-guide-to-using-rocket-with-sled-for-a-production-app-rust-4ea7cb538153
+- https://mnwa.medium.com/speeding-up-algorithms-with-arena-allocators-d72d06f23607
 
 ## Blog Series:
 

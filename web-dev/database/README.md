@@ -40,6 +40,9 @@
 - https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/
 - Projects in DBMS: https://www.reddit.com/r/SQL/comments/n72pcx/projects_in_dbms/
 - https://medium.com/lightstephq/why-tracing-might-replace-almost-all-logging-790c7d7c5c2c
+- https://dev.to/ramko9999/host-and-use-redis-for-free-51if
+- https://netflixtechblog.com/keeping-netflix-reliable-using-prioritized-load-shedding-6cc827b02f94
+- https://luanjunyi.medium.com/system-design-paradigm-sharding-77cb6498a6dc
 
 ## Blog Series:
 

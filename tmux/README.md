@@ -3,6 +3,7 @@
 ## Websites:
 
 - https://tmuxcheatsheet.com/
+- https://tao-of-tmux.readthedocs.io/en/latest/
 
 ## Repos:
 

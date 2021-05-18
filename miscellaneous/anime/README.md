@@ -203,6 +203,8 @@
 - Colorful
 - Couple of cuckoos
 - Fate series
+- Snow white with the red hair
+- Oresuki
 
 ## Sports:
 
@@ -213,13 +215,6 @@
 ## Isekai:
 
 - Bofuri
-
-## Currently watching and reading:
-
-- Danshi Koukousei no nichijou(Daily lives of highschool boys)
-- Monogatari series
-- Hunter x Hunter
-- 3-gatsu no lion manga
 
 ## Manga To Read:
 
@@ -252,6 +247,7 @@
 - https://www.reddit.com/r/Animesuggest/comments/l4fjal/your_1010_animes_only_your_bestfavourite
 - https://www.reddit.com/r/Animesuggest/comments/l6h2tu/teenage_school_life_romcom_or_slice_of_life_sort/
 - https://www.reddit.com/r/Animesuggest/comments/l6exw8/looking_for_a_romance_anime/
+- https://www.reddit.com/r/Animesuggest/comments/n9j6n5/bring_in_your_ultimate_romance_anime/
 
 ## Websites:
 
@@ -357,4 +353,5 @@
 - HunterXHunter
 - 3-Gatsu no lion
 - Bakemonogatari
+- Clannad
 

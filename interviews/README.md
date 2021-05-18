@@ -32,6 +32,8 @@
 - https://medium.com/geekculture/top-10-system-design-interview-questions-10f7b5ea123d
 - https://medium.com/illumination/the-responses-i-got-from-a-software-developer-candidate-that-made-me-hire-him-98ff8bf01298
 - https://medium.com/swlh/10-amusing-red-flags-during-a-software-engineering-interview-af7e98b717c3
+- https://betterprogramming.pub/the-only-programming-interview-question-you-need-to-prepare-for-e604c4c4d5eb
+- https://medium.com/swlh/my-preparation-journey-for-google-interviews-f41e2dc3cdf9
 
 ## Books:
 

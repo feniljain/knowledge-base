@@ -24,6 +24,7 @@
 - https://forge.medium.com/how-to-plan-with-people-who-dont-like-to-plan-e360a92cd683
 - https://medium.com/personal-growth/the-rule-of-70-20-10-a993c9e3e02f
 - https://www.swyx.io/35-principles/
+- https://betterhumans.pub/how-to-increase-your-attention-span-b29b2ffa51cf
 
 ## Reddit and twitter threds:
 
@@ -36,6 +37,7 @@
 - Beware of missing chances; otherwise it may be altogether too late some day
 - Persistence is very important, do not give up until you are forced to give up
 - What worries you, masters you
+- The best learners are the people who push through the discomfort of being objectively bad at something
 
 ## Books:
 

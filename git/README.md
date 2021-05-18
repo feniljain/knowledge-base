@@ -4,6 +4,8 @@
 
 - All emojis which can be used in commits, PRs, etc.(with abbreviation): https://gitmoji.dev/
 - https://desktop.github.com/
+- https://learngitbranching.js.org/
+- http://ohmygit.org/
 
 ## Blogs and Articles:
 
@@ -31,6 +33,8 @@
 - https://dev.to/pavlosisaris/git-commits-an-effective-style-guide-2kkn
 - https://dev.to/javidjms/git-write-better-commits-with-gitmoji-3193
 - https://twitter.com/offlinemark/status/1387833240321417222?s=20
+- https://www.honeybadger.io/blog/git-tricks/
+- https://medium.com/@gohberg/the-biggest-misconception-about-git-b2f87d97ed52
 
 ## Git Internals:
 

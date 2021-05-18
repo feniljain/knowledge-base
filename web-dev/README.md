@@ -22,6 +22,7 @@
 - https://dev.to/rohitrana/how-the-web-works-1hd7
 - https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/
 - https://medium.com/pragmatic-programmers/understanding-web-api-protocols-practices-and-styles-aa64f2a20a3d
+- https://dev.to/kalpitrathore/how-to-get-time-spent-by-users-on-a-webpage-using-node-js-530f
 
 ## Videos:
 
@@ -44,6 +45,7 @@
 - https://wasmbyexample.dev/home.en-us.html
 - https://madewithwebassembly.com/
 - Gameboy emulator in wasm: https://madewithwebassembly.com/showcase/binjgb/
+- https://webassembly.cloud/
 
 ### Videos:
 

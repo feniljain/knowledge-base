@@ -94,6 +94,7 @@
 - https://dev.to/pb/10-github-repositories-every-developer-should-know-ngm?signin=true
 - https://dev.to/wassimchegham/the-subtle-art-of-being-a-developer-advocate-gdg
 - https://medium.com/qiskit/learn-more-about-the-ibm-quantum-developer-certification-and-how-to-take-it-for-free-d237f9765dc5
+- Teach yourself progamming in ten years: https://norvig.com/21-days.html
 
 ## Blog Series:
 
@@ -146,6 +147,10 @@
 - https://github.com/rust-lang/stdsimd
 - Save disk space by cleaning non-essential files from software projects: https://github.com/tbillington/kondo
 - https://github.com/skywind3000/awesome-cheatsheets
+- https://dev.to/devwriteups/25-github-repos-you-can-t-miss-to-bookmark-1ek1
+- https://github.com/ripienaar/free-for-dev
+- https://github.com/trimstray/the-book-of-secret-knowledge
+- https://github.com/JanVanRyswyck/awesome-talks
 
 ## Extensions:
 

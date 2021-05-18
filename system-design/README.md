@@ -12,6 +12,9 @@
 - https://betterprogramming.pub/design-ubers-backend-a-systems-design-walkthrough-c88f8959de97
 - https://medium.com/swlh/building-scalable-distributed-systems-part-1-introduction-to-scalable-systems-9ca471fd77d7
 - https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb
+- https://interviewdaemon.medium.com/system-design-whatsapp-788705bd4fb0
+- https://luanjunyi.medium.com/system-design-paradigm-sharding-77cb6498a6dc
+- https://medium.com/swlh/system-design-interview-the-bare-minimum-you-need-to-know-about-load-balancers-fc0cbe1ac276
 
 ## Repos:
 

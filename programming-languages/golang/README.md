@@ -132,6 +132,8 @@
 - https://levelup.gitconnected.com/golang-optimizing-docker-image-size-from-2-4-gb-to-100-mb-using-docker-multi-stage-build-process-5b808f20e808
 - https://medium.com/a-journey-with-go/go-built-in-functions-optimizations-70c5abb3a680
 - https://encore.dev/guide/go.mod
+- https://medium.com/higher-order-functions/golang-six-error-handling-techniques-to-help-you-write-elegant-code-8e6363e6d2b
+- https://sibprogrammer.medium.com/go-binary-optimization-tricks-648673cc64ac
 
 ## Blog Series:
 
@@ -255,6 +257,7 @@
 - https://github.com/lucas-clemente/quic-go
 - Vulnerability audit tool: https://community.sonatype.com/t/golang-vulnerability-audit-tool-nancy/1452
 - https://dev.to/alexisvisco/new-golang-package-to-reduce-code-duplication-in-apis-945
+- https://pkg.go.dev/github.com/cenkalti/backoff
 
 ## Go Internals:
 
