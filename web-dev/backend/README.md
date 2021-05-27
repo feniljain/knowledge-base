@@ -49,6 +49,7 @@
 - https://changelog.com/posts/you-might-as-well-timestamp-it
 - https://medium.com/intrinsic/why-should-i-use-a-reverse-proxy-if-node-js-is-production-ready-5a079408b2ca
 - https://timothystepro.medium.com/visualizing-kafka-20bc384803e7
+- https://dilfuruz.medium.com/data-consistency-in-microservices-architecture-5c67e0f65256
 
 ## Reddits and twitter threads:
 

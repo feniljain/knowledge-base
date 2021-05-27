@@ -23,6 +23,9 @@
 - https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/
 - https://medium.com/pragmatic-programmers/understanding-web-api-protocols-practices-and-styles-aa64f2a20a3d
 - https://dev.to/kalpitrathore/how-to-get-time-spent-by-users-on-a-webpage-using-node-js-530f
+- https://dev.to/aman_singh/curated-list-of-newsletters-to-level-up-your-coding-skills-4heb
+- https://dev.to/kiranrajvjd/awesome-resource-for-your-web-projects-75-background-resources-2cm8
+- https://dev.to/maureento8888/realistic-list-of-web-dev-resources-253c
 
 ## Videos:
 

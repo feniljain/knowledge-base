@@ -68,6 +68,8 @@
 - https://betterprogramming.pub/21-best-practices-for-a-clean-react-project-df788a682fb
 - https://dev.to/koolkishan/what-is-virtual-dom-how-virtual-dom-works-what-is-reconciliation-what-is-diffing-algorithm-what-makes-react-so-fast-327a
 - https://dev.to/davidepacilio/30-free-react-dashboard-templates-and-themes-49g4
+- https://dev.to/ms_yogii/useaxios-a-simple-custom-hook-for-calling-apis-using-axios-2dkj
+- https://dev.to/aspittel/a-complete-beginner-s-guide-to-next-js-1md0
 
 ## Websites:
 
@@ -106,6 +108,7 @@
 - https://flexbox.io/
 - https://cssgrid.io/
 - https://jhey.dev
+- https://web.dev/learn/css/
 
 ## Blogs And Articles:
 
@@ -118,4 +121,6 @@
 - https://dev.to/peterlunch/a-painless-guide-to-understanding-css-positioning-2nbh/
 - https://dev.to/afif/build-your-responsive-website-without-media-query-omj
 - https://dev.to/kiranrajvjd/the-ultimate-web-developer-resources-list-200-resources-2gf5
+- https://dev.to/afif/advanced-css-animation-using-cubic-bezier-nho
+- https://web.dev/new-responsive/
 

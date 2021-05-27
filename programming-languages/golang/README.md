@@ -9,6 +9,7 @@
 - Complete guide on go modules, with command explanations: https://zaracooper.github.io/blog/posts/go-module-tidbits/
 - https://blog.urth.org/2021/03/27/down-the-golang-nil-rabbit-hole/
 - https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/
+- https://blog.golang.org/errors-are-values
 
 ### Tutorials:
 
@@ -41,6 +42,7 @@
 - https://medium.com/dev-genius/real-time-key-value-store-in-golang-d53b27ea4947
 - https://medium.com/@bradford_hamilton/building-an-api-with-graphql-and-go-9350df5c9356
 - https://medium.com/schkn/monitoring-systemd-services-in-realtime-with-chronograf-285c650c1a73
+- Everything about dates and time in golang: https://qvault.io/golang/golang-date-time/
 
 ### Architecture:
 
@@ -134,6 +136,7 @@
 - https://encore.dev/guide/go.mod
 - https://medium.com/higher-order-functions/golang-six-error-handling-techniques-to-help-you-write-elegant-code-8e6363e6d2b
 - https://sibprogrammer.medium.com/go-binary-optimization-tricks-648673cc64ac
+- https://dev.to/hlmerscher/the-controversial-go-way-of-handling-errors-2ka1
 
 ## Blog Series:
 
@@ -244,6 +247,7 @@
 - Static analyzer suggesting struct re-arrangements to provide memory allocation efficiency: https://github.com/orijtech/structslop
 - Dependency analysis tool for go packages: https://github.com/adonovan/spaghetti
 - Golang security checker: https://github.com/securego/gosec
+- Gameboy emulator in golang: https://github.com/pokemium/magia
 
 ## Packages:
 
@@ -258,6 +262,7 @@
 - Vulnerability audit tool: https://community.sonatype.com/t/golang-vulnerability-audit-tool-nancy/1452
 - https://dev.to/alexisvisco/new-golang-package-to-reduce-code-duplication-in-apis-945
 - https://pkg.go.dev/github.com/cenkalti/backoff
+- https://levelup.gitconnected.com/5-useful-golang-modules-developers-should-know-in-2021-3ce03aa14c20
 
 ## Go Internals:
 

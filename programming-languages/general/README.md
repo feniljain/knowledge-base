@@ -59,6 +59,7 @@
 - https://kacperperzankowski.medium.com/concurrent-genserver-in-elixir-6eae3b4225f2
 - https://medium.com/glia-tech/picking-up-elixir-the-first-six-months-11292a7c829a
 - https://pragmaticstudio.com/elixir
+- https://mreigen.medium.com/elixir-a-cleaner-way-to-organize-tests-using-exunits-named-setup-8abb43971ca4
 
 ## Python:
 
@@ -98,6 +99,7 @@
 - Allocators in cpp: https://www.youtube.com/watch?v=0MdSJsCTRkY
 - https://betterprogramming.pub/5-advanced-c-programming-concepts-for-developers-22a9dd35e361
 - https://medium.com/leaningtech/cheerp-2-6-rc1-the-cpp-compiler-for-the-web-8873be6601b1
+- https://en.wikipedia.org/wiki/Criticism_of_C%2B%2B
 
 ### Repos:
 

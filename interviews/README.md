@@ -7,6 +7,7 @@
 - https://www.teamblind.com/post/New-Year-Gift--
 - Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 - https://www.stopstalk.com/
+- https://www.bigocheatsheet.com/
 
 ## Blogs and Articles:
 
@@ -34,6 +35,8 @@
 - https://medium.com/swlh/10-amusing-red-flags-during-a-software-engineering-interview-af7e98b717c3
 - https://betterprogramming.pub/the-only-programming-interview-question-you-need-to-prepare-for-e604c4c4d5eb
 - https://medium.com/swlh/my-preparation-journey-for-google-interviews-f41e2dc3cdf9
+- https://betterprogramming.pub/top-5-hardest-coding-questions-from-recent-faang-interviews-d46bcb4dd8dc
+- https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df
 
 ## Books:
 

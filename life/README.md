@@ -54,6 +54,7 @@
 ## Songs playlist, I dont know where to keep them:
 
 - Total banger collection: https://www.youtube.com/watch?v=5XHxe0s5DmY
+- Primes daily bangers playlist: https://www.youtube.com/playlist?list=PLpvrfXJz4_9F-ICZgwo4tPcbZQa5MPpQ2
 
 Kmshahco1966
 

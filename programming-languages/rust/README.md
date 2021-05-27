@@ -30,6 +30,7 @@
 - https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
 - https://tourofrust.com/
 - https://forge.rust-lang.org/
+- Rust integrated dart: https://thlorenz.com/rid-site/
 
 ## Blogs and Articles:
 
@@ -55,6 +56,7 @@
 - https://betterprogramming.pub/structuring-rust-project-for-testability-18207b5d0243
 - https://areweyeetyet.rs/
 - https://maurya-anjani.medium.com/rust-lang-creating-a-singleton-pattern-16438ffaca59
+- Object Safety: https://huonw.github.io/blog/2015/01/object-safety/
 
 ### Tutorials:
 
@@ -108,6 +110,7 @@
 - https://ideahitme.medium.com/videostreaming-2-n-rust-and-grpc-a90a38519743
 - https://dev.to/xinnks/deploy-a-rust-website-on-heroku-1l45
 - https://dev.to/steadylearner/how-to-deploy-rust-web-app-with-digitalocean-h2o
+- https://yidaotus.medium.com/learning-rust-by-porting-an-express-js-server-to-rocket-rs-part-2-71c2f8ec388e
 
 ### Others:
 
@@ -179,6 +182,9 @@
 - https://ryhl.io/blog/actors-with-tokio/
 - https://daviderad.medium.com/no-bs-guide-to-using-rocket-with-sled-for-a-production-app-rust-4ea7cb538153
 - https://mnwa.medium.com/speeding-up-algorithms-with-arena-allocators-d72d06f23607
+- https://www.lpalmieri.com/posts/error-handling-rust/
+- https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/
+- https://actually.fyi/posts/zig-makes-rust-cross-compilation-just-work/
 
 ## Blog Series:
 
@@ -259,6 +265,7 @@
 - Implementation of QUIC and HTTP/3: https://github.com/cloudflare/quiche
 - Add cargo add, rm and upgrade to your main cargo command: https://github.com/killercup/cargo-edit
 - Minesweeper in WinRT: https://github.com/robmikh/minesweeper-rs
+- Jinja-like templates for Rust: https://github.com/djc/askama
 
 ## Videos:
 
@@ -321,9 +328,9 @@
 
 ## Dev.to, Medium and youtube project series:
 
-- https://dev.to/jculverhouse/series/1797
-- https://dev.to/krowemoh/series/9492
-- https://dev.to/krowemoh/series/9410
+- Piecing together a rust web application: https://dev.to/jculverhouse/series/1797
+- A Gopher client in rust: https://dev.to/krowemoh/series/9492
+- An articles web app in rust: https://dev.to/krowemoh/series/9410
 - https://dev.to/davidedelpapa/series/9626
 - https://dev.to/davidedelpapa
 - https://dev.to/kbknapp/diving-into-rust-with-a-cli-4gap

@@ -17,3 +17,6 @@
 - https://todayamerican.medium.com/the-hidden-but-awesome-feature-of-intel-cpus-which-nobody-told-you-about-1596381039d6
 - https://engineering.fb.com/2021/04/27/developer-tools/reverse-debugging/
 
+## Reddit and twitter threads:
+
+- https://twitter.com/algo_luca/status/1395782235270287370?s=08

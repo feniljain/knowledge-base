@@ -46,6 +46,7 @@
 - https://medium.com/100-days-of-linux/chroot-a-linux-wonder-fc36ed08087e
 - How to use netcat and dd: https://levelup.gitconnected.com/two-overlooked-commands-for-unix-ninjas-55b8bfc4dc84
 - https://levelup.gitconnected.com/navigate-your-unix-shell-history-like-a-boss-5722ef45689f
+- https://medium.com/james-reads-public-cloud-technology-blog/linux-tools-that-i-learned-10-years-ago-which-i-still-use-every-day-9289f952f169
 
 ### Linux working:
 
@@ -66,6 +67,7 @@
 - https://unixism.net/loti/what_is_io_uring.html
 - https://sourceware.org/systemtap/
 - Signals in linux: https://medium.com/100-days-of-linux/understanding-linux-process-signals-53d44c85c706
+- https://medium.com/for-linux-users/linux-tip-higher-performance-with-zswap-2a4654b935de
 
 ### Others:
 
@@ -206,7 +208,7 @@
 
 - Linux Foundations Kernel Course: https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/
 
-## Reddit threads:
+## Reddit and twitter threads:
 
 - Unixporn awesome video: https://www.reddit.com/r/linux/comments/l233rc/oc_linux_is_beautiful/
 - https://www.reddit.com/r/linuxquestions/comments/liwnkp/use_timeshift_for_backups_and_restore/
@@ -214,6 +216,7 @@
 - https://www.reddit.com/r/linux4noobs/comments/membnt/are_there_any_benefits_of_using_arch_instead_of/
 - https://www.reddit.com/r/linuxmasterrace/comments/mdrebh/um/
 - https://www.reddit.com/r/neovim/comments/mom96v/could_someone_share_their_workflow_for_using/
+- Collection of awesome resources to learn kernel development: https://twitter.com/algo_luca/status/1395782235270287370?s=08
 
 ## Config Repos:
 

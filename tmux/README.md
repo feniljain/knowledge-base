@@ -28,7 +28,7 @@
 
 - https://github.com/tpope/tpope/blob/master/.tmux.conf
 
-## Tmux configs to reference:
+## Tmux configs for reference:
 
 - https://github.com/awesome-streamers/awesome-streamerrc/blob/master/ThePrimeagen/tmux
 - https://github.com/awesome-streamers/awesome-streamerrc/blob/master/TheAltF4Stream/.tmux.conf.local

@@ -72,6 +72,11 @@
 - https://til.codeinthehole.com/posts/universal-ctags-can-index-more-things-than-i-realised/
 - Setting up vimspector: https://alpha2phi.medium.com/neovim-debugging-application-70c525754064
 - https://jose-elias-alvarez.medium.com/configuring-neovims-lsp-client-for-typescript-development-5789d58ea9c
+- Perfect lua dev setup for neovim: https://www.reddit.com/r/neovim/comments/ng69ws/dev_setup_for_initlua_and_plugin_development_with/
+- Managing multiple projects with vim: https://alpha2phi.medium.com/vim-neovim-managing-multiple-projects-63180fc87188
+- https://medium.com/codex/vim-neovim-plugins-to-help-you-code-faster-8f5733afcbfc
+- https://puremourning.github.io/vimspector/configuration.html
+- https://puremourning.github.io/vimspector/schema/
 
 ## Blog series:
 
@@ -89,6 +94,7 @@
 - Using neovim as postman: https://www.reddit.com/r/neovim/comments/mljr50/use_neovim_as_rest_api_client/
 - Tips for writing plugins using treesitter: https://www.reddit.com/r/neovim/comments/n89mye/question_tipps_for_writing_a_treesittermodule/?%24deep_link=true&correlation_id=a58179dc-6aa3-4d09-b5d5-caf8ed5dcaee&post_fullname=t3_n89mye&post_index=1&ref=email_digest&ref_campaign=email_digest&ref_source=email&utm_content=post_title&%243p=e_as&_branch_match_id=912301934204285292
 - https://www.reddit.com/r/neovim/comments/le1duu/nvim_lsp_and_typescript_eslint_and_prettier/
+- Perfect lua dev setup for neovim: https://www.reddit.com/r/neovim/comments/ng69ws/dev_setup_for_initlua_and_plugin_development_with/
 
 ## Vimscript:
 
@@ -294,6 +300,12 @@
 - https://github.com/lambdalisue/suda.vim
 - https://github.com/mg979/vim-visual-multi
 - https://github.com/simnalamburt/vim-mundo
+- https://github.com/tpope/vim-obsession
+- https://github.com/airblade/vim-rooter
+- https://github.com/junegunn/vim-easy-align
+- https://github.com/cometsong/CommentFrame.vim
+- https://github.com/sebdah/vim-delve
+- https://github.com/jupyter-vim/jupyter-vim
 - Measuring startup times of various aspects of vim: https://github.com/tweekmonster/startuptime.vim
 
 ## Lua/Nvim plugins:
@@ -320,6 +332,9 @@
 - https://github.com/jose-elias-alvarez/nvim-lsp-ts-utils
 - https://github.com/Vhyrro/neorg
 - Must needed for flutter dev: https://github.com/akinsho/flutter-tools.nvim
+- https://github.com/TimUntersberger/neogit
+- https://github.com/pwntester/octo.nvim
+- https://github.com/svermeulen/vimpeccable
 
 ## VimRCs for reference:
 
@@ -334,7 +349,6 @@
 - https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/
 - https://github.com/jchassoul/dotfiles/blob/master/config/vim/vimrc
 - https://github.com/siduck76/neovim-dots
-- https://github.com/junegunn/vim-easy-align
 
 ## LuaRCs for reference:
 

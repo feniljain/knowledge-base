@@ -16,6 +16,7 @@
 - https://medium.com/swlh/set-up-your-own-personal-password-vault-313d76374046
 - https://github.com/sickcodes/Docker-OSX
 - https://towardsdatascience.com/its-time-to-say-goodbye-to-docker-5cfec8eff833
+- https://blog.bitsrc.io/best-practices-for-writing-a-dockerfile-68893706c3
 
 ## Interesting Images:
 

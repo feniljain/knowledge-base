@@ -31,6 +31,10 @@
 - https://javascript.plainenglish.io/cool-neural-networks-that-you-can-try-right-now-75dbac9f69d2
 - https://dev.to/gedalyakrycer/165-developer-resources-i-discovered-in-2020-2021-6ma
 
+## Cheatsheets:
+
+- https://github.com/skywind3000/awesome-cheatsheets
+
 ## Lit subreddits:
 
 - https://www.reddit.com/r/redditmoment/

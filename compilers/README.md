@@ -19,6 +19,8 @@
 - Yet another compiler visualizer: https://ashutoshbsathe.github.io/yacv/
 - https://towardsdatascience.com/understanding-compilers-for-humans-version-2-157f0edb02dd
 - Writing a C compiler: https://norasandler.com/2017/11/29/Write-a-Compiler.html
+- https://www.reddit.com/r/LLVM/comments/nfmalh/llvm_backend_for_custom_target/
+- https://medium.com/young-coder/how-i-wrote-a-lexer-39f4f79d2980
 
 ## Courses:
 

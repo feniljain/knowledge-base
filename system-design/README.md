@@ -15,10 +15,14 @@
 - https://interviewdaemon.medium.com/system-design-whatsapp-788705bd4fb0
 - https://luanjunyi.medium.com/system-design-paradigm-sharding-77cb6498a6dc
 - https://medium.com/swlh/system-design-interview-the-bare-minimum-you-need-to-know-about-load-balancers-fc0cbe1ac276
+- https://medium.com/nerd-for-tech/uber-architecture-and-system-design-e8ac26690dfc
+- https://interviewdaemon.medium.com/system-design-instagram-photo-sharing-social-network-90ce2e7ad312
+- https://interviewdaemon.medium.com/design-autocomplete-system-45b2993cab82
 
 ## Repos:
 
 - Very good resource, also contains redirects to many other good resources: https://github.com/donnemartin/system-design-primer
+- https://github.com/mehdihadeli/awesome-software-architecture
 
 ## Blog series:
 

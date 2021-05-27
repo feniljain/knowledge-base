@@ -43,6 +43,7 @@
 - https://dev.to/ramko9999/host-and-use-redis-for-free-51if
 - https://netflixtechblog.com/keeping-netflix-reliable-using-prioritized-load-shedding-6cc827b02f94
 - https://luanjunyi.medium.com/system-design-paradigm-sharding-77cb6498a6dc
+- https://medium.com/nerd-for-tech/google-is-pushing-the-new-language-logica-to-solve-the-major-flaws-in-sql-3cb62b6fab06
 
 ## Blog Series:
 
