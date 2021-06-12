@@ -49,6 +49,8 @@
 - https://medium.com/airbnb-engineering/dynein-building-a-distributed-delayed-job-queueing-system-93ab10f05f99
 - https://github.com/netdata/netdata
 - https://medium.com/pragmatic-programmers/discover-services-with-serf-926086d0430d
+- https://medium.com/@bparli/adventures-in-rust-and-load-balancers-73a0bc61a192
+- https://betterprogramming.pub/a-guide-to-gitops-compatible-production-like-kubernetes-cluster-f87404391d8a
 
 ## Videos:
 

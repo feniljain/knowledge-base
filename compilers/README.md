@@ -4,6 +4,10 @@
 
 - Convert codes from various languages into assembly: https://godbolt.org/
 - https://www.craftinginterpreters.com/
+- https://www.gnu.org/software/bison/
+- IR overview: https://llvm.org/docs/LangRef.html#overview
+- http://ellcc.org/demo/index.cgi
+- https://llvm.org/docs/GettingStartedTutorials.html
 
 ## Blogs and articles:
 
@@ -21,6 +25,16 @@
 - Writing a C compiler: https://norasandler.com/2017/11/29/Write-a-Compiler.html
 - https://www.reddit.com/r/LLVM/comments/nfmalh/llvm_backend_for_custom_target/
 - https://medium.com/young-coder/how-i-wrote-a-lexer-39f4f79d2980
+- https://weliveindetail.github.io/blog/post/2021/05/28/debian-llvm-quick-install.html
+- https://medium.com/@thelukaswils/understanding-compilers-for-humans-ba970e045877
+- https://medium.com/@thelukaswils/making-a-brainf-ck-to-c-compiler-in-rust-10f0c01a282d
+- https://en.wikipedia.org/wiki/Shunting-yard_algorithm
+- https://medium.datadriveninvestor.com/whats-llvm-4c0c3ed43a72
+- https://www.npopov.com/2021/06/02/Design-issues-in-LLVM-IR.html
+
+## Blog series:
+
+- https://dev.to/cad97/crafting-ide-ready-compilers-500o
 
 ## Courses:
 

@@ -18,6 +18,16 @@
 - https://medium.com/nerd-for-tech/uber-architecture-and-system-design-e8ac26690dfc
 - https://interviewdaemon.medium.com/system-design-instagram-photo-sharing-social-network-90ce2e7ad312
 - https://interviewdaemon.medium.com/design-autocomplete-system-45b2993cab82
+- https://interviewdaemon.medium.com/system-design-kubernetes-cef1290dcff4
+- https://betterprogramming.pub/design-ubers-backend-a-systems-design-walkthrough-c88f8959de97
+- https://interviewdaemon.medium.com/system-design-web-crawler-cf51dd860ae5
+- https://luanjunyi.medium.com/system-design-paradigm-primary-replica-pattern-dc621bf195f1
+- https://luanjunyi.medium.com/system-design-paradigm-distributed-source-of-truth-storage-3c1d688be474
+- https://medium.com/distributed-knowledge/scalable-web-architectures-concepts-design-6fd372ee4541
+- https://eng.uber.com/scaling-api-gateway/
+- https://towardsdatascience.com/designing-notification-system-with-message-queues-c30a2c9046de
+- https://towardsdatascience.com/system-design-analysis-of-google-drive-ca3408f22ed3
+- https://towardsdatascience.com/system-design-of-url-shortening-service-b325b18c8f88
 
 ## Repos:
 

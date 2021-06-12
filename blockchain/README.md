@@ -10,6 +10,8 @@
 - https://dev.to/dabit3/building-graphql-apis-on-ethereum-4poa
 - https://dev.to/dabit3/how-to-get-into-ethereum-crypto-web3-as-a-developer-9l6
 - https://phychic-owl.medium.com/blockchain-in-rust-bf6f5783f8dd
+- https://bnjjj.medium.com/why-and-how-we-wrote-a-compiler-in-rust-blog-post-series-1-x-the-context-e2f83b10edb9
+- https://www.metachris.com/2021/05/creating-go-bindings-for-ethereum-smart-contracts/
 
 ### General:
 

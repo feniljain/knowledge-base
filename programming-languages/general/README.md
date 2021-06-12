@@ -22,6 +22,9 @@
 - https://medium.com/att-israel/its-time-you-learn-about-monads-4ebe687e3ec7
 - https://suzdalnitski.medium.com/oop-design-patterns-bd2c4fb3014c/
 - https://medium.com/codex/mid-function-returns-are-still-controversial-928313bcec3c
+- https://betterprogramming.pub/the-abstract-factory-pattern-for-beginners-4c756c21c1b8
+- https://en.wikipedia.org/wiki/Dynamic_dispatch
+- https://medium.com/swlh/provider-model-in-go-and-why-you-should-use-it-clean-architecture-1d84cfe1b097
 
 ## Repos:
 
@@ -49,6 +52,7 @@
 
 - Learning book: https://medium.com/pragmatic-programmers/table-of-contents-28c6d9173c33
 - https://pragprog.com/titles/sbsockets/real-time-phoenix/
+- https://sadia-mehmood.medium.com/elixir-for-software-development-a-fair-choice-2e60b40581f1
 
 ### General:
 
@@ -60,6 +64,10 @@
 - https://medium.com/glia-tech/picking-up-elixir-the-first-six-months-11292a7c829a
 - https://pragmaticstudio.com/elixir
 - https://mreigen.medium.com/elixir-a-cleaner-way-to-organize-tests-using-exunits-named-setup-8abb43971ca4
+- https://medium.com/@toddresudek/i-can-do-all-things-through-postgres-lessons-for-the-elixir-programmer-400fd805c23a
+- https://kkobierska.medium.com/phoenix-liveview-frontend-framework-friendly-for-backend-developers-9fe21f0ac83c
+- https://blog.lelonek.me/elixir-on-erlang-vm-demystified-320557d09e1f
+- https://keathley.io/blog/good-and-bad-elixir.html
 
 ## Python:
 
@@ -79,6 +87,11 @@
 - https://github.com/TheAlgorithms/Python
 
 ## C and CPP
+
+### Under the hood:
+
+- https://queue.acm.org/detail.cfm?id=3468263
+- https://radekvit.medium.com/move-semantics-in-c-and-rust-the-case-for-destructive-moves-d816891c354b
 
 ### Blogs and articles:
 
@@ -100,6 +113,10 @@
 - https://betterprogramming.pub/5-advanced-c-programming-concepts-for-developers-22a9dd35e361
 - https://medium.com/leaningtech/cheerp-2-6-rc1-the-cpp-compiler-for-the-web-8873be6601b1
 - https://en.wikipedia.org/wiki/Criticism_of_C%2B%2B
+- https://jvns.ca/blog/2021/05/17/how-to-look-at-the-stack-in-gdb/
+- Best explanation of currying: https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339
+- Tail call elimination(functional programming feature): https://towardsdatascience.com/what-is-tail-recursion-elimination-or-why-functional-programming-can-be-awesome-43091d76915e
+- https://blog.devgenius.io/writing-a-coroutine-in-c-language-6a537275ddc3
 
 ### Repos:
 

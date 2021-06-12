@@ -21,10 +21,18 @@
 - https://medium.com/100-days-of-linux/working-with-systemd-networkd-e461cfe80e6d
 - https://medium.com/100-days-of-linux/7-fundamental-use-cases-of-netcat-866364eb1742
 - https://blog.bitsrc.io/will-webtransport-replace-webrtc-in-near-future-436c4f7f3484
+- Awesome article, extreme networking optimizations: https://www.infinyon.com/blog/2021/05/ebpf-routing-rust/
+- https://blog.cloudflare.com/quic-version-1-is-live-on-cloudflare/
+
+## Repos:
+
+- https://github.com/mozilla/neqo
+- https://github.com/cloudflare/quiche
 
 ## Reddit and twitter threads:
 
 - https://www.reddit.com/r/sysadmin/comments/mm45e6/dns_should_www_cname_and_a_records_exist/
+- https://www.reddit.com/r/rust/comments/nsu1y0/quic_version_1_is_live_on_cloudflare/
 
 ## Videos:
 

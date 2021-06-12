@@ -40,6 +40,8 @@
 - https://dev.to/garvitmotwani/10-new-javascript-features-in-es2020-that-you-should-know-3ohf
 - https://dev.to/garvitmotwani/8-javascript-tips-tricks-that-no-one-teaches-24g1
 - https://dev.to/worldindev/400-javascript-interview-questions-with-answers-2fcj
+- https://blog.bitsrc.io/8-steps-to-secure-javascript-in-2021-6d54d5415264
+- https://cmsinstallation.blogspot.com/2021/05/new-features-of-javascript-2021.html
 
 ### Tutorials:
 

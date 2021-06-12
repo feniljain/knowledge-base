@@ -4,6 +4,8 @@
 
 - https://navana-tech.github.io/IS21SS-indicASRchallenge/data.html
 - Cheapest cloud gpus for deep learning: https://gpu.land/
+- Collection of datasets: https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0
+- https://mlops.toys/
 
 ## Blogs and articles:
 
@@ -34,4 +36,10 @@
 - https://github.com/Layout-Parser/layout-parser
 - https://github.com/lutzroeder/netron
 - https://github.com/onnx/onnx
+- https://github.com/deepfakes/faceswap
+- https://github.com/PaddlePaddle/PaddleHub
+- https://github.com/Charmve/computer-vision-in-action
 
+## Reddit and twitter threads:
+
+- https://www.reddit.com/r/MachineLearning/comments/nwqc8o/d_what_is_currently_the_best_theoretical_book/

@@ -28,6 +28,7 @@
 - The original unix manual: https://www.bell-labs.com/usr/dmr/www/manintro.html
 - https://distrowatch.com/
 - Problems in flatpak: https://flatkill.org/
+- https://1lib.in/s/linux%20networking
 
 ## Blogs and articles:
 
@@ -47,6 +48,9 @@
 - How to use netcat and dd: https://levelup.gitconnected.com/two-overlooked-commands-for-unix-ninjas-55b8bfc4dc84
 - https://levelup.gitconnected.com/navigate-your-unix-shell-history-like-a-boss-5722ef45689f
 - https://medium.com/james-reads-public-cloud-technology-blog/linux-tools-that-i-learned-10-years-ago-which-i-still-use-every-day-9289f952f169
+- https://alpha2phi.medium.com/command-line-tools-for-faster-file-system-navigation-fc02c3a3eb0e
+- https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase
+- https://betterprogramming.pub/how-to-use-the-linux-xargs-command-to-create-powerful-pipelines-a5d5d7067703
 
 ### Linux working:
 
@@ -68,6 +72,7 @@
 - https://sourceware.org/systemtap/
 - Signals in linux: https://medium.com/100-days-of-linux/understanding-linux-process-signals-53d44c85c706
 - https://medium.com/for-linux-users/linux-tip-higher-performance-with-zswap-2a4654b935de
+- Discussion about unikernels: https://news.ycombinator.com/item?id=27301210
 
 ### Others:
 
@@ -86,6 +91,8 @@
 - https://taylor-abraham.medium.com/how-to-automate-your-dev-environment-with-tmuxinator-c4f2b049be6
 - https://medium.com/swlh/dual-boot-arch-linux-and-windows-the-right-way-7f59969f7525
 - https://github.com/AkihiroSuda/lima/tree/master
+- SSH into remote linux using ngrok: https://medium.com/@byteshiva/ssh-into-remote-linux-by-using-ngrok-b8c49b8dc3ca
+- https://alpha2phi.medium.com/ligature-fonts-for-terminal-vs-code-neovim-and-emacs-1187c6987491
 
 ## Blog series:
 
@@ -120,6 +127,7 @@
 
 - https://github.com/hugomd/parrot.live
 - https://github.com/busyloop/lolcat
+- Fork of alacritty with ligature support: https://github.com/zenixls2/alacritty
 
 ### Others:
 
@@ -192,6 +200,7 @@
 ## Wallpapers collection:
 
 - https://wallpaperaccess.com/kurzgesagt
+- Kimi no nawa wallpapers: https://www.reddit.com/r/wallpapers/comments/nqwe27/your_name_kimi_no_na_wa_screens_1080p_upscaled_to/
 
 ## Browser Extensions:
 
@@ -217,6 +226,8 @@
 - https://www.reddit.com/r/linuxmasterrace/comments/mdrebh/um/
 - https://www.reddit.com/r/neovim/comments/mom96v/could_someone_share_their_workflow_for_using/
 - Collection of awesome resources to learn kernel development: https://twitter.com/algo_luca/status/1395782235270287370?s=08
+- https://www.reddit.com/r/linuxquestions/comments/nrvgb0/what_does_rm_delete_first/
+- https://www.reddit.com/r/linuxquestions/comments/ntdm7m/good_linux_networking_tutorial/
 
 ## Config Repos:
 
@@ -229,4 +240,20 @@
 - https://github.com/itchyny/dotfiles
 - https://github.com/kisancodes/dotfiles
 - https://github.com/mathiasbynens/dotfiles
+- i3 config: https://gist.github.com/vberlier/7fd8f3b8b180c99dda1d7ca90d43362a
 
+
+## i3:
+
+- https://www.reddit.com/r/i3wm/comments/2yytvs/make_terminals_transparent/
+- https://www.reddit.com/r/i3wm/comments/2pp4av/getting_variety_a_wallpaper_manager_to_work_on_i3/
+- https://faq.i3wm.org/question/3747/enabling-multimedia-keys/?answer=3759#post-id-3759
+- https://www.youtube.com/watch?v=j1I63wGcvU4
+- https://github.com/greshake/i3status-rust
+- https://github.com/unix121/i3wm-themer
+- https://github.com/addy-dclxvi/i3-starterpack/
+- https://github.com/i3-gnome/i3-gnome
+- https://github.com/ID1258/oh-my-i3
+- https://github.com/maestrogerardo/i3-gaps-deb
+- https://github.com/justbuchanan/i3scripts
+- Adding polybar to i3: https://www.youtube.com/watch?v=cLB008-FJ5o

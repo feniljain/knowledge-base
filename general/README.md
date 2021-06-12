@@ -30,6 +30,8 @@
 - https://dev.to/technoglot/prioritize-tasks-like-a-boss-with-the-eisenhower-method-5a5e
 - https://javascript.plainenglish.io/cool-neural-networks-that-you-can-try-right-now-75dbac9f69d2
 - https://dev.to/gedalyakrycer/165-developer-resources-i-discovered-in-2020-2021-6ma
+- https://forge.medium.com/how-to-tell-an-employee-their-work-isnt-good-enough-30098949f528
+- https://onezero.medium.com/why-airpods-and-earbuds-like-them-are-especially-bad-for-your-hearing-20f32b6e02e2
 
 ## Cheatsheets:
 
@@ -82,6 +84,9 @@
 - https://github.com/sindresorhus/awesome
 - A multi-tree based task number: https://github.com/climech/grit
 - Front page of front page of internet(map of reddit): https://anvaka.github.io/map-of-reddit/?x=250308.30692851634&y=417863.3019582005&z=843750
+- https://github.com/koreader/koreader
+- Convert yt playlist to spotify playlist: https://github.com/roshanlam/SpotMusicGen/
+- Anime CLI: https://github.com/pystardust/ani-cli
 
 ## Free Creds:
 

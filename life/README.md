@@ -25,10 +25,14 @@
 - https://medium.com/personal-growth/the-rule-of-70-20-10-a993c9e3e02f
 - https://www.swyx.io/35-principles/
 - https://betterhumans.pub/how-to-increase-your-attention-span-b29b2ffa51cf
+- https://medium.com/swlh/giving-up-these-6-things-can-get-you-closer-to-doing-deep-work-14e9f14af077
+- https://betterhumans.pub/replace-your-to-do-list-with-interstitial-journaling-to-increase-productivity-4e43109d15ef
+- https://dev.to/espoir/my-books-recommendations-to-enhance-your-soft-skills-as-a-developer-4k3o
 
 ## Reddit and twitter threds:
 
 - https://twitter.com/swyx/status/1385349095074656259
+- https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/
 
 ## Random quotes:
 
@@ -38,7 +42,6 @@
 - Persistence is very important, do not give up until you are forced to give up
 - What worries you, masters you
 - The best learners are the people who push through the discomfort of being objectively bad at something
-
 ## Books:
 
 - The way of the superior man

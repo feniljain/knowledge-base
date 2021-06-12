@@ -4,6 +4,7 @@
 
 - https://ipfs.io/
 - https://dzone.com/
+- https://opensource.zalando.com/restful-api-guidelines/
 
 ## Blogs And Articles:
 
@@ -50,12 +51,18 @@
 - https://medium.com/intrinsic/why-should-i-use-a-reverse-proxy-if-node-js-is-production-ready-5a079408b2ca
 - https://timothystepro.medium.com/visualizing-kafka-20bc384803e7
 - https://dilfuruz.medium.com/data-consistency-in-microservices-architecture-5c67e0f65256
+- Some crazy optimizations he does: https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/
+- Slack's RBAC: https://slack.engineering/role-management-at-slack/
+- https://medium.com/hackernoon/designing-an-enterprise-role-based-access-control-rbac-system-96e645c659b7
+- https://levelup.gitconnected.com/idempotency-in-api-design-bc4ea812a881
+- https://medium.com/swlh/kafka-core-concepts-terminologies-dafa40aa9489
 
 ## Reddits and twitter threads:
 
 - SQL Interview question cheatsheet: https://twitter.com/Women_who_code/status/1360091409601073152
 - Backend developer cheatsheet: https://twitter.com/sunilc_/status/1373549827070431232
 - https://twitter.com/nodepractices/
+- Tor's Connection Establishment: https://twitter.com/hnasr/status/1398666446146785289
 
 ## Repos:
 

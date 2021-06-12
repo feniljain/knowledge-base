@@ -16,7 +16,21 @@
 - https://www.cl.cam.ac.uk/teaching/1617/ECAD+Arch/files/docs/RISCVGreenCardv8-20151013.pdf
 - https://todayamerican.medium.com/the-hidden-but-awesome-feature-of-intel-cpus-which-nobody-told-you-about-1596381039d6
 - https://engineering.fb.com/2021/04/27/developer-tools/reverse-debugging/
+- https://lwn.net/Articles/731133/
+- https://nomadic-dmitry.medium.com/long-live-os-2-why-should-you-try-arcaos-91b3f8deb573
+- https://wiki.c2.com/?TheKenThompsonHack
+- Discussion about unikernels: https://news.ycombinator.com/item?id=27301210
+- https://people.kernel.org/brauner/
+- https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96
+
+## Repos:
+
+- https://github.com/madMAx43v3r/chia-plotter
 
 ## Reddit and twitter threads:
 
 - https://twitter.com/algo_luca/status/1395782235270287370?s=08
+
+## Videos:
+
+- Write your own 64bit OS kernel: https://www.youtube.com/watch?v=FkrpUaGThTQ&list=WL&index=15

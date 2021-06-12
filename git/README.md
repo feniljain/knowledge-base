@@ -35,6 +35,9 @@
 - https://twitter.com/offlinemark/status/1387833240321417222?s=20
 - https://www.honeybadger.io/blog/git-tricks/
 - https://medium.com/@gohberg/the-biggest-misconception-about-git-b2f87d97ed52
+- https://dev.to/pragativerma18/confusing-terms-in-the-git-terminology-1578
+- https://www.aosabook.org/en/git.html
+- https://reallifeprogramming.com/git-process-that-works-say-no-to-gitflow-50bf2038ccf7
 
 ## Git Internals:
 

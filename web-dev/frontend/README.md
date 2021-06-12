@@ -15,6 +15,13 @@
 - https://ordinarycoders.medium.com/how-to-use-chart-js-8f26208dd050
 - https://dev.to/ms_yogii/usereducer-instead-of-usestate-while-calling-apis-3e1l
 - https://dev.to/bibekkakati/how-to-use-vibration-api-in-your-website-4dp4
+- https://dev.to/anuradha9712/a-complete-guide-to-redux-hmj
+- https://www.youtube.com/watch?v=Q7AOvWpIVHU
+- Build website with no code: https://www.youtube.com/watch?v=msdymgkhePo
+- https://dev.to/siddharthshyniben/what-is-the-virtual-dom-let-s-build-it-5070
+- https://dev.to/hieptl/learn-react-by-building-netflix-1127
+- https://dev.to/melnik909/my-3-tips-about-flexbox-that-will-make-your-css-better-50g6
+- https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6
 
 ### Others:
 
@@ -70,6 +77,11 @@
 - https://dev.to/davidepacilio/30-free-react-dashboard-templates-and-themes-49g4
 - https://dev.to/ms_yogii/useaxios-a-simple-custom-hook-for-calling-apis-using-axios-2dkj
 - https://dev.to/aspittel/a-complete-beginner-s-guide-to-next-js-1md0
+- https://betterprogramming.pub/lazy-loading-images-with-intersection-observer-in-react-ad6135f1ca59
+- https://dev.to/swyx/how-to-add-prettier-and-eslint-automation-to-a-react-codebase-2gk1
+- https://sredmond.medium.com/why-we-need-to-stop-using-react-1ae3ec7959a4
+- https://itnext.io/misconceptions-about-virtual-dom-35ec60b87086
+- https://javascript.plainenglish.io/7-steps-to-modernize-and-optimize-your-react-app-466cbea51b8f
 
 ## Websites:
 
@@ -87,6 +99,7 @@
 - Ready to go customer chat: https://github.com/papercups-io/papercups
 - https://github.com/alexgurr/react-coding-challenges
 - https://github.com/fsouza/prettierd
+- https://github.com/TuSimple/naive-ui
 
 ## Packages:
 

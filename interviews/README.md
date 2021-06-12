@@ -8,6 +8,7 @@
 - Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 - https://www.stopstalk.com/
 - https://www.bigocheatsheet.com/
+- Do go through this in any case: http://www.ardendertat.com/2012/01/09/programming-interview-questions/
 
 ## Blogs and Articles:
 
@@ -37,6 +38,12 @@
 - https://medium.com/swlh/my-preparation-journey-for-google-interviews-f41e2dc3cdf9
 - https://betterprogramming.pub/top-5-hardest-coding-questions-from-recent-faang-interviews-d46bcb4dd8dc
 - https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df
+- https://medium.com/free-code-camp/writing-a-killer-software-engineering-resume-b11c91ef699d
+- https://medium.com/swlh/5-software-engineering-interview-questions-to-identify-outstanding-developers-6d8c95b46d64
+
+## Videos:
+
+- Gaurav Sen: https://www.youtube.com/watch?v=bBPHpH8aKjw
 
 ## Books:
 
@@ -50,6 +57,7 @@
 ## SQL interviews:
 
 - https://towardsdatascience.com/crack-data-science-interviews-advanced-sql-skills-in-2021-322fef819c6c
+- https://www.reddit.com/r/SQL/comments/nww7g0/best_way_to_cram_for_sql_interview_test/
 
 ## Repos:
 
@@ -76,6 +84,9 @@
 - https://dev.to/thatanjan/everything-you-need-to-know-about-tree-data-structure-2c02
 - https://medium.com/@kevinsmavani007/red-black-tree-47e3249cf17
 - https://himnickson.medium.com/matrix-chain-multiplication-using-dynamic-programming-a-brief-explanation-with-an-example-c565aa21ebec
+- https://anubhavsinha98.medium.com/resources-to-master-data-structures-and-algorithms-24450dc6d52b
+- https://debelop3d.medium.com/preparing-for-the-facebook-interview-a-brutally-honest-guide-8e09f3b8a054
+- http://www.nondot.org/sabre/Resume.html
 
 ### Repos:
 

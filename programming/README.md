@@ -95,6 +95,8 @@
 - https://dev.to/wassimchegham/the-subtle-art-of-being-a-developer-advocate-gdg
 - https://medium.com/qiskit/learn-more-about-the-ibm-quantum-developer-certification-and-how-to-take-it-for-free-d237f9765dc5
 - Teach yourself progamming in ten years: https://norvig.com/21-days.html
+- https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/
+- https://thenerdstation.medium.com/how-to-become-a-quantum-software-engineer-646ca45c4001
 
 ## Blog Series:
 

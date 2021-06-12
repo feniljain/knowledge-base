@@ -57,6 +57,17 @@
 - https://areweyeetyet.rs/
 - https://maurya-anjani.medium.com/rust-lang-creating-a-singleton-pattern-16438ffaca59
 - Object Safety: https://huonw.github.io/blog/2015/01/object-safety/
+- https://jam1.re/blog/adventures-in-rustc-forking
+- https://www.possiblerust.com/pattern/naming-your-lifetimes
+- https://blog.knoldus.com/object-oriented-programming-concepts-in-rust/
+- https://medium.com/swlh/monad-interface-rust-edition-bd6486b93607
+- https://www.jakobmeier.ch/blogging/Untapped-Rust.html
+- https://radekvit.medium.com/move-semantics-in-c-and-rust-the-case-for-destructive-moves-d816891c354b
+- https://blog.softwaremill.com/algebraic-data-types-in-four-languages-858788043d4e
+- https://dwbrite.com/blog/post/rust%20enums%20by%20example
+- https://alastairreid.github.io/automatic-rust-verification-tools-2021/
+- https://blog.knoldus.com/iterator-producing-iterator-in-rust-is-really-helpful/
+- https://abadcafe.wordpress.com/2021/01/08/behavior-inheritance-in-rust/
 
 ### Tutorials:
 
@@ -111,6 +122,20 @@
 - https://dev.to/xinnks/deploy-a-rust-website-on-heroku-1l45
 - https://dev.to/steadylearner/how-to-deploy-rust-web-app-with-digitalocean-h2o
 - https://yidaotus.medium.com/learning-rust-by-porting-an-express-js-server-to-rocket-rs-part-2-71c2f8ec388e
+- https://levelup.gitconnected.com/working-with-graphql-in-rust-dcbff7e768f1
+- https://medium.com/lagierandlagier/2d-web-rendering-with-rust-4401cf133f31
+- Awesome article, extreme networking optimizations: https://www.infinyon.com/blog/2021/05/ebpf-routing-rust/
+- https://medium.com/@knoldus/os-in-rust-running-our-custom-kernel-on-an-emulator-part-5-3be47e08952d
+- https://dev.to/cad97/crafting-ide-ready-compilers-500o
+- https://justin.restivo.me/posts/2021-05-30-nix-rust-riscv-toy-kernel.html
+- https://dev.to/azure/redis-streams-in-action-part-2-rust-app-to-consume-from-the-twitter-streaming-api-1ji4
+- https://devblog.arcana.rs/how-to-make-plugins-system-with-rust-and-webassembly
+- https://charles-schleich.medium.com/webrtc-video-chat-tutorial-using-rust-wasm-fa340f7aeef9
+- https://github.com/pretzelhammer/rust-blog/blob/master/posts/restful-api-in-sync-and-async-rust.md
+- https://medium.com/@bparli/adventures-in-rust-and-load-balancers-73a0bc61a192
+- https://popcornpaws.medium.com/creating-an-npm-package-written-in-rust-ce02f7c55458
+- https://medium.com/geekculture/chat-system-by-rust-and-grpc-web-2425104ec2a0
+- https://github.com/imbolc/rust-derive-macro-guide
 
 ### Others:
 
@@ -158,6 +183,7 @@
 - https://blog.usejournal.com/6-useful-rust-macros-that-you-might-not-have-seen-before-59d1386f7bc5
 - https://d3lm.medium.com/rust-beware-of-escape-sequences-85ec90e9e243/
 - Writing neovim plugins in rust: https://blog.usejournal.com/a-detailed-guide-to-writing-your-first-neovim-plugin-in-rust-a81604c606b1
+- https://blog.usejournal.com/a-detailed-guide-to-writing-your-first-neovim-plugin-in-rust-a81604c606b1
 - Yet Another Performant Entity-Component System Library: https://jojolepro.com/blog/2021-01-13_planck_ecs/
 - Having pandas alternative in rust: https://able.bio/haixuanTao/data-manipulation-polars-vs-rust--3def44c8
 - A minimalist Rust WebAssembly project template: https://github.com/thedjinn/MiniWASM
@@ -185,6 +211,16 @@
 - https://www.lpalmieri.com/posts/error-handling-rust/
 - https://blog.logrocket.com/what-you-cant-do-in-rust-and-what-to-do-instead/
 - https://actually.fyi/posts/zig-makes-rust-cross-compilation-just-work/
+- https://tokio.rs/blog/2021-05-valuable
+- Project wise custom linting using dylint: https://www.trailofbits.com/post/write-rust-lints-without-forking-clippy
+- https://mateusfreira.github.io/@mateusfreira-a-fast-to-sync-search-and-space-optimized-replication-algorithm-written-in-rust-the-Nun-db-data-replication-model/
+- https://medium.com/@thelukaswils/making-a-brainf-ck-to-c-compiler-in-rust-10f0c01a282d
+- https://shnatsel.medium.com/the-simpler-alternative-to-gcc-rs-90da2b3685d3
+- https://medium.com/geekculture/dependency-injection-in-rust-3822bf689888
+- Tightness Driven Development in Rust: https://www.ecorax.net/tightness/
+- https://plume.benboeckel.net/~/JustAnotherBlog/designing-rust-bindings-for-rest-ap-is
+- https://blog.knoldus.com/object-oriented-programming-concepts-in-rust/
+- https://hoverbear.org/blog/rust-state-machine-pattern/
 
 ## Blog Series:
 
@@ -208,6 +244,7 @@
 - https://cfallin.org/blog/
 - https://kerkour.com/
 - https://aloso.github.io/
+- https://jam1.re/
 
 ## Repos:
 
@@ -266,6 +303,7 @@
 - Add cargo add, rm and upgrade to your main cargo command: https://github.com/killercup/cargo-edit
 - Minesweeper in WinRT: https://github.com/robmikh/minesweeper-rs
 - Jinja-like templates for Rust: https://github.com/djc/askama
+- Rust templating with handlebars : https://github.com/sunng87/handlebars-rust/
 
 ## Videos:
 
@@ -288,6 +326,8 @@
 - Overview of rust(4 part series): https://www.youtube.com/watch?v=gesNaLkUJeA&list=PLP2yfE2-FXdQmXLvrQ5QN64enbF_KCYQW
 - From electron to wasm to rust and back to electron: https://www.youtube.com/watch?v=lLzFJenzBng
 - Criminally Fast Rust: https://www.youtube.com/watch?v=ArYBosljGj0
+- https://www.reddit.com/r/rust/comments/nprgwu/a_firehose_of_rust_for_busy_people_who_know_some_c/
+- Debugging rust with vim: https://www.youtube.com/watch?v=U3uvbdgFMRE
 
 ## YT and Twitch Project channels/Playlists:
 
@@ -370,6 +410,7 @@
 - e-graphs to provide a new way to build program optimizers and synthesizers: https://egraphs-good.github.io/
 - Rust task runner and build tool: https://rust.libhunt.com/cargo-make-alternatives, https://github.com/sagiegurari/cargo-make
 - A small and fast async runtime: https://lib.rs/crates/smol
+- https://cxx.rs/
 
 ## Rust Internals:
 
@@ -392,6 +433,7 @@
 - https://cfallin.org/blog/2020/09/18/cranelift-isel-1/
 - https://kornel.ski/rust-c-speed
 - https://github.com/rust-lang/rfcs/blob/master/text/1298-incremental-compilation.md
+- https://medium.com/ingeniouslysimple/rust-zero-cost-abstraction-in-action-9e4e2f8bf5a
 
 ## Rust and security
 
@@ -399,6 +441,7 @@
 - https://medium.com/@shnatsel/how-rusts-standard-library-was-vulnerable-for-years-and-nobody-noticed-aebf0503c3d6
 - https://www.reddit.com/r/rust/comments/909gsd/were_there_any_memory_safety_issues_found_in/
 - https://www.reddit.com/r/rust/comments/8s7gei/unsafe_rust_in_actixweb_other_libraries/
+- https://security.googleblog.com/2021/06/rustc-interop-in-android-platform.html
 
 ## Reddit threads and tweets:
 
@@ -410,6 +453,8 @@
 - https://www.reddit.com/r/rust/comments/lkvlya/introducing_the_firestorm_profiler/
 - https://www.reddit.com/r/rust/comments/m7fxaz/implementing_raii_guards_in_rust/
 - https://www.reddit.com/r/learnrust/comments/mwuzny/list_of_beginners_level_open_source_rust_project/
+- Collection of underrated crates: https://www.reddit.com/r/rust/comments/nuq1ix/whats_your_favourite_underrated_rust_crate_and_why/
+- Vector math: best practices - https://www.reddit.com/r/rust/comments/nx3v4a/vector_math_best_practices/
 
 ## Rust Learning:
 

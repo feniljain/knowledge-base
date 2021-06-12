@@ -35,6 +35,7 @@
 - https://medium.com/dartlang/announcing-dart-support-for-github-actions-3d892642104
 - https://www.reddit.com/r/Fuchsia/comments/mmbefx/dart_ui_ram_usage/
 - https://medium.com/litslink/flutter-desktop-application-tutorial-3493385e31f3
+- https://matejknopp.com/post/introducing-nativeshell/
 
 ## Flutter internals:
 

@@ -13,10 +13,13 @@
 - https://leccajavier.medium.com/grpc-beautiful-architecture-d957d6d82316
 - https://levelup.gitconnected.com/lets-build-a-single-binary-grpc-server-client-with-rust-498c1cb900d3
 - https://levelup.gitconnected.com/an-up-to-date-review-of-grpc-with-golang-b8cc78b584f7
-- https://github.com/twitchtv/twirp
+- https://ably.com/blog/grpc-stream-performance
+- https://alexbryksin.medium.com/go-grpc-clean-architecture-microservice-with-prometheus-grafana-monitoring-and-jaeger-opentracing-178267029f9
+- https://www.libhunt.com/r/drpc
 
 ## Repos:
 
 - https://github.com/grpc-ecosystem/grpc-gateway
 - https://github.com/go-masonry/mortar
 - https://github.com/simplesteph/grpc-go-course
+- https://github.com/twitchtv/twirp

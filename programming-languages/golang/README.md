@@ -10,6 +10,9 @@
 - https://blog.urth.org/2021/03/27/down-the-golang-nil-rabbit-hole/
 - https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/
 - https://blog.golang.org/errors-are-values
+- https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/
+- https://medium.com/@geisonfgfg/functional-go-bc116f4c96a4
+- https://betterprogramming.pub/naming-conventions-in-go-short-but-descriptive-1fa7c6d2f32a
 
 ### Tutorials:
 
@@ -43,6 +46,12 @@
 - https://medium.com/@bradford_hamilton/building-an-api-with-graphql-and-go-9350df5c9356
 - https://medium.com/schkn/monitoring-systemd-services-in-realtime-with-chronograf-285c650c1a73
 - Everything about dates and time in golang: https://qvault.io/golang/golang-date-time/
+- https://dev.to/progrium/building-your-own-ngrok-in-130-lines-2lif
+- https://medium.com/@phanindramoganti/regex-under-the-hood-implementing-a-simple-regex-compiler-in-go-ef2af5c6079
+- https://medium.com/james-reads-public-cloud-technology-blog/using-a-httputil-reverse-proxy-to-host-grpc-rest-html-on-a-single-port-9d3f629762b7
+- https://steveazz.xyz/blog/go-performance-tools-cheat-sheet/
+- https://asheetbhaskar.medium.com/context-about-context-package-in-golang-487ef60d9acc
+- https://web3.coach/golang-github-actions-release-binaries-tutorial
 
 ### Architecture:
 
@@ -137,6 +146,8 @@
 - https://medium.com/higher-order-functions/golang-six-error-handling-techniques-to-help-you-write-elegant-code-8e6363e6d2b
 - https://sibprogrammer.medium.com/go-binary-optimization-tricks-648673cc64ac
 - https://dev.to/hlmerscher/the-controversial-go-way-of-handling-errors-2ka1
+- https://medium.com/a-journey-with-go/go-goroutine-leak-detector-61a949beb88
+- https://teivah.medium.com/introducing-rxgo-v2-e7e369faa99a
 
 ## Blog Series:
 
@@ -168,6 +179,10 @@
 - https://skarlso.github.io/2020/07/23/kubernetes-deploy-golang-react-apps-separately-part1/
 - https://dev.to/feliperosa/getting-started-with-libp2p-in-go-4hoa
 - https://dustinnewman.medium.com/lets-make-a-cache-in-go-ea49fc9ebe93
+
+## Reddit and Twitter threads:
+
+- Distributed Task Queue discussion in golang: https://www.reddit.com/r/golang/comments/nsfjtq/for_those_running_go_in_production_at_scale_what/
 
 ## Books:
 
@@ -201,6 +216,7 @@
 - Why is closing channel not idempotent: https://groups.google.com/g/golang-nuts/c/_Q6FCjWIr18/m/J5Js1VogjIoJ?pli=1
 - Way to to use go.mod to contribute to open source projects: https://groups.google.com/g/golang-nuts/c/gjM1zVnd7Ek
 - Go mod versioning, how to turn automatic bump off: https://groups.google.com/g/golang-nuts/c/s2t_dDawRv0
+- Compile a cgo program to llvm IR: https://groups.google.com/g/golang-nuts/c/lm5fQYEyIks
 
 ## Websites:
 
@@ -263,6 +279,9 @@
 - https://dev.to/alexisvisco/new-golang-package-to-reduce-code-duplication-in-apis-945
 - https://pkg.go.dev/github.com/cenkalti/backoff
 - https://levelup.gitconnected.com/5-useful-golang-modules-developers-should-know-in-2021-3ce03aa14c20
+- https://github.com/esimov/caire
+- QUIC implementation in golang: https://github.com/goburrow/quic
+- https://github.com/saurabh0719/go-hashlru
 
 ## Go Internals:
 
@@ -287,6 +306,8 @@
 - https://www.reddit.com/r/golang/comments/mige3h/searching_for_a_good_book_for_advanced_go_topics/
 - https://tpaschalis.github.io/golang-time-now/
 - https://medium.com/dev-genius/golang-101-looking-at-how-garbage-collector-works-98392737a475
+- Where can I find go routines implementation and white paper: https://groups.google.com/g/golang-nuts/c/bG7DQ9cIN6o
+- Tracking Go with eBPF: https://www.youtube.com/watch?v=f1jr9nR25EA
 
 # Go Learning:
 
@@ -298,6 +319,7 @@
 - https://towardsdev.com/learning-golang-9297e2eee49a
 - Resources collected over 3 years: https://www.reddit.com/r/golang/comments/n5ppx5/some_resources_that_have_helped_me_learn_golang/
 - https://dev.to/moficodes/go-crash-course-part-1-18h1
+- https://kush01.hashnode.dev/resources-for-learning-go
 
 ## Courses:
 

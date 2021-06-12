@@ -241,6 +241,10 @@
 - https://www.youtube.com/watch?v=JaBmR8tC1oU&list=PLXK8FoyCuvJzHe_8WgpNuGKM4KlJl8QP9&index=3
 - Famous anime openings only beats version: https://www.youtube.com/watch?v=Tr-ht9Juieg
 
+## Videos:
+
+- 101 animes you must watch: https://www.youtube.com/watch?v=2ABUikD2-AY
+
 ## Reddit:
 
 - https://www.reddit.com/r/Animesuggest/comments/l0a9xh/your_top_anime_from_each_of_those_genres/
@@ -309,7 +313,7 @@
 - Darker than black
 - Psycho Pass
 - Samurai Champloo
-- Shinsekai yori
+- Shin Sekai yori
 - Kuroko no basket
 - No game no life
 - Dragon ball all series
@@ -356,4 +360,5 @@
 - Clannad
 - Clannad AfterStory
 - Slam Dunk
-
+- Mobile Suite Gundam
+- My romantic teenage comedy

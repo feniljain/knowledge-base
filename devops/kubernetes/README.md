@@ -8,6 +8,7 @@
 - https://kube101.jeffgeerling.com/
 - https://container.training/
 - https://100daysofkubernetes.io/
+- https://docs.devtron.ai/
 
 ## Blogs and Articles:
 
@@ -22,6 +23,10 @@
 - https://twitter.com/bibryam/status/1373583176212299776
 - https://medium.com/bb-tutorials-and-thoughts/kubernetes-learn-sidecar-container-pattern-6d8c21f873d
 - https://medium.com/swlh/kubernetes-ingress-controller-overview-81abbaca19ec
+- https://interviewdaemon.medium.com/system-design-kubernetes-cef1290dcff4
+- https://iceburn.medium.com/k3s-and-microk8s-whats-the-difference-f273efcc8ded
+- https://www.libhunt.com/r/vcluster
+- https://dev.to/pghildiyal/understanding-kubernetes-architecture-2k0l
 
 ## Blog series:
 
@@ -46,6 +51,8 @@
 - https://github.com/magnologan/awesome-k8s-security
 - https://github.com/chaos-mesh
 - https://github.com/kelseyhightower/kubernetes-the-hard-way
+- https://github.com/argoproj/argo-workflows
+- https://github.com/devtron-labs/devtron
 
 ## Tools:
 

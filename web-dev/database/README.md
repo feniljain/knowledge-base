@@ -43,7 +43,10 @@
 - https://dev.to/ramko9999/host-and-use-redis-for-free-51if
 - https://netflixtechblog.com/keeping-netflix-reliable-using-prioritized-load-shedding-6cc827b02f94
 - https://luanjunyi.medium.com/system-design-paradigm-sharding-77cb6498a6dc
+- https://ajay-yadav109458.medium.com/database-storage-engines-a425c8b3311e
 - https://medium.com/nerd-for-tech/google-is-pushing-the-new-language-logica-to-solve-the-major-flaws-in-sql-3cb62b6fab06
+- https://hinty.io/devforth/sql-query-optimization-understanding-key-principle/
+- https://medium.com/swlh/5-database-scaling-solutions-you-need-to-know-e307570efb72
 
 ## Blog Series:
 
@@ -59,3 +62,14 @@
 - https://github.com/RedisJSON/RedisJSON
 - https://github.com/pingcap/dumpling
 
+<h2 align="center">SQL</h2>
+
+## Websites:
+
+- https://sqlpad.github.io/sqlpad/#/
+- Mock Data Generator: https://www.mockaroo.com/
+
+## Repos:
+
+- https://github.com/xo/usql
+- A random SQL query generator: https://github.com/anse1/sqlsmith
