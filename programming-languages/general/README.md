@@ -68,6 +68,8 @@
 - https://kkobierska.medium.com/phoenix-liveview-frontend-framework-friendly-for-backend-developers-9fe21f0ac83c
 - https://blog.lelonek.me/elixir-on-erlang-vm-demystified-320557d09e1f
 - https://keathley.io/blog/good-and-bad-elixir.html
+- https://medium.com/very-big-things/towards-maintainable-elixir-the-development-process-205ee257c109
+- https://medium.com/free-code-camp/how-to-write-a-super-fast-link-shortener-with-elixir-phoenix-and-mnesia-70ffa1564b3c
 
 ## Python:
 
@@ -117,6 +119,8 @@
 - Best explanation of currying: https://blog.bitsrc.io/understanding-currying-in-javascript-ceb2188c339
 - Tail call elimination(functional programming feature): https://towardsdatascience.com/what-is-tail-recursion-elimination-or-why-functional-programming-can-be-awesome-43091d76915e
 - https://blog.devgenius.io/writing-a-coroutine-in-c-language-6a537275ddc3
+- https://thad.frogley.info/archive/cpp_traits_intro.html
+- https://medium.com/swlh/doing-it-the-functional-way-in-c-5c392bbdd46a
 
 ### Repos:
 

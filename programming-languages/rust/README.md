@@ -31,6 +31,7 @@
 - https://tourofrust.com/
 - https://forge.rust-lang.org/
 - Rust integrated dart: https://thlorenz.com/rid-site/
+- https://www.memorysafety.org/
 
 ## Blogs and Articles:
 
@@ -68,6 +69,7 @@
 - https://alastairreid.github.io/automatic-rust-verification-tools-2021/
 - https://blog.knoldus.com/iterator-producing-iterator-in-rust-is-really-helpful/
 - https://abadcafe.wordpress.com/2021/01/08/behavior-inheritance-in-rust/
+- https://riptutorial.com/rust/example/3850/pattern-matching-with-bindings
 
 ### Tutorials:
 
@@ -136,47 +138,50 @@
 - https://popcornpaws.medium.com/creating-an-npm-package-written-in-rust-ce02f7c55458
 - https://medium.com/geekculture/chat-system-by-rust-and-grpc-web-2425104ec2a0
 - https://github.com/imbolc/rust-derive-macro-guide
+- https://rust-unofficial.github.io/too-many-lists/first-layout.html
+- Live Coding Reverse Proxy in Rust: https://www.snoyman.com/blog/2020/12/live-coding-rust-reverse-proxy/
+- https://robert.kra.hn/posts/2021-02-01_cross-compile-rust/
+- VCS in Rust: https://initialcommit.com/blog/pijul-version-control-system/#
+
+### Langauge general:
+
+- https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/
+- Understanding Ownership the hard way: https://chrismorgan.info/blog/rust-ownership-the-hard-way/
+- https://medium.com/nearprotocol/understanding-rust-lifetimes-e813bcd405fa
+- https://blog.usejournal.com/rust-and-the-three-laws-of-informatics-4324062b322b
+- https://levelup.gitconnected.com/rust-and-its-ownership-model-effc41e3951
+- https://medium.com/swlh/rust-structs-options-and-traits-485eecd9c718
+- Temporary borrowed value will drop outside scope: https://mrtact.medium.com/polishing-rust-42d9131d1c3
+- https://www.possiblerust.com/pattern/3-things-to-try-when-you-can-t-make-a-trait-object
+- https://medium.com/swlh/generics-or-metaprogramming-declarative-macros-with-rust-6fd5f6995584
+- https://towardsdatascience.com/how-to-design-for-panic-resilience-in-rust-55d5fd2478b9
 
 ### Others:
 
 - https://crafterscircle.io/rust/coding/2019/01/18/tips-for-rust-beginners/
-- https://rust-unofficial.github.io/too-many-lists/first-layout.html
 - http://fredrik.anderzon.se/2016/05/10/rust-for-node-developers-part-1-introduction/
-- Understanding Ownership the hard way: https://chrismorgan.info/blog/rust-ownership-the-hard-way/
 - https://blog.knoldus.com/os-in-rust-an-executable-that-runs-on-bare-metal-part-1/
 - https://www.reddit.com/r/rust/comments/kdfb9k/rusts_option_in_one_figure/
 - https://vorner.github.io/2021/01/03/dark-side-of-posix-apis.html
 - https://www.reddit.com/r/rust/comments/kpqmrh/rust_is_now_overall_faster_than_c_in_benchmarks/
-- https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/
-- https://medium.com/nearprotocol/understanding-rust-lifetimes-e813bcd405fa
-- https://blog.usejournal.com/rust-and-the-three-laws-of-informatics-4324062b322b
-- https://levelup.gitconnected.com/rust-and-its-ownership-model-effc41e3951
 - https://medium.com/swlh/how-did-i-setup-neovim-for-rust-1763eb2ef98c
 - https://blog.logrocket.com/the-current-state-of-rust-web-frameworks/
-- Live Coding Reverse Proxy in Rust: https://www.snoyman.com/blog/2020/12/live-coding-rust-reverse-proxy/
 - https://macwright.com/2021/01/15/rust.html
 - https://blog.mozilla.org/nnethercote/2020/09/08/how-to-speed-up-the-rust-compiler-one-last-time/
 - https://medium.com/better-programming/in-depth-comparison-of-rust-and-cpp-579b1f93a5e9
 - State of Rust GUI lib.s as of Jan 2021: https://dev.to/davidedelpapa/rust-gui-introduction-a-k-a-the-state-of-rust-gui-libraries-as-of-january-2021-40gl
 - https://mrtact.medium.com/polishing-rust-30eeac3c4bf3
 - https://www.possiblerust.com/guide/how-to-read-rust-functions-part-1
-- https://medium.com/swlh/rust-structs-options-and-traits-485eecd9c718
-- Temporary borrowed value will drop outside scope: https://mrtact.medium.com/polishing-rust-42d9131d1c3
 - https://vorner.github.io/2021/01/31/saving-some-allocations.html
 - Visibility and privacy in rust explained perfectly: https://doc.rust-lang.org/reference/visibility-and-privacy.html
 - https://this-week-in-rust.org/blog/2021/02/03/this-week-in-rust-376/
 - https://www.cvedetails.com/product/48677/Rust-lang-Rust.html?vendor_id=19029
-- https://robert.kra.hn/posts/2021-02-01_cross-compile-rust/
-- https://www.possiblerust.com/pattern/3-things-to-try-when-you-can-t-make-a-trait-object
 - https://robert.kra.hn/posts/2021-02-03_is-rust-fp/
 - https://cglab.ca/~abeinges/blah/rust-btree-case/
 - https://medium.com/dev-genius/open-source-rust-24-awesome-frameworks-projects-and-libraries-8885112f8a73
-- https://medium.com/swlh/generics-or-metaprogramming-declarative-macros-with-rust-6fd5f6995584
 - https://yrashk.medium.com/launching-wasm-rs-a-collection-of-crates-a-community-4344d2ba75b3
 - https://levelup.gitconnected.com/handling-websocket-and-http-on-the-same-port-with-rust-f65b770722c9
-- https://towardsdatascience.com/how-to-design-for-panic-resilience-in-rust-55d5fd2478b9
 - https://taggartsoftware.medium.com/clickonce-for-rust-apps-f96873feb8f1
-- VCS in Rust: https://initialcommit.com/blog/pijul-version-control-system/#
 - https://www.youtube.com/embed/mdUg_mCuqhE
 - https://www.fpcomplete.com/blog/captures-closures-async/
 - Mapping between types of psql, diesel, rust: https://kotiri.com/2018/01/31/postgresql-diesel-rust-types.html
@@ -221,6 +226,12 @@
 - https://plume.benboeckel.net/~/JustAnotherBlog/designing-rust-bindings-for-rest-ap-is
 - https://blog.knoldus.com/object-oriented-programming-concepts-in-rust/
 - https://hoverbear.org/blog/rust-state-machine-pattern/
+- https://medium.com/swlh/enabling-diagnostics-for-rust-code-c359ceee1296
+- https://medium.com/monocodus/a-survey-into-static-analyzers-configurations-clippy-for-rust-part-1-5de50fd9326
+- https://medium.com/tezedge/speeding-up-incoming-message-parsing-by-3-to-10-times-by-switching-from-serde-to-the-nom-library-a74b04391bb4
+- https://confused.ai/posts/announcing-aya
+- https://rymc.io/blog/2021/cacao-rs-macos-ios-rust/
+- https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier/
 
 ## Blog Series:
 
@@ -245,6 +256,7 @@
 - https://kerkour.com/
 - https://aloso.github.io/
 - https://jam1.re/
+- https://confused.ai/
 
 ## Repos:
 
@@ -328,6 +340,7 @@
 - Criminally Fast Rust: https://www.youtube.com/watch?v=ArYBosljGj0
 - https://www.reddit.com/r/rust/comments/nprgwu/a_firehose_of_rust_for_busy_people_who_know_some_c/
 - Debugging rust with vim: https://www.youtube.com/watch?v=U3uvbdgFMRE
+- Building a web application with rust: https://www.youtube.com/watch?v=c9qSGUHgE1c
 
 ## YT and Twitch Project channels/Playlists:
 
@@ -365,6 +378,7 @@
 - Cross-platform GUI library for Rust: https://github.com/hecrj/iced
 - Futures-based QUIC implementation in Rust: https://github.com/quinn-rs/quinn
 - Rewrite of Core GNU utils in rust: https://github.com/uutils/coreutils/
+- eBPF for rust: https://github.com/alessandrod/aya
 
 ## Dev.to, Medium and youtube project series:
 
@@ -411,6 +425,7 @@
 - Rust task runner and build tool: https://rust.libhunt.com/cargo-make-alternatives, https://github.com/sagiegurari/cargo-make
 - A small and fast async runtime: https://lib.rs/crates/smol
 - https://cxx.rs/
+- https://crates.io/crates/tracing
 
 ## Rust Internals:
 
@@ -434,6 +449,10 @@
 - https://kornel.ski/rust-c-speed
 - https://github.com/rust-lang/rfcs/blob/master/text/1298-incremental-compilation.md
 - https://medium.com/ingeniouslysimple/rust-zero-cost-abstraction-in-action-9e4e2f8bf5a
+- Proposal to introduce a new GhostShell type in rust for seperating permission from data in rust so that its easier to write DS like LL, graphs, etc: https://plv.mpi-sws.org/rustbelt/ghostcell/
+- Adding rust bpf target to rust compiler: https://confused.ai/posts/rust-bpf-target
+- https://blog.sunfishcode.online/introducing-cap-std/
+- https://deepu.tech/memory-management-in-rust/
 
 ## Rust and security
 
@@ -442,6 +461,7 @@
 - https://www.reddit.com/r/rust/comments/909gsd/were_there_any_memory_safety_issues_found_in/
 - https://www.reddit.com/r/rust/comments/8s7gei/unsafe_rust_in_actixweb_other_libraries/
 - https://security.googleblog.com/2021/06/rustc-interop-in-android-platform.html
+- https://www.reddit.com/r/rust/comments/nyrsxj/a_few_thoughts_on_fuchsia_security/
 
 ## Reddit threads and tweets:
 
@@ -455,6 +475,7 @@
 - https://www.reddit.com/r/learnrust/comments/mwuzny/list_of_beginners_level_open_source_rust_project/
 - Collection of underrated crates: https://www.reddit.com/r/rust/comments/nuq1ix/whats_your_favourite_underrated_rust_crate_and_why/
 - Vector math: best practices - https://www.reddit.com/r/rust/comments/nx3v4a/vector_math_best_practices/
+- How would you further organize the project structure of the web server in the Rust book? - https://www.reddit.com/r/rust/comments/ny44z6/how_would_you_further_organize_the_project/
 
 ## Rust Learning:
 

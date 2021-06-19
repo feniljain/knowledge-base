@@ -29,6 +29,8 @@
 - https://distrowatch.com/
 - Problems in flatpak: https://flatkill.org/
 - https://1lib.in/s/linux%20networking
+- https://nosystemd.org/
+- https://www.memorysafety.org/
 
 ## Blogs and articles:
 
@@ -51,6 +53,8 @@
 - https://alpha2phi.medium.com/command-line-tools-for-faster-file-system-navigation-fc02c3a3eb0e
 - https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase
 - https://betterprogramming.pub/how-to-use-the-linux-xargs-command-to-create-powerful-pipelines-a5d5d7067703
+- https://towardsdatascience.com/dual-boot-is-dead-the-post-mortem-cee4db42d059
+- https://betterprogramming.pub/linux-systemctl-46bd0a11e27b
 
 ### Linux working:
 
@@ -73,6 +77,11 @@
 - Signals in linux: https://medium.com/100-days-of-linux/understanding-linux-process-signals-53d44c85c706
 - https://medium.com/for-linux-users/linux-tip-higher-performance-with-zswap-2a4654b935de
 - Discussion about unikernels: https://news.ycombinator.com/item?id=27301210
+- https://medium.com/100-days-of-linux/how-to-resize-a-linux-root-file-system-af3e5096b4e4
+- Introduction of rust to linx kernel, another RFC: https://lore.kernel.org/lkml/CANiq72khBa2GcB6-PHM3A44Y90d6vzYAS=BVpk3nT4B6u+NVDw@mail.gmail.com/T/#mb5e524dae9d5a5815c6e68eb36b9bde4e87c861d
+- https://thenewstack.io/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/
+- Configuring iptables in a linux machine: https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/
+- https://medium.com/dvt-engineering/how-to-write-your-first-linux-kernel-module-cf284408beeb
 
 ### Others:
 
@@ -93,6 +102,7 @@
 - https://github.com/AkihiroSuda/lima/tree/master
 - SSH into remote linux using ngrok: https://medium.com/@byteshiva/ssh-into-remote-linux-by-using-ngrok-b8c49b8dc3ca
 - https://alpha2phi.medium.com/ligature-fonts-for-terminal-vs-code-neovim-and-emacs-1187c6987491
+- https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/
 
 ## Blog series:
 
@@ -128,6 +138,7 @@
 - https://github.com/hugomd/parrot.live
 - https://github.com/busyloop/lolcat
 - Fork of alacritty with ligature support: https://github.com/zenixls2/alacritty
+- Collection of modern alternatives to native unix tools: https://github.com/ibraheemdev/modern-unix
 
 ### Others:
 
@@ -174,6 +185,7 @@
 - wuzz
 - flameshot
 - Terminal audio visualizer: cava
+- tldr
 
 ### Rust Dev
 
@@ -212,6 +224,7 @@
 - Linux filesystem: https://youtu.be/42iQKuQodW4
 - eBPF - Rethiking the linux kernel: https://www.infoq.com/presentations/facebook-google-bpf-linux-kernel/
 - Wayland: https://www.youtube.com/watch?v=g1BoZnekkyM
+- Leaning awk: https://www.youtube.com/watch?v=9YOZmI-zWok
 
 ## Courses:
 
@@ -257,3 +270,12 @@
 - https://github.com/maestrogerardo/i3-gaps-deb
 - https://github.com/justbuchanan/i3scripts
 - Adding polybar to i3: https://www.youtube.com/watch?v=cLB008-FJ5o
+- https://github.com/marioortizmanero/polybar-pulseaudio-control
+
+## eBPF:
+
+- https://blog.redsift.com/labs/writing-bpf-code-in-rust/
+- eBPF Book: http://www.brendangregg.com/bpf-performance-tools-book.html
+- https://jvns.ca/blog/2018/02/05/rust-bcc/
+- https://github.com/alessandrod/bpf-linker
+- https://confused.ai/

@@ -240,6 +240,7 @@
 - https://www.youtube.com/watch?v=85hxlHzoKI0&list=PLXK8FoyCuvJzHe_8WgpNuGKM4KlJl8QP9
 - https://www.youtube.com/watch?v=JaBmR8tC1oU&list=PLXK8FoyCuvJzHe_8WgpNuGKM4KlJl8QP9&index=3
 - Famous anime openings only beats version: https://www.youtube.com/watch?v=Tr-ht9Juieg
+- Clannad piano version: https://www.youtube.com/watch?v=KszXvLjcDVo
 
 ## Videos:
 
@@ -362,3 +363,5 @@
 - Slam Dunk
 - Mobile Suite Gundam
 - My romantic teenage comedy
+- Mob Psycho 100
+- Made in Abyss

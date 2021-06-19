@@ -27,6 +27,7 @@
 - https://iceburn.medium.com/k3s-and-microk8s-whats-the-difference-f273efcc8ded
 - https://www.libhunt.com/r/vcluster
 - https://dev.to/pghildiyal/understanding-kubernetes-architecture-2k0l
+- https://kubernetes.io/blog/2017/12/using-ebpf-in-kubernetes/
 
 ## Blog series:
 
@@ -53,6 +54,9 @@
 - https://github.com/kelseyhightower/kubernetes-the-hard-way
 - https://github.com/argoproj/argo-workflows
 - https://github.com/devtron-labs/devtron
+- https://github.com/racklet/racklet.io
+- https://github.com/megaease/easegress/
+- https://github.com/aporia-ai/kubesurvival/
 
 ## Tools:
 

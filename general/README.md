@@ -16,6 +16,7 @@
 - Ranks of reddit bots: https://botrank.pastimes.eu/
 - https://www.oppia.org/
 - https://www.triangulate.xyz/
+- https://simplelogin.io/
 
 ## Blogs and articles:
 
@@ -32,6 +33,15 @@
 - https://dev.to/gedalyakrycer/165-developer-resources-i-discovered-in-2020-2021-6ma
 - https://forge.medium.com/how-to-tell-an-employee-their-work-isnt-good-enough-30098949f528
 - https://onezero.medium.com/why-airpods-and-earbuds-like-them-are-especially-bad-for-your-hearing-20f32b6e02e2
+- https://betterprogramming.pub/the-best-programmer-ive-met-as-a-ceo-94836bfc8549
+
+## Reddit threads and tweets:
+
+- https://www.reddit.com/r/linuxquestions/comments/nz6cfm/i_completed_my_thesis_in_libreoffice_writer_ask/
+
+## Videos:
+
+- 5 ways a person is sitting wrong at your desk: https://www.youtube.com/watch?v=Ree1CWifQTg
 
 ## Cheatsheets:
 
@@ -87,6 +97,7 @@
 - https://github.com/koreader/koreader
 - Convert yt playlist to spotify playlist: https://github.com/roshanlam/SpotMusicGen/
 - Anime CLI: https://github.com/pystardust/ani-cli
+- Firefox customization script: https://github.com/MrOtherGuy/firefox-csshacks
 
 ## Free Creds:
 

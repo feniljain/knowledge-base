@@ -13,6 +13,7 @@
 - https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/
 - https://medium.com/@geisonfgfg/functional-go-bc116f4c96a4
 - https://betterprogramming.pub/naming-conventions-in-go-short-but-descriptive-1fa7c6d2f32a
+- https://stonecode.ca/global-variables-arent-the-problem/
 
 ### Tutorials:
 
@@ -52,6 +53,8 @@
 - https://steveazz.xyz/blog/go-performance-tools-cheat-sheet/
 - https://asheetbhaskar.medium.com/context-about-context-package-in-golang-487ef60d9acc
 - https://web3.coach/golang-github-actions-release-binaries-tutorial
+- https://ably.com/blog/event-streaming-with-redis-and-golang
+- http://gregtrowbridge.com/golang-json-serialization-with-interfaces/
 
 ### Architecture:
 
@@ -217,6 +220,7 @@
 - Way to to use go.mod to contribute to open source projects: https://groups.google.com/g/golang-nuts/c/gjM1zVnd7Ek
 - Go mod versioning, how to turn automatic bump off: https://groups.google.com/g/golang-nuts/c/s2t_dDawRv0
 - Compile a cgo program to llvm IR: https://groups.google.com/g/golang-nuts/c/lm5fQYEyIks
+- Representing optional/variant types idiomatically: https://groups.google.com/g/golang-nuts/c/Irq4WCByscI
 
 ## Websites:
 

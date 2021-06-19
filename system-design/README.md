@@ -28,6 +28,9 @@
 - https://towardsdatascience.com/designing-notification-system-with-message-queues-c30a2c9046de
 - https://towardsdatascience.com/system-design-analysis-of-google-drive-ca3408f22ed3
 - https://towardsdatascience.com/system-design-of-url-shortening-service-b325b18c8f88
+- https://medium.com/princeton-systems-course/egalitarian-paxos-in-pure-rust-579100c44f77
+- https://medium.com/enjoy-algorithm/latency-efce9f7528ee
+- https://netflixtechblog.com/re-architecting-the-video-gatekeeper-f7b0ac2f6b00
 
 ## Repos:
 

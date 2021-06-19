@@ -21,3 +21,8 @@
 ## Repos:
 
 - https://github.com/trustwallet/assets
+- https://github.com/hyperledger/indy-sdk
+
+## Videos:
+
+- https://www.youtube.com/watch?v=coQ5dg8wM2o

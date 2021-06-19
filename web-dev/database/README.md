@@ -47,6 +47,9 @@
 - https://medium.com/nerd-for-tech/google-is-pushing-the-new-language-logica-to-solve-the-major-flaws-in-sql-3cb62b6fab06
 - https://hinty.io/devforth/sql-query-optimization-understanding-key-principle/
 - https://medium.com/swlh/5-database-scaling-solutions-you-need-to-know-e307570efb72
+- https://eileen-code4fun.medium.com/log-structured-merge-tree-lsm-tree-implementations-a-demo-and-leveldb-d5e028257330
+- Implementing online/offline status in chat applications: https://twitter.com/hnasr/status/1404217472593678338
+- https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78
 
 ## Blog Series:
 

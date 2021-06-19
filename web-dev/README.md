@@ -67,6 +67,7 @@
 - https://charles-schleich.medium.com/webrtc-video-chat-tutorial-using-rust-wasm-fa340f7aeef9
 - https://medium.com/pragmatic-programmers/table-of-contents-4ac682af9f46
 - https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/
+- https://developers.google.com/web/tools/puppeteer
 
 ### Repos:
 
@@ -74,4 +75,5 @@
 - A lot of good resources in lower side of README.md: https://github.com/topheman/webassembly-wasi-experiments
 - https://github.com/topheman/webassembly-wasi-experiments
 - https://github.com/topheman/rust-wasm-experiments
+- https://github.com/hasura/graphql-engine
 

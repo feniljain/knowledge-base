@@ -40,6 +40,7 @@
 - https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df
 - https://medium.com/free-code-camp/writing-a-killer-software-engineering-resume-b11c91ef699d
 - https://medium.com/swlh/5-software-engineering-interview-questions-to-identify-outstanding-developers-6d8c95b46d64
+- https://medium.com/geekculture/what-impresses-me-when-interviewing-software-engineers-8367f8425a2
 
 ## Videos:
 
@@ -91,4 +92,3 @@
 ### Repos:
 
 - https://github.com/QasimWani/LeetHub
-

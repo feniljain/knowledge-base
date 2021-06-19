@@ -17,3 +17,7 @@
 - https://stackpulse.com/blog/the-sre-role-and-why-its-in-such-high-demand/
 - Online SRE Book From Google: https://sre.google/sre-book/table-of-contents/
 
+## Videos:
+
+- Difference between DevOps and SRE: https://www.youtube.com/watch?v=uTEL8Ff1Zvk
+

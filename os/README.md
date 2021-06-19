@@ -5,6 +5,7 @@
 - https://9fans.topicbox.com/groups/9fans
 - https://9p.io/plan9/
 - https://ebpf.io/
+- https://fuchsia.dev/fuchsia-src/reference/syscalls
 
 ## Blog and articles:
 
@@ -30,6 +31,7 @@
 ## Reddit and twitter threads:
 
 - https://twitter.com/algo_luca/status/1395782235270287370?s=08
+- https://www.reddit.com/r/computerscience/comments/o33tu6/after_code_ie_c_is_converted_to_machine_code_or/
 
 ## Videos:
 

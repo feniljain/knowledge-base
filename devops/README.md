@@ -12,7 +12,7 @@
 
 ## Blogs and Articles:
 
-- https://dev.to/aws-heroes/how-i-passed-the-solutions-architect-professional-with-mostly-free-content-ine?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email
+- https://dev.to/aws-heroes/how-i-passed-the-solutions-architect-professional-with-mostly-free-content-ine
 - Serverless Architectures: https://martinfowler.com/articles/serverless.html
 - https://skarlso.github.io/blog/
 - A good go to discussion on reddit for learning devops: https://www.reddit.com/r/devops/comments/jmdce9/monthly_getting_into_devops_thread_202011/
@@ -51,6 +51,7 @@
 - https://medium.com/pragmatic-programmers/discover-services-with-serf-926086d0430d
 - https://medium.com/@bparli/adventures-in-rust-and-load-balancers-73a0bc61a192
 - https://betterprogramming.pub/a-guide-to-gitops-compatible-production-like-kubernetes-cluster-f87404391d8a
+- https://medium.com/princeton-systems-course/egalitarian-paxos-in-pure-rust-579100c44f77
 
 ## Videos:
 
@@ -74,6 +75,7 @@
 - https://github.com/nats-io
 - https://github.com/haad/proxychains
 - https://github.com/binhnguyennus/awesome-scalability/
+- https://github.com/actions/virtual-environments
 
 ## Reddit threads:
 

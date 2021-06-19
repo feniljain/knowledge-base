@@ -23,6 +23,7 @@
 - https://mailing.bugbountyexplained.com/
 - https://medium.com/@rockprofile/i-opened-my-connection-to-ssh-attacks-and-these-were-the-requests-i-saw-a5999d62e511
 - https://straightblast.medium.com/my-poc-walkthrough-for-cve-2021-21974-a266bcad14b9
+- https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/
 
 ## Repos and tools:
 
@@ -38,4 +39,5 @@
 - https://github.com/salesforce/cloudsplaining
 - https://github.com/Datalux/Osintgram
 - https://github.com/Lifka/hacking-resource
+- https://github.com/vxunderground/MalwareSourceCode
 

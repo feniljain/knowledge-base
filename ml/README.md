@@ -6,6 +6,7 @@
 - Cheapest cloud gpus for deep learning: https://gpu.land/
 - Collection of datasets: https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk/edit#gid=0
 - https://mlops.toys/
+- Collection of ml courses: https://collegecompendium.goldin.io/search?q=machine-learning
 
 ## Blogs and articles:
 

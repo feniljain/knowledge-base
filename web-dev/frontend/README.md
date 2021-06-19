@@ -90,6 +90,7 @@
 - https://xenox.hashnode.dev/1-awesamosa-awesome-resources-for-developers
 - https://hotwire.dev/
 - https://progressier.com/
+- Generating random avatars for users: https://boringavatars.com/
 
 ## Repos:
 
@@ -136,4 +137,9 @@
 - https://dev.to/kiranrajvjd/the-ultimate-web-developer-resources-list-200-resources-2gf5
 - https://dev.to/afif/advanced-css-animation-using-cubic-bezier-nho
 - https://web.dev/new-responsive/
+- Create photoshop effects using CSS : hhttps://twitter.com/Prathkum/status/1404077994101116928
+- https://web.dev/css-web-vitals/
+- https://ishadeed.com/article/container-queries-for-designers/
+- https://www.quirksmode.org/blog/archives/2021/06/inherit_initial.html
+- https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/
 

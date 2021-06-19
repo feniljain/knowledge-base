@@ -1,6 +1,6 @@
 <h2 align="center">Vim</h2>
 
-# FENIL REMEMBER THIS: https://matta9001.medium.com/a-warning-from-a-vim-user-a76ce08ce3c6
+# FENIL REMEMBER THIS: https://matta9001.medium.com/a-warning-from-a-vim-user-a76ce08ce3c6 : & : https://navfromflyby.medium.com/dodging-the-rabbit-hole-that-vim-is-7c0ed6eff2f9
 
 ## Vim fun:
 
@@ -32,6 +32,7 @@
 - Vim profiling: https://www.youtube.com/watch?v=wQ9uB8I0cCg
 - Playlist to get started with lua dev in neovim: https://www.youtube.com/playlist?list=PL0EgBggsoPCk1WCos2txThsxhg0fT5nqD
 - Plugin dev in neovim, beginners guide: https://www.youtube.com/watch?v=6ch28A_YICQ
+- Nvim-dap : https://www.youtube.com/watch?v=SIYt1dopfTc
 
 ## Blogs, Articles and threads:
 
@@ -102,13 +103,14 @@
 - https://www.reddit.com/r/neovim/comments/lboe92/people_who_rewrote_their_initnvim_in_lua_was_it/
 - https://twitter.com/mfussenegger/status/1373626590253490178
 - Using neovim as postman: https://www.reddit.com/r/neovim/comments/mljr50/use_neovim_as_rest_api_client/
-- Tips for writing plugins using treesitter: https://www.reddit.com/r/neovim/comments/n89mye/question_tipps_for_writing_a_treesittermodule/?%24deep_link=true&correlation_id=a58179dc-6aa3-4d09-b5d5-caf8ed5dcaee&post_fullname=t3_n89mye&post_index=1&ref=email_digest&ref_campaign=email_digest&ref_source=email&utm_content=post_title&%243p=e_as&_branch_match_id=912301934204285292
+- Tips for writing plugins using treesitter: https://www.reddit.com/r/neovim/comments/n89mye/question_tipps_for_writing_a_treesittermodule/
 - https://www.reddit.com/r/neovim/comments/le1duu/nvim_lsp_and_typescript_eslint_and_prettier/
 - Perfect lua dev setup for neovim: https://www.reddit.com/r/neovim/comments/ng69ws/dev_setup_for_initlua_and_plugin_development_with/
 - Vim's new IRC home: https://www.reddit.com/r/vim/comments/nlwwg4/vim_has_a_new_irc_home/
 - Vim's fancy startup animation: https://www.reddit.com/r/vim/comments/nnut0q/if_vim_had_a_flashy_startup_animation_more_in/
 - https://www.reddit.com/r/neovim/comments/nvl2fy/snap_a_nonblocking_finder_system_for_neovim_05/
 - Working with zip files: https://twitter.com/VimLinks/status/1403274520337784834
+- Changing vim provided grep to use rpgrep: https://phelipetls.github.io/posts/extending-vim-with-ripgrep/
 
 ## Vimscript:
 
@@ -325,6 +327,7 @@
 - https://github.com/preservim/nerdcommenter
 - https://github.com/tiagofumo/vim-nerdtree-syntax-highlight
 - https://github.com/brooth/far.vim
+- An automatic configuration program for vim: https://github.com/chxuan/vimplus
 
 ## Lua/Nvim plugins:
 
@@ -355,6 +358,8 @@
 - https://github.com/svermeulen/vimpeccable
 - https://github.com/RRethy/nvim-treesitter-textsubjects
 - Blazing fast finder for neovim: https://github.com/camspiers/snap
+- https://github.com/kevinhwang91/nvim-hlslens
+- https://github.com/ggandor/lightspeed.nvim
 
 ## VimRCs for reference:
 
@@ -371,6 +376,7 @@
 - https://github.com/siduck76/neovim-dots
 - https://github.com/rmagatti/auto-session
 - https://github.com/theniceboy/nvim
+- https://github.com/rafi/vim-config/
 
 ## LuaRCs for reference:
 

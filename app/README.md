@@ -46,6 +46,7 @@
 - Preparing app for release: https://www.youtube.com/watch?v=nGvPNG-f1-o&feature=youtu.be
 - https://resocoder.com/flutter-clean-architecture-tdd/
 - Velocity_X: https://www.youtube.com/watch?v=G0fGsI-pEOY
+- Async vs isolates: https://www.youtube.com/watch?v=5AxWC49ZMzs
 
 ## Repos:
 
@@ -59,6 +60,8 @@
 
 - https://pub.dev/packages/background_fetch#-readme-tab-
 - https://pub.dev/packages/velocity_x
+- https://pub.dev/packages/in_app_notification
+- https://pub.dev/packages/animated_text_kit
 
 ## Tweets:
 
@@ -83,4 +86,5 @@
 
 - https://github.com/airbnb/mavericks
 - https://github.com/google/accompanist
+- https://github.com/florinpop17/app-ideas
 

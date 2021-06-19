@@ -36,6 +36,7 @@
 - https://fireship.io/lessons/
 - https://www.craftinginterpreters.com/
 - https://programmerhumor.io/
+- https://www.letsflyby.com/kb1
 
 ## Blogs and Articles:
 
@@ -97,6 +98,10 @@
 - Teach yourself progamming in ten years: https://norvig.com/21-days.html
 - https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/
 - https://thenerdstation.medium.com/how-to-become-a-quantum-software-engineer-646ca45c4001
+- https://kevlinhenney.medium.com/need-something-sorted-sleep-on-it-11fdf8453914
+- http://lambda-the-ultimate.org/node/3522
+- https://thad.frogley.info/archive/the_greatest_program.html
+- https://rethinkdb.com/blog/lock-free-vs-wait-free-concurrency/
 
 ## Blog Series:
 

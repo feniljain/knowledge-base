@@ -17,6 +17,8 @@
 - https://github.com/sickcodes/Docker-OSX
 - https://towardsdatascience.com/its-time-to-say-goodbye-to-docker-5cfec8eff833
 - https://blog.bitsrc.io/best-practices-for-writing-a-dockerfile-68893706c3
+- https://towardsdatascience.com/slimming-down-your-docker-images-275f0ca9337e
+- https://towardsdatascience.com/learn-enough-docker-to-be-useful-b0b44222eef5
 
 ## Interesting Images:
 
@@ -31,4 +33,5 @@
 - Remove all docker script: https://gist.github.com/beeman/aca41f3ebd2bf5efbd9d7fef09eac54d
 - https://github.com/bottlerocket-os/bottlerocket
 - https://github.com/rancher/os
+- https://github.com/wagoodman/dive
 
