@@ -102,6 +102,7 @@
 - http://lambda-the-ultimate.org/node/3522
 - https://thad.frogley.info/archive/the_greatest_program.html
 - https://rethinkdb.com/blog/lock-free-vs-wait-free-concurrency/
+- https://betterprogramming.pub/a-useful-framework-for-naming-your-classes-functions-and-variables-e7d186e3189f
 
 ## Blog Series:
 

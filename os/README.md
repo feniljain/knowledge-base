@@ -23,6 +23,7 @@
 - Discussion about unikernels: https://news.ycombinator.com/item?id=27301210
 - https://people.kernel.org/brauner/
 - https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96
+- https://tomaka.medium.com/the-future-of-operating-systems-efa31e17d66d
 
 ## Repos:
 

@@ -33,6 +33,7 @@
 
 - https://github.com/mozilla/neqo
 - https://github.com/cloudflare/quiche
+- An experiment in scalable routing as an encrypted IPv6 overlay network: https://github.com/yggdrasil-network/yggdrasil-go/
 
 ## Reddit and twitter threads:
 

@@ -25,6 +25,7 @@
 - https://betterprogramming.pub/the-abstract-factory-pattern-for-beginners-4c756c21c1b8
 - https://en.wikipedia.org/wiki/Dynamic_dispatch
 - https://medium.com/swlh/provider-model-in-go-and-why-you-should-use-it-clean-architecture-1d84cfe1b097
+- https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0
 
 ## Repos:
 
@@ -94,6 +95,8 @@
 
 - https://queue.acm.org/detail.cfm?id=3468263
 - https://radekvit.medium.com/move-semantics-in-c-and-rust-the-case-for-destructive-moves-d816891c354b
+- http://www.cs.fsu.edu/~myers/cgs4406/notes/dma.html
+- https://en.wikipedia.org/wiki/Region-based_memory_management
 
 ### Blogs and articles:
 

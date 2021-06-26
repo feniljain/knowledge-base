@@ -19,6 +19,7 @@
 - https://blog.bitsrc.io/best-practices-for-writing-a-dockerfile-68893706c3
 - https://towardsdatascience.com/slimming-down-your-docker-images-275f0ca9337e
 - https://towardsdatascience.com/learn-enough-docker-to-be-useful-b0b44222eef5
+- https://itnext.io/which-container-images-to-use-distroless-or-alpine-96e3dab43a22/
 
 ## Interesting Images:
 

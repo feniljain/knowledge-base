@@ -33,6 +33,7 @@
 - Playlist to get started with lua dev in neovim: https://www.youtube.com/playlist?list=PL0EgBggsoPCk1WCos2txThsxhg0fT5nqD
 - Plugin dev in neovim, beginners guide: https://www.youtube.com/watch?v=6ch28A_YICQ
 - Nvim-dap : https://www.youtube.com/watch?v=SIYt1dopfTc
+- Neovim change highlight color: https://www.youtube.com/watch?v=twrNV_BZ2jU
 
 ## Blogs, Articles and threads:
 
@@ -111,6 +112,7 @@
 - https://www.reddit.com/r/neovim/comments/nvl2fy/snap_a_nonblocking_finder_system_for_neovim_05/
 - Working with zip files: https://twitter.com/VimLinks/status/1403274520337784834
 - Changing vim provided grep to use rpgrep: https://phelipetls.github.io/posts/extending-vim-with-ripgrep/
+- https://www.reddit.com/r/neovim/comments/o6wsis/how_to_to_get_tsservers_native_formater_working/
 
 ## Vimscript:
 
@@ -329,7 +331,7 @@
 - https://github.com/brooth/far.vim
 - An automatic configuration program for vim: https://github.com/chxuan/vimplus
 
-## Lua/Nvim plugins:
+## Lua/Nvim 0.5+ Exclusive plugins:
 
 - Collection of neovim plugins: https://nvim-awesome.vercel.app/
 - https://github.com/p00f/nvim-ts-rainbow
@@ -360,6 +362,7 @@
 - Blazing fast finder for neovim: https://github.com/camspiers/snap
 - https://github.com/kevinhwang91/nvim-hlslens
 - https://github.com/ggandor/lightspeed.nvim
+- https://github.com/karb94/neoscroll.nvim
 
 ## VimRCs for reference:
 
@@ -383,6 +386,7 @@
 - https://github.com/crivotz/nv-ide
 - Damn good luarc: https://github.com/ChristianChiarulli/LunarVim
 - https://gitlab.com/famiu/dot-nvim/
+- https://www.reddit.com/r/neovim/comments/o3ia0b/recommend_config_repos_that_i_can_use_to/
 
 
 ## Emacs:

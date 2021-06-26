@@ -68,6 +68,8 @@
 - https://medium.com/pragmatic-programmers/table-of-contents-4ac682af9f46
 - https://blog.mozilla.org/en/mozilla/privacy-analysis-of-floc/
 - https://developers.google.com/web/tools/puppeteer
+- https://blog.bitsrc.io/a-long-time-coming-the-mediarecorder-api-is-widely-adopted-2f8565a5fb5b
+- https://blog.discord.com/how-discord-maintains-performance-while-adding-features-28ddaf044333
 
 ### Repos:
 

@@ -17,6 +17,7 @@
 - https://www.oppia.org/
 - https://www.triangulate.xyz/
 - https://simplelogin.io/
+- https://resizeimage.net/
 
 ## Blogs and articles:
 
@@ -34,6 +35,7 @@
 - https://forge.medium.com/how-to-tell-an-employee-their-work-isnt-good-enough-30098949f528
 - https://onezero.medium.com/why-airpods-and-earbuds-like-them-are-especially-bad-for-your-hearing-20f32b6e02e2
 - https://betterprogramming.pub/the-best-programmer-ive-met-as-a-ceo-94836bfc8549
+- https://dev.to/actitime/how-to-prevent-or-recover-from-developer-burnout-3g5f
 
 ## Reddit threads and tweets:
 

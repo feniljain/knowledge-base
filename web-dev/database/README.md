@@ -4,7 +4,7 @@
 
 - https://dzone.com/
 - https://dbdiagram.io/
-- https://www.sql-practice.com/
+- https://dbdb.io/
 
 ## Blogs And Articles:
 
@@ -61,6 +61,7 @@
 
 ## Repos:
 
+- A list of learning materials to understand databases internals: https://github.com/pingcap/awesome-database-learning
 - https://github.com/jameycribbs/hare
 - https://github.com/RedisJSON/RedisJSON
 - https://github.com/pingcap/dumpling
@@ -70,9 +71,16 @@
 ## Websites:
 
 - https://sqlpad.github.io/sqlpad/#/
+- https://www.sql-practice.com/
 - Mock Data Generator: https://www.mockaroo.com/
+- https://selectstarsql.com/
+- https://www.sqlstyle.guide/
 
 ## Repos:
 
 - https://github.com/xo/usql
 - A random SQL query generator: https://github.com/anse1/sqlsmith
+
+## Reddit threads and tweets:
+
+- Some SQL Aggregate Functions that would come in handy : https://twitter.com/Sukriti_Macker/status/1405196069508587520

@@ -70,6 +70,9 @@
 - https://blog.knoldus.com/iterator-producing-iterator-in-rust-is-really-helpful/
 - https://abadcafe.wordpress.com/2021/01/08/behavior-inheritance-in-rust/
 - https://riptutorial.com/rust/example/3850/pattern-matching-with-bindings
+- https://www.cmyr.net/blog/keypaths.html
+- https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier/
+- https://plume.benboeckel.net/~/JustAnotherBlog/skipping-tests-in-rust
 
 ### Tutorials:
 
@@ -142,6 +145,8 @@
 - Live Coding Reverse Proxy in Rust: https://www.snoyman.com/blog/2020/12/live-coding-rust-reverse-proxy/
 - https://robert.kra.hn/posts/2021-02-01_cross-compile-rust/
 - VCS in Rust: https://initialcommit.com/blog/pijul-version-control-system/#
+- https://medium.com/lagierandlagier/nextjs-webassembly-and-web-workers-a5f7c19d4fd0
+- https://yodalee.me/2020/12/2020_rust_gameboy/
 
 ### Langauge general:
 
@@ -257,6 +262,7 @@
 - https://aloso.github.io/
 - https://jam1.re/
 - https://confused.ai/
+- https://matklad.github.io/
 
 ## Repos:
 
@@ -316,6 +322,7 @@
 - Minesweeper in WinRT: https://github.com/robmikh/minesweeper-rs
 - Jinja-like templates for Rust: https://github.com/djc/askama
 - Rust templating with handlebars : https://github.com/sunng87/handlebars-rust/
+- https://github.com/brave/adblock-rust/
 
 ## Videos:
 
@@ -371,6 +378,7 @@
 - https://www.beginrust.com/
 - Performance Book: https://github.com/nnethercote/perf-book
 - Book on rust macros: https://danielkeep.github.io/tlborm/book/index.html
+- https://www.oreilly.com/library/view/hands-on-systems-programming/9781098109424/
 
 ## Interesting Projects:
 
@@ -457,11 +465,13 @@
 ## Rust and security
 
 - https://rustsec.org/
+- https://github.com/RustSec
 - https://medium.com/@shnatsel/how-rusts-standard-library-was-vulnerable-for-years-and-nobody-noticed-aebf0503c3d6
 - https://www.reddit.com/r/rust/comments/909gsd/were_there_any_memory_safety_issues_found_in/
 - https://www.reddit.com/r/rust/comments/8s7gei/unsafe_rust_in_actixweb_other_libraries/
 - https://security.googleblog.com/2021/06/rustc-interop-in-android-platform.html
 - https://www.reddit.com/r/rust/comments/nyrsxj/a_few_thoughts_on_fuchsia_security/
+- https://www.reddit.com/r/rust/comments/o70k19/googles_unified_vulnerability_schema_for_open/
 
 ## Reddit threads and tweets:
 

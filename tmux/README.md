@@ -8,6 +8,7 @@
 ## Repos:
 
 - Cheat Sheet: https://gist.github.com/andreyvit/2921703
+- Cheat Sheet: https://gist.github.com/MohamedAlaa/2961058
 - Awesome tmux: https://github.com/rothgar/awesome-tmux
 - https://www.bugsnag.com/blog/tmux-and-vim
 - https://github.com/tmuxinator/tmuxinator

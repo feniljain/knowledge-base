@@ -40,4 +40,5 @@
 - https://github.com/Datalux/Osintgram
 - https://github.com/Lifka/hacking-resource
 - https://github.com/vxunderground/MalwareSourceCode
+- https://github.com/distributedweaknessfiling/dwflist
 

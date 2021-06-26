@@ -63,6 +63,7 @@
 ## Repos:
 
 - Awesome guide: https://github.com/jwasham/coding-interview-university
+- https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation
 
 ## Tweets:
 

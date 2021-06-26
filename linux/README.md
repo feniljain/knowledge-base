@@ -82,6 +82,8 @@
 - https://thenewstack.io/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/
 - Configuring iptables in a linux machine: https://www.howtogeek.com/177621/the-beginners-guide-to-iptables-the-linux-firewall/
 - https://medium.com/dvt-engineering/how-to-write-your-first-linux-kernel-module-cf284408beeb
+- http://terenceli.github.io/%E6%8A%80%E6%9C%AF/2018/06/02/linux-loadable-module
+- https://meepy.medium.com/creating-a-kernel-from-scratch-1a1aa569780f
 
 ### Others:
 
@@ -107,6 +109,7 @@
 ## Blog series:
 
 - https://medium.com/100-days-of-linux/
+- http://brendangregg.com/blog/index.html
 
 ## Bash and ZSH:
 
@@ -241,6 +244,8 @@
 - Collection of awesome resources to learn kernel development: https://twitter.com/algo_luca/status/1395782235270287370?s=08
 - https://www.reddit.com/r/linuxquestions/comments/nrvgb0/what_does_rm_delete_first/
 - https://www.reddit.com/r/linuxquestions/comments/ntdm7m/good_linux_networking_tutorial/
+- https://www.reddit.com/r/linuxquestions/comments/o69cz2/which_is_the_most_underrated_linux_distro_out/
+- https://www.reddit.com/r/linuxquestions/comments/o6saqj/what_is_de_and_wm/
 
 ## Config Repos:
 
@@ -274,8 +279,24 @@
 
 ## eBPF:
 
+- https://github.com/zoidbergwill/awesome-ebpf
 - https://blog.redsift.com/labs/writing-bpf-code-in-rust/
 - eBPF Book: http://www.brendangregg.com/bpf-performance-tools-book.html
 - https://jvns.ca/blog/2018/02/05/rust-bcc/
 - https://github.com/alessandrod/bpf-linker
 - https://confused.ai/
+- https://github.com/alessandrod/snuffy/blob/master/src/main.rs
+- https://github.com/jvns/rust-bcc/blob/f15d2983ddbe349aac3d2fcaeacf924a66db4be7/examples/strlen.rs
+- https://github.com/nacardin/ebpf-proxy/blob/master/echo/src/main_ebpf.rs
+- https://github.com/iovisor/bpftrace
+- https://github.com/alessandrod/bpf_examples/blob/master/src/trace_http/main.rs
+- https://github.com/jvns/rust-bcc
+- https://github.com/iovisor/bcc/blob/master/examples/tracing/strlen_count.py
+- http://terenceli.github.io/%E6%8A%80%E6%9C%AF/2020/01/18/ebpf-in-c
+- https://sysdig.com/blog/the-art-of-writing-ebpf-programs-a-primer/
+- http://unhandledexpression.com/general/rust/2018/02/02/poc-compiling-to-ebpf-from-rust.html
+- https://bolinfest.github.io/opensnoop-native/
+- https://docs.cilium.io/en/latest/bpf/
+- https://www.iovisor.org/technology/xdp
+- https://www.kernel.org/doc/Documentation/kprobes.txt
+- https://github.com/aquasecurity/tracee

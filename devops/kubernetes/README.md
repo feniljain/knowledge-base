@@ -28,6 +28,7 @@
 - https://www.libhunt.com/r/vcluster
 - https://dev.to/pghildiyal/understanding-kubernetes-architecture-2k0l
 - https://kubernetes.io/blog/2017/12/using-ebpf-in-kubernetes/
+- https://www.cockroachlabs.com/guides/certified-kubernetes-application-developer/
 
 ## Blog series:
 

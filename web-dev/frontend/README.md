@@ -22,6 +22,7 @@
 - https://dev.to/hieptl/learn-react-by-building-netflix-1127
 - https://dev.to/melnik909/my-3-tips-about-flexbox-that-will-make-your-css-better-50g6
 - https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6
+- https://web.dev/optimize-vitals-lighthouse/
 
 ### Others:
 
@@ -123,6 +124,7 @@
 - https://cssgrid.io/
 - https://jhey.dev
 - https://web.dev/learn/css/
+- https://layout.bradwoods.io/
 
 ## Blogs And Articles:
 
@@ -142,4 +144,5 @@
 - https://ishadeed.com/article/container-queries-for-designers/
 - https://www.quirksmode.org/blog/archives/2021/06/inherit_initial.html
 - https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/
+- https://ishadeed.com/article/custom-scrollbars-css/
 

@@ -31,6 +31,8 @@
 - https://medium.com/princeton-systems-course/egalitarian-paxos-in-pure-rust-579100c44f77
 - https://medium.com/enjoy-algorithm/latency-efce9f7528ee
 - https://netflixtechblog.com/re-architecting-the-video-gatekeeper-f7b0ac2f6b00
+- https://vivek-singh.medium.com/system-design-cheat-sheet-318ba2e34723
+- https://mohak1712.medium.com/connection-polling-3a3fcb83a74c
 
 ## Repos:
 

@@ -74,6 +74,7 @@
 - https://levelup.gitconnected.com/the-mediator-pattern-in-go-344ee5c8c2f4
 - https://github.com/xinliangnote/go-gin-api
 - https://github.com/golang-standards/project-layout
+- https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example
 
 ### Others:
 
@@ -194,6 +195,7 @@
 - https://www.reddit.com/r/golang/comments/mcey65/practical_go_lessons_book_700_pages_41_chapters/
 - https://www.practical-go-lessons.com/
 - https://docs.google.com/document/d/1QQq8Yf90ar59OUQM6qRDS6Bwk5hfOCpcqw_WUX43YOg/
+- https://threedots.tech/go-with-the-domain/
 
 ## Videos:
 
@@ -268,6 +270,8 @@
 - Dependency analysis tool for go packages: https://github.com/adonovan/spaghetti
 - Golang security checker: https://github.com/securego/gosec
 - Gameboy emulator in golang: https://github.com/pokemium/magia
+- https://github.com/drakkan/sftpgo
+- Host your own go proxy: https://docs.gomods.io/
 
 ## Packages:
 
@@ -286,6 +290,7 @@
 - https://github.com/esimov/caire
 - QUIC implementation in golang: https://github.com/goburrow/quic
 - https://github.com/saurabh0719/go-hashlru
+- Simplifies testing by recording your HTTP interactions: https://github.com/dnaeon/go-vcr
 
 ## Go Internals:
 
@@ -312,6 +317,7 @@
 - https://medium.com/dev-genius/golang-101-looking-at-how-garbage-collector-works-98392737a475
 - Where can I find go routines implementation and white paper: https://groups.google.com/g/golang-nuts/c/bG7DQ9cIN6o
 - Tracking Go with eBPF: https://www.youtube.com/watch?v=f1jr9nR25EA
+- https://tobyokewole.medium.com/what-happens-when-you-go-get-a-closer-look-at-the-internals-of-go-modules-347780643292
 
 # Go Learning:
 
