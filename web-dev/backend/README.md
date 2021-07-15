@@ -56,6 +56,8 @@
 - https://medium.com/hackernoon/designing-an-enterprise-role-based-access-control-rbac-system-96e645c659b7
 - https://levelup.gitconnected.com/idempotency-in-api-design-bc4ea812a881
 - https://medium.com/swlh/kafka-core-concepts-terminologies-dafa40aa9489
+- https://blog.bitsrc.io/why-is-nanoid-replacing-uuid-1b5100e62ed2
+- https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304
 
 ## Reddits and twitter threads:
 

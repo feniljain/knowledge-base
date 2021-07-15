@@ -83,6 +83,7 @@
 - https://sredmond.medium.com/why-we-need-to-stop-using-react-1ae3ec7959a4
 - https://itnext.io/misconceptions-about-virtual-dom-35ec60b87086
 - https://javascript.plainenglish.io/7-steps-to-modernize-and-optimize-your-react-app-466cbea51b8f
+- https://medium.com/airbnb-engineering/a-deep-dive-into-airbnbs-server-driven-ui-system-842244c5f5
 
 ## Websites:
 
@@ -102,6 +103,8 @@
 - https://github.com/alexgurr/react-coding-challenges
 - https://github.com/fsouza/prettierd
 - https://github.com/TuSimple/naive-ui
+- https://github.com/lirantal/is-website-vulnerable/
+- https://github.com/bradtraversy/50projects50days
 
 ## Packages:
 

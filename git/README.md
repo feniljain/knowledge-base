@@ -39,6 +39,12 @@
 - https://www.aosabook.org/en/git.html
 - https://reallifeprogramming.com/git-process-that-works-say-no-to-gitflow-50bf2038ccf7
 - https://medium.com/@iAnkurBiswas/common-git-mistakes-and-how-to-fix-them-10184cd5fa77
+- https://medium.com/free-code-camp/how-to-use-git-efficiently-54320a236369
+- https://dev.to/pb/git-squash-simplified-3ba1
+
+## Repos:
+
+- A SQL type language for git: https://github.com/filhodanuvem/gitql
 
 ## Git Internals:
 

@@ -55,6 +55,8 @@
 - https://web3.coach/golang-github-actions-release-binaries-tutorial
 - https://ably.com/blog/event-streaming-with-redis-and-golang
 - http://gregtrowbridge.com/golang-json-serialization-with-interfaces/
+- https://blog.usejournal.com/raft-consensus-algorithm-implementation-with-go-d0f9bf4472a0
+- https://ketansingh.me/posts/pipeline-pattern-in-go-part-1/
 
 ### Architecture:
 
@@ -214,6 +216,7 @@
 - https://pkg.go.dev/runtime
 - https://levelup.gitconnected.com/go-the-moment-when-cpu-context-switching-blindfolded-us-a7a6eabb2bc1
 - https://medium.com/swlh/memory-optimizations-for-go-systems-48d95cf64a13
+- Bringing down allocations to zero: https://chris124567.github.io/2021-06-21-go-performance/
 
 ## Golang-nuts:
 
@@ -272,6 +275,7 @@
 - Gameboy emulator in golang: https://github.com/pokemium/magia
 - https://github.com/drakkan/sftpgo
 - Host your own go proxy: https://docs.gomods.io/
+- https://github.com/nikolaydubina/go-recipes
 
 ## Packages:
 
@@ -291,6 +295,8 @@
 - QUIC implementation in golang: https://github.com/goburrow/quic
 - https://github.com/saurabh0719/go-hashlru
 - Simplifies testing by recording your HTTP interactions: https://github.com/dnaeon/go-vcr
+- Most accurate NLP detection lib in go: https://github.com/pemistahl/lingua-go
+- Automatic HTTPS for any go program: https://github.com/caddyserver/certmagic
 
 ## Go Internals:
 
@@ -318,6 +324,9 @@
 - Where can I find go routines implementation and white paper: https://groups.google.com/g/golang-nuts/c/bG7DQ9cIN6o
 - Tracking Go with eBPF: https://www.youtube.com/watch?v=f1jr9nR25EA
 - https://tobyokewole.medium.com/what-happens-when-you-go-get-a-closer-look-at-the-internals-of-go-modules-347780643292
+- https://go.googlesource.com/
+- https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7
+- Visualize Go's AST: https://yuroyoro.github.io/goast-viewer/index.html
 
 # Go Learning:
 

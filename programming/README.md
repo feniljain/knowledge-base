@@ -37,6 +37,8 @@
 - https://www.craftinginterpreters.com/
 - https://programmerhumor.io/
 - https://www.letsflyby.com/kb1
+- Search for rfcs easily: https://rfc.fyi/
+- https://deps.dev/
 
 ## Blogs and Articles:
 
@@ -103,6 +105,7 @@
 - https://thad.frogley.info/archive/the_greatest_program.html
 - https://rethinkdb.com/blog/lock-free-vs-wait-free-concurrency/
 - https://betterprogramming.pub/a-useful-framework-for-naming-your-classes-functions-and-variables-e7d186e3189f
+- https://onezero.medium.com/ctrl-alt-delete-the-planned-obsolescence-of-old-coders-9c5f440ee68
 
 ## Blog Series:
 
@@ -112,6 +115,7 @@
 
 - Correct posture to sit while programming: https://twitter.com/frontenddude/status/1346032968800854016
 - Mistakes not to make as a software engineer: https://twitter.com/bahdcoder/status/1351090302354927616
+- What happens to old programmers: https://news.ycombinator.com/item?id=7372997
 
 ## Videos:
 
@@ -159,6 +163,10 @@
 - https://github.com/ripienaar/free-for-dev
 - https://github.com/trimstray/the-book-of-secret-knowledge
 - https://github.com/JanVanRyswyck/awesome-talks
+- https://github.com/CorentinJ/Real-Time-Voice-Cloning
+- https://github.com/anzhihe/learning
+- https://github.com/laynH/Anime-Girls-Holding-Programming-Books
+- https://github.com/ProductHired/open-product-management
 
 ## Extensions:
 

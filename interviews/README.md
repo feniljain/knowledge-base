@@ -9,6 +9,7 @@
 - https://www.stopstalk.com/
 - https://www.bigocheatsheet.com/
 - Do go through this in any case: http://www.ardendertat.com/2012/01/09/programming-interview-questions/
+- http://www.nondot.org/sabre/Resume.html
 
 ## Blogs and Articles:
 
@@ -41,6 +42,7 @@
 - https://medium.com/free-code-camp/writing-a-killer-software-engineering-resume-b11c91ef699d
 - https://medium.com/swlh/5-software-engineering-interview-questions-to-identify-outstanding-developers-6d8c95b46d64
 - https://medium.com/geekculture/what-impresses-me-when-interviewing-software-engineers-8367f8425a2
+- https://rooting-for-you.cenedella.com/what-google-looks-for-in-a-technical-resume-c668c55170c
 
 ## Videos:
 
@@ -54,6 +56,10 @@
 
 - https://medium.com/p-society/pass-a-golang-job-interview-bfb6ea83b457
 - https://dev.to/educative/crack-the-top-50-golang-interview-questions-384i
+
+## WebDev interviews:
+
+- https://www.reddit.com/r/webdev/comments/o9jp8e/every_single_interview_question_i_was_asked_while/
 
 ## SQL interviews:
 
@@ -88,7 +94,7 @@
 - https://himnickson.medium.com/matrix-chain-multiplication-using-dynamic-programming-a-brief-explanation-with-an-example-c565aa21ebec
 - https://anubhavsinha98.medium.com/resources-to-master-data-structures-and-algorithms-24450dc6d52b
 - https://debelop3d.medium.com/preparing-for-the-facebook-interview-a-brutally-honest-guide-8e09f3b8a054
-- http://www.nondot.org/sabre/Resume.html
+- https://medium.com/outco/how-to-solve-sliding-window-problems-28d67601a66
 
 ### Repos:
 

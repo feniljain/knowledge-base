@@ -52,6 +52,8 @@
 - https://medium.com/@bparli/adventures-in-rust-and-load-balancers-73a0bc61a192
 - https://betterprogramming.pub/a-guide-to-gitops-compatible-production-like-kubernetes-cluster-f87404391d8a
 - https://medium.com/princeton-systems-course/egalitarian-paxos-in-pure-rust-579100c44f77
+- https://www.confluent.io/blog/how-kafka-is-used-by-netflix/
+- https://www.lastweekinaws.com/blog/is-aws-certification-worth-it-weighing-all-the-factors/
 
 ## Videos:
 
@@ -76,6 +78,7 @@
 - https://github.com/haad/proxychains
 - https://github.com/binhnguyennus/awesome-scalability/
 - https://github.com/actions/virtual-environments
+- https://github.com/bregman-arie/howtheydevops
 
 ## Reddit threads:
 

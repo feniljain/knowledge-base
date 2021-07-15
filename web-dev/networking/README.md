@@ -28,6 +28,8 @@
 - https://ably.com/topic/mqtt
 - https://berthub.eu/articles/posts/reed-solomon-for-programmers/
 - https://medium.com/swlh/webrtc-the-technology-that-powers-google-meet-hangout-facebook-messenger-and-discord-cb926973d786
+- If you could change one thing in internet what would you change it to: https://news.ycombinator.com/item?id=27663618
+- https://en.wikipedia.org/wiki/Fast_flux
 
 ## Repos:
 
@@ -44,6 +46,7 @@
 
 - HTTP/3 over QUIC is the future: https://www.youtube.com/watch?v=idViw4anA6E
 - Hub vs Switch vs Bridge vs Router(alongwith proper OSI layer comparison): https://www.youtube.com/watch?v=AA_dywKmkhg
+- Connecting to localhost:0 causes kernel to select an open port for you: https://twitter.com/jimmyzelinskie/status/1413524246693916686
 
 ## Blog Series:
 

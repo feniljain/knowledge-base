@@ -55,6 +55,9 @@
 - https://betterprogramming.pub/how-to-use-the-linux-xargs-command-to-create-powerful-pipelines-a5d5d7067703
 - https://towardsdatascience.com/dual-boot-is-dead-the-post-mortem-cee4db42d059
 - https://betterprogramming.pub/linux-systemctl-46bd0a11e27b
+- https://medium.com/100-days-of-linux/introduction-to-ip-commands-in-linux-15a2be029e11
+- https://daniel.haxx.se/docs/curl-vs-wget.html
+- 50 ways to isolate traffic using tcpdump command: https://danielmiessler.com/study/tcpdump/
 
 ### Linux working:
 
@@ -84,6 +87,8 @@
 - https://medium.com/dvt-engineering/how-to-write-your-first-linux-kernel-module-cf284408beeb
 - http://terenceli.github.io/%E6%8A%80%E6%9C%AF/2018/06/02/linux-loadable-module
 - https://meepy.medium.com/creating-a-kernel-from-scratch-1a1aa569780f
+- http://xahlee.info/UnixResource_dir/writ/unix_origin_of_dot_filename.html
+- https://medium.com/swlh/linux-zero-copy-using-sendfile-75d2eb56b39b
 
 ### Others:
 
@@ -127,12 +132,14 @@
 - https://betterprogramming.pub/the-most-productive-shell-commands-and-command-line-tricks-ec1415283259
 - https://levelup.gitconnected.com/5-super-handy-linux-commands-that-everyone-should-be-aware-of-a70b08d2c635
 - Nice collection of commands: https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/
+- https://gist.github.com/davejamesmiller/1965569
 
 ## Cheatsheets:
 
 - https://opensource.com/article/21/3/grep-cheat-sheet
 - https://www.avaitla16.com/basics-of-curl
 - https://opensource.com/downloads/sed-cheat-sheet
+- https://www.gnu.org/software/bash/manual/bash.html#index-_0024_003f
 
 ## Repos:
 
@@ -142,6 +149,9 @@
 - https://github.com/busyloop/lolcat
 - Fork of alacritty with ligature support: https://github.com/zenixls2/alacritty
 - Collection of modern alternatives to native unix tools: https://github.com/ibraheemdev/modern-unix
+- https://gitlab.com/corectrl/corectrl
+- https://github.com/vifm/vifm-colors
+- https://tmate.io/
 
 ### Others:
 
@@ -170,6 +180,9 @@
 - Terminal image viewer: https://github.com/atanunq/viu
 - General live reload tool: https://github.com/cortesi/modd
 - https://github.com/pbatard/rufus
+- https://github.com/trimstray/test-your-sysadmin-skills
+- https://github.com/tokio-rs/io-uring
+- Inner working of linux: https://github.com/0xAX/linux-insides
 
 ## Terminal tools I use:
 
@@ -246,6 +259,8 @@
 - https://www.reddit.com/r/linuxquestions/comments/ntdm7m/good_linux_networking_tutorial/
 - https://www.reddit.com/r/linuxquestions/comments/o69cz2/which_is_the_most_underrated_linux_distro_out/
 - https://www.reddit.com/r/linuxquestions/comments/o6saqj/what_is_de_and_wm/
+- About init/initrd/initramfs: https://www.reddit.com/r/linuxquestions/comments/oct7gi/init_process/
+- https://www.reddit.com/r/linuxquestions/comments/ohaj1y/are_snap_packages_really_that_bad/
 
 ## Config Repos:
 
@@ -276,6 +291,7 @@
 - https://github.com/justbuchanan/i3scripts
 - Adding polybar to i3: https://www.youtube.com/watch?v=cLB008-FJ5o
 - https://github.com/marioortizmanero/polybar-pulseaudio-control
+- https://www.reddit.com/r/i3wm/comments/ocqu49/moving_scratchpad_windows_back_and_forth/
 
 ## eBPF:
 
@@ -300,3 +316,5 @@
 - https://www.iovisor.org/technology/xdp
 - https://www.kernel.org/doc/Documentation/kprobes.txt
 - https://github.com/aquasecurity/tracee
+- https://github.com/iovisor/bpftrace
+- https://www.reddit.com/r/rust/comments/ojzc3z/implementation_of_an_ebpf_memory_profiler_has/

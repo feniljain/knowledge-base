@@ -89,6 +89,7 @@
 - https://towardsdatascience.com/customising-vim-to-get-the-best-out-of-it-part-2-931246996458
 - https://rrethy.github.io/book/write_a_plugin_manager.html
 - https://www.reddit.com/r/vim/comments/nx0sag/conways_game_of_life_in_vim_macros/
+- https://arindamroy.medium.com/useful-vim-shortcuts-you-probably-dont-know-yet-289f92717a91
 
 ## Blog series:
 
@@ -113,6 +114,8 @@
 - Working with zip files: https://twitter.com/VimLinks/status/1403274520337784834
 - Changing vim provided grep to use rpgrep: https://phelipetls.github.io/posts/extending-vim-with-ripgrep/
 - https://www.reddit.com/r/neovim/comments/o6wsis/how_to_to_get_tsservers_native_formater_working/
+- https://www.reddit.com/r/neovim/comments/og1cdv/neovim_lsp_how_do_you_get_diagnostic_mesages_to/
+- https://www.reddit.com/r/neovim/comments/ohdvc8/need_resources_for_porting_initvim_to_initlua/
 
 ## Vimscript:
 
@@ -148,6 +151,7 @@
 - https://github.com/Kethku/neovide
 - Everthing about vim: https://github.com/mhinz/vim-galore
 - https://github.com/rhysd/vim.wasm
+- Good golang config for nvim: https://github.com/jhchabran/nvim-config
 
 ## General:
 
@@ -330,6 +334,7 @@
 - https://github.com/tiagofumo/vim-nerdtree-syntax-highlight
 - https://github.com/brooth/far.vim
 - An automatic configuration program for vim: https://github.com/chxuan/vimplus
+- Audio visualizer in vim: https://github.com/been-jamming/Visterm
 
 ## Lua/Nvim 0.5+ Exclusive plugins:
 
@@ -363,6 +368,11 @@
 - https://github.com/kevinhwang91/nvim-hlslens
 - https://github.com/ggandor/lightspeed.nvim
 - https://github.com/karb94/neoscroll.nvim
+- https://github.com/kristijanhusak/orgmode.nvim
+- https://github.com/camgraff/telescope-tmux.nvim
+- https://github.com/Pocco81/AutoSave.nvim
+- https://github.com/AckslD/nvim-anywise-reg.lua
+- https://github.com/nvim-lua/lsp_extensions.nvim
 
 ## VimRCs for reference:
 

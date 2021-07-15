@@ -50,10 +50,14 @@
 - https://eileen-code4fun.medium.com/log-structured-merge-tree-lsm-tree-implementations-a-demo-and-leveldb-d5e028257330
 - Implementing online/offline status in chat applications: https://twitter.com/hnasr/status/1404217472593678338
 - https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78
+- https://www.cargocultcode.com/what-does-first-normal-form-mean/
+- https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/
+- https://betterprogramming.pub/become-a-database-expert-by-knowing-the-pros-and-cons-of-lsm-tree-and-b-tree-engines-bbc7e24f040c
 
 ## Blog Series:
 
 - https://www.digitalocean.com/blog/
+- https://databasearchitects.blogspot.com/
 
 ## Tutorials:
 
@@ -65,6 +69,10 @@
 - https://github.com/jameycribbs/hare
 - https://github.com/RedisJSON/RedisJSON
 - https://github.com/pingcap/dumpling
+
+## Reddit, twitter and ycombinator threads:
+
+- Do you self-host your database: https://news.ycombinator.com/item?id=27671376
 
 <h2 align="center">SQL</h2>
 

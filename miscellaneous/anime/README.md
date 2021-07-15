@@ -23,8 +23,8 @@
 - tatami galaxy : Romance
 - Suzumiya_Haruhi_no_Yuuutsu
 - Desperate
-- Made in Abyss
-- Shouwa_Genroku_Rakugo_Shinjuu\_\_Sukeroku_Futatabi
+- Shouwa_Genroku_Rakugo_Shinjuu
+\_\_Sukeroku_Futatabi
 - Rakugo
 - Monogatari
 - Ghosthunt
@@ -355,7 +355,7 @@
 - Ao Haru Ride
 - Kimi ni todoke
 - Daily life of the immortal king
-- HunterXHunter
+- HunterxHunter
 - 3-Gatsu no lion
 - Bakemonogatari
 - Clannad
@@ -365,3 +365,4 @@
 - My romantic teenage comedy
 - Mob Psycho 100
 - Made in Abyss
+- Black Clover

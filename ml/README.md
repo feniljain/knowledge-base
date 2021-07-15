@@ -42,6 +42,8 @@
 - https://github.com/deepfakes/faceswap
 - https://github.com/PaddlePaddle/PaddleHub
 - https://github.com/Charmve/computer-vision-in-action
+- https://github.com/dinedal/textql
+- https://github.com/microsoft/ML-For-Beginners
 
 ## Reddit and twitter threads:
 

@@ -28,6 +28,7 @@
 ## Repos:
 
 - https://github.com/madMAx43v3r/chia-plotter
+- https://github.com/rabbitstack/fibratus
 
 ## Reddit and twitter threads:
 

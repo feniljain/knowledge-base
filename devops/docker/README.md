@@ -20,6 +20,10 @@
 - https://towardsdatascience.com/slimming-down-your-docker-images-275f0ca9337e
 - https://towardsdatascience.com/learn-enough-docker-to-be-useful-b0b44222eef5
 - https://itnext.io/which-container-images-to-use-distroless-or-alpine-96e3dab43a22/
+- https://dev.to/kooldev/use-kool-to-dockerize-your-local-development-environment-the-right-way-18gl
+- https://itnext.io/5-unusual-docker-container-use-cases-547804d64c35
+- Speeding up docker builds using BUILDKIT: https://javascript.plainenglish.io/docker-build-example-nodejs-9eb174e081f1
+- https://dev.to/karanpratapsingh/introduction-to-dockerize-series-28l1jik
 
 ## Interesting Images:
 

@@ -33,13 +33,20 @@
 - https://netflixtechblog.com/re-architecting-the-video-gatekeeper-f7b0ac2f6b00
 - https://vivek-singh.medium.com/system-design-cheat-sheet-318ba2e34723
 - https://mohak1712.medium.com/connection-polling-3a3fcb83a74c
+- https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3
+- https://medium.com/system-design-concepts/distributed-cache-system-design-9560f7dd07f2
+- https://medium.com/system-design-concepts/distributed-locks-9ed116145a47
+- https://bhushan-gosavi.medium.com/moviebuzz-system-design-coding-end-to-end-system-from-scratch-606dbd66e568
+- https://iamkanikamodi.medium.com/how-to-avoid-retry-storms-in-distributed-systems-91bf34f43c7f
+- https://matthewleak.medium.com/aws-lambda-under-the-hood-how-lambda-works-43efba14d899
+- https://towardsdatascience.com/my-system-design-interview-checklist-86b64b5ac5e2
 
 ## Repos:
 
 - Very good resource, also contains redirects to many other good resources: https://github.com/donnemartin/system-design-primer
 - https://github.com/mehdihadeli/awesome-software-architecture
+- https://github.com/mhadidg/software-architecture-books
 
 ## Blog series:
 
 - https://www.digitalocean.com/blog/tag/engineering
-

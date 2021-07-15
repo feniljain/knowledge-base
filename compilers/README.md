@@ -31,10 +31,26 @@
 - https://en.wikipedia.org/wiki/Shunting-yard_algorithm
 - https://medium.datadriveninvestor.com/whats-llvm-4c0c3ed43a72
 - https://www.npopov.com/2021/06/02/Design-issues-in-LLVM-IR.html
+- https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7
+- List of passes for the SSA compiler step: https://github.com/golang/go/blob/6c1c055d1ea417d050503efe92c1eead0da68cef/src/cmd/compile/internal/ssa/compile.go#L431-L486
+- Generating better machine code with SSA in go compiler: https://www.youtube.com/watch?v=uTMvKVma5ms
+- https://stackoverflow.com/questions/1669/learning-to-write-a-compiler
+- https://gcc.gnu.org/wiki/ListOfCompilerBooks
 
 ## Blog series:
 
 - https://dev.to/cad97/crafting-ide-ready-compilers-500o
+
+## Reddit and twitter threads:
+
+- https://www.reddit.com/r/learnprogramming/comments/5hwo3x/whats_the_best_resource_to_walk_me_through_making/
+- Good compiler books: https://news.ycombinator.com/item?id=136875
+
+## Repos:
+
+- https://github.com/aalhour/awesome-compilers
+- https://github.com/vtudose/Let-s-build-a-compiler
+- https://github.com/returntocorp/semgrep
 
 ## Courses:
 

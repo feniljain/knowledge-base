@@ -32,6 +32,7 @@
 - https://forge.rust-lang.org/
 - Rust integrated dart: https://thlorenz.com/rid-site/
 - https://www.memorysafety.org/
+- https://transitiontech.ca/random/RIIR
 
 ## Blogs and Articles:
 
@@ -73,6 +74,10 @@
 - https://www.cmyr.net/blog/keypaths.html
 - https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier/
 - https://plume.benboeckel.net/~/JustAnotherBlog/skipping-tests-in-rust
+- https://github.com/joaquintides/transrangers/blob/master/rust.md
+- https://medium.com/digitalfrontiers/rust-dynamic-dispatching-deep-dive-236a5896e49b
+- https://stackoverflow.com/questions/27567849/what-makes-something-a-trait-object
+- https://stackoverflow.com/questions/25740916/how-do-you-actually-use-dynamically-sized-types-in-rust
 
 ### Tutorials:
 
@@ -147,6 +152,8 @@
 - VCS in Rust: https://initialcommit.com/blog/pijul-version-control-system/#
 - https://medium.com/lagierandlagier/nextjs-webassembly-and-web-workers-a5f7c19d4fd0
 - https://yodalee.me/2020/12/2020_rust_gameboy/
+- https://medium.com/tempus-ex/hello-video-codec-9937f64835bd
+- https://zmedley.com/tcp-proxy.html
 
 ### Langauge general:
 
@@ -160,6 +167,8 @@
 - https://www.possiblerust.com/pattern/3-things-to-try-when-you-can-t-make-a-trait-object
 - https://medium.com/swlh/generics-or-metaprogramming-declarative-macros-with-rust-6fd5f6995584
 - https://towardsdatascience.com/how-to-design-for-panic-resilience-in-rust-55d5fd2478b9
+- https://dev.to/zhanghandong/rust-concept-clarification-deref-vs-asref-vs-borrow-vs-cow-13g6
+- https://nnethercote.github.io/perf-book/
 
 ### Others:
 
@@ -323,6 +332,8 @@
 - Jinja-like templates for Rust: https://github.com/djc/askama
 - Rust templating with handlebars : https://github.com/sunng87/handlebars-rust/
 - https://github.com/brave/adblock-rust/
+- https://github.com/ansuz/RIIR
+- https://github.com/tokio-rs/io-uring
 
 ## Videos:
 
@@ -348,6 +359,7 @@
 - https://www.reddit.com/r/rust/comments/nprgwu/a_firehose_of_rust_for_busy_people_who_know_some_c/
 - Debugging rust with vim: https://www.youtube.com/watch?v=U3uvbdgFMRE
 - Building a web application with rust: https://www.youtube.com/watch?v=c9qSGUHgE1c
+- Building a multithreaded Flutter + Rust App integrating both with Bloc/Cubit and Rid: https://www.youtube.com/watch?v=PGKBdxOA6Xs
 
 ## YT and Twitch Project channels/Playlists:
 
@@ -461,6 +473,8 @@
 - Adding rust bpf target to rust compiler: https://confused.ai/posts/rust-bpf-target
 - https://blog.sunfishcode.online/introducing-cap-std/
 - https://deepu.tech/memory-management-in-rust/
+- https://www.gregchapple.com/blog/rust-compiler-walkthrough-introduction/
+- https://www.gregchapple.com/blog/contributing-to-the-rust-compiler/
 
 ## Rust and security
 
@@ -486,6 +500,7 @@
 - Collection of underrated crates: https://www.reddit.com/r/rust/comments/nuq1ix/whats_your_favourite_underrated_rust_crate_and_why/
 - Vector math: best practices - https://www.reddit.com/r/rust/comments/nx3v4a/vector_math_best_practices/
 - How would you further organize the project structure of the web server in the Rust book? - https://www.reddit.com/r/rust/comments/ny44z6/how_would_you_further_organize_the_project/
+- https://www.reddit.com/r/rust/comments/oc3zby/do_you_think_rust_has_a_future_in_backend_web/
 
 ## Rust Learning:
 
@@ -513,4 +528,5 @@
 
 - Easy Rust: https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
 - Overview of rust(4 part series): https://www.youtube.com/watch?v=gesNaLkUJeA&list=PLP2yfE2-FXdQmXLvrQ5QN64enbF_KCYQW
+- Beginner series to rust by microsoft: https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x
 

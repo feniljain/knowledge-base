@@ -29,11 +29,13 @@
 - https://dev.to/pghildiyal/understanding-kubernetes-architecture-2k0l
 - https://kubernetes.io/blog/2017/12/using-ebpf-in-kubernetes/
 - https://www.cockroachlabs.com/guides/certified-kubernetes-application-developer/
+- https://itnext.io/kubernetes-essential-tools-2021-def12e84c572
 
 ## Blog series:
 
 - https://dev.to/vascoalramos/learning-kubernetes-concepts-part-1-pb0
 - https://iximiuz.com/en/
+- https://itnext.io/kubernetes-explained-deep-enough-1ea2c6821501
 
 ## Reddit and twitter threads:
 
@@ -58,6 +60,9 @@
 - https://github.com/racklet/racklet.io
 - https://github.com/megaease/easegress/
 - https://github.com/aporia-ai/kubesurvival/
+- https://github.com/kris-nova/naml
+- https://github.com/googlecloudplatform/elcarro-oracle-operator
+- https://github.com/kcp-dev/kcp
 
 ## Tools:
 

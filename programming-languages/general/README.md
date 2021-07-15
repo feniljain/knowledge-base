@@ -71,6 +71,7 @@
 - https://keathley.io/blog/good-and-bad-elixir.html
 - https://medium.com/very-big-things/towards-maintainable-elixir-the-development-process-205ee257c109
 - https://medium.com/free-code-camp/how-to-write-a-super-fast-link-shortener-with-elixir-phoenix-and-mnesia-70ffa1564b3c
+- https://mrjoelkemp.medium.com/jvm-struggles-and-the-beam-4d9c58547410
 
 ## Python:
 
@@ -97,6 +98,7 @@
 - https://radekvit.medium.com/move-semantics-in-c-and-rust-the-case-for-destructive-moves-d816891c354b
 - http://www.cs.fsu.edu/~myers/cgs4406/notes/dma.html
 - https://en.wikipedia.org/wiki/Region-based_memory_management
+- http://netlib.org/
 
 ### Blogs and articles:
 
@@ -124,6 +126,7 @@
 - https://blog.devgenius.io/writing-a-coroutine-in-c-language-6a537275ddc3
 - https://thad.frogley.info/archive/cpp_traits_intro.html
 - https://medium.com/swlh/doing-it-the-functional-way-in-c-5c392bbdd46a
+- https://dane-bulat.medium.com/cmake-how-to-inspect-and-configure-the-compiler-877e6cb0317f
 
 ### Repos:
 

@@ -1,5 +1,9 @@
 <h2 align="center">Web Dev</h2>
 
+## Websites:
+
+- Creates slow responses, which can be used to test and optimize the website: https://slowfil.es/
+
 ## Blogs And Articles:
 
 - How do browsers work internally: https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/

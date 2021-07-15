@@ -37,4 +37,6 @@
 - https://github.com/kutsan/dotfiles/blob/master/.config/tmux/tmux.conf
 - https://github.com/skbolton/titan/blob/master/tmux/tmux.conf
 - https://github.com/yutkat/dotfiles/blob/master/.config/tmux/tmux.conf
+- https://gist.github.com/shinzui/866897
+- https://gist.github.com/spicycode/1229612
 

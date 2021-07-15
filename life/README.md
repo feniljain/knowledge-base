@@ -29,6 +29,7 @@
 - https://betterhumans.pub/replace-your-to-do-list-with-interstitial-journaling-to-increase-productivity-4e43109d15ef
 - https://dev.to/espoir/my-books-recommendations-to-enhance-your-soft-skills-as-a-developer-4k3o
 - https://waitbutwhy.com/2018/04/picking-career.html
+- https://betterprogramming.pub/why-most-software-developers-struggle-to-improve-ca6cb534eff5
 
 ## Reddit and twitter threds:
 
@@ -43,6 +44,7 @@
 - Persistence is very important, do not give up until you are forced to give up
 - What worries you, masters you
 - The best learners are the people who push through the discomfort of being objectively bad at something
+- I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.
 
 ## Books:
 
