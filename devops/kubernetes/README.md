@@ -30,6 +30,8 @@
 - https://kubernetes.io/blog/2017/12/using-ebpf-in-kubernetes/
 - https://www.cockroachlabs.com/guides/certified-kubernetes-application-developer/
 - https://itnext.io/kubernetes-essential-tools-2021-def12e84c572
+- A rust controller for kubernetes: https://blog.frankel.ch/start-rust/6/
+- https://itnext.io/k0s-multi-node-cluster-with-k0sctl-922fc2cb4dc8
 
 ## Blog series:
 

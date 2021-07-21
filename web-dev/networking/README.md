@@ -36,11 +36,13 @@
 - https://github.com/mozilla/neqo
 - https://github.com/cloudflare/quiche
 - An experiment in scalable routing as an encrypted IPv6 overlay network: https://github.com/yggdrasil-network/yggdrasil-go/
+- Efficient reliable UDP unicast, UDP multicast, and IPC message transport: https://github.com/real-logic/aeron
 
 ## Reddit and twitter threads:
 
 - https://www.reddit.com/r/sysadmin/comments/mm45e6/dns_should_www_cname_and_a_records_exist/
 - https://www.reddit.com/r/rust/comments/nsu1y0/quic_version_1_is_live_on_cloudflare/
+- https://www.reddit.com/r/linuxquestions/comments/om0dok/is_it_possible_to_create_an_ethernet_hotspot/
 
 ## Videos:
 
@@ -51,4 +53,3 @@
 ## Blog Series:
 
 - https://iximiuz.com/en/
-

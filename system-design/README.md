@@ -40,6 +40,7 @@
 - https://iamkanikamodi.medium.com/how-to-avoid-retry-storms-in-distributed-systems-91bf34f43c7f
 - https://matthewleak.medium.com/aws-lambda-under-the-hood-how-lambda-works-43efba14d899
 - https://towardsdatascience.com/my-system-design-interview-checklist-86b64b5ac5e2
+- https://medium.com/prooftrading/proof-engineering-the-message-bus-a7cc84e1104b
 
 ## Repos:
 

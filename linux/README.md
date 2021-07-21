@@ -89,6 +89,7 @@
 - https://meepy.medium.com/creating-a-kernel-from-scratch-1a1aa569780f
 - http://xahlee.info/UnixResource_dir/writ/unix_origin_of_dot_filename.html
 - https://medium.com/swlh/linux-zero-copy-using-sendfile-75d2eb56b39b
+- https://betterprogramming.pub/a-deep-dive-into-linux-permissions-6e5a5a640160
 
 ### Others:
 
@@ -261,6 +262,7 @@
 - https://www.reddit.com/r/linuxquestions/comments/o6saqj/what_is_de_and_wm/
 - About init/initrd/initramfs: https://www.reddit.com/r/linuxquestions/comments/oct7gi/init_process/
 - https://www.reddit.com/r/linuxquestions/comments/ohaj1y/are_snap_packages_really_that_bad/
+- https://www.reddit.com/r/linuxquestions/comments/om0dok/is_it_possible_to_create_an_ethernet_hotspot/
 
 ## Config Repos:
 
@@ -318,3 +320,4 @@
 - https://github.com/aquasecurity/tracee
 - https://github.com/iovisor/bpftrace
 - https://www.reddit.com/r/rust/comments/ojzc3z/implementation_of_an_ebpf_memory_profiler_has/
+- https://www.reddit.com/r/kernel/comments/oks79i/a_beginners_guide_to_ebpf_programming_with_go/

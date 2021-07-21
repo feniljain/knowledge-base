@@ -78,6 +78,8 @@
 - https://medium.com/digitalfrontiers/rust-dynamic-dispatching-deep-dive-236a5896e49b
 - https://stackoverflow.com/questions/27567849/what-makes-something-a-trait-object
 - https://stackoverflow.com/questions/25740916/how-do-you-actually-use-dynamically-sized-types-in-rust
+- https://matklad.github.io/2021/07/09/inline-in-rust.html
+- https://dev.to/seanchen1991/the-story-of-tail-call-optimizations-in-rust-35hf
 
 ### Tutorials:
 
@@ -154,6 +156,9 @@
 - https://yodalee.me/2020/12/2020_rust_gameboy/
 - https://medium.com/tempus-ex/hello-video-codec-9937f64835bd
 - https://zmedley.com/tcp-proxy.html
+- A rust controller for kubernetes: https://blog.frankel.ch/start-rust/6/
+- Deploying rust on kubernetes: https://www.youtube.com/watch?v=bK542nqn8I0
+- https://dev.to/rogertorres/first-steps-with-docker-rust-30oi
 
 ### Langauge general:
 
@@ -334,6 +339,7 @@
 - https://github.com/brave/adblock-rust/
 - https://github.com/ansuz/RIIR
 - https://github.com/tokio-rs/io-uring
+- Unofficial Github Actions for Rust programming language: https://github.com/actions-rs
 
 ## Videos:
 
@@ -360,6 +366,7 @@
 - Debugging rust with vim: https://www.youtube.com/watch?v=U3uvbdgFMRE
 - Building a web application with rust: https://www.youtube.com/watch?v=c9qSGUHgE1c
 - Building a multithreaded Flutter + Rust App integrating both with Bloc/Cubit and Rid: https://www.youtube.com/watch?v=PGKBdxOA6Xs
+- End-to-end encrypted messaging in rust: https://www.youtube.com/watch?v=jKvIeQFZKLc
 
 ## YT and Twitch Project channels/Playlists:
 
@@ -501,6 +508,7 @@
 - Vector math: best practices - https://www.reddit.com/r/rust/comments/nx3v4a/vector_math_best_practices/
 - How would you further organize the project structure of the web server in the Rust book? - https://www.reddit.com/r/rust/comments/ny44z6/how_would_you_further_organize_the_project/
 - https://www.reddit.com/r/rust/comments/oc3zby/do_you_think_rust_has_a_future_in_backend_web/
+- Tips for CI of large rust projects: https://twitter.com/ManishEarth/status/1417648658485440516
 
 ## Rust Learning:
 

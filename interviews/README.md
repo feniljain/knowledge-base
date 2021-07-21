@@ -56,6 +56,7 @@
 
 - https://medium.com/p-society/pass-a-golang-job-interview-bfb6ea83b457
 - https://dev.to/educative/crack-the-top-50-golang-interview-questions-384i
+- https://dev.to/kethmars/how-to-choose-your-future-employer-questions-to-ask-during-your-next-interview-4hof
 
 ## WebDev interviews:
 

@@ -41,6 +41,17 @@
 - https://medium.com/@iAnkurBiswas/common-git-mistakes-and-how-to-fix-them-10184cd5fa77
 - https://medium.com/free-code-camp/how-to-use-git-efficiently-54320a236369
 - https://dev.to/pb/git-squash-simplified-3ba1
+- https://itnext.io/advanced-git-features-you-didnt-know-you-needed-ed8455c45495
+
+## Interesting git configs:
+
+- https://github.com/jessfraz/dotfiles/blob/master/.gitconfig
+- https://gist.github.com/pksunkara/988716
+- https://github.com/mgedmin/dotfiles/blob/master/gitconfig
+
+## Books:
+
+- Pro git book: https://git-scm.com/book/en/v2
 
 ## Repos:
 
@@ -49,6 +60,7 @@
 ## Git Internals:
 
 - https://dev.to/craigtaub/under-the-hood-of-git-309f
+- https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain
 
 ## Github Enhancements:
 

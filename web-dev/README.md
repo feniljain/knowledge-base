@@ -30,6 +30,7 @@
 - https://dev.to/aman_singh/curated-list-of-newsletters-to-level-up-your-coding-skills-4heb
 - https://dev.to/kiranrajvjd/awesome-resource-for-your-web-projects-75-background-resources-2cm8
 - https://dev.to/maureento8888/realistic-list-of-web-dev-resources-253c
+- https://medium.com/weekly-webtips/what-is-the-difference-between-a-url-and-a-uri-8d4f473b04b
 
 ## Videos:
 

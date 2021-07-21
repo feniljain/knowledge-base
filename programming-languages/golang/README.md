@@ -57,6 +57,7 @@
 - http://gregtrowbridge.com/golang-json-serialization-with-interfaces/
 - https://blog.usejournal.com/raft-consensus-algorithm-implementation-with-go-d0f9bf4472a0
 - https://ketansingh.me/posts/pipeline-pattern-in-go-part-1/
+- https://www.samlewis.me/2021/07/creating-mesh-vpn-tool-for-fun/
 
 ### Architecture:
 
@@ -327,6 +328,7 @@
 - https://go.googlesource.com/
 - https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7
 - Visualize Go's AST: https://yuroyoro.github.io/goast-viewer/index.html
+- Updating the go memory model: https://research.swtch.com/gomm
 
 # Go Learning:
 

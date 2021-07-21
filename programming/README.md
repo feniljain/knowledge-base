@@ -167,6 +167,8 @@
 - https://github.com/anzhihe/learning
 - https://github.com/laynH/Anime-Girls-Holding-Programming-Books
 - https://github.com/ProductHired/open-product-management
+- https://github.com/bndw/wifi-card
+- A community-maintained Python framework for creating mathematical animations: https://github.com/ManimCommunity/manim
 
 ## Extensions:
 

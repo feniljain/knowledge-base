@@ -34,6 +34,7 @@
 - Plugin dev in neovim, beginners guide: https://www.youtube.com/watch?v=6ch28A_YICQ
 - Nvim-dap : https://www.youtube.com/watch?v=SIYt1dopfTc
 - Neovim change highlight color: https://www.youtube.com/watch?v=twrNV_BZ2jU
+- Making plugins with lua: https://www.youtube.com/watch?v=wkxtHV1hzEY
 
 ## Blogs, Articles and threads:
 
@@ -90,6 +91,8 @@
 - https://rrethy.github.io/book/write_a_plugin_manager.html
 - https://www.reddit.com/r/vim/comments/nx0sag/conways_game_of_life_in_vim_macros/
 - https://arindamroy.medium.com/useful-vim-shortcuts-you-probably-dont-know-yet-289f92717a91
+- Making plugins with vim: https://alpha2phi.medium.com/using-vim-neovim-for-presentation-9d38a7ce6dc1
+- Using vim abbrevations: https://jovica.org/posts/vim_abbreviations/
 
 ## Blog series:
 
@@ -116,6 +119,7 @@
 - https://www.reddit.com/r/neovim/comments/o6wsis/how_to_to_get_tsservers_native_formater_working/
 - https://www.reddit.com/r/neovim/comments/og1cdv/neovim_lsp_how_do_you_get_diagnostic_mesages_to/
 - https://www.reddit.com/r/neovim/comments/ohdvc8/need_resources_for_porting_initvim_to_initlua/
+- https://www.reddit.com/r/neovim/comments/omrx95/some_useful_bindings/
 
 ## Vimscript:
 
@@ -335,6 +339,7 @@
 - https://github.com/brooth/far.vim
 - An automatic configuration program for vim: https://github.com/chxuan/vimplus
 - Audio visualizer in vim: https://github.com/been-jamming/Visterm
+- Making presentations in vim: https://github.com/sotte/presenting.vim
 
 ## Lua/Nvim 0.5+ Exclusive plugins:
 
@@ -373,6 +378,7 @@
 - https://github.com/Pocco81/AutoSave.nvim
 - https://github.com/AckslD/nvim-anywise-reg.lua
 - https://github.com/nvim-lua/lsp_extensions.nvim
+- https://github.com/nikvdp/neomux
 
 ## VimRCs for reference:
 

@@ -54,6 +54,7 @@
 - https://medium.com/princeton-systems-course/egalitarian-paxos-in-pure-rust-579100c44f77
 - https://www.confluent.io/blog/how-kafka-is-used-by-netflix/
 - https://www.lastweekinaws.com/blog/is-aws-certification-worth-it-weighing-all-the-factors/
+- https://betterprogramming.pub/a-cloud-migration-questionnaire-for-solution-architects-dec7ffcf063e
 
 ## Videos:
 
