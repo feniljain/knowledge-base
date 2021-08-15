@@ -155,6 +155,7 @@
 - https://dev.to/hlmerscher/the-controversial-go-way-of-handling-errors-2ka1
 - https://medium.com/a-journey-with-go/go-goroutine-leak-detector-61a949beb88
 - https://teivah.medium.com/introducing-rxgo-v2-e7e369faa99a
+- https://tarithj.medium.com/creating-small-go-lang-executables-78cf117e8b33
 
 ## Blog Series:
 
@@ -329,6 +330,8 @@
 - https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7
 - Visualize Go's AST: https://yuroyoro.github.io/goast-viewer/index.html
 - Updating the go memory model: https://research.swtch.com/gomm
+- https://tpaschalis.github.io/golang-len/
+- https://golang.org/src/cmd/compile/README
 
 # Go Learning:
 

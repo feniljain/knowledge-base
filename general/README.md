@@ -18,6 +18,7 @@
 - https://www.triangulate.xyz/
 - https://simplelogin.io/
 - https://resizeimage.net/
+- Get direct download and magnet links to english & hindi series: linkhttps://yts.rs/
 
 ## Blogs and articles:
 
@@ -78,6 +79,8 @@
 - Surfingkeys
 - Fireshot
 - DuckDuckGo Privacy Essentials(disabled currently)
+- Adblock
+- Grammar and Spell Checker - LanguageTool
 
 ## Books:
 

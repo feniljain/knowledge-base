@@ -43,6 +43,7 @@
 - https://medium.com/swlh/5-software-engineering-interview-questions-to-identify-outstanding-developers-6d8c95b46d64
 - https://medium.com/geekculture/what-impresses-me-when-interviewing-software-engineers-8367f8425a2
 - https://rooting-for-you.cenedella.com/what-google-looks-for-in-a-technical-resume-c668c55170c
+- https://dev.to/thawkin3/what-i-look-for-when-hiring-senior-software-engineers-4a6j
 
 ## Videos:
 
@@ -61,11 +62,22 @@
 ## WebDev interviews:
 
 - https://www.reddit.com/r/webdev/comments/o9jp8e/every_single_interview_question_i_was_asked_while/
+- https://dev.to/gitpaulo/journey-of-a-web-page-how-browsers-work-10co
 
 ## SQL interviews:
 
 - https://towardsdatascience.com/crack-data-science-interviews-advanced-sql-skills-in-2021-322fef819c6c
 - https://www.reddit.com/r/SQL/comments/nww7g0/best_way_to_cram_for_sql_interview_test/
+
+## Docker interviews:
+
+- https://www.interviewbit.com/docker-interview-questions/
+- https://www.guru99.com/docker-interview-questions.html
+- See last answer's diagram: https://stackoverflow.com/questions/60527336/what-is-the-difference-between-docker-daemon-and-docker-engine
+
+## Devops interviews:
+
+-  Assorted interview questions (across networking, Linux, OS internals, AWS, Docker, etc.): https://gist.github.com/kwilczynski/66fe48a1339454798af4152dd9c34a6e
 
 ## Repos:
 

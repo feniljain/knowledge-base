@@ -30,6 +30,8 @@
 - https://dev.to/espoir/my-books-recommendations-to-enhance-your-soft-skills-as-a-developer-4k3o
 - https://waitbutwhy.com/2018/04/picking-career.html
 - https://betterprogramming.pub/why-most-software-developers-struggle-to-improve-ca6cb534eff5
+- https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest
+- https://dev.to/tomeraitz/the-right-mindset-to-solve-complex-problems-1gc6
 
 ## Reddit and twitter threds:
 
@@ -64,4 +66,3 @@
 - Primes daily bangers playlist: https://www.youtube.com/playlist?list=PLpvrfXJz4_9F-ICZgwo4tPcbZQa5MPpQ2
 
 Kmshahco1966
-

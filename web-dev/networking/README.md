@@ -30,6 +30,8 @@
 - https://medium.com/swlh/webrtc-the-technology-that-powers-google-meet-hangout-facebook-messenger-and-discord-cb926973d786
 - If you could change one thing in internet what would you change it to: https://news.ycombinator.com/item?id=27663618
 - https://en.wikipedia.org/wiki/Fast_flux
+- https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/
+- https://www.comparitech.com/net-admin/webdav/
 
 ## Repos:
 

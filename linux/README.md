@@ -58,6 +58,7 @@
 - https://medium.com/100-days-of-linux/introduction-to-ip-commands-in-linux-15a2be029e11
 - https://daniel.haxx.se/docs/curl-vs-wget.html
 - 50 ways to isolate traffic using tcpdump command: https://danielmiessler.com/study/tcpdump/
+- https://earthly.dev/blog/command-line-tools/
 
 ### Linux working:
 
@@ -111,6 +112,7 @@
 - SSH into remote linux using ngrok: https://medium.com/@byteshiva/ssh-into-remote-linux-by-using-ngrok-b8c49b8dc3ca
 - https://alpha2phi.medium.com/ligature-fonts-for-terminal-vs-code-neovim-and-emacs-1187c6987491
 - https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/
+- https://ejpcmac.net/blog/about-using-nix-in-my-development-workflow/
 
 ## Blog series:
 
@@ -153,6 +155,7 @@
 - https://gitlab.com/corectrl/corectrl
 - https://github.com/vifm/vifm-colors
 - https://tmate.io/
+- Terminal on browser: https://github.com/skanehira/rtty
 
 ### Others:
 
@@ -203,6 +206,8 @@
 - flameshot
 - Terminal audio visualizer: cava
 - tldr
+- cmatrix
+- kondo
 
 ### Rust Dev
 
@@ -225,6 +230,7 @@
 - Preview github markdown offline: https://github.com/grapegrip/wool
 - Creating beautiful image of code(exactly like carbon, but offline): https://github.com/Aloxaf/silicon
 - Counting number of lines of each programming language: https://github.com/XAMPPRocky/tokei/
+- A viewer for git and diff output: https://github.com/dandavison/delta
 
 ## Wallpapers collection:
 
@@ -242,6 +248,7 @@
 - eBPF - Rethiking the linux kernel: https://www.infoq.com/presentations/facebook-google-bpf-linux-kernel/
 - Wayland: https://www.youtube.com/watch?v=g1BoZnekkyM
 - Leaning awk: https://www.youtube.com/watch?v=9YOZmI-zWok
+- sed - find - cp - mv - xargs guide: https://www.youtube.com/watch?v=CyVV2FI7-DE
 
 ## Courses:
 
@@ -276,7 +283,6 @@
 - https://github.com/kisancodes/dotfiles
 - https://github.com/mathiasbynens/dotfiles
 - i3 config: https://gist.github.com/vberlier/7fd8f3b8b180c99dda1d7ca90d43362a
-
 
 ## i3:
 
@@ -321,3 +327,8 @@
 - https://github.com/iovisor/bpftrace
 - https://www.reddit.com/r/rust/comments/ojzc3z/implementation_of_an_ebpf_memory_profiler_has/
 - https://www.reddit.com/r/kernel/comments/oks79i/a_beginners_guide_to_ebpf_programming_with_go/
+- https://www.reddit.com/r/kernel/comments/osmf08/esbpf_embedded_smallest_bpf_framework/
+- https://www.trailofbits.com/post/all-your-tracing-are-belong-to-bpf
+- https://www.isovalent.com/blog/post/2021-08-ebpf-foundation-announcement
+- https://cloudblogs.microsoft.com/opensource/2021/05/10/making-ebpf-work-on-windows/
+- https://github.com/Microsoft/ebpf-for-windows

@@ -24,6 +24,8 @@
 - https://itnext.io/5-unusual-docker-container-use-cases-547804d64c35
 - Speeding up docker builds using BUILDKIT: https://javascript.plainenglish.io/docker-build-example-nodejs-9eb174e081f1
 - https://dev.to/karanpratapsingh/introduction-to-dockerize-series-28l1jik
+- https://dev.to/karanpratapsingh/art-of-building-small-containers-3g6c
+- https://dev.to/andreidascalu/make-containers-small-again-3lgg
 
 ## Interesting Images:
 
@@ -39,4 +41,7 @@
 - https://github.com/bottlerocket-os/bottlerocket
 - https://github.com/rancher/os
 - https://github.com/wagoodman/dive
-
+- https://github.com/veggiemonk/awesome-docker
+- https://github.com/docker/awesome-compose
+- https://github.com/enspirit/makefile-for-monorepos
+- https://github.com/aquasecurity/trivy

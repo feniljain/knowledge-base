@@ -58,6 +58,7 @@
 - https://medium.com/swlh/kafka-core-concepts-terminologies-dafa40aa9489
 - https://blog.bitsrc.io/why-is-nanoid-replacing-uuid-1b5100e62ed2
 - https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304
+- https://dev.to/logrocket/optimize-node-js-performance-with-clustering-7ki
 
 ## Reddits and twitter threads:
 
@@ -65,6 +66,7 @@
 - Backend developer cheatsheet: https://twitter.com/sunilc_/status/1373549827070431232
 - https://twitter.com/nodepractices/
 - Tor's Connection Establishment: https://twitter.com/hnasr/status/1398666446146785289
+- https://www.reddit.com/r/node/comments/os16lo/what_do_recruiters_expect_from_junior_backend/
 
 ## Repos:
 
@@ -81,4 +83,3 @@
 - Best backend yt channels: https://www.youtube.com/watch?v=eusHw-mUa8Y
 - https://www.infoq.com/presentations/netflix-user-identity/
 - https://www.infoq.com/presentations/netflix-edge-scalability-patterns/
-

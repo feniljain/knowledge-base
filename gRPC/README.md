@@ -24,3 +24,4 @@
 - https://github.com/go-masonry/mortar
 - https://github.com/simplesteph/grpc-go-course
 - https://github.com/twitchtv/twirp
+- https://github.com/protoconf/protoconf/

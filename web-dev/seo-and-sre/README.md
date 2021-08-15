@@ -17,6 +17,7 @@
 
 - https://stackpulse.com/blog/the-sre-role-and-why-its-in-such-high-demand/
 - Online SRE Book From Google: https://sre.google/sre-book/table-of-contents/
+- https://www.reddit.com/r/devops/comments/oulqyh/interview_question/
 
 ## Repos:
 

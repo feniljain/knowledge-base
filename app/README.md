@@ -47,6 +47,7 @@
 - https://resocoder.com/flutter-clean-architecture-tdd/
 - Velocity_X: https://www.youtube.com/watch?v=G0fGsI-pEOY
 - Async vs isolates: https://www.youtube.com/watch?v=5AxWC49ZMzs
+- Let's build a render tree: https://www.youtube.com/watch?v=VsYbFnucHsU
 
 ## Repos:
 

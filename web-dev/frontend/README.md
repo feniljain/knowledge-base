@@ -84,6 +84,9 @@
 - https://itnext.io/misconceptions-about-virtual-dom-35ec60b87086
 - https://javascript.plainenglish.io/7-steps-to-modernize-and-optimize-your-react-app-466cbea51b8f
 - https://medium.com/airbnb-engineering/a-deep-dive-into-airbnbs-server-driven-ui-system-842244c5f5
+- https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669
+- https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538
+- https://dev.to/gitpaulo/journey-of-a-web-page-how-browsers-work-10co
 
 ## Websites:
 

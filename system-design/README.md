@@ -41,6 +41,8 @@
 - https://matthewleak.medium.com/aws-lambda-under-the-hood-how-lambda-works-43efba14d899
 - https://towardsdatascience.com/my-system-design-interview-checklist-86b64b5ac5e2
 - https://medium.com/prooftrading/proof-engineering-the-message-bus-a7cc84e1104b
+- https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4
+- https://medium.com/swlh/an-efficient-framework-to-approach-system-design-problems-cf058f614a84
 
 ## Repos:
 
@@ -51,3 +53,8 @@
 ## Blog series:
 
 - https://www.digitalocean.com/blog/tag/engineering
+- https://berndruecker.io/
+
+## Books:
+
+- https://processautomationbook.com/

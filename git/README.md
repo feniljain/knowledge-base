@@ -42,6 +42,7 @@
 - https://medium.com/free-code-camp/how-to-use-git-efficiently-54320a236369
 - https://dev.to/pb/git-squash-simplified-3ba1
 - https://itnext.io/advanced-git-features-you-didnt-know-you-needed-ed8455c45495
+- https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/
 
 ## Interesting git configs:
 
@@ -56,6 +57,8 @@
 ## Repos:
 
 - A SQL type language for git: https://github.com/filhodanuvem/gitql
+- Query git repositories with SQL. Generate reports, perform status checks, analyze codebases: https://github.com/askgitdev/askgit
+- Changelog generator that follows conventional commit specifications: https://github.com/orhun/git-cliff
 
 ## Git Internals:
 
@@ -95,4 +98,3 @@
 - refactor: refactoring production code
 - test: adding tests, refactoring test; no production code change
 - chore: updating build tasks, package manager configs, etc; no production code change
-

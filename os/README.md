@@ -24,6 +24,8 @@
 - https://people.kernel.org/brauner/
 - https://netflixtechblog.com/how-netflix-uses-ebpf-flow-logs-at-scale-for-network-insight-e3ea997dca96
 - https://tomaka.medium.com/the-future-of-operating-systems-efa31e17d66d
+- https://techdifferences.com/difference-between-microkernel-and-monolithic-kernel.html
+- https://en.wikipedia.org/wiki/Slab_allocation
 
 ## Repos:
 
@@ -35,6 +37,11 @@
 - https://twitter.com/algo_luca/status/1395782235270287370?s=08
 - https://www.reddit.com/r/computerscience/comments/o33tu6/after_code_ie_c_is_converted_to_machine_code_or/
 
+## Books:
+
+- The Linux Kernel Module Programming Guide: https://www.reddit.com/r/linux/comments/owc2gh/the_linux_kernel_module_programming_guide/
+
 ## Videos:
 
 - Write your own 64bit OS kernel: https://www.youtube.com/watch?v=FkrpUaGThTQ&list=WL&index=15
+- Making an OS(x86): https://www.youtube.com/watch?v=MwPjvJ9ulSc&list=PLm3B56ql_akNcvH8vvJRYOc7TbYhRs19M

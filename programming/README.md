@@ -39,6 +39,7 @@
 - https://www.letsflyby.com/kb1
 - Search for rfcs easily: https://rfc.fyi/
 - https://deps.dev/
+- Collection of blog websites: https://refined.blog/
 
 ## Blogs and Articles:
 
@@ -106,6 +107,8 @@
 - https://rethinkdb.com/blog/lock-free-vs-wait-free-concurrency/
 - https://betterprogramming.pub/a-useful-framework-for-naming-your-classes-functions-and-variables-e7d186e3189f
 - https://onezero.medium.com/ctrl-alt-delete-the-planned-obsolescence-of-old-coders-9c5f440ee68
+- https://www.reddit.com/r/learnprogramming/comments/ooyifv/what_are_some_of_the_gaps_in_knowledge_from_self/
+- https://dev.to/adiatiayu/project-collaboration-and-pair-programming-4be6
 
 ## Blog Series:
 
@@ -116,6 +119,8 @@
 - Correct posture to sit while programming: https://twitter.com/frontenddude/status/1346032968800854016
 - Mistakes not to make as a software engineer: https://twitter.com/bahdcoder/status/1351090302354927616
 - What happens to old programmers: https://news.ycombinator.com/item?id=7372997
+- https://www.reddit.com/r/learnprogramming/comments/ortnef/a_super_harsh_guide_to_learning_computer_science/
+- Blog series collection: https://news.ycombinator.com/item?id=27973836
 
 ## Videos:
 
@@ -169,6 +174,7 @@
 - https://github.com/ProductHired/open-product-management
 - https://github.com/bndw/wifi-card
 - A community-maintained Python framework for creating mathematical animations: https://github.com/ManimCommunity/manim
+- https://github.com/tbillington/kondo
 
 ## Extensions:
 
@@ -210,4 +216,4 @@
 - May the best man vim
 - Vim is the entry drug to Linux... then Configs... then window managers.... and then you are reprogramming bluetooth drivers because volume increases in increment of 5% and it gets on your nerve!!
 - Functional programming is for 10 men dev teams who work with their shoes off and eat hawaiian food on their lunch break
-
+- When I see a door with a push sign, I pull first to avoid conflicts(git)

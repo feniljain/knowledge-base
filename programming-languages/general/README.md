@@ -26,6 +26,7 @@
 - https://en.wikipedia.org/wiki/Dynamic_dispatch
 - https://medium.com/swlh/provider-model-in-go-and-why-you-should-use-it-clean-architecture-1d84cfe1b097
 - https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0
+- https://towardsdatascience.com/type-safety-in-data-parsers-using-pyspark-a81093b4fe03
 
 ## Repos:
 
@@ -127,6 +128,7 @@
 - https://thad.frogley.info/archive/cpp_traits_intro.html
 - https://medium.com/swlh/doing-it-the-functional-way-in-c-5c392bbdd46a
 - https://dane-bulat.medium.com/cmake-how-to-inspect-and-configure-the-compiler-877e6cb0317f
+- https://www.fluentcpp.com/2018/09/04/function-poisoning-in-cpp/
 
 ### Repos:
 

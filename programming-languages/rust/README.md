@@ -33,6 +33,7 @@
 - Rust integrated dart: https://thlorenz.com/rid-site/
 - https://www.memorysafety.org/
 - https://transitiontech.ca/random/RIIR
+- https://readrust.net/
 
 ## Blogs and Articles:
 
@@ -80,6 +81,8 @@
 - https://stackoverflow.com/questions/25740916/how-do-you-actually-use-dynamically-sized-types-in-rust
 - https://matklad.github.io/2021/07/09/inline-in-rust.html
 - https://dev.to/seanchen1991/the-story-of-tail-call-optimizations-in-rust-35hf
+- https://dev.to/mdoerner/emulating-abstract-base-classes-in-rust-3ai6
+- https://blog.rust-lang.org/2021/08/03/GATs-stabilization-push.html
 
 ### Tutorials:
 
@@ -159,8 +162,9 @@
 - A rust controller for kubernetes: https://blog.frankel.ch/start-rust/6/
 - Deploying rust on kubernetes: https://www.youtube.com/watch?v=bK542nqn8I0
 - https://dev.to/rogertorres/first-steps-with-docker-rust-30oi
+- https://itnext.io/rust-jvm-ab4de9f14eb6
 
-### Langauge general:
+### Language general:
 
 - https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/
 - Understanding Ownership the hard way: https://chrismorgan.info/blog/rust-ownership-the-hard-way/
@@ -173,7 +177,8 @@
 - https://medium.com/swlh/generics-or-metaprogramming-declarative-macros-with-rust-6fd5f6995584
 - https://towardsdatascience.com/how-to-design-for-panic-resilience-in-rust-55d5fd2478b9
 - https://dev.to/zhanghandong/rust-concept-clarification-deref-vs-asref-vs-borrow-vs-cow-13g6
-- https://nnethercote.github.io/perf-book/
+- https://edgarluque.com/blog/rust-dbg-macro
+- https://dev.to/rogertorres/first-steps-with-rust-declarative-macros-1f8m
 
 ### Others:
 
@@ -251,6 +256,8 @@
 - https://confused.ai/posts/announcing-aya
 - https://rymc.io/blog/2021/cacao-rs-macos-ios-rust/
 - https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier/
+- https://sixtyfps.io/blog/introducing-cargo-ui.html
+- https://www.eurekalert.org/pub_releases/2021-07/su-cs071521.php
 
 ## Blog Series:
 
@@ -277,6 +284,10 @@
 - https://jam1.re/
 - https://confused.ai/
 - https://matklad.github.io/
+- https://steveklabnik.com/
+- https://tylerneely.com/
+- https://blog.yoshuawuyts.com/
+- https://readrust.net/
 
 ## Repos:
 
@@ -340,6 +351,10 @@
 - https://github.com/ansuz/RIIR
 - https://github.com/tokio-rs/io-uring
 - Unofficial Github Actions for Rust programming language: https://github.com/actions-rs
+- x86 virtualization in your browser, recompiling x86 to wasm on the fly: https://github.com/copy/v86
+- RIIR of zircon in rust: https://github.com/rcore-os/zCore
+- HTTP mocking library library for Rust: https://github.com/alexliesenfeld/httpmock
+- Compile time static maps for Rust: https://github.com/rust-phf/rust-phf/
 
 ## Videos:
 
@@ -367,6 +382,7 @@
 - Building a web application with rust: https://www.youtube.com/watch?v=c9qSGUHgE1c
 - Building a multithreaded Flutter + Rust App integrating both with Bloc/Cubit and Rid: https://www.youtube.com/watch?v=PGKBdxOA6Xs
 - End-to-end encrypted messaging in rust: https://www.youtube.com/watch?v=jKvIeQFZKLc
+- Creating AWS lambda in rust: https://www.youtube.com/watch?v=PmtwtK6jyLc
 
 ## YT and Twitch Project channels/Playlists:
 
@@ -482,6 +498,7 @@
 - https://deepu.tech/memory-management-in-rust/
 - https://www.gregchapple.com/blog/rust-compiler-walkthrough-introduction/
 - https://www.gregchapple.com/blog/contributing-to-the-rust-compiler/
+- https://dev.to/xphoniex/adding-our-own-custom-statement-to-rust-language-30lc
 
 ## Rust and security
 
@@ -531,6 +548,7 @@
 - https://loige.co/where-to-go-to-learn-rust-in-2021/
 - https://medium.com/javarevisited/7-best-rust-programming-courses-and-books-for-beginners-in-2021-2ed2311af46c
 - https://betterprogramming.pub/17-resources-to-help-you-learn-rust-in-2021-31b6ac661f37
+- https://loige.co/where-to-go-to-learn-rust-in-2021/
 
 ### Videos:
 

@@ -75,6 +75,8 @@
 - https://developers.google.com/web/tools/puppeteer
 - https://blog.bitsrc.io/a-long-time-coming-the-mediarecorder-api-is-widely-adopted-2f8565a5fb5b
 - https://blog.discord.com/how-discord-maintains-performance-while-adding-features-28ddaf044333
+- https://thenewstack.io/rust-and-webassembly-serverless-functions-in-vercel/
+- Get WasmEdge swags: https://docs.google.com/forms/d/e/1FAIpQLSdLOa3kU6My-GP3j3HpgdKfkxVnUq3Ntj3l43v5twe3hliPeg/viewform
 
 ### Repos:
 

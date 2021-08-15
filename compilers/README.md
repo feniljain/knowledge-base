@@ -36,6 +36,7 @@
 - Generating better machine code with SSA in go compiler: https://www.youtube.com/watch?v=uTMvKVma5ms
 - https://stackoverflow.com/questions/1669/learning-to-write-a-compiler
 - https://gcc.gnu.org/wiki/ListOfCompilerBooks
+- https://joshvarty.com/2015/09/18/learn-roslyn-now-part-13-keeping-track-of-syntax-nodes-with-syntax-annotations/
 
 ## Blog series:
 
@@ -51,9 +52,13 @@
 - https://github.com/aalhour/awesome-compilers
 - https://github.com/vtudose/Let-s-build-a-compiler
 - https://github.com/returntocorp/semgrep
+- A miniature model of the Typescript compiler, intended to teach the structure of the real Typescript compiler: https://github.com/sandersn/mini-typescript
 
 ## Courses:
 
 - Awesome course: https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/
 - https://suif.stanford.edu/dragonbook/
 
+## Interesting rust-analyzer issues:
+
+- Investigate node tracking: https://github.com/rust-analyzer/rust-analyzer/issues/9649

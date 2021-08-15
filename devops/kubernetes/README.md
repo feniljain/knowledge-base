@@ -32,6 +32,9 @@
 - https://itnext.io/kubernetes-essential-tools-2021-def12e84c572
 - A rust controller for kubernetes: https://blog.frankel.ch/start-rust/6/
 - https://itnext.io/k0s-multi-node-cluster-with-k0sctl-922fc2cb4dc8
+- https://www.bmc.com/blogs/kubernetes-crd-custom-resource-definitions/
+- https://medium.com/pragmatic-programmers/create-custom-controllers-with-metacontroller-5aca3f951dc7
+- https://betterprogramming.pub/building-a-highly-available-kubernetes-operator-using-golang-fe4a44c395c2
 
 ## Blog series:
 
@@ -65,9 +68,11 @@
 - https://github.com/kris-nova/naml
 - https://github.com/googlecloudplatform/elcarro-oracle-operator
 - https://github.com/kcp-dev/kcp
+- https://github.com/hasheddan/k8scr
+- https://github.com/eldadru/ksniff
+- https://github.com/up9inc/mizu
 
 ## Tools:
 
 - https://kali-linuxtr.net/simulator-kubernetes-attack-simulator.tool
 - https://github.com/kubernetes-simulator/simulator
-

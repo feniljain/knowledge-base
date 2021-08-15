@@ -20,6 +20,7 @@
 - https://towardsdatascience.com/a-checklist-to-track-your-data-science-progress-bf92e878edf2
 - https://deepai.org/machine-learning-glossary-and-terms/gated-neural-network
 - https://towardsdatascience.com/autoencoder-network-optimization-for-dimensionality-reduction-67922ccc6889
+- https://towardsdatascience.com/type-safety-in-data-parsers-using-pyspark-a81093b4fe03
 
 ## Repos:
 

@@ -35,7 +35,6 @@
 - Gatsu no lion
 - Grand Blue
 - Angel Beats
-- Violet Evergarden
 - Anohana: Done
 - Tsuko ga kirei : Romance
 - Kokoro Connect : Romance
@@ -137,13 +136,17 @@
 - Deadman wonderland
 - Beyond the boundary
 
-## Fiction & Mystery:
+## Fiction & Mystery & Psychological:
 
 - Blue Exorcist
-- Made in abyss
 - Kakegurui
-- Black Clover
 - Tokyo Ghoul
+- Welcome to the NHK
+- FLCL
+- Spiral
+- Beautiful Bones
+- Mushi Shi
+- Zetsuen no tempest
 
 ## Adventure and Magic:
 
@@ -157,15 +160,10 @@
 
 ## Sad & Romance:
 
-- Clannad
-- Violet Evergarden
 - I want to your pancreas
-- Golden Time
-- Banana fish
 - Grave of the fireflies
 - Ride your wave(Kimi to, Nami ni Noretara)
 - World end
-- Tatami Galaxy
 - Bakuman
 - Spice and wolf
 - Tokyo Magnitude 8.0
@@ -253,6 +251,7 @@
 - https://www.reddit.com/r/Animesuggest/comments/l6h2tu/teenage_school_life_romcom_or_slice_of_life_sort/
 - https://www.reddit.com/r/Animesuggest/comments/l6exw8/looking_for_a_romance_anime/
 - https://www.reddit.com/r/Animesuggest/comments/n9j6n5/bring_in_your_ultimate_romance_anime/
+- https://www.reddit.com/r/Animesuggest/comments/osegg2/need_new_romcomsslice_of_life/
 
 ## Websites:
 
@@ -366,3 +365,7 @@
 - Mob Psycho 100
 - Made in Abyss
 - Black Clover
+- Violet Evergarden
+- Banana Fish
+- Tatami Galaxy
+- Golden Time

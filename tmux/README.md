@@ -12,11 +12,13 @@
 - Awesome tmux: https://github.com/rothgar/awesome-tmux
 - https://www.bugsnag.com/blog/tmux-and-vim
 - https://github.com/tmuxinator/tmuxinator
+- Control tmux from phone: https://github.com/bjesus/muxile
 
 ## Plugins:
 
 - https://github.com/jabirali/tmux-tilish
 - https://github.com/tmux-plugins/tmux-prefix-highlight
+- https://github.com/tonchis/tmuxify
 
 ## Blogs and articles:
 
@@ -39,4 +41,3 @@
 - https://github.com/yutkat/dotfiles/blob/master/.config/tmux/tmux.conf
 - https://gist.github.com/shinzui/866897
 - https://gist.github.com/spicycode/1229612
-

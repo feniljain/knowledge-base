@@ -67,6 +67,7 @@
 ## Books:
 
 - Great collection of books by mayank bhaiya on cloud native and devops: https://drive.google.com/drive/folders/1NThdt2djlvsb0x3gQ6qA_c4BfCEW3TnY
+- https://www.redhat.com/rhdc/managed-files/cl-97-things-cloud-engineers-know-e-book-oreilly-f28602-202105-en.pdf
 
 ## Repos and Tools:
 

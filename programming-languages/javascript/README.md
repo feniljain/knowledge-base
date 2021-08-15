@@ -43,6 +43,7 @@
 - https://blog.bitsrc.io/8-steps-to-secure-javascript-in-2021-6d54d5415264
 - https://cmsinstallation.blogspot.com/2021/05/new-features-of-javascript-2021.html
 - https://dev.to/gurshehzadsingh/10-npm-commands-that-every-developer-must-know-4gmn
+- https://dev.to/djamaile/how-i-structure-my-react-ts-applications-2021-145j
 
 ### Tutorials:
 

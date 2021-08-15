@@ -92,3 +92,7 @@
 ## Reddit threads and tweets:
 
 - Some SQL Aggregate Functions that would come in handy : https://twitter.com/Sukriti_Macker/status/1405196069508587520
+
+## Blogs and articles:
+
+- https://dev.to/javinpaul/my-favorite-free-sql-courses-for-beginners-2d3j

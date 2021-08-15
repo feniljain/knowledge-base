@@ -93,6 +93,7 @@
 - https://arindamroy.medium.com/useful-vim-shortcuts-you-probably-dont-know-yet-289f92717a91
 - Making plugins with vim: https://alpha2phi.medium.com/using-vim-neovim-for-presentation-9d38a7ce6dc1
 - Using vim abbrevations: https://jovica.org/posts/vim_abbreviations/
+- Vim wallpapers: https://imgur.com/a/jG6AiQE
 
 ## Blog series:
 
@@ -115,11 +116,16 @@
 - Vim's fancy startup animation: https://www.reddit.com/r/vim/comments/nnut0q/if_vim_had_a_flashy_startup_animation_more_in/
 - https://www.reddit.com/r/neovim/comments/nvl2fy/snap_a_nonblocking_finder_system_for_neovim_05/
 - Working with zip files: https://twitter.com/VimLinks/status/1403274520337784834
-- Changing vim provided grep to use rpgrep: https://phelipetls.github.io/posts/extending-vim-with-ripgrep/
+- Changing vim provided grep to use ripgrep: https://phelipetls.github.io/posts/extending-vim-with-ripgrep/
 - https://www.reddit.com/r/neovim/comments/o6wsis/how_to_to_get_tsservers_native_formater_working/
 - https://www.reddit.com/r/neovim/comments/og1cdv/neovim_lsp_how_do_you_get_diagnostic_mesages_to/
 - https://www.reddit.com/r/neovim/comments/ohdvc8/need_resources_for_porting_initvim_to_initlua/
 - https://www.reddit.com/r/neovim/comments/omrx95/some_useful_bindings/
+- https://www.reddit.com/r/vim/comments/osednx/lesser_known_vim_functionality/
+- Formatter for lua: https://www.reddit.com/r/neovim/comments/otzzw9/question_where_can_i_find_the_formatter_tool_for/
+- https://www.reddit.com/r/neovim/comments/ovujtw/resources_to_learn_how_to_build_a_lua_colorscheme/
+- https://www.reddit.com/r/neovim/comments/oz2715/loading_a_rust_library_as_a_lua_module_in_neovim/
+- Move viewport by one line: https://twitter.com/vim_tricks/status/1425839692222771200
 
 ## Vimscript:
 
@@ -187,6 +193,7 @@
 - ={action} -> auto-ident lines according to action, eg. actions can be i} -> in curly braces
 - :dig -> use special characters
 - Performing calculations in vim: in insert mode type <C+r>= and do the calculation
+- Press o to get to the other end of selection
 
 ## StatusLine:
 
@@ -340,6 +347,9 @@
 - An automatic configuration program for vim: https://github.com/chxuan/vimplus
 - Audio visualizer in vim: https://github.com/been-jamming/Visterm
 - Making presentations in vim: https://github.com/sotte/presenting.vim
+- Folding support for various languages: https://github.com/Konfekt/FastFold
+- https://github.com/gelguy/wilder.nvim
+- https://awesomeopensource.com/project/wellle/context.vim
 
 ## Lua/Nvim 0.5+ Exclusive plugins:
 
@@ -352,7 +362,6 @@
 - https://github.com/phaazon/hop.nvim
 - https://github.com/folke/lsp-trouble.nvim
 - https://github.com/folke/lsp-colors.nvim
-- https://github.com/karb94/neoscroll.nvim
 - https://github.com/sindrets/diffview.nvim
 - https://github.com/glepnir/dashboard-nvim
 - https://github.com/nvim-treesitter/nvim-treesitter-refactor
@@ -379,6 +388,30 @@
 - https://github.com/AckslD/nvim-anywise-reg.lua
 - https://github.com/nvim-lua/lsp_extensions.nvim
 - https://github.com/nikvdp/neomux
+- https://github.com/NTBBloodbath/color-converter.nvim
+- Neovim http client written in lua: https://github.com/NTBBloodbath/rest.nvim
+- https://github.com/abecodes/tabout.nvim
+- https://github.com/Murtaza-Udaipurwala/gruvqueen
+- https://github.com/nvim-telescope/telescope-github.nvim
+- https://github.com/xiyaowong/telescope-emoji.nvim
+- https://github.com/henriquehbr/nvim-startup.lua
+- https://github.com/romgrk/nvim-treesitter-context
+- https://github.com/lewis6991/spellsitter.nvim
+- https://github.com/tami5/sql.nvim
+- https://awesomeopensource.com/project/hkupty/nvimux
+- https://github.com/ray-x/navigator.lua
+- https://awesomeopensource.com/project/ojroques/nvim-lspfuzzy
+- https://awesomeopensource.com/project/folke/twilight.nvim
+- https://github.com/jbyuki/instant.nvim
+- https://github.com/onsails/vimway-lsp-diag.nvim
+- https://github.com/blackCauldron7/surround.nvim
+- https://github.com/kristijanhusak/orgmode.nvim
+- https://github.com/code-biscuits/nvim-biscuits
+- https://github.com/yamatsum/nvim-nonicons
+- https://github.com/edluffy/specs.nvim
+- https://github.com/Pocco81/HighStr.nvim
+- https://github.com/rcarriga/vim-ultest
+- https://github.com/jamestthompson3/nvim-remote-containers
 
 ## VimRCs for reference:
 
@@ -388,9 +421,7 @@
 - https://github.com/kutsan/dotfiles/tree/master/.config/nvim
 - https://github.com/awesome-streamers/awesome-streamerrc/blob/master/ThePrimeagen/init.vim
 - https://github.com/awesome-streamers/awesome-streamerrc/blob/master/MelkeyDev/init.vim
-- https://github.com/yutkat/dotfiles/blob/master/.config/nvim/init.lua
 - https://github.com/lilydjwg/dotvim
-- https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/
 - https://github.com/jchassoul/dotfiles/blob/master/config/vim/vimrc
 - https://github.com/siduck76/neovim-dots
 - https://github.com/rmagatti/auto-session
@@ -402,10 +433,15 @@
 - https://github.com/crivotz/nv-ide
 - Damn good luarc: https://github.com/ChristianChiarulli/LunarVim
 - https://gitlab.com/famiu/dot-nvim/
+- https://github.com/numToStr/dotfiles
+- https://github.com/ThePrimeagen/.dotfiles/
+- https://github.com/tjdevries/config_manager/tree/master/xdg_config/nvim/
+- https://github.com/yutkat/dotfiles/blob/master/.config/nvim/init.lua
 - https://www.reddit.com/r/neovim/comments/o3ia0b/recommend_config_repos_that_i_can_use_to/
-
+- https://github.com/Blacksuan19/init.nvim
 
 ## Emacs:
+
 - https://alpha2phi.medium.com/emacs-beginner-configuration-9578dbe71d03
 - https://alpha2phi.medium.com/emacs-lsp-and-dap-7c1786282324
 - https://emacs-lsp.github.io/lsp-mode/
