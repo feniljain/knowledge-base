@@ -35,12 +35,15 @@
 - https://www.bmc.com/blogs/kubernetes-crd-custom-resource-definitions/
 - https://medium.com/pragmatic-programmers/create-custom-controllers-with-metacontroller-5aca3f951dc7
 - https://betterprogramming.pub/building-a-highly-available-kubernetes-operator-using-golang-fe4a44c395c2
+- https://medium.com/free-code-camp/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4
+- https://blog.getambassador.io/kubernetes-labels-vs-annotations-95fc47196b6d(Summer of kubernetes info containing blog)
 
 ## Blog series:
 
 - https://dev.to/vascoalramos/learning-kubernetes-concepts-part-1-pb0
 - https://iximiuz.com/en/
 - https://itnext.io/kubernetes-explained-deep-enough-1ea2c6821501
+- https://dev.to/aveuiller/kubernetes-apprentice-cookbook-4j6h
 
 ## Reddit and twitter threads:
 
@@ -71,6 +74,8 @@
 - https://github.com/hasheddan/k8scr
 - https://github.com/eldadru/ksniff
 - https://github.com/up9inc/mizu
+- https://github.com/pixie-labs/pixie
+- https://github.com/armosec/kubescape
 
 ## Tools:
 

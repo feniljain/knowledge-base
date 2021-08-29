@@ -32,6 +32,7 @@
 - https://en.wikipedia.org/wiki/Fast_flux
 - https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/
 - https://www.comparitech.com/net-admin/webdav/
+- https://leshow.github.io/post/nailgun/
 
 ## Repos:
 

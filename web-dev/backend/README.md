@@ -59,6 +59,7 @@
 - https://blog.bitsrc.io/why-is-nanoid-replacing-uuid-1b5100e62ed2
 - https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304
 - https://dev.to/logrocket/optimize-node-js-performance-with-clustering-7ki
+- https://tech.goibibo.com/goflow-a-graph-based-solution-to-building-microservice-c1878a79406d
 
 ## Reddits and twitter threads:
 

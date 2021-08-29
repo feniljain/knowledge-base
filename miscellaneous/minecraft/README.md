@@ -1,5 +1,8 @@
 <h2 align="center">Minecraft</h2>
 
+## Blogs and articles:
+ - https://medium.com/@michalkowal567/drinking-coffee-and-developing-minecraft-server-in-golang-47cfc8d6955e
+
 ## Videos:
 
 - Early game farms: https://www.youtube.com/watch?v=UNpOB_5mRHc

@@ -32,6 +32,7 @@
 - https://daqo.medium.com/facebook-senior-software-engineer-interview-the-only-post-youll-need-to-read-e4604ff2336d
 - https://medium.com/on-technology/describing-software-engineers-swes-ff2b4a407f98
 - https://www.reddit.com/r/leetcode/comments/j6a6fr/suggestions_for_system_design_prep/
+- https://www.reddit.com/r/learnprogramming/comments/ol7p7e/leetcode_company_wise_questions_pdf/
 - https://medium.com/geekculture/top-10-system-design-interview-questions-10f7b5ea123d
 - https://medium.com/illumination/the-responses-i-got-from-a-software-developer-candidate-that-made-me-hire-him-98ff8bf01298
 - https://medium.com/swlh/10-amusing-red-flags-during-a-software-engineering-interview-af7e98b717c3
@@ -44,6 +45,8 @@
 - https://medium.com/geekculture/what-impresses-me-when-interviewing-software-engineers-8367f8425a2
 - https://rooting-for-you.cenedella.com/what-google-looks-for-in-a-technical-resume-c668c55170c
 - https://dev.to/thawkin3/what-i-look-for-when-hiring-senior-software-engineers-4a6j
+- https://bayareabelletrist.medium.com/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656
+- https://aphyr.com/posts/342-typing-the-technical-interview
 
 ## Videos:
 

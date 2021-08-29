@@ -43,6 +43,7 @@
 - https://medium.com/prooftrading/proof-engineering-the-message-bus-a7cc84e1104b
 - https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4
 - https://medium.com/swlh/an-efficient-framework-to-approach-system-design-problems-cf058f614a84
+- https://levelup.gitconnected.com/system-design-interview-distributed-top-k-frequent-elements-in-stream-2e92d63d777e
 
 ## Repos:
 

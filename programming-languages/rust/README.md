@@ -83,6 +83,12 @@
 - https://dev.to/seanchen1991/the-story-of-tail-call-optimizations-in-rust-35hf
 - https://dev.to/mdoerner/emulating-abstract-base-classes-in-rust-3ai6
 - https://blog.rust-lang.org/2021/08/03/GATs-stabilization-push.html
+- https://towardsdatascience.com/write-better-match-statements-in-rust-7458402afacd
+- http://smallcultfollowing.com/babysteps/blog/2018/11/01/after-nll-interprocedural-conflicts/
+- https://lazy.codes/posts/awesome-unstable-rust-features/
+- https://blog.yoshuawuyts.com/async-overloading/
+- https://blog.adamchalmers.com/pin-unpin/
+- https://matklad.github.io/2021/08/22/large-rust-workspaces.html
 
 ### Tutorials:
 
@@ -163,6 +169,7 @@
 - Deploying rust on kubernetes: https://www.youtube.com/watch?v=bK542nqn8I0
 - https://dev.to/rogertorres/first-steps-with-docker-rust-30oi
 - https://itnext.io/rust-jvm-ab4de9f14eb6
+- https://dev.to/aviillouz/writing-a-lambda-with-rust-using-aws-lambda-rust-runtime-and-aws-sdk-rust-1aln
 
 ### Language general:
 
@@ -179,6 +186,12 @@
 - https://dev.to/zhanghandong/rust-concept-clarification-deref-vs-asref-vs-borrow-vs-cow-13g6
 - https://edgarluque.com/blog/rust-dbg-macro
 - https://dev.to/rogertorres/first-steps-with-rust-declarative-macros-1f8m
+- https://stegosaurusdormant.com/understanding-derive-clone/
+- https://doc.rust-lang.org/rust-by-example/flow_control/loop/nested.html
+- https://devblog.arcana.rs/scoped-arena-allocator
+- https://blog.hendrikmaus.dev/rust-unwrap-options-in-a-function-that-returns-a-result-type/
+- https://alexis-lozano.com/hexagonal-architecture-in-rust-1/
+- https://desilva.io/posts/rust-trait-objects-demystified
 
 ### Others:
 
@@ -258,6 +271,7 @@
 - https://carllerche.com/2021/06/17/six-ways-to-make-async-rust-easier/
 - https://sixtyfps.io/blog/introducing-cargo-ui.html
 - https://www.eurekalert.org/pub_releases/2021-07/su-cs071521.php
+- Cross compiling windows binaries from linux: https://jake-shadle.github.io/xwin/
 
 ## Blog Series:
 
@@ -383,6 +397,7 @@
 - Building a multithreaded Flutter + Rust App integrating both with Bloc/Cubit and Rid: https://www.youtube.com/watch?v=PGKBdxOA6Xs
 - End-to-end encrypted messaging in rust: https://www.youtube.com/watch?v=jKvIeQFZKLc
 - Creating AWS lambda in rust: https://www.youtube.com/watch?v=PmtwtK6jyLc
+- Why you should not use rust: https://www.youtube.com/watch?v=S3fAmfbiNk8
 
 ## YT and Twitch Project channels/Playlists:
 
@@ -499,6 +514,7 @@
 - https://www.gregchapple.com/blog/rust-compiler-walkthrough-introduction/
 - https://www.gregchapple.com/blog/contributing-to-the-rust-compiler/
 - https://dev.to/xphoniex/adding-our-own-custom-statement-to-rust-language-30lc
+- https://github.com/lalrpop/lalrpop
 
 ## Rust and security
 

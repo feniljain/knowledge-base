@@ -91,6 +91,10 @@
 - http://xahlee.info/UnixResource_dir/writ/unix_origin_of_dot_filename.html
 - https://medium.com/swlh/linux-zero-copy-using-sendfile-75d2eb56b39b
 - https://betterprogramming.pub/a-deep-dive-into-linux-permissions-6e5a5a640160
+- https://medium.com/@deepray491/linux-booting-process-cc141e6d68c8/
+- https://douglasmakey.medium.com/socket-sharding-in-linux-example-with-go-b0514d6b5d08
+- memfd_secret() syscall: https://lwn.net/Articles/865256/
+- Using KLEE on rust-for-linux: https://project-oak.github.io/rust-verification-tools/2021/08/22/rust-on-linux-1.html
 
 ### Others:
 
@@ -113,6 +117,7 @@
 - https://alpha2phi.medium.com/ligature-fonts-for-terminal-vs-code-neovim-and-emacs-1187c6987491
 - https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/
 - https://ejpcmac.net/blog/about-using-nix-in-my-development-workflow/
+- https://wiki.gnome.org/Projects/GnomeShell/CheatSheet
 
 ## Blog series:
 
@@ -156,6 +161,7 @@
 - https://github.com/vifm/vifm-colors
 - https://tmate.io/
 - Terminal on browser: https://github.com/skanehira/rtty
+- Managing shell commands: https://github.com/Nukesor/pueue
 
 ### Others:
 
@@ -187,6 +193,7 @@
 - https://github.com/trimstray/test-your-sysadmin-skills
 - https://github.com/tokio-rs/io-uring
 - Inner working of linux: https://github.com/0xAX/linux-insides
+- https://lists.gnu.org/archive/html/grub-devel/2021-08/msg00099.html
 
 ## Terminal tools I use:
 
@@ -300,35 +307,55 @@
 - Adding polybar to i3: https://www.youtube.com/watch?v=cLB008-FJ5o
 - https://github.com/marioortizmanero/polybar-pulseaudio-control
 - https://www.reddit.com/r/i3wm/comments/ocqu49/moving_scratchpad_windows_back_and_forth/
+- https://github.com/Zeioth/i3blocks-contrib/tree/master/volume-pipewire
 
 ## eBPF:
 
-- https://github.com/zoidbergwill/awesome-ebpf
-- https://blog.redsift.com/labs/writing-bpf-code-in-rust/
-- eBPF Book: http://www.brendangregg.com/bpf-performance-tools-book.html
-- https://jvns.ca/blog/2018/02/05/rust-bcc/
-- https://github.com/alessandrod/bpf-linker
-- https://confused.ai/
-- https://github.com/alessandrod/snuffy/blob/master/src/main.rs
-- https://github.com/jvns/rust-bcc/blob/f15d2983ddbe349aac3d2fcaeacf924a66db4be7/examples/strlen.rs
-- https://github.com/nacardin/ebpf-proxy/blob/master/echo/src/main_ebpf.rs
-- https://github.com/iovisor/bpftrace
-- https://github.com/alessandrod/bpf_examples/blob/master/src/trace_http/main.rs
-- https://github.com/jvns/rust-bcc
-- https://github.com/iovisor/bcc/blob/master/examples/tracing/strlen_count.py
-- http://terenceli.github.io/%E6%8A%80%E6%9C%AF/2020/01/18/ebpf-in-c
-- https://sysdig.com/blog/the-art-of-writing-ebpf-programs-a-primer/
-- http://unhandledexpression.com/general/rust/2018/02/02/poc-compiling-to-ebpf-from-rust.html
-- https://bolinfest.github.io/opensnoop-native/
-- https://docs.cilium.io/en/latest/bpf/
-- https://www.iovisor.org/technology/xdp
-- https://www.kernel.org/doc/Documentation/kprobes.txt
-- https://github.com/aquasecurity/tracee
-- https://github.com/iovisor/bpftrace
-- https://www.reddit.com/r/rust/comments/ojzc3z/implementation_of_an_ebpf_memory_profiler_has/
-- https://www.reddit.com/r/kernel/comments/oks79i/a_beginners_guide_to_ebpf_programming_with_go/
-- https://www.reddit.com/r/kernel/comments/osmf08/esbpf_embedded_smallest_bpf_framework/
-- https://www.trailofbits.com/post/all-your-tracing-are-belong-to-bpf
-- https://www.isovalent.com/blog/post/2021-08-ebpf-foundation-announcement
-- https://cloudblogs.microsoft.com/opensource/2021/05/10/making-ebpf-work-on-windows/
-- https://github.com/Microsoft/ebpf-for-windows
+### Websites:
+
+    - https://confused.ai/
+
+### Blogs and articles:
+
+    - https://blog.redsift.com/labs/writing-bpf-code-in-rust/
+    - https://jvns.ca/blog/2018/02/05/rust-bcc/
+    - http://terenceli.github.io/%E6%8A%80%E6%9C%AF/2020/01/18/ebpf-in-c
+    - https://sysdig.com/blog/the-art-of-writing-ebpf-programs-a-primer/
+    - http://unhandledexpression.com/general/rust/2018/02/02/poc-compiling-to-ebpf-from-rust.html
+    - https://bolinfest.github.io/opensnoop-native/
+    - https://docs.cilium.io/en/latest/bpf/
+    - https://www.iovisor.org/technology/xdp
+    - https://www.kernel.org/doc/Documentation/kprobes.txt
+    - https://www.trailofbits.com/post/all-your-tracing-are-belong-to-bpf
+    - https://www.isovalent.com/blog/post/2021-08-ebpf-foundation-announcement
+    - https://cloudblogs.microsoft.com/opensource/2021/05/10/making-ebpf-work-on-windows/
+    - https://blog.px.dev/cpu-profiling-3/
+
+### Books:
+
+    - eBPF Book: http://www.brendangregg.com/bpf-performance-tools-book.html
+
+### Repos:
+
+    - https://github.com/zoidbergwill/awesome-ebpf
+    - https://github.com/alessandrod/bpf-linker
+    - https://github.com/alessandrod/snuffy/blob/master/src/main.rs
+    - https://github.com/jvns/rust-bcc/blob/f15d2983ddbe349aac3d2fcaeacf924a66db4be7/examples/strlen.rs
+    - https://github.com/nacardin/ebpf-proxy/blob/master/echo/src/main_ebpf.rs
+    - https://github.com/iovisor/bpftrace
+    - https://github.com/alessandrod/bpf_examples/blob/master/src/trace_http/main.rs
+    - https://github.com/jvns/rust-bcc
+    - https://github.com/iovisor/bcc/blob/master/examples/tracing/strlen_count.py
+    - https://github.com/aquasecurity/tracee
+    - https://github.com/iovisor/bpftrace
+    - https://github.com/Microsoft/ebpf-for-windows
+    - https://github.com/kentik/convis
+
+### Reddit and twitter threads:
+
+    - https://www.reddit.com/r/rust/comments/ojzc3z/implementation_of_an_ebpf_memory_profiler_has/
+    - https://www.reddit.com/r/kernel/comments/oks79i/a_beginners_guide_to_ebpf_programming_with_go/
+    - https://www.reddit.com/r/kernel/comments/osmf08/esbpf_embedded_smallest_bpf_framework/
+
+### Videos:
+    - eBPF superpowers from liz rice: https://www.youtube.com/watch?v=4SiWL5tULnQ

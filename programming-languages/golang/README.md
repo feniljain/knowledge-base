@@ -14,6 +14,8 @@
 - https://medium.com/@geisonfgfg/functional-go-bc116f4c96a4
 - https://betterprogramming.pub/naming-conventions-in-go-short-but-descriptive-1fa7c6d2f32a
 - https://stonecode.ca/global-variables-arent-the-problem/
+- https://bitfieldconsulting.com/golang/generics
+- https://threedots.tech/post/common-anti-patterns-in-go-web-applications/
 
 ### Tutorials:
 
@@ -58,6 +60,7 @@
 - https://blog.usejournal.com/raft-consensus-algorithm-implementation-with-go-d0f9bf4472a0
 - https://ketansingh.me/posts/pipeline-pattern-in-go-part-1/
 - https://www.samlewis.me/2021/07/creating-mesh-vpn-tool-for-fun/
+- https://medium.com/@amitdavidson234/write-a-static-code-analysis-tool-for-detecting-race-conditions-e05a49692ab1
 
 ### Architecture:
 
@@ -210,6 +213,7 @@
 - Creating github actions with golang: https://www.youtube.com/watch?v=8IgNY8QT3vk
 - Featherweight Go: https://www.youtube.com/watch?v=Sw53HGyCGcU
 - Using delve: https://www.youtube.com/watch?v=r033vEzL6a4&t=627s&ab_channel=BryanEnglish
+- Runes in Detail: https://www.youtube.com/watch?v=7isCXLWPTqI
 
 ## Go in prod:
 
@@ -332,6 +336,7 @@
 - Updating the go memory model: https://research.swtch.com/gomm
 - https://tpaschalis.github.io/golang-len/
 - https://golang.org/src/cmd/compile/README
+- Why go did not go forward with LLVM and chose Plan9 compiler from russ coxx: https://news.ycombinator.com/item?id=8817990
 
 # Go Learning:
 
@@ -344,6 +349,10 @@
 - Resources collected over 3 years: https://www.reddit.com/r/golang/comments/n5ppx5/some_resources_that_have_helped_me_learn_golang/
 - https://dev.to/moficodes/go-crash-course-part-1-18h1
 - https://kush01.hashnode.dev/resources-for-learning-go
+- https://www.alexedwards.net/blog/
+
+## Blog Series
+- Learn Go By Example: https://dev.to/aurelievache/series/13751
 
 ## Courses:
 

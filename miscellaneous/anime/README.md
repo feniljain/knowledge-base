@@ -10,7 +10,6 @@
 - Gundam Destiny
 - Eureka 7
 - astra lost in space
-- Slam dunk
 - Galactic Armored Fleet Majestic Prince: Genetic Awakening
 - bacano
 - Diamond no ace
@@ -72,7 +71,6 @@
 - Hellsing/Hellsing UT
 - Drifters
 - Maidens of the savage
-- Fruits Basket
 - The day I became a god
 - Wotakoi
 - Toaru Majutsu no Index III
@@ -129,6 +127,7 @@
 - Sword of a stranger: Movie action
 - Inuyashiki
 - yu yu hakusho(like hunter X hunter)
+- Fog hill of five elements
 
 ## Shounen:
 
@@ -138,6 +137,7 @@
 
 ## Fiction & Mystery & Psychological:
 
+- Shiguang Dailiren
 - Blue Exorcist
 - Kakegurui
 - Tokyo Ghoul
@@ -195,7 +195,7 @@
 - Kakushigoto
 - Barakamom
 - 3D kanojo: Real Girl
-- Sing "yesterday for me"
+- Sing "yesterday" for me
 - Aoi bungaku: No longer human
 - chihayafuru
 - Colorful
@@ -203,10 +203,11 @@
 - Fate series
 - Snow white with the red hair
 - Oresuki
+- Fruits basket
+- Koe no kanata
 
 ## Sports:
 
-- Slam dunk
 - Stars align
 - Free!
 
@@ -369,3 +370,5 @@
 - Banana Fish
 - Tatami Galaxy
 - Golden Time
+- Oddtaxi
+- Bleach

@@ -94,6 +94,8 @@
 - Making plugins with vim: https://alpha2phi.medium.com/using-vim-neovim-for-presentation-9d38a7ce6dc1
 - Using vim abbrevations: https://jovica.org/posts/vim_abbreviations/
 - Vim wallpapers: https://imgur.com/a/jG6AiQE
+- https://blog.kdheepak.com/loading-a-rust-library-as-a-lua-module-in-neovim.html
+- A guide for every vim level user: https://dev.to/phantas0s/a-vim-guide-for-veteran-users-3p50
 
 ## Blog series:
 

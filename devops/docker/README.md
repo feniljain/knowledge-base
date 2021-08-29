@@ -26,6 +26,7 @@
 - https://dev.to/karanpratapsingh/introduction-to-dockerize-series-28l1jik
 - https://dev.to/karanpratapsingh/art-of-building-small-containers-3g6c
 - https://dev.to/andreidascalu/make-containers-small-again-3lgg
+- https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf
 
 ## Interesting Images:
 
@@ -45,3 +46,5 @@
 - https://github.com/docker/awesome-compose
 - https://github.com/enspirit/makefile-for-monorepos
 - https://github.com/aquasecurity/trivy
+- https://github.com/lizrice/containers-from-scratch
+- Top-like interface for container metrics: https://github.com/bcicen/ctop

@@ -37,6 +37,9 @@
 - https://stackoverflow.com/questions/1669/learning-to-write-a-compiler
 - https://gcc.gnu.org/wiki/ListOfCompilerBooks
 - https://joshvarty.com/2015/09/18/learn-roslyn-now-part-13-keeping-track-of-syntax-nodes-with-syntax-annotations/
+- https://blog.matthieud.me/2020/exploring-clang-llvm-optimization-on-programming-horror/
+- https://rust-analyzer.github.io/blog/2019/11/13/find-usages.html
+- https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/
 
 ## Blog series:
 
@@ -53,6 +56,7 @@
 - https://github.com/vtudose/Let-s-build-a-compiler
 - https://github.com/returntocorp/semgrep
 - A miniature model of the Typescript compiler, intended to teach the structure of the real Typescript compiler: https://github.com/sandersn/mini-typescript
+- LR(1) parser generator for Rust: https://github.com/lalrpop/lalrpop
 
 ## Courses:
 

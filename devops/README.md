@@ -55,6 +55,7 @@
 - https://www.confluent.io/blog/how-kafka-is-used-by-netflix/
 - https://www.lastweekinaws.com/blog/is-aws-certification-worth-it-weighing-all-the-factors/
 - https://betterprogramming.pub/a-cloud-migration-questionnaire-for-solution-architects-dec7ffcf063e
+- https://dev.to/grayhat/devops-101-introduction-to-ansible-1n64
 
 ## Videos:
 
@@ -81,6 +82,10 @@
 - https://github.com/binhnguyennus/awesome-scalability/
 - https://github.com/actions/virtual-environments
 - https://github.com/bregman-arie/howtheydevops
+
+## Courses:
+
+- https://www.edx.org/course/introduction-to-devops-and-site-reliability-engineering
 
 ## Reddit threads:
 

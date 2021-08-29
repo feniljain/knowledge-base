@@ -59,6 +59,7 @@
 - Complete js library for whatsapp: https://github.com/orkestral/venom
 - https://www.c-sharpcorner.com/uploadfile/e70b61/how-to-create-thumbnails-of-images-stored-in-database/
 - https://github.com/30-seconds/30-seconds-of-code
+- https://github.com/basarat/typescript-book
 
 ## APIs:
 
