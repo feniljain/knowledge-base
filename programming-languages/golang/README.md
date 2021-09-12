@@ -159,6 +159,8 @@
 - https://medium.com/a-journey-with-go/go-goroutine-leak-detector-61a949beb88
 - https://teivah.medium.com/introducing-rxgo-v2-e7e369faa99a
 - https://tarithj.medium.com/creating-small-go-lang-executables-78cf117e8b33
+- https://neilalexander.dev/2021/08/29/go-pass-by-value.html
+- https://golang.design/research/zero-alloc-call-sched/
 
 ## Blog Series:
 
@@ -282,6 +284,7 @@
 - https://github.com/drakkan/sftpgo
 - Host your own go proxy: https://docs.gomods.io/
 - https://github.com/nikolaydubina/go-recipes
+- Busy Developer's Guide to Go Profiling, Tracing and Observability: https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md
 
 ## Packages:
 
@@ -352,6 +355,7 @@
 - https://www.alexedwards.net/blog/
 
 ## Blog Series
+
 - Learn Go By Example: https://dev.to/aurelievache/series/13751
 
 ## Courses:
@@ -370,4 +374,3 @@
 - https://github.com/Alikhll/golang-developer-roadmap
 - https://github.com/smileisak/go-training
 - Awesome collection of learning resources: https://github.com/inancgumus/learngo
-

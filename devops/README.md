@@ -41,8 +41,7 @@
 - https://aws.amazon.com/blogs/opensource/announcing-the-general-availability-of-bottlerocket-an-open-source-linux-distribution-purpose-built-to-run-containers/
 - https://iximiuz.com/en/posts/container-networking-is-simple/
 - https://towardsdev.com/why-proxy-pattern-9422c76caee7
-- https://blog.cloudflare.com/route-leak-detection/
-- https://blog.codecentric.de/en/2021/03/fargate-with-efs-and-aurora-serverless-using-aws-cdk/
+- https://blog.cloudflare.com/route-leak-detection/ https://blog.codecentric.de/en/2021/03/fargate-with-efs-and-aurora-serverless-using-aws-cdk/
 - https://betterprogramming.pub/solutions-architect-tips-the-5-types-of-architecture-diagrams-eb0c11996f9e
 - https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116
 - https://blog.hotstar.com/hotstars-journey-from-ec2-to-containers-86ea4e4880fd
@@ -94,3 +93,6 @@
 - https://www.reddit.com/r/devops/comments/mwt294/best_strategy_to_dynamically_create_and_deploy/
 - https://www.reddit.com/r/devops/comments/mx1ms5/strategy_for_securing_docker_images_before_pushed/
 
+## AWS:
+
+- https://medium.com/nerd-for-tech/system-design-choosing-between-aws-kinesis-and-aws-sqs-2586c814be8d

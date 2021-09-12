@@ -192,6 +192,8 @@
 - https://blog.hendrikmaus.dev/rust-unwrap-options-in-a-function-that-returns-a-result-type/
 - https://alexis-lozano.com/hexagonal-architecture-in-rust-1/
 - https://desilva.io/posts/rust-trait-objects-demystified
+- https://lucamoller.medium.com/rust-doesnt-support-default-function-arguments-or-does-it-99c652baca8
+- Insightful article on lifetimes: https://kerkour.com/blog/rust-avoid-lifetimes/
 
 ### Others:
 
@@ -571,4 +573,3 @@
 - Easy Rust: https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
 - Overview of rust(4 part series): https://www.youtube.com/watch?v=gesNaLkUJeA&list=PLP2yfE2-FXdQmXLvrQ5QN64enbF_KCYQW
 - Beginner series to rust by microsoft: https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x
-

@@ -131,6 +131,7 @@
 - https://jhey.dev
 - https://web.dev/learn/css/
 - https://layout.bradwoods.io/
+- Generate wavy dividers with ease: https://wavier.art/
 
 ## Blogs And Articles:
 
@@ -151,4 +152,4 @@
 - https://www.quirksmode.org/blog/archives/2021/06/inherit_initial.html
 - https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/
 - https://ishadeed.com/article/custom-scrollbars-css/
-
+- https://www.smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/

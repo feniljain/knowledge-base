@@ -81,6 +81,7 @@
 - DuckDuckGo Privacy Essentials(disabled currently)
 - Adblock
 - Grammar and Spell Checker - LanguageTool
+- Gruvbox(Dark)
 
 ## Books:
 
@@ -103,7 +104,8 @@
 - https://github.com/koreader/koreader
 - Convert yt playlist to spotify playlist: https://github.com/roshanlam/SpotMusicGen/
 - Anime CLI: https://github.com/pystardust/ani-cli
-- Firefox customization script: https://github.com/MrOtherGuy/firefox-csshacks
+- Collection of Firefox customization scripts: https://github.com/MrOtherGuy/firefox-csshacks
+- Gruvbox for complete firefox: https://github.com/FirefoxCSSThemers/GruvFox
 
 ## Free Creds:
 

@@ -109,6 +109,7 @@
 - https://onezero.medium.com/ctrl-alt-delete-the-planned-obsolescence-of-old-coders-9c5f440ee68
 - https://www.reddit.com/r/learnprogramming/comments/ooyifv/what_are_some_of_the_gaps_in_knowledge_from_self/
 - https://dev.to/adiatiayu/project-collaboration-and-pair-programming-4be6
+- https://medium.com/the-shadow/what-is-the-best-mechanical-keyboard-switch-for-typing-c9abeb7ea1d8
 
 ## Blog Series:
 
@@ -175,6 +176,7 @@
 - https://github.com/bndw/wifi-card
 - A community-maintained Python framework for creating mathematical animations: https://github.com/ManimCommunity/manim
 - https://github.com/tbillington/kondo
+- A self-hosted, ad-free, privacy respecting metasearch engine: https://github.com/benbusby/whoogle-search
 
 ## Extensions:
 

@@ -80,12 +80,13 @@
 
 ## Devops interviews:
 
--  Assorted interview questions (across networking, Linux, OS internals, AWS, Docker, etc.): https://gist.github.com/kwilczynski/66fe48a1339454798af4152dd9c34a6e
+- Assorted interview questions (across networking, Linux, OS internals, AWS, Docker, etc.): https://gist.github.com/kwilczynski/66fe48a1339454798af4152dd9c34a6e
 
 ## Repos:
 
 - Awesome guide: https://github.com/jwasham/coding-interview-university
 - https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation
+- Curated interview preparation materials for busy engineers: https://github.com/yangshun/tech-interview-handbook
 
 ## Tweets:
 

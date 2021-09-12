@@ -60,6 +60,8 @@
 - https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304
 - https://dev.to/logrocket/optimize-node-js-performance-with-clustering-7ki
 - https://tech.goibibo.com/goflow-a-graph-based-solution-to-building-microservice-c1878a79406d
+- https://blog.devgenius.io/difference-between-throttling-and-debouncing-adf54f697d33
+- https://hackernoon.com/the-rest-of-the-10-commandments
 
 ## Reddits and twitter threads:
 

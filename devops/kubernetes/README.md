@@ -37,6 +37,9 @@
 - https://betterprogramming.pub/building-a-highly-available-kubernetes-operator-using-golang-fe4a44c395c2
 - https://medium.com/free-code-camp/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4
 - https://blog.getambassador.io/kubernetes-labels-vs-annotations-95fc47196b6d(Summer of kubernetes info containing blog)
+- https://medium.com/01001101/ephemeral-containers-the-future-of-kubernetes-workload-debugging-c5b7ded3019f
+- https://medium.com/@senthilrch/woot-kubernetes-adds-support-for-swap-memory-92541aad01a0
+- https://blog.devgenius.io/ultimate-kubernetes-resource-planning-guide-449a4fddd1d6
 
 ## Blog series:
 
@@ -76,6 +79,7 @@
 - https://github.com/up9inc/mizu
 - https://github.com/pixie-labs/pixie
 - https://github.com/armosec/kubescape
+- https://github.com/krustlet/krustlet
 
 ## Tools:
 

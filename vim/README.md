@@ -96,6 +96,7 @@
 - Vim wallpapers: https://imgur.com/a/jG6AiQE
 - https://blog.kdheepak.com/loading-a-rust-library-as-a-lua-module-in-neovim.html
 - A guide for every vim level user: https://dev.to/phantas0s/a-vim-guide-for-veteran-users-3p50
+- https://bluz71.github.io/2021/09/10/vim-tips-revisited.html
 
 ## Blog series:
 
@@ -414,6 +415,7 @@
 - https://github.com/Pocco81/HighStr.nvim
 - https://github.com/rcarriga/vim-ultest
 - https://github.com/jamestthompson3/nvim-remote-containers
+- Convert vscode themes into neovim colorschemes: https://github.com/arcticlimer/djanho
 
 ## VimRCs for reference:
 

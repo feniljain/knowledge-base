@@ -40,6 +40,7 @@
 - https://blog.matthieud.me/2020/exploring-clang-llvm-optimization-on-programming-horror/
 - https://rust-analyzer.github.io/blog/2019/11/13/find-usages.html
 - https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/
+- https://bellmar.medium.com/learning-almost-nothing-about-llvm-e6aea9b243d9
 
 ## Blog series:
 

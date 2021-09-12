@@ -31,6 +31,7 @@
 - https://1lib.in/s/linux%20networking
 - https://nosystemd.org/
 - https://www.memorysafety.org/
+- Linux Kernel Mentorship Program: https://wiki.linuxfoundation.org/lkmp
 
 ## Blogs and articles:
 
@@ -118,6 +119,7 @@
 - https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/
 - https://ejpcmac.net/blog/about-using-nix-in-my-development-workflow/
 - https://wiki.gnome.org/Projects/GnomeShell/CheatSheet
+- Optimizations for void linux: https://gist.github.com/themagicalmammal/e443d3c5440d566f8206e5b957ab1493
 
 ## Blog series:
 
@@ -141,6 +143,7 @@
 - https://levelup.gitconnected.com/5-super-handy-linux-commands-that-everyone-should-be-aware-of-a70b08d2c635
 - Nice collection of commands: https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/
 - https://gist.github.com/davejamesmiller/1965569
+- Bash scripting resources: https://www.reddit.com/r/linux4noobs/comments/pizkkq/any_good_resources_for_bash_scripting_for_this_new/
 
 ## Cheatsheets:
 
@@ -277,6 +280,7 @@
 - About init/initrd/initramfs: https://www.reddit.com/r/linuxquestions/comments/oct7gi/init_process/
 - https://www.reddit.com/r/linuxquestions/comments/ohaj1y/are_snap_packages_really_that_bad/
 - https://www.reddit.com/r/linuxquestions/comments/om0dok/is_it_possible_to_create_an_ethernet_hotspot/
+- https://www.reddit.com/r/linux/comments/plz81e/what_blogs_can_you_recommend_for_linux_free/
 
 ## Config Repos:
 
@@ -308,6 +312,7 @@
 - https://github.com/marioortizmanero/polybar-pulseaudio-control
 - https://www.reddit.com/r/i3wm/comments/ocqu49/moving_scratchpad_windows_back_and_forth/
 - https://github.com/Zeioth/i3blocks-contrib/tree/master/volume-pipewire
+- https://github.com/Pastel26/DotFiles/blob/main/.config/polybar
 
 ## eBPF:
 
@@ -358,4 +363,5 @@
     - https://www.reddit.com/r/kernel/comments/osmf08/esbpf_embedded_smallest_bpf_framework/
 
 ### Videos:
+
     - eBPF superpowers from liz rice: https://www.youtube.com/watch?v=4SiWL5tULnQ

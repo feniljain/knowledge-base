@@ -23,7 +23,7 @@
 - Suzumiya_Haruhi_no_Yuuutsu
 - Desperate
 - Shouwa_Genroku_Rakugo_Shinjuu
-\_\_Sukeroku_Futatabi
+  \_\_Sukeroku_Futatabi
 - Rakugo
 - Monogatari
 - Ghosthunt
@@ -109,6 +109,7 @@
 - Myriad Colors Phantom World
 - Angels of Death
 - Higehiro: after being rejected, I shaved and took in a highschool runaway
+- Jobless reincarnation
 
 ## Action and Thriller:
 
@@ -179,12 +180,11 @@
 - Boku to kimi no taisetsu na hanashi
 - Sukasuka
 - Kimi ni Todoke
-- Tomoko market
+- Tamako market
 - Tskuigakire
 - Masamune kuns revenge
 - The anthem of the heart
 - Kiznaiver
-- Wolf girl and Black Prince
 - Given
 - Wotaku ni Koi wa Muzukashii
 - Saenai Heroine no Sodatekata
@@ -205,6 +205,7 @@
 - Oresuki
 - Fruits basket
 - Koe no kanata
+- Wolf girl and Black Prince
 
 ## Sports:
 
@@ -372,3 +373,15 @@
 - Golden Time
 - Oddtaxi
 - Bleach
+- Tamako Market
+
+## Caught up Mangas:
+
+- Attack on titan
+- March comes in like a lion
+- Ao haru ride
+- Dorohedero
+- Black Clover
+- Slam dunk
+- Tokyo Ghoul
+- Promised Neverland

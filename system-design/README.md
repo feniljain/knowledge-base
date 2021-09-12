@@ -44,6 +44,12 @@
 - https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4
 - https://medium.com/swlh/an-efficient-framework-to-approach-system-design-problems-cf058f614a84
 - https://levelup.gitconnected.com/system-design-interview-distributed-top-k-frequent-elements-in-stream-2e92d63d777e
+- https://medium.com/tech-cubyn/how-we-achieved-99-99-availability-rate-thanks-to-smart-retry-505cc03901b5
+- https://netflixtechblog.com/keeping-netflix-reliable-using-prioritized-load-shedding-6cc827b02f94
+- https://levelup.gitconnected.com/system-design-interview-all-or-none-ordered-peer-to-peer-broadcast-45b33fb2f6be
+- https://medium.com/omarelgabrys-blog/consistent-hashing-beyond-the-basics-525304a12ba
+- https://manishs-kth.medium.com/slack-system-design-interview-2f21fbc3cb60
+- System design interview roadmap and resources: https://medium.com/coderbyte/system-design-interview-roadmap-and-resources-e22d702b44da
 
 ## Repos:
 
@@ -55,6 +61,7 @@
 
 - https://www.digitalocean.com/blog/tag/engineering
 - https://berndruecker.io/
+- https://medium.com/mastering-the-system-design-interview/system-design-series-400aeef711de
 
 ## Books:
 

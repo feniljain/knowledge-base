@@ -36,6 +36,7 @@
 - https://www.reddit.com/r/Fuchsia/comments/mmbefx/dart_ui_ram_usage/
 - https://medium.com/litslink/flutter-desktop-application-tutorial-3493385e31f3
 - https://matejknopp.com/post/introducing-nativeshell/
+- https://www.reddit.com/r/FlutterDev/comments/phpbpj/is_there_a_database_like_firebase_which_can_be/
 
 ## Flutter internals:
 
@@ -68,7 +69,11 @@
 
 - ClojureDart, flutter in clojure: https://twitter.com/_eseidel/status/1350843738327707650
 
-# HIPPY:
+## Telegram:
+
+- https://ift.tt/2X7CZT1
+
+# Hippy:
 
 - https://github.com/Tencent/Hippy
 
@@ -88,4 +93,3 @@
 - https://github.com/airbnb/mavericks
 - https://github.com/google/accompanist
 - https://github.com/florinpop17/app-ideas
-

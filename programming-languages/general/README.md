@@ -27,6 +27,7 @@
 - https://medium.com/swlh/provider-model-in-go-and-why-you-should-use-it-clean-architecture-1d84cfe1b097
 - https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0
 - https://towardsdatascience.com/type-safety-in-data-parsers-using-pyspark-a81093b4fe03
+- https://blog.sunfishcode.online/broken-encapsulation/
 
 ## Repos:
 
@@ -129,6 +130,7 @@
 - https://medium.com/swlh/doing-it-the-functional-way-in-c-5c392bbdd46a
 - https://dane-bulat.medium.com/cmake-how-to-inspect-and-configure-the-compiler-877e6cb0317f
 - https://www.fluentcpp.com/2018/09/04/function-poisoning-in-cpp/
+- Learning CPP: https://www.reddit.com/r/rust/comments/phybjq/could_you_recommend_a_rust_book_thats_phase/
 
 ### Repos:
 
@@ -143,4 +145,3 @@
 ### Blogs and articles:
 
 - https://medium.com/swlh/zig-the-introduction-dcd173a86975
-

@@ -43,6 +43,7 @@
 - https://dev.to/pb/git-squash-simplified-3ba1
 - https://itnext.io/advanced-git-features-you-didnt-know-you-needed-ed8455c45495
 - https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/
+- https://stackoverflow.com/questions/3103589/how-can-i-easily-fixup-a-past-commit
 
 ## Interesting git configs:
 

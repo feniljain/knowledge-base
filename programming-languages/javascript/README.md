@@ -44,6 +44,7 @@
 - https://cmsinstallation.blogspot.com/2021/05/new-features-of-javascript-2021.html
 - https://dev.to/gurshehzadsingh/10-npm-commands-that-every-developer-must-know-4gmn
 - https://dev.to/djamaile/how-i-structure-my-react-ts-applications-2021-145j
+- https://medium.com/@warkiringoda/typescript-best-practices-2021-a58aee199661
 
 ### Tutorials:
 
@@ -79,4 +80,3 @@
 ## Learning:
 
 - https://www.freecodecamp.org/news/learn-typescript-with-this-crash-course/
-

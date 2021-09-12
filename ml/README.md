@@ -24,6 +24,7 @@
 
 ## Repos:
 
+- https://github.com/eugeneyan/applied-ml
 - resources for learning math behind ml, dl and rl: https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide
 - https://github.com/abhishekkrthakur/approachingalmost
 - https://thispersondoesnotexist.com/

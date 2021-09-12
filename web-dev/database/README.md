@@ -53,6 +53,7 @@
 - https://www.cargocultcode.com/what-does-first-normal-form-mean/
 - https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/
 - https://betterprogramming.pub/become-a-database-expert-by-knowing-the-pros-and-cons-of-lsm-tree-and-b-tree-engines-bbc7e24f040c
+- https://medium.com/swlh/design-considerations-in-a-read-local-write-local-multi-master-data-store-8ff16c9c120
 
 ## Blog Series:
 
