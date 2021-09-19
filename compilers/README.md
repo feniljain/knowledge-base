@@ -41,10 +41,12 @@
 - https://rust-analyzer.github.io/blog/2019/11/13/find-usages.html
 - https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/
 - https://bellmar.medium.com/learning-almost-nothing-about-llvm-e6aea9b243d9
+- LLVM no more has any fullform, its just LLVM lol: https://lists.llvm.org/pipermail/llvm-dev/2011-December/046445.html
 
 ## Blog series:
 
 - https://dev.to/cad97/crafting-ide-ready-compilers-500o
+- LLVM Internals: https://blog.yossarian.net/2021/09/14/LLVM-internals-part-3-from-bitcode-to-IR
 
 ## Reddit and twitter threads:
 

@@ -23,6 +23,7 @@
 - https://dev.to/melnik909/my-3-tips-about-flexbox-that-will-make-your-css-better-50g6
 - https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6
 - https://web.dev/optimize-vitals-lighthouse/
+- https://pragmaticpineapple.com/effective-profiling-in-google-chrome/
 
 ### Others:
 
@@ -132,6 +133,7 @@
 - https://web.dev/learn/css/
 - https://layout.bradwoods.io/
 - Generate wavy dividers with ease: https://wavier.art/
+- https://css-irl.info/
 
 ## Blogs And Articles:
 
@@ -153,3 +155,6 @@
 - https://www.smashingmagazine.com/2021/06/has-native-css-parent-selector/
 - https://ishadeed.com/article/custom-scrollbars-css/
 - https://www.smashingmagazine.com/2021/09/developer-decisions-building-flexible-components/
+- https://dev.to/shantanu_jana/glassmorphism-login-form-using-only-html-css-mia
+- SaaS crash course book: https://dev.to/codewithshahan/sass-crash-course-in-a-book-3kg2
+- https://charles-stover.medium.com/cache-your-react-event-listeners-to-improve-performance-14f635a62e15

@@ -27,6 +27,7 @@
 - https://en.wikipedia.org/wiki/Fast_flux
 - https://nowhereref.com/posts/please-dont-use-equal-operator-when-comparing-password-hashes/
 - https://hackernoon.com/juice-jacking-is-it-a-real-threat-4hw33ov0
+- https://hackernoon.com/what-is-url-masking-and-how-does-it-work
 
 ## Repos and tools:
 
@@ -45,3 +46,4 @@
 - https://github.com/vxunderground/MalwareSourceCode
 - https://github.com/distributedweaknessfiling/dwflist
 - https://github.com/rabbitstack/fibratus
+- https://github.com/jaykali/maskphish

@@ -40,6 +40,11 @@
 - https://medium.com/01001101/ephemeral-containers-the-future-of-kubernetes-workload-debugging-c5b7ded3019f
 - https://medium.com/@senthilrch/woot-kubernetes-adds-support-for-swap-memory-92541aad01a0
 - https://blog.devgenius.io/ultimate-kubernetes-resource-planning-guide-449a4fddd1d6
+- https://medium.com/geekculture/kubernetes-namespaces-vs-virtual-clusters-cc8731752972
+- https://medium.com/avitotech/running-istio-on-kubernetes-in-production-part-i-a8bbf7fec18e
+- https://medium.com/@ahmetb/mastering-kubeconfig-4e447aa32c75
+- https://dominik-tornow.medium.com/the-kubernetes-scheduler-cd429abac02f
+- https://levelup.gitconnected.com/kubernetes-monitoring-101-core-pipeline-services-pipeline-a34cd4cc9627
 
 ## Blog series:
 

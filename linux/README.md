@@ -32,6 +32,7 @@
 - https://nosystemd.org/
 - https://www.memorysafety.org/
 - Linux Kernel Mentorship Program: https://wiki.linuxfoundation.org/lkmp
+- https://kernelnewbies.org/
 
 ## Blogs and articles:
 
@@ -60,6 +61,7 @@
 - https://daniel.haxx.se/docs/curl-vs-wget.html
 - 50 ways to isolate traffic using tcpdump command: https://danielmiessler.com/study/tcpdump/
 - https://earthly.dev/blog/command-line-tools/
+- https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal/
 
 ### Linux working:
 
@@ -120,6 +122,7 @@
 - https://ejpcmac.net/blog/about-using-nix-in-my-development-workflow/
 - https://wiki.gnome.org/Projects/GnomeShell/CheatSheet
 - Optimizations for void linux: https://gist.github.com/themagicalmammal/e443d3c5440d566f8206e5b957ab1493
+- How to set benchmarking properly: https://easyperf.net/blog/2019/08/02/Perf-measurement-environment-on-Linux
 
 ## Blog series:
 
@@ -259,6 +262,7 @@
 - Wayland: https://www.youtube.com/watch?v=g1BoZnekkyM
 - Leaning awk: https://www.youtube.com/watch?v=9YOZmI-zWok
 - sed - find - cp - mv - xargs guide: https://www.youtube.com/watch?v=CyVV2FI7-DE
+- Rust for Linux: https://www.youtube.com/watch?v=VlSkZYBeK8Q
 
 ## Courses:
 
@@ -281,6 +285,7 @@
 - https://www.reddit.com/r/linuxquestions/comments/ohaj1y/are_snap_packages_really_that_bad/
 - https://www.reddit.com/r/linuxquestions/comments/om0dok/is_it_possible_to_create_an_ethernet_hotspot/
 - https://www.reddit.com/r/linux/comments/plz81e/what_blogs_can_you_recommend_for_linux_free/
+- https://www.reddit.com/r/linux4noobs/comments/pmqmey/can_i_save_my_data_in_a_ventoy_pendrive/
 
 ## Config Repos:
 
@@ -319,6 +324,7 @@
 ### Websites:
 
     - https://confused.ai/
+    - https://ebpf.io/
 
 ### Blogs and articles:
 
@@ -335,6 +341,8 @@
     - https://www.isovalent.com/blog/post/2021-08-ebpf-foundation-announcement
     - https://cloudblogs.microsoft.com/opensource/2021/05/10/making-ebpf-work-on-windows/
     - https://blog.px.dev/cpu-profiling-3/
+    - https://docs.cilium.io/en/stable/intro/#functionality-overview
+    - https://itnext.io/epbf-understanding-the-next-gen-networking-security-observability-for-cloud-native-workloads-1fe8ad87ee0f
 
 ### Books:
 
@@ -355,6 +363,7 @@
     - https://github.com/iovisor/bpftrace
     - https://github.com/Microsoft/ebpf-for-windows
     - https://github.com/kentik/convis
+    - eBPF verifier tool: https://github.com/torvalds/linux/blob/master/kernel/bpf/verifier.c
 
 ### Reddit and twitter threads:
 

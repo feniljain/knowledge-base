@@ -5,6 +5,7 @@
 - https://www.joelonsoftware.com/
 - https://www.eventbrite.com/e/design-patterns-5-weeks-with-uncle-bob-registration-135889155121?fbclid=IwAR2vtTQdQFU_4B-y05uqTV-l6DzDVNlddPQOJh1v8uo7R2bXQC4CBeVVU1k
 - SE diagramams: https://www.gleek.io/
+- https://0ver.org/
 
 ## Blogs and Articles:
 
@@ -27,7 +28,7 @@
 - https://medium.com/young-coder/the-devils-dictionary-of-software-design-8f4fab207808
 - https://medium.com/pragmatic-programmers/adopting-the-api-first-principle-9114a55d8db2
 - https://refactoring.guru/smells/long-parameter-list
-- https://0ver.org/
+- https://www.infoq.com/podcasts/software-architecture-hard-parts/
 
 ## Blogs Series:
 
@@ -40,4 +41,3 @@
 ## Books:
 
 - Scrum Book: https://medium.com/pragmatic-programmers/table-of-contents-88b09f36f711
-

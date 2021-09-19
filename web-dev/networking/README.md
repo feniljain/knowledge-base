@@ -5,6 +5,7 @@
 - https://hpbn.co/
 - https://http3-explained.haxx.se/
 - https://quic.cloud/
+- A TCP/IP reference you can understand(Contains a-z everything related to tcp/ip, all relating protocols, etc): http://www.tcpipguide.com/index.htm
 
 ## Blogs and Articles:
 
@@ -33,6 +34,9 @@
 - https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/
 - https://www.comparitech.com/net-admin/webdav/
 - https://leshow.github.io/post/nailgun/
+- https://gafferongames.com/post/why_cant_i_send_udp_packets_from_a_browser/#what-about-webrtc
+- https://leshow.github.io/post/dhcproto/
+- http://www.tcpipguide.com/free/t_DHCPGeneralOperationandClientFiniteStateMachine.htm
 
 ## Repos:
 

@@ -9,6 +9,7 @@
 - https://deepdives.medium.com/x86-64-4kbyte-page-translation-design-is-this-the-reason-why-pages-are-4096-bytes-aligned-19952a0a55f4
 - https://netflixtechblog.com/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690
 - https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html
+- https://jamesjdavis.medium.com/youtube-servers-switched-to-google-developed-argos-processors-5264dc2c8d84
 
 ## Repos:
 

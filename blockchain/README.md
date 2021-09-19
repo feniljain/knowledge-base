@@ -12,6 +12,7 @@
 - https://phychic-owl.medium.com/blockchain-in-rust-bf6f5783f8dd
 - https://bnjjj.medium.com/why-and-how-we-wrote-a-compiler-in-rust-blog-post-series-1-x-the-context-e2f83b10edb9
 - https://www.metachris.com/2021/05/creating-go-bindings-for-ethereum-smart-contracts/
+- https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291
 
 ### General:
 

@@ -62,6 +62,7 @@
 - https://tech.goibibo.com/goflow-a-graph-based-solution-to-building-microservice-c1878a79406d
 - https://blog.devgenius.io/difference-between-throttling-and-debouncing-adf54f697d33
 - https://hackernoon.com/the-rest-of-the-10-commandments
+- https://discord.com/blog/how-discord-handles-two-and-half-million-concurrent-voice-users-using-webrtc
 
 ## Reddits and twitter threads:
 

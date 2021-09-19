@@ -55,6 +55,12 @@
 - https://www.lastweekinaws.com/blog/is-aws-certification-worth-it-weighing-all-the-factors/
 - https://betterprogramming.pub/a-cloud-migration-questionnaire-for-solution-architects-dec7ffcf063e
 - https://dev.to/grayhat/devops-101-introduction-to-ansible-1n64
+- https://www.infoq.com/articles/service-mesh-ultimate-guide-2e/
+- https://medium.com/codex/implementing-service-discovery-for-microservices-df737e012bc2
+
+## Blog Series/Blog collections:
+
+- https://blog.stackpath.com/author/robertgibb/
 
 ## Videos:
 
@@ -81,6 +87,8 @@
 - https://github.com/binhnguyennus/awesome-scalability/
 - https://github.com/actions/virtual-environments
 - https://github.com/bregman-arie/howtheydevops
+- https://github.com/graviraja/MLOps-Basics
+- https://github.com/bregman-arie/devops-exercises
 
 ## Courses:
 
@@ -96,3 +104,5 @@
 ## AWS:
 
 - https://medium.com/nerd-for-tech/system-design-choosing-between-aws-kinesis-and-aws-sqs-2586c814be8d
+- AWS related blogs: https://awsteele.com/
+- https://medium.com/ancestry-engineering/the-big-problem-with-aws-fargate-and-autoscaling-194ed8a44cc1

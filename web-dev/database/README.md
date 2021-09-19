@@ -54,11 +54,16 @@
 - https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/
 - https://betterprogramming.pub/become-a-database-expert-by-knowing-the-pros-and-cons-of-lsm-tree-and-b-tree-engines-bbc7e24f040c
 - https://medium.com/swlh/design-considerations-in-a-read-local-write-local-multi-master-data-store-8ff16c9c120
+- https://betterprogramming.pub/scaling-sql-nosql-databases-1121b24506df
 
 ## Blog Series:
 
 - https://www.digitalocean.com/blog/
 - https://databasearchitects.blogspot.com/
+
+## Videos:
+
+- Time Series Database Lecture Series: https://m.youtube.com/watch?v=2SUBRE6wGiA&list=RDQMqZDZkuhXSmc&start_radio=1
 
 ## Tutorials:
 
@@ -93,6 +98,7 @@
 ## Reddit threads and tweets:
 
 - Some SQL Aggregate Functions that would come in handy : https://twitter.com/Sukriti_Macker/status/1405196069508587520
+- https://www.reddit.com/r/SQL/comments/pp53lr/fastest_way_to_learn_sql_and_some_database_design/
 
 ## Blogs and articles:
 

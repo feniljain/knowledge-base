@@ -26,6 +26,11 @@
 - https://tomaka.medium.com/the-future-of-operating-systems-efa31e17d66d
 - https://techdifferences.com/difference-between-microkernel-and-monolithic-kernel.html
 - https://en.wikipedia.org/wiki/Slab_allocation
+- https://gregoire-monet.medium.com/from-physical-ram-to-virtual-memory-cbb4cc8f98d2
+
+## Blog series/Articles collections:
+
+- Write an OS: ttps://arriqaaq.medium.com/writing-an-operating-system-the-boot-process-part-1-52123401053f
 
 ## Repos:
 

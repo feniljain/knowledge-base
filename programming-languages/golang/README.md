@@ -16,6 +16,8 @@
 - https://stonecode.ca/global-variables-arent-the-problem/
 - https://bitfieldconsulting.com/golang/generics
 - https://threedots.tech/post/common-anti-patterns-in-go-web-applications/
+- https://seankhliao.com/blog/12020-11-23-go-error-handling-proposals/
+- How to update APIs for generics: https://github.com/golang/go/discussions/48287
 
 ### Tutorials:
 
@@ -61,6 +63,8 @@
 - https://ketansingh.me/posts/pipeline-pattern-in-go-part-1/
 - https://www.samlewis.me/2021/07/creating-mesh-vpn-tool-for-fun/
 - https://medium.com/@amitdavidson234/write-a-static-code-analysis-tool-for-detecting-race-conditions-e05a49692ab1
+- https://poonai.github.io/posts/how-debuggers-works-part1/
+- https://douglasmakey.medium.com/socket-sharding-in-linux-example-with-go-b0514d6b5d08
 
 ### Architecture:
 
@@ -250,6 +254,7 @@
 - https://godbolt.org/
 - https://go101.org/article/101.html
 - https://www.practical-go-lessons.com/
+- https://goingwithgo.com/
 
 ## Repos and tools:
 

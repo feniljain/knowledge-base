@@ -34,6 +34,7 @@
 - https://www.memorysafety.org/
 - https://transitiontech.ca/random/RIIR
 - https://readrust.net/
+- https://ra-wasm.netlify.app/
 
 ## Blogs and Articles:
 
@@ -170,6 +171,10 @@
 - https://dev.to/rogertorres/first-steps-with-docker-rust-30oi
 - https://itnext.io/rust-jvm-ab4de9f14eb6
 - https://dev.to/aviillouz/writing-a-lambda-with-rust-using-aws-lambda-rust-runtime-and-aws-sdk-rust-1aln
+- https://kerkour.com/blog/shellcode-in-rust/
+- https://kerkour.com/blog/rust-http-long-polling/
+- https://preettheman.medium.com/lets-build-minecraft-with-rust-b5622af36041
+- https://johanhelsing.studio/posts/introducing-matchbox
 
 ### Language general:
 
@@ -194,6 +199,9 @@
 - https://desilva.io/posts/rust-trait-objects-demystified
 - https://lucamoller.medium.com/rust-doesnt-support-default-function-arguments-or-does-it-99c652baca8
 - Insightful article on lifetimes: https://kerkour.com/blog/rust-avoid-lifetimes/
+- https://joshchoo.com/writing/rust-lazy-async-operations
+- http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html
+- https://nullderef.com/blog/plugin-start/
 
 ### Others:
 
@@ -304,13 +312,13 @@
 - https://tylerneely.com/
 - https://blog.yoshuawuyts.com/
 - https://readrust.net/
+- https://owengage.com/writing/
 
 ## Repos:
 
 - Infomation useful to people contributing to rust: https://github.com/rust-lang/rust-forge
 - https://github.com/rust-lang/rustlings
 - https://github.com/not-yet-awesome-rust/not-yet-awesome-rust
-- full-stack projects: https://github.com/steadylearner/Rust-Full-Stack
 - https://sn99.github.io/rust-practise-questions/
 - https://cis198-2016f.github.io/schedule/
 - https://github.com/LorenzoGurri/rust-beginner-projects
@@ -371,6 +379,7 @@
 - RIIR of zircon in rust: https://github.com/rcore-os/zCore
 - HTTP mocking library library for Rust: https://github.com/alexliesenfeld/httpmock
 - Compile time static maps for Rust: https://github.com/rust-phf/rust-phf/
+- Solving i18n for client-side and resource-constrained environments: https://github.com/unicode-org/icu4x
 
 ## Videos:
 
@@ -400,6 +409,7 @@
 - End-to-end encrypted messaging in rust: https://www.youtube.com/watch?v=jKvIeQFZKLc
 - Creating AWS lambda in rust: https://www.youtube.com/watch?v=PmtwtK6jyLc
 - Why you should not use rust: https://www.youtube.com/watch?v=S3fAmfbiNk8
+- GhostCell: Separating Permissions from Data in Rust: https://www.youtube.com/watch?v=jIbubw86p0M
 
 ## YT and Twitch Project channels/Playlists:
 
@@ -486,6 +496,7 @@
 - A small and fast async runtime: https://lib.rs/crates/smol
 - https://cxx.rs/
 - https://crates.io/crates/tracing
+- Statically-checked alternatives to RefCell: https://docs.rs/qcell/0.4.2/qcell/
 
 ## Rust Internals:
 
@@ -544,6 +555,7 @@
 - How would you further organize the project structure of the web server in the Rust book? - https://www.reddit.com/r/rust/comments/ny44z6/how_would_you_further_organize_the_project/
 - https://www.reddit.com/r/rust/comments/oc3zby/do_you_think_rust_has_a_future_in_backend_web/
 - Tips for CI of large rust projects: https://twitter.com/ManishEarth/status/1417648658485440516
+- Editing macros: https://twitter.com/VImTipsDaily/status/1438797931851796482
 
 ## Rust Learning:
 
@@ -567,6 +579,7 @@
 - https://medium.com/javarevisited/7-best-rust-programming-courses-and-books-for-beginners-in-2021-2ed2311af46c
 - https://betterprogramming.pub/17-resources-to-help-you-learn-rust-in-2021-31b6ac661f37
 - https://loige.co/where-to-go-to-learn-rust-in-2021/
+- full-stack projects: https://github.com/steadylearner/Rust-Full-Stack
 
 ### Videos:
 

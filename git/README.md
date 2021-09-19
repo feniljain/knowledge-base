@@ -6,6 +6,7 @@
 - https://desktop.github.com/
 - https://learngitbranching.js.org/
 - http://ohmygit.org/
+- https://www.conventionalcommits.org/en/v1.0.0/
 
 ## Blogs and Articles:
 

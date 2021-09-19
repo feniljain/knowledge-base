@@ -97,10 +97,14 @@
 - https://blog.kdheepak.com/loading-a-rust-library-as-a-lua-module-in-neovim.html
 - A guide for every vim level user: https://dev.to/phantas0s/a-vim-guide-for-veteran-users-3p50
 - https://bluz71.github.io/2021/09/10/vim-tips-revisited.html
+- https://vim.fandom.com/wiki/Power_of_g
+- https://pragmaticpineapple.com/how-did-vim-become-so-popular/#half-a-century-of-contributions
+- https://pragmaticpineapple.com/reducing-boilerplate-with-vim-templates/
 
 ## Blog series:
 
 - https://thoughtbot.com/blog/tags/vim
+- https://pragmaticpineapple.com/
 
 ## Reddit threads and tweets:
 
@@ -129,6 +133,7 @@
 - https://www.reddit.com/r/neovim/comments/ovujtw/resources_to_learn_how_to_build_a_lua_colorscheme/
 - https://www.reddit.com/r/neovim/comments/oz2715/loading_a_rust_library_as_a_lua_module_in_neovim/
 - Move viewport by one line: https://twitter.com/vim_tricks/status/1425839692222771200
+- https://www.reddit.com/r/neovim/comments/pmvc7a/how_can_i_conditionally_add_to_the_on_attach/
 
 ## Vimscript:
 
@@ -353,6 +358,7 @@
 - Folding support for various languages: https://github.com/Konfekt/FastFold
 - https://github.com/gelguy/wilder.nvim
 - https://awesomeopensource.com/project/wellle/context.vim
+- https://github.com/axlebedev/footprints
 
 ## Lua/Nvim 0.5+ Exclusive plugins:
 
@@ -416,6 +422,14 @@
 - https://github.com/rcarriga/vim-ultest
 - https://github.com/jamestthompson3/nvim-remote-containers
 - Convert vscode themes into neovim colorschemes: https://github.com/arcticlimer/djanho
+- https://github.com/nvim-telescope/telescope-frecency.nvim
+
+## -- $$ -- :
+
+- https://github.com/antoinemadec/FixCursorHold.nvim
+- https://github.com/tamago324/nlsp-settings.nvim
+- https://github.com/Pocco81/DAPInstall.nvim
+- https://github.com/nvim-telescope/telescope-hop.nvim
 
 ## VimRCs for reference:
 

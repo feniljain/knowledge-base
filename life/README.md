@@ -37,6 +37,7 @@
 
 - https://twitter.com/swyx/status/1385349095074656259
 - https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/
+- https://twitter.com/chrishlad/status/1436692553374388225
 
 ## Random quotes:
 
@@ -47,6 +48,7 @@
 - What worries you, masters you
 - The best learners are the people who push through the discomfort of being objectively bad at something
 - I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.
+- Life isnt just sayonaras, when we meet, it becomes human life
 
 ## Books:
 
@@ -59,6 +61,7 @@
 - Relentless
 - The millionare fastlane
 - https://medium.com/mind-cafe/if-you-only-read-a-few-books-in-2020-read-these-1cbac424e4a9
+- https://www.calnewport.com/books/deep-work/
 
 ## Songs playlist, I dont know where to keep them:
 

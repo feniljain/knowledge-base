@@ -50,6 +50,9 @@
 - https://medium.com/omarelgabrys-blog/consistent-hashing-beyond-the-basics-525304a12ba
 - https://manishs-kth.medium.com/slack-system-design-interview-2f21fbc3cb60
 - System design interview roadmap and resources: https://medium.com/coderbyte/system-design-interview-roadmap-and-resources-e22d702b44da
+- https://medium.com/@ravindersengar/end-to-end-design-of-a-food-delivery-app-like-zomato-or-swiggy-52b96f3a635f
+- https://medium.com/interviewingsoftwareengineers/tips-for-common-design-questions-25ddcec164a
+- https://medium.com/codex/system-design-interview-prep-spotify-real-time-player-966537e60e61
 
 ## Repos:
 
@@ -66,3 +69,8 @@
 ## Books:
 
 - https://processautomationbook.com/
+
+## Videos:
+
+- System Design Interview - Step by step guide: https://www.youtube.com/watch?v=bUHFg8CZFws
+- IRCTC System Design: https://www.youtube.com/watch?v=j3etJx7M0Sc

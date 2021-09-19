@@ -116,3 +116,4 @@
 ### Repos:
 
 - https://github.com/QasimWani/LeetHub
+- https://github.com/cassidoo/getting-a-gig

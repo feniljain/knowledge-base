@@ -145,3 +145,9 @@
 ### Blogs and articles:
 
 - https://medium.com/swlh/zig-the-introduction-dcd173a86975
+
+## Kotlin:
+
+### Blogs and articles:
+
+- https://gelopfalcon.medium.com/from-junior-to-master-in-kotlin-1-basic-syntax-7b77e012b47f

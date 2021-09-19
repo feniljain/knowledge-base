@@ -1,116 +1,5 @@
 <h2 align="center">Anime</h2>
 
-## Anime watchlist:
-
-- Tada kun never falls in love : Romance
-- Gundam iron blooded orphans
-- oreshura
-- Gundam 00
-- Gundam seed
-- Gundam Destiny
-- Eureka 7
-- astra lost in space
-- Galactic Armored Fleet Majestic Prince: Genetic Awakening
-- bacano
-- Diamond no ace
-- yuri on ice
-- Majestic princess
-- The Hero is dead
-- Bakugaan
-- Digimon
-- Space Brothers
-- tatami galaxy : Romance
-- Suzumiya_Haruhi_no_Yuuutsu
-- Desperate
-- Shouwa_Genroku_Rakugo_Shinjuu
-  \_\_Sukeroku_Futatabi
-- Rakugo
-- Monogatari
-- Ghosthunt
-- Astra
-- Legend of galactic heroes
-- MobPsyhco
-- Black Lagoon
-- Gatsu no lion
-- Grand Blue
-- Angel Beats
-- Anohana: Done
-- Tsuko ga kirei : Romance
-- Kokoro Connect : Romance
-- Kids on the slope: Romance
-- Keijo
-- zutto mae kara suki deshita movie : Romance
-- Solo leveling anime
-- Overlord
-- Love, cubnibyo and other delusions
-- K-on
-- K-project
-- Nisekoi
-- Boku no pico
-- Chunnibyou
-- Hello World
-- Euphonium
-- West Gate Park
-- Yoduga no sora
-- The garden of sinners
-- Tonikaku kawaii
-- Akudama drive
-- Euphoria
-- 2.43
-- Run with the wind
-- Hotarubi no Mori e
-- Kobayashi no maid dragon
-- Love tyrant
-- Tamako love story
-- Kyoukai ni kanata
-- Sword art online
-- Fugou keiji balance unlimited
-- Tonari no seki-kun
-- Last umbrella
-- Kara no kyoukai
-- Hellsing/Hellsing UT
-- Drifters
-- Maidens of the savage
-- The day I became a god
-- Wotakoi
-- Toaru Majutsu no Index III
-- 7 seeds
-- Id Invaded
-- Photo Kano
-- Amagi Brilliant Park
-- Mankitsu
-- sk8 the infinity
-- Devil is a part timer
-- Pet girl of sakurasou
-- Yunna and the haunted hot spring
-- Natsume Yuujinchou
-- Great Pretender
-- Brand new animal
-- Bloom into you
-- Black bullet
-- Kanamewo
-- A story of unconditional love
-- Saekano
-- Tokyo Majin
-- Nijiro days
-- Rikei koi ga
-- fog hill of 5 elements
-- Seitokai Yakuindomo
-- ID: Invaded
-- Dagashi Kashi: ref: https://twitter.com/AshGandawa/status/1372070107808202752
-- Fate Series
-- Basilisk
-- non non biyori
-- Monster musume
-- Uzuki chan wants to hang out
-- Idoly parody
-- non non biyori
-- Zombieland saga
-- Myriad Colors Phantom World
-- Angels of Death
-- Higehiro: after being rejected, I shaved and took in a highschool runaway
-- Jobless reincarnation
-
 ## Action and Thriller:
 
 - Shiki: Horror
@@ -129,6 +18,31 @@
 - Inuyashiki
 - yu yu hakusho(like hunter X hunter)
 - Fog hill of five elements
+- Black Lagoon
+- Baccano
+- Overlord
+- Akudama drive
+- Sword art online
+- Hellsing/Hellsing UT
+- Drifters
+- Toaru Majutsu no Index III
+- Brand new animal
+- Tokyo Majin
+- fog hill of 5 elements
+- Basilisk
+- Fate Series
+- Myriad Colors Phantom World
+
+## Mecha and Space:
+
+- Gundam iron blooded orphans
+- Gundam 00
+- Gundam seed
+- Gundam Destiny
+- Eureka 7
+- astra lost in space
+- Galactic Armored Fleet Majestic Prince: Genetic Awakening
+- Legend of galactic heroes
 
 ## Shounen:
 
@@ -148,16 +62,53 @@
 - Beautiful Bones
 - Mushi Shi
 - Zetsuen no tempest
+- Great Pretender
+- Suzumiya Haruhi no Yuuutsu
+- Ghosthunt
+- K-project
+- Ikebukuro West Gate Park
+- The garden of sinners
+- Monogatari
+- Fugou keiji balance unlimited
+- 7 seeds
+- Id Invaded
+- Black bullet
+- Angels of Death
 
-## Adventure and Magic:
+## Adventure and Magic(supernatural):
 
 - Konosuba
+- The Hero is dead
+- Digimon
+- Angel Beats
+- Kyoukai ni kanata
 
 ## Comedy:
 
 - Tengen Toppa Gurren Lagann
 - Daily lives of Highschool boys
 - Shimoneta
+- Shakamoto desu ga
+- Grand Blue
+- Space Brothers
+- K-on
+- Kobayashi no maid dragon
+- Tonari no seki-kun
+- Maidens of the savage
+- Love is hard for otaku
+- Amagi Brilliant Park
+- Pet girl of sakurasou
+- Devil is a part timer
+- Yunna and the haunted hot spring
+- A story of unconditional love
+- Nijiro days
+- Science Fell in Love, So I Tried to Prove It
+- Seitokai Yakuindomo
+- non non biyori
+- Monster musume
+- Uzuki chan wants to hang out
+- Zombieland saga
+- Dagashi Kashi: ref: https://twitter.com/AshGandawa/status/1372070107808202752
 
 ## Sad & Romance:
 
@@ -180,7 +131,6 @@
 - Boku to kimi no taisetsu na hanashi
 - Sukasuka
 - Kimi ni Todoke
-- Tamako market
 - Tskuigakire
 - Masamune kuns revenge
 - The anthem of the heart
@@ -206,15 +156,54 @@
 - Fruits basket
 - Koe no kanata
 - Wolf girl and Black Prince
+- Tada kun never falls in love
+- Oreshura
+- Tsuko ga kirei
+- Kokoro Connect
+- Kids on the slope
+- zutto mae kara suki deshita movie
+- Love, cubnibyo and other delusions
+- Nisekoi
+- Hello World
+- Yoduga no sora
+- Tonikaku kawaii
+- Hotarubi no Mori e
+- Love tyrant
+- Photo Kano
+- Bloom into you
+- Saenai Heroine no Sodatekata
+- Kanamewo
+- Higehiro: after being rejected, I shaved and took in a highschool runaway
 
 ## Sports:
 
 - Stars align
 - Free!
+- Diamond no ace
+- Yuri on ice
+- Bakugaan
+- Keijo
+- 2.43
+- sk8 the infinity
 
 ## Isekai:
 
 - Bofuri
+
+## Drama:
+
+- Euphonium
+- Shouwa Genroku Rakugo Shinjuu
+- Sukeroku Futatabi
+- Run with the wind
+- The day I became a god
+- Natsume Yuujinchou
+- Jobless reincarnation
+
+## Hentai:
+
+- Euphoria
+- Mankitsu
 
 ## Manga To Read:
 
@@ -241,6 +230,7 @@
 - https://www.youtube.com/watch?v=JaBmR8tC1oU&list=PLXK8FoyCuvJzHe_8WgpNuGKM4KlJl8QP9&index=3
 - Famous anime openings only beats version: https://www.youtube.com/watch?v=Tr-ht9Juieg
 - Clannad piano version: https://www.youtube.com/watch?v=KszXvLjcDVo
+- Lost umbrella: https://www.youtube.com/watch?v=Yvs7gfWqNSE
 
 ## Videos:
 
@@ -374,6 +364,7 @@
 - Oddtaxi
 - Bleach
 - Tamako Market
+- Tamako love story
 
 ## Caught up Mangas:
 

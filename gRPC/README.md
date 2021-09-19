@@ -17,6 +17,9 @@
 - https://alexbryksin.medium.com/go-grpc-clean-architecture-microservice-with-prometheus-grafana-monitoring-and-jaeger-opentracing-178267029f9
 - https://www.libhunt.com/r/drpc
 - https://ably.com/blog/grpc-stream-performance
+- https://iisprey.medium.com/a-minimalist-guide-to-protobuf-1f24fbca0e2d
+- https://netflixtechblog.com/practical-api-design-at-netflix-part-2-protobuf-fieldmask-for-mutation-operations-2e75e1d230e4
+- https://pashkatrick.medium.com/postman-grpc-fd43b4f2c223
 
 ## Repos:
 

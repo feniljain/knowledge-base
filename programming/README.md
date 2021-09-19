@@ -110,6 +110,10 @@
 - https://www.reddit.com/r/learnprogramming/comments/ooyifv/what_are_some_of_the_gaps_in_knowledge_from_self/
 - https://dev.to/adiatiayu/project-collaboration-and-pair-programming-4be6
 - https://medium.com/the-shadow/what-is-the-best-mechanical-keyboard-switch-for-typing-c9abeb7ea1d8
+- https://dev.to/s2engineers/things-you-might-want-to-hear-from-an-experienced-developer-2m9n
+- https://dev.to/jingjing142/tips-for-starting-your-first-developer-job-2gfe
+- https://kerkour.com/blog/engineer-vs-entrepreneur-mindset/
+- https://medium.com/@chadfowler/the-best-job-description-for-an-engineer-ever-written-57b42919cc2f
 
 ## Blog Series:
 
@@ -131,6 +135,7 @@
 - Myth of a genius programmer: https://www.youtube.com/watch?v=0SARbwvhupQ
 - Write your own 64-bit operating system with asm: https://www.youtube.com/watch?v=FkrpUaGThTQ
 - Parsing json quickly, story about simdjson: https://www.youtube.com/watch?v=wlvKAT7SZIQ
+- How to "Google It" like a Senior Software Engineer: https://www.youtube.com/watch?v=cEBkvm0-rg0
 
 ## Repos:
 

@@ -77,6 +77,7 @@
 - https://blog.discord.com/how-discord-maintains-performance-while-adding-features-28ddaf044333
 - https://thenewstack.io/rust-and-webassembly-serverless-functions-in-vercel/
 - Get WasmEdge swags: https://docs.google.com/forms/d/e/1FAIpQLSdLOa3kU6My-GP3j3HpgdKfkxVnUq3Ntj3l43v5twe3hliPeg/viewform
+- https://medium.com/codex/ebpf-and-webassembly-whose-vm-reigns-supreme-c2861ce08f89
 
 ### Repos:
 
@@ -85,4 +86,4 @@
 - https://github.com/topheman/webassembly-wasi-experiments
 - https://github.com/topheman/rust-wasm-experiments
 - https://github.com/hasura/graphql-engine
-
+- https://github.com/ulid/spec

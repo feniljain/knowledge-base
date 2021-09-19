@@ -13,6 +13,7 @@
 - https://www.bugsnag.com/blog/tmux-and-vim
 - https://github.com/tmuxinator/tmuxinator
 - Control tmux from phone: https://github.com/bjesus/muxile
+- Load tmux sessions via json and YAML, tmuxinator and teamocil style: https://github.com/tmux-python/tmuxp
 
 ## Plugins:
 
@@ -27,10 +28,12 @@
 - https://bence.ferdinandy.com/2021/01/12/more-keyboard-less-mouse-my-regolith-tmux-vim-based-workflow/
 - https://thevaluable.dev/tags/mouseless/
 - https://medium.com/@vamsik23/automate-tmux-86774b12f348
+- https://ryan.himmelwright.net/post/scripting-tmux-workspaces/
+- https://pragmaticpineapple.com/gentle-guide-to-get-started-with-tmux/
 
-## Reference Configs:
+## Twitter and reddit:
 
-- https://github.com/tpope/tpope/blob/master/.tmux.conf
+- Writing a yaml for preconfiguring tmux: https://twitter.com/n___vc/status/1438796516588756998
 
 ## Tmux configs for reference:
 
@@ -42,3 +45,4 @@
 - https://github.com/yutkat/dotfiles/blob/master/.config/tmux/tmux.conf
 - https://gist.github.com/shinzui/866897
 - https://gist.github.com/spicycode/1229612
+- https://github.com/tpope/tpope/blob/master/.tmux.conf
