@@ -10,6 +10,7 @@
 - https://freesound.org/
 - https://pixabay.com/
 - https://grumpy.website/
+- https://doodleipsum.com/
 
 ## Blogs and articles:
 
@@ -19,4 +20,3 @@
 ## Repos:
 
 - https://github.com/bradtraversy/design-resources-for-developers/
-

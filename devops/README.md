@@ -57,6 +57,7 @@
 - https://dev.to/grayhat/devops-101-introduction-to-ansible-1n64
 - https://www.infoq.com/articles/service-mesh-ultimate-guide-2e/
 - https://medium.com/codex/implementing-service-discovery-for-microservices-df737e012bc2
+- https://betterprogramming.pub/the-roles-of-service-mesh-and-api-gateways-in-microservice-architecture-f6e7dfd61043
 
 ## Blog Series/Blog collections:
 
@@ -89,6 +90,7 @@
 - https://github.com/bregman-arie/howtheydevops
 - https://github.com/graviraja/MLOps-Basics
 - https://github.com/bregman-arie/devops-exercises
+- https://github.com/cloudquery/cloudquery
 
 ## Courses:
 
@@ -100,9 +102,11 @@
 - https://www.reddit.com/r/devops/comments/mewcv5/eli5_container_ecosystem/
 - https://www.reddit.com/r/devops/comments/mwt294/best_strategy_to_dynamically_create_and_deploy/
 - https://www.reddit.com/r/devops/comments/mx1ms5/strategy_for_securing_docker_images_before_pushed/
+- Free courses up for grabs: https://www.reddit.com/r/devops/comments/pr2urw/some_courses_up_for_grabs_hope_it_helps_someone/
 
 ## AWS:
 
 - https://medium.com/nerd-for-tech/system-design-choosing-between-aws-kinesis-and-aws-sqs-2586c814be8d
 - AWS related blogs: https://awsteele.com/
 - https://medium.com/ancestry-engineering/the-big-problem-with-aws-fargate-and-autoscaling-194ed8a44cc1
+- https://medium.com/@brunoamaroalmeida/what-i-wish-someone-had-told-me-about-pursuing-an-aws-certification-tips-tricks-for-self-study-a9244462a1a1

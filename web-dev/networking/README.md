@@ -37,6 +37,15 @@
 - https://gafferongames.com/post/why_cant_i_send_udp_packets_from_a_browser/#what-about-webrtc
 - https://leshow.github.io/post/dhcproto/
 - http://www.tcpipguide.com/free/t_DHCPGeneralOperationandClientFiniteStateMachine.htm
+- Very good refresher: https://stackfull.dev/http-refresher-things-you-should-know-about-http
+- How does TLS encryption work: https://www.cloudflare.com/learning/ssl/what-is-encryption/
+- Why do web browsers not support h2c(HTTP/2 without TLS): https://stackoverflow.com/questions/46788904/why-do-web-browsers-not-support-h2c-http-2-without-tls
+- https://squidarth.com/networking/systems/rc/2018/05/28/using-raw-sockets.html
+- https://blog.ipfs.io/decentralizing-the-internet-s-root/#introducing-handshake
+- https://github.com/ockam-network/ockam/tree/develop/documentation/use-cases/end-to-end-encrypt-all-application-layer-communication
+- https://topic.alibabacloud.com/a/ulp-upper-layer-protocol-brought-in-by-the-linux-413414-kernel_1_16_30149121.html
+- KProbes: https://lwn.net/Articles/132196/
+- https://medium.com/@christina.jacob.koikara/what-is-xdp-the-express-data-path-in-linux-kernel-9413880a0113
 
 ## Repos:
 
@@ -56,6 +65,7 @@
 - HTTP/3 over QUIC is the future: https://www.youtube.com/watch?v=idViw4anA6E
 - Hub vs Switch vs Bridge vs Router(alongwith proper OSI layer comparison): https://www.youtube.com/watch?v=AA_dywKmkhg
 - Connecting to localhost:0 causes kernel to select an open port for you: https://twitter.com/jimmyzelinskie/status/1413524246693916686
+- In-kernel, fast-path packet processing with AF_XDP: https://www.youtube.com/watch?v=Gv-nG6F_09I
 
 ## Blog Series:
 

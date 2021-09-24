@@ -35,6 +35,9 @@
 - https://transitiontech.ca/random/RIIR
 - https://readrust.net/
 - https://ra-wasm.netlify.app/
+- https://areweyeetyet.rs/
+- https://rust.careers/
+- https://rustacean-principles.netlify.app/
 
 ## Blogs and Articles:
 
@@ -58,7 +61,6 @@
 - https://dev.to/senyeezus/ergonomic-error-handling-with-rust-13bj
 - https://aloso.github.io/2021/03/28/module-system.html
 - https://betterprogramming.pub/structuring-rust-project-for-testability-18207b5d0243
-- https://areweyeetyet.rs/
 - https://maurya-anjani.medium.com/rust-lang-creating-a-singleton-pattern-16438ffaca59
 - Object Safety: https://huonw.github.io/blog/2015/01/object-safety/
 - https://jam1.re/blog/adventures-in-rustc-forking
@@ -90,6 +92,7 @@
 - https://blog.yoshuawuyts.com/async-overloading/
 - https://blog.adamchalmers.com/pin-unpin/
 - https://matklad.github.io/2021/08/22/large-rust-workspaces.html
+- Copy vs Clone: https://stackoverflow.com/questions/31012923/what-is-the-difference-between-copy-and-clone
 
 ### Tutorials:
 
@@ -175,6 +178,7 @@
 - https://kerkour.com/blog/rust-http-long-polling/
 - https://preettheman.medium.com/lets-build-minecraft-with-rust-b5622af36041
 - https://johanhelsing.studio/posts/introducing-matchbox
+- Integration tests in rust: https://tjtelan.com/blog/rust-custom-test-harness/
 
 ### Language general:
 
@@ -202,6 +206,7 @@
 - https://joshchoo.com/writing/rust-lazy-async-operations
 - http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html
 - https://nullderef.com/blog/plugin-start/
+- https://epage.github.io/blog/2021/09/learning-rust/
 
 ### Others:
 
@@ -283,7 +288,7 @@
 - https://www.eurekalert.org/pub_releases/2021-07/su-cs071521.php
 - Cross compiling windows binaries from linux: https://jake-shadle.github.io/xwin/
 
-## Blog Series:
+## Blog Series/Collection of articles:
 
 - Very good collection of blogs on rust from one the of important contributors: https://without.boats/
 - https://smallcultfollowing.com/babysteps/
@@ -380,6 +385,9 @@
 - HTTP mocking library library for Rust: https://github.com/alexliesenfeld/httpmock
 - Compile time static maps for Rust: https://github.com/rust-phf/rust-phf/
 - Solving i18n for client-side and resource-constrained environments: https://github.com/unicode-org/icu4x
+- A smol tcp/ip stack: https://github.com/smoltcp-rs/smoltcp
+- Powerful IDE Tools for Rust: https://github.com/willcrichton/flowistry
+- https://github.com/DanielKeep/cargo-script
 
 ## Videos:
 
@@ -497,6 +505,7 @@
 - https://cxx.rs/
 - https://crates.io/crates/tracing
 - Statically-checked alternatives to RefCell: https://docs.rs/qcell/0.4.2/qcell/
+- Generate a THIRDPARTY file with all licenses in a cargo project: https://github.com/sstadick/cargo-bundle-licenses
 
 ## Rust Internals:
 
@@ -528,6 +537,7 @@
 - https://www.gregchapple.com/blog/contributing-to-the-rust-compiler/
 - https://dev.to/xphoniex/adding-our-own-custom-statement-to-rust-language-30lc
 - https://github.com/lalrpop/lalrpop
+- Borrowing Trouble: The Difficulties Of A C++ Borrow-Checker: https://docs.google.com/document/d/e/2PACX-1vSt2VB1zQAJ6JDMaIA9PlmEgBxz2K5Tx6w2JqJNeYCy0gU4aoubdTxlENSKNSrQ2TXqPWcuwtXe6PlO/pub
 
 ## Rust and security
 
@@ -555,7 +565,6 @@
 - How would you further organize the project structure of the web server in the Rust book? - https://www.reddit.com/r/rust/comments/ny44z6/how_would_you_further_organize_the_project/
 - https://www.reddit.com/r/rust/comments/oc3zby/do_you_think_rust_has_a_future_in_backend_web/
 - Tips for CI of large rust projects: https://twitter.com/ManishEarth/status/1417648658485440516
-- Editing macros: https://twitter.com/VImTipsDaily/status/1438797931851796482
 
 ## Rust Learning:
 
@@ -580,6 +589,7 @@
 - https://betterprogramming.pub/17-resources-to-help-you-learn-rust-in-2021-31b6ac661f37
 - https://loige.co/where-to-go-to-learn-rust-in-2021/
 - full-stack projects: https://github.com/steadylearner/Rust-Full-Stack
+- https://www.reddit.com/r/devops/comments/pr2urw/some_courses_up_for_grabs_hope_it_helps_someone/
 
 ### Videos:
 

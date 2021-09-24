@@ -98,6 +98,9 @@
 - https://douglasmakey.medium.com/socket-sharding-in-linux-example-with-go-b0514d6b5d08
 - memfd_secret() syscall: https://lwn.net/Articles/865256/
 - Using KLEE on rust-for-linux: https://project-oak.github.io/rust-verification-tools/2021/08/22/rust-on-linux-1.html
+- https://squidarth.com/networking/systems/rc/2018/05/28/using-raw-sockets.html
+- https://man7.org/linux/man-pages/man7/capabilities.7.html
+- http://www.andy-pearce.com/blog/posts/2013/Mar/file-capabilities-in-linux/
 
 ### Others:
 
@@ -200,6 +203,7 @@
 - https://github.com/tokio-rs/io-uring
 - Inner working of linux: https://github.com/0xAX/linux-insides
 - https://lists.gnu.org/archive/html/grub-devel/2021-08/msg00099.html
+- https://github.com/jlevy/the-art-of-command-line
 
 ## Terminal tools I use:
 
@@ -263,6 +267,7 @@
 - Leaning awk: https://www.youtube.com/watch?v=9YOZmI-zWok
 - sed - find - cp - mv - xargs guide: https://www.youtube.com/watch?v=CyVV2FI7-DE
 - Rust for Linux: https://www.youtube.com/watch?v=VlSkZYBeK8Q
+- Why are app developers porting to Apple Silicon and not to Linux?: https://www.youtube.com/watch?v=TaX5Se8bV90
 
 ## Courses:
 
@@ -343,6 +348,8 @@
     - https://blog.px.dev/cpu-profiling-3/
     - https://docs.cilium.io/en/stable/intro/#functionality-overview
     - https://itnext.io/epbf-understanding-the-next-gen-networking-security-observability-for-cloud-native-workloads-1fe8ad87ee0f
+    - https://docs.cilium.io/en/latest/bpf/
+    - https://www.iovisor.org/technology/xdp
 
 ### Books:
 
@@ -364,12 +371,15 @@
     - https://github.com/Microsoft/ebpf-for-windows
     - https://github.com/kentik/convis
     - eBPF verifier tool: https://github.com/torvalds/linux/blob/master/kernel/bpf/verifier.c
+    - In-kernel cache based on eBPF: https://github.com/Orange-OpenSource/bmc-cache
+    - A Rust interface for the Linux AF_XDP address family: https://github.com/seeyarh/xdpsock
 
 ### Reddit and twitter threads:
 
     - https://www.reddit.com/r/rust/comments/ojzc3z/implementation_of_an_ebpf_memory_profiler_has/
     - https://www.reddit.com/r/kernel/comments/oks79i/a_beginners_guide_to_ebpf_programming_with_go/
     - https://www.reddit.com/r/kernel/comments/osmf08/esbpf_embedded_smallest_bpf_framework/
+    - What tools to use at what level(proficiency) in eBPF: https://twitter.com/brendangregg/status/1439361780010999810
 
 ### Videos:
 

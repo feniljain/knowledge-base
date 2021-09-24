@@ -45,6 +45,7 @@
 - https://itnext.io/advanced-git-features-you-didnt-know-you-needed-ed8455c45495
 - https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/
 - https://stackoverflow.com/questions/3103589/how-can-i-easily-fixup-a-past-commit
+- https://dev.to/neshaz/how-to-git-stash-your-work-the-correct-way-cna
 
 ## Interesting git configs:
 

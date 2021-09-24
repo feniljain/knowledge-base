@@ -65,9 +65,10 @@
 - https://pub.dev/packages/in_app_notification
 - https://pub.dev/packages/animated_text_kit
 
-## Tweets:
+## Reddit and Tweets:
 
 - ClojureDart, flutter in clojure: https://twitter.com/_eseidel/status/1350843738327707650
+- Editing macros: https://twitter.com/VImTipsDaily/status/1438797931851796482
 
 ## Telegram:
 
@@ -87,6 +88,7 @@
 ## Websites:
 
 - No-code app dev: https://www.appsheet.com/
+- A container based approach to boot a full android system on a regular GNU/Linux system like ubuntu: https://waydro.id/
 
 ## Repos:
 

@@ -134,6 +134,7 @@
 - https://www.reddit.com/r/neovim/comments/oz2715/loading_a_rust_library_as_a_lua_module_in_neovim/
 - Move viewport by one line: https://twitter.com/vim_tricks/status/1425839692222771200
 - https://www.reddit.com/r/neovim/comments/pmvc7a/how_can_i_conditionally_add_to_the_on_attach/
+- Editing macros: https://twitter.com/VImTipsDaily/status/1438797931851796482
 
 ## Vimscript:
 
@@ -423,6 +424,8 @@
 - https://github.com/jamestthompson3/nvim-remote-containers
 - Convert vscode themes into neovim colorschemes: https://github.com/arcticlimer/djanho
 - https://github.com/nvim-telescope/telescope-frecency.nvim
+- https://github.com/GustavoKatel/sidebar.nvim
+- https://github.com/sindrets/winshift.nvim
 
 ## -- $$ -- :
 

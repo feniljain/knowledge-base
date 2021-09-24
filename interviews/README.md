@@ -47,6 +47,7 @@
 - https://dev.to/thawkin3/what-i-look-for-when-hiring-senior-software-engineers-4a6j
 - https://bayareabelletrist.medium.com/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656
 - https://aphyr.com/posts/342-typing-the-technical-interview
+- https://forge.medium.com/a-by-the-numbers-guide-to-asking-for-a-raise-39d495c7f7d7
 
 ## Videos:
 
@@ -66,6 +67,7 @@
 
 - https://www.reddit.com/r/webdev/comments/o9jp8e/every_single_interview_question_i_was_asked_while/
 - https://dev.to/gitpaulo/journey-of-a-web-page-how-browsers-work-10co
+- CSS concepts to review as a junior dev before interviews: https://twitter.com/RandallKanna/status/1440752765685297163
 
 ## SQL interviews:
 
@@ -93,6 +95,7 @@
 - https://twitter.com/ravinwashere/status/1346725573343657987
 - https://twitter.com/rmcomplexity/status/1346494114309828608
 - https://twitter.com/coolpythoncodes/status/1374400847036051463
+- Only have a limited amount of time to prep for an interview?: https://twitter.com/RandallKanna/status/1440333760482873345
 
 ## CC:
 

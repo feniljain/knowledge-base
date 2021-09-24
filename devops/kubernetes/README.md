@@ -9,6 +9,7 @@
 - https://container.training/
 - https://100daysofkubernetes.io/
 - https://docs.devtron.ai/
+- https://learnk8s.io/
 
 ## Blogs and Articles:
 
@@ -45,6 +46,8 @@
 - https://medium.com/@ahmetb/mastering-kubeconfig-4e447aa32c75
 - https://dominik-tornow.medium.com/the-kubernetes-scheduler-cd429abac02f
 - https://levelup.gitconnected.com/kubernetes-monitoring-101-core-pipeline-services-pipeline-a34cd4cc9627
+- https://medium.com/spawn-db/implementing-zero-downtime-deployments-on-kubernetes-the-plan-8daf22a351e1
+- https://learnk8s.io/graceful-shutdown
 
 ## Blog series:
 
@@ -71,6 +74,7 @@
 - https://github.com/magnologan/awesome-k8s-security
 - https://github.com/chaos-mesh
 - https://github.com/kelseyhightower/kubernetes-the-hard-way
+- Same course as kelsey's but without GCP, instead using vagrant on local machine: https://github.com/mmumshad/kubernetes-the-hard-way
 - https://github.com/argoproj/argo-workflows
 - https://github.com/devtron-labs/devtron
 - https://github.com/racklet/racklet.io

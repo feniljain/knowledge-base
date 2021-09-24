@@ -24,6 +24,7 @@
 - https://javascript.plainenglish.io/5-advanced-react-patterns-a6b7624267a6
 - https://web.dev/optimize-vitals-lighthouse/
 - https://pragmaticpineapple.com/effective-profiling-in-google-chrome/
+- https://blog.bitsrc.io/9-element-tab-features-in-chrome-devtools-for-effective-debugging-1b02aa8f000a
 
 ### Others:
 
@@ -88,6 +89,7 @@
 - https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669
 - https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538
 - https://dev.to/gitpaulo/journey-of-a-web-page-how-browsers-work-10co
+- https://devtrium.com/posts/how-use-react-context-pro
 
 ## Websites:
 

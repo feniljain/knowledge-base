@@ -45,6 +45,9 @@
 - https://dev.to/gurshehzadsingh/10-npm-commands-that-every-developer-must-know-4gmn
 - https://dev.to/djamaile/how-i-structure-my-react-ts-applications-2021-145j
 - https://medium.com/@warkiringoda/typescript-best-practices-2021-a58aee199661
+- https://www.reddit.com/r/javascript/comments/pqr8ox/askjs_how_to_you_structure_your_projects_to_avoid/
+- https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/
+- https://careerfoundry.com/en/blog/web-development/7-essential-tools-for-front-end-development/
 
 ### Tutorials:
 

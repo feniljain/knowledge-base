@@ -40,6 +40,7 @@
 - Search for rfcs easily: https://rfc.fyi/
 - https://deps.dev/
 - Collection of blog websites: https://refined.blog/
+- https://computingthehumanexperience.com/
 
 ## Blogs and Articles:
 
@@ -114,6 +115,8 @@
 - https://dev.to/jingjing142/tips-for-starting-your-first-developer-job-2gfe
 - https://kerkour.com/blog/engineer-vs-entrepreneur-mindset/
 - https://medium.com/@chadfowler/the-best-job-description-for-an-engineer-ever-written-57b42919cc2f
+- https://medium.com/free-code-camp/books-that-every-engineering-manager-should-read-7a053e296d11
+- Mechanical Keyboard switches guide: https://docs.google.com/spreadsheets/u/1/d/1GOlfD1-WLaCtABPBLcAsxi8HftuOfaiPwEZQPdg_wfU/pubhtml
 
 ## Blog Series:
 
@@ -136,6 +139,7 @@
 - Write your own 64-bit operating system with asm: https://www.youtube.com/watch?v=FkrpUaGThTQ
 - Parsing json quickly, story about simdjson: https://www.youtube.com/watch?v=wlvKAT7SZIQ
 - How to "Google It" like a Senior Software Engineer: https://www.youtube.com/watch?v=cEBkvm0-rg0
+- Mechanical swtiches comparision, sound only: https://www.youtube.com/watch?v=rm-WuK_9OBM
 
 ## Repos:
 
@@ -182,6 +186,8 @@
 - A community-maintained Python framework for creating mathematical animations: https://github.com/ManimCommunity/manim
 - https://github.com/tbillington/kondo
 - A self-hosted, ad-free, privacy respecting metasearch engine: https://github.com/benbusby/whoogle-search
+- https://github.com/freeCodeCamp/freeCodeCamp
+- https://www.reddit.com/r/coolgithubprojects/comments/ptc807/i_created_a_site_to_check_if_your_location_is/
 
 ## Extensions:
 
@@ -216,6 +222,7 @@
 ## Tweets:
 
 - https://twitter.com/rmcomplexity/status/1346494114309828608
+- Floating point decisions over computing history: https://twitter.com/workingjubilee/status/1440325298164174854
 
 ## Random quotes:
 

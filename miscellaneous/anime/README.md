@@ -174,6 +174,7 @@
 - Saenai Heroine no Sodatekata
 - Kanamewo
 - Higehiro: after being rejected, I shaved and took in a highschool runaway
+- Ballroom e Youkoso(Welcome to the ballroom)
 
 ## Sports:
 

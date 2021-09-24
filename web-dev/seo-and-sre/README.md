@@ -18,6 +18,8 @@
 - https://stackpulse.com/blog/the-sre-role-and-why-its-in-such-high-demand/
 - Online SRE Book From Google: https://sre.google/sre-book/table-of-contents/
 - https://www.reddit.com/r/devops/comments/oulqyh/interview_question/
+- https://www.infoq.com/podcasts/sre-apprentices/
+- https://blog.getambassador.io/the-rise-of-cloud-native-engineering-organizations-1a244581bda5
 
 ## Repos:
 
@@ -26,4 +28,3 @@
 ## Videos:
 
 - Difference between DevOps and SRE: https://www.youtube.com/watch?v=uTEL8Ff1Zvk
-

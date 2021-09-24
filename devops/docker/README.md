@@ -27,6 +27,7 @@
 - https://dev.to/karanpratapsingh/art-of-building-small-containers-3g6c
 - https://dev.to/andreidascalu/make-containers-small-again-3lgg
 - https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf
+- https://hackernoon.com/the-containerized-software-development-guide
 
 ## Interesting Images:
 

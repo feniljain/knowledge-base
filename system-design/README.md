@@ -53,6 +53,10 @@
 - https://medium.com/@ravindersengar/end-to-end-design-of-a-food-delivery-app-like-zomato-or-swiggy-52b96f3a635f
 - https://medium.com/interviewingsoftwareengineers/tips-for-common-design-questions-25ddcec164a
 - https://medium.com/codex/system-design-interview-prep-spotify-real-time-player-966537e60e61
+- https://codeburst.io/system-design-analysis-for-auto-suggestion-service-d28bf1701658
+- https://instagram-engineering.com/video-upload-latency-improvements-at-instagram-bcf4b4c5520a
+- https://medium.com/mastering-the-system-design-interview/distributed-system-refresher-part-1-2832515ce746
+- https://netflixtechblog.com/cache-warming-agility-for-a-stateful-service-2d3b1da82642
 
 ## Repos:
 

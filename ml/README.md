@@ -21,6 +21,8 @@
 - https://deepai.org/machine-learning-glossary-and-terms/gated-neural-network
 - https://towardsdatascience.com/autoencoder-network-optimization-for-dimensionality-reduction-67922ccc6889
 - https://towardsdatascience.com/type-safety-in-data-parsers-using-pyspark-a81093b4fe03
+- https://www.kickstarter.com/projects/opencv/opencv-ai-kit-oak-depth-camera-4k-cv-edge-object-detection?ref=thanks-tweet
+- https://www.reddit.com/r/learnmachinelearning/comments/pr7ss4/turning_my_data_science_interview_guide_into_a/
 
 ## Repos:
 
@@ -46,6 +48,7 @@
 - https://github.com/Charmve/computer-vision-in-action
 - https://github.com/dinedal/textql
 - https://github.com/microsoft/ML-For-Beginners
+- https://www.theinsaneapp.com/2021/09/best-github-repository-for-machine-learning.html
 
 ## Reddit and twitter threads:
 

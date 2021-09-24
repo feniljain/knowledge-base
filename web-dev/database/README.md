@@ -55,6 +55,7 @@
 - https://betterprogramming.pub/become-a-database-expert-by-knowing-the-pros-and-cons-of-lsm-tree-and-b-tree-engines-bbc7e24f040c
 - https://medium.com/swlh/design-considerations-in-a-read-local-write-local-multi-master-data-store-8ff16c9c120
 - https://betterprogramming.pub/scaling-sql-nosql-databases-1121b24506df
+- https://rudderstack.medium.com/kafka-vs-postgresql-how-we-implemented-our-queueing-system-using-postgresql-ec128650e3e
 
 ## Blog Series:
 

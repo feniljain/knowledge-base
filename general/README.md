@@ -12,13 +12,12 @@
 - Free books: https://www.readanybook.com/
 - slader.com
 - Collection of bitmap fonts: https://github.com/ianhan/BitmapFonts
-- Download songs from various soures like gaana, itunes, etc.: https://ytmdl.deepjyoti30.dev/
 - Ranks of reddit bots: https://botrank.pastimes.eu/
 - https://www.oppia.org/
 - https://www.triangulate.xyz/
 - https://simplelogin.io/
 - https://resizeimage.net/
-- Get direct download and magnet links to english & hindi series: linkhttps://yts.rs/
+- https://qrcode.show/
 
 ## Blogs and articles:
 
@@ -38,6 +37,8 @@
 - https://betterprogramming.pub/the-best-programmer-ive-met-as-a-ceo-94836bfc8549
 - https://dev.to/actitime/how-to-prevent-or-recover-from-developer-burnout-3g5f
 - https://proprivacy.com/privacy-service/guides/firefox-privacy-security-guide
+- https://betterhumans.pub/how-to-network-with-people-you-dont-know-to-get-the-job-you-want-7feee9474d40
+- https://betterprogramming.pub/5-lessons-from-a-no-nonsense-mentor-137b991a4740
 
 ## Reddit threads and tweets:
 
@@ -114,4 +115,3 @@
 ## Running:
 
 - https://www.stylecraze.com/articles/effective-ways-to-increase-your-stamina-for-running/#20-tips-to-improve-running-stamina
-

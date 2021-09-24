@@ -28,6 +28,8 @@
 - https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0
 - https://towardsdatascience.com/type-safety-in-data-parsers-using-pyspark-a81093b4fe03
 - https://blog.sunfishcode.online/broken-encapsulation/
+- https://www.cbui.dev/how-to-rapidly-improve-at-any-programming-language/
+- https://medium.com/deutsche-telekom-gurgaon/hexagonal-code-architecture-clean-architecture-14ffddf4b9a9
 
 ## Repos:
 
@@ -101,6 +103,7 @@
 - http://www.cs.fsu.edu/~myers/cgs4406/notes/dma.html
 - https://en.wikipedia.org/wiki/Region-based_memory_management
 - http://netlib.org/
+- Borrowing Trouble: The Difficulties Of A C++ Borrow-Checker: https://docs.google.com/document/d/e/2PACX-1vSt2VB1zQAJ6JDMaIA9PlmEgBxz2K5Tx6w2JqJNeYCy0gU4aoubdTxlENSKNSrQ2TXqPWcuwtXe6PlO/pub
 
 ### Blogs and articles:
 

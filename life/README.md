@@ -2,8 +2,8 @@
 
 ## Websites:
 
-- https://listenonrepeat.com/?v=Y5WQ6gF-8vA#Listen_On_Repeat_%7C_YouTube_Loop_%7C_Replay_and_Repeater
 - https://hbs1963.com/
+- https://nofreakingspeaking.com/
 
 ## Few Points:
 
@@ -32,6 +32,10 @@
 - https://betterprogramming.pub/why-most-software-developers-struggle-to-improve-ca6cb534eff5
 - https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest
 - https://dev.to/tomeraitz/the-right-mindset-to-solve-complex-problems-1gc6
+
+## Videos:
+
+- Think Fast, Talk Smart: Communication Techniques: https://nofreakingspeaking.com/
 
 ## Reddit and twitter threds:
 
@@ -62,10 +66,5 @@
 - The millionare fastlane
 - https://medium.com/mind-cafe/if-you-only-read-a-few-books-in-2020-read-these-1cbac424e4a9
 - https://www.calnewport.com/books/deep-work/
-
-## Songs playlist, I dont know where to keep them:
-
-- Total banger collection: https://www.youtube.com/watch?v=5XHxe0s5DmY
-- Primes daily bangers playlist: https://www.youtube.com/playlist?list=PLpvrfXJz4_9F-ICZgwo4tPcbZQa5MPpQ2
 
 Kmshahco1966
