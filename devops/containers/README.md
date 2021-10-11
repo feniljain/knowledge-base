@@ -1,8 +1,9 @@
-<h2 align="center">Docker</h2>
+<h2 align="center">Containers</h2>
 
 ## Websites:
 
 - https://container.training/
+- Cloud-Native Learn-By-Doing platforms: https://twitter.com/iximiuz/status/1441826086489235456
 
 ## Blogs and Articles:
 
@@ -28,10 +29,19 @@
 - https://dev.to/andreidascalu/make-containers-small-again-3lgg
 - https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf
 - https://hackernoon.com/the-containerized-software-development-guide
+- https://iximiuz.com/en/posts/containerd-command-line-clients/
+- https://itnext.io/software-development-in-containers-a-cookbook-2ba14d07e535
+- https://blog.sigstore.dev/cosign-signed-container-images-c1016862618
 
 ## Interesting Images:
 
 - https://hub.docker.com/r/mtlynch/firestore-emulator
+
+## Twitter and reddit threads:
+
+- Cloud-Native Learn-By-Doing platforms: https://twitter.com/iximiuz/status/1441826086489235456
+- https://twitter.com/iximiuz/status/1434950716272128000
+- An excellent diagram showing what a low-level (OCI) container runtime actually does under the hood: https://twitter.com/iximiuz/status/1433694551940681754
 
 ## Blog Series:
 
@@ -49,3 +59,4 @@
 - https://github.com/aquasecurity/trivy
 - https://github.com/lizrice/containers-from-scratch
 - Top-like interface for container metrics: https://github.com/bcicen/ctop
+- Container runtime written in Rust: https://github.com/containers/youki

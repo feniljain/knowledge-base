@@ -57,6 +57,10 @@
 - https://instagram-engineering.com/video-upload-latency-improvements-at-instagram-bcf4b4c5520a
 - https://medium.com/mastering-the-system-design-interview/distributed-system-refresher-part-1-2832515ce746
 - https://netflixtechblog.com/cache-warming-agility-for-a-stateful-service-2d3b1da82642
+- https://medium.com/carousell-insider/scalable-logging-for-microservices-1043d3d17c18
+- https://medium.com/google-cloud/system-designing-google-sheet-bdf12321b99c
+- https://medium.com/nerd-for-tech/system-design-architecture-for-hotel-booking-apps-like-airbnb-oyo-6efb4f4dddd7
+- https://medium.com/design-microservices-architecture-with-patterns/gateway-aggregation-pattern-9ff92e1771d0
 
 ## Repos:
 

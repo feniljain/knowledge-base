@@ -48,3 +48,4 @@
 - https://github.com/rabbitstack/fibratus
 - https://github.com/jaykali/maskphish
 - Protect yourself from being tracked by AirTags and Find My accessories: https://github.com/seemoo-lab/AirGuard
+- Insecure web application: https://github.com/juice-shop/juice-shop

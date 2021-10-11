@@ -29,6 +29,7 @@
 - https://medium.com/pragmatic-programmers/adopting-the-api-first-principle-9114a55d8db2
 - https://refactoring.guru/smells/long-parameter-list
 - https://www.infoq.com/podcasts/software-architecture-hard-parts/
+- https://medium.com/codex/challenges-implementing-ddd-4113d602caf6
 
 ## Blogs Series:
 

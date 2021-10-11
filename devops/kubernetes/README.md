@@ -10,6 +10,9 @@
 - https://100daysofkubernetes.io/
 - https://docs.devtron.ai/
 - https://learnk8s.io/
+- Cloud-Native Learn-By-Doing platforms: https://twitter.com/iximiuz/status/1441826086489235456
+- https://learn.openshift.com/operatorframework/
+- https://k8slens.dev/
 
 ## Blogs and Articles:
 
@@ -48,6 +51,14 @@
 - https://levelup.gitconnected.com/kubernetes-monitoring-101-core-pipeline-services-pipeline-a34cd4cc9627
 - https://medium.com/spawn-db/implementing-zero-downtime-deployments-on-kubernetes-the-plan-8daf22a351e1
 - https://learnk8s.io/graceful-shutdown
+- https://towardsdatascience.com/kubernetes-local-development-the-correct-way-1bc4b11570d8
+- https://linkerd.io/2021/09/23/how-linkerd-uses-iptables-to-transparently-route-kubernetes-traffic/
+- https://www.infoq.com/news/2021/09/kubernetes-hardening-guidance/
+- https://itnext.io/breaking-down-and-fixing-kubernetes-4df2f22f87c3
+- https://dev.to/pghildiyal/let-s-learn-kubernetes-basics-part-1-3of7
+- https://medium.com/@knoldus/kubernetes-architecture-all-you-need-to-know-59ba87bdf66a
+- Awesome kubernetes(collection of huge amount of resources, like too many): https://redhatspain.com/kubernetes/
+- https://medium.com/dynatrace-engineering/how-not-to-start-with-kubernetes-21b58d6252a8
 
 ## Blog series:
 
@@ -66,6 +77,7 @@
 - Implementing RBAC in kubenetes: https://www.youtube.com/watch?v=U67OwM-e9rQ
 - Deploying kubernetes on bare metal: https://www.youtube.com/watch?v=t4H6hdvB9iQ
 - How spotify accidentally deleted all its kube clusters with no user impact: https://www.youtube.com/watch?v=ix0Tw8uinWs
+- Install kubernetes from scratch(better than upper one): https://www.youtube.com/watch?v=uUupRagM7m0&list=PL2We04F3Y_41jYdadX55fdJplDvgNGENo
 
 ## Repos:
 
@@ -89,8 +101,15 @@
 - https://github.com/pixie-labs/pixie
 - https://github.com/armosec/kubescape
 - https://github.com/krustlet/krustlet
+- https://github.com/Slurmio/school-dev-k8s
 
 ## Tools:
 
 - https://kali-linuxtr.net/simulator-kubernetes-attack-simulator.tool
 - https://github.com/kubernetes-simulator/simulator
+
+## Learning:
+
+### Blogs and articles:
+
+- https://www.reddit.com/r/devops/comments/q5ml11/learning_kubernetes/

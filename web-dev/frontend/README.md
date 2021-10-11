@@ -25,6 +25,8 @@
 - https://web.dev/optimize-vitals-lighthouse/
 - https://pragmaticpineapple.com/effective-profiling-in-google-chrome/
 - https://blog.bitsrc.io/9-element-tab-features-in-chrome-devtools-for-effective-debugging-1b02aa8f000a
+- https://dev.to/polgarj/a-short-guide-to-help-you-pick-the-correct-html-tag-56l9
+- https://devtrium.com/posts/how-to-use-react-usereducer-hook
 
 ### Others:
 
@@ -90,6 +92,10 @@
 - https://instagram-engineering.com/making-instagram-com-faster-part-1-62cc0c327538
 - https://dev.to/gitpaulo/journey-of-a-web-page-how-browsers-work-10co
 - https://devtrium.com/posts/how-use-react-context-pro
+- https://netflixtechblog.com/what-is-an-a-b-test-b08cc1b57962
+- https://itnext.io/the-best-frontend-development-strategies-in-2022-cb02dd7aa48b
+- https://netflixtechblog.com/how-we-build-micro-frontends-with-lattice-22b8635f77ea
+- https://blog.bitsrc.io/micro-frontends-5-common-mistakes-to-avoid-4a35a37cad3d
 
 ## Websites:
 
@@ -136,6 +142,7 @@
 - https://layout.bradwoods.io/
 - Generate wavy dividers with ease: https://wavier.art/
 - https://css-irl.info/
+- https://csswizardry.com/ct/
 
 ## Blogs And Articles:
 
@@ -160,3 +167,7 @@
 - https://dev.to/shantanu_jana/glassmorphism-login-form-using-only-html-css-mia
 - SaaS crash course book: https://dev.to/codewithshahan/sass-crash-course-in-a-book-3kg2
 - https://charles-stover.medium.com/cache-your-react-event-listeners-to-improve-performance-14f635a62e15
+
+## Extensions:
+
+- https://chrome.google.com/webstore/detail/dom-treemap/albnoggfgnooeefdjpncieecohhblonh/

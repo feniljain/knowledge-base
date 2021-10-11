@@ -32,6 +32,7 @@
 - Basilisk
 - Fate Series
 - Myriad Colors Phantom World
+- Princess Mononoke(Movie)
 
 ## Mecha and Space:
 

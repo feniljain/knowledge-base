@@ -33,6 +33,8 @@
 - https://www.memorysafety.org/
 - Linux Kernel Mentorship Program: https://wiki.linuxfoundation.org/lkmp
 - https://kernelnewbies.org/
+- https://www.gamingonlinux.com/
+- https://docs.kernel.org/
 
 ## Blogs and articles:
 
@@ -62,6 +64,9 @@
 - 50 ways to isolate traffic using tcpdump command: https://danielmiessler.com/study/tcpdump/
 - https://earthly.dev/blog/command-line-tools/
 - https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal/
+- https://fasterthanli.me/articles/a-terminal-case-of-linux
+- https://earthly.dev/blog/awk-examples/
+- https://towardsdatascience.com/3-tools-to-monitor-and-optimize-your-linux-system-c8a46c18d692
 
 ### Linux working:
 
@@ -126,6 +131,11 @@
 - https://wiki.gnome.org/Projects/GnomeShell/CheatSheet
 - Optimizations for void linux: https://gist.github.com/themagicalmammal/e443d3c5440d566f8206e5b957ab1493
 - How to set benchmarking properly: https://easyperf.net/blog/2019/08/02/Perf-measurement-environment-on-Linux
+- https://www.tag1consulting.com/blog/interview-linus-torvalds-linux-and-git
+- https://atish3604.medium.com/solved-bluetooth-headset-mic-not-working-detected-in-ubuntu-20-04-86a5236444d0
+- Pipewire Installation: https://pipewire-debian.github.io/pipewire-debian/
+- https://blog.macrium.com/what-is-exfat-and-why-is-it-so-important-for-removable-storage-fd7661fce191
+- A fork for the time-zone databases: https://lwn.net/Articles/870478/
 
 ## Blog series:
 
@@ -148,7 +158,7 @@
 - https://betterprogramming.pub/the-most-productive-shell-commands-and-command-line-tricks-ec1415283259
 - https://levelup.gitconnected.com/5-super-handy-linux-commands-that-everyone-should-be-aware-of-a70b08d2c635
 - Nice collection of commands: https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/
-- https://gist.github.com/davejamesmiller/1965569
+- Bash General-Purpose Yes/No Prompt Function ("ask"): https://gist.github.com/davejamesmiller/1965569
 - Bash scripting resources: https://www.reddit.com/r/linux4noobs/comments/pizkkq/any_good_resources_for_bash_scripting_for_this_new/
 
 ## Cheatsheets:
@@ -268,6 +278,7 @@
 - sed - find - cp - mv - xargs guide: https://www.youtube.com/watch?v=CyVV2FI7-DE
 - Rust for Linux: https://www.youtube.com/watch?v=VlSkZYBeK8Q
 - Why are app developers porting to Apple Silicon and not to Linux?: https://www.youtube.com/watch?v=TaX5Se8bV90
+- https://www.reddit.com/r/rust/comments/pxz7at/rustlinux_plumbers_conference_2021/
 
 ## Courses:
 
@@ -291,6 +302,10 @@
 - https://www.reddit.com/r/linuxquestions/comments/om0dok/is_it_possible_to_create_an_ethernet_hotspot/
 - https://www.reddit.com/r/linux/comments/plz81e/what_blogs_can_you_recommend_for_linux_free/
 - https://www.reddit.com/r/linux4noobs/comments/pmqmey/can_i_save_my_data_in_a_ventoy_pendrive/
+- Deprecated linux commands and their replacements: https://twitter.com/LinuxSeb/status/1443393886865408002?s=08
+- https://www.reddit.com/r/linuxquestions/comments/pykk3v/cons_of_using_waylandsway/
+- https://www.reddit.com/r/linuxquestions/comments/pz0u47/what_are_some_good_resources_to_learn_about_the/
+- https://www.reddit.com/r/linux4noobs/comments/q496kw/best_sites_to_learn_linux/
 
 ## Config Repos:
 
@@ -323,6 +338,7 @@
 - https://www.reddit.com/r/i3wm/comments/ocqu49/moving_scratchpad_windows_back_and_forth/
 - https://github.com/Zeioth/i3blocks-contrib/tree/master/volume-pipewire
 - https://github.com/Pastel26/DotFiles/blob/main/.config/polybar
+- https://github.com/SoumyaRanjanPatnaik/dotfiles/tree/master
 
 ## eBPF:
 
@@ -350,6 +366,7 @@
     - https://itnext.io/epbf-understanding-the-next-gen-networking-security-observability-for-cloud-native-workloads-1fe8ad87ee0f
     - https://docs.cilium.io/en/latest/bpf/
     - https://www.iovisor.org/technology/xdp
+    - https://medium.com/thermokline/confused-by-ebpf-9d4a8bce318e
 
 ### Books:
 
@@ -384,3 +401,11 @@
 ### Videos:
 
     - eBPF superpowers from liz rice: https://www.youtube.com/watch?v=4SiWL5tULnQ
+
+## Rust for Linux:
+
+### Blogs and articles:
+
+    - So you want to rust the linux kernel: https://paulmck.livejournal.com/62436.html
+    - Using rust for kernel development: https://lwn.net/Articles/870555/
+    - https://thenewstack.io/linus-torvalds-on-community-rust-and-linuxs-longevity

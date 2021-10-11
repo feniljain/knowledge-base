@@ -23,6 +23,7 @@
 - https://towardsdatascience.com/type-safety-in-data-parsers-using-pyspark-a81093b4fe03
 - https://www.kickstarter.com/projects/opencv/opencv-ai-kit-oak-depth-camera-4k-cv-edge-object-detection?ref=thanks-tweet
 - https://www.reddit.com/r/learnmachinelearning/comments/pr7ss4/turning_my_data_science_interview_guide_into_a/
+- https://towardsdatascience.com/using-docker-for-deep-learning-projects-fa51d2c4f64c
 
 ## Repos:
 
@@ -49,6 +50,8 @@
 - https://github.com/dinedal/textql
 - https://github.com/microsoft/ML-For-Beginners
 - https://www.theinsaneapp.com/2021/09/best-github-repository-for-machine-learning.html
+- Music Understanding and Generation with Artificial Intelligence: https://github.com/microsoft/muzic
+- https://github.com/python-engineer/ml-study-plan
 
 ## Reddit and twitter threads:
 

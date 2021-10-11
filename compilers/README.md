@@ -8,6 +8,7 @@
 - IR overview: https://llvm.org/docs/LangRef.html#overview
 - http://ellcc.org/demo/index.cgi
 - https://llvm.org/docs/GettingStartedTutorials.html
+- https://bertrandbev.github.io/dlox/#/
 
 ## Blogs and articles:
 
@@ -35,23 +36,28 @@
 - List of passes for the SSA compiler step: https://github.com/golang/go/blob/6c1c055d1ea417d050503efe92c1eead0da68cef/src/cmd/compile/internal/ssa/compile.go#L431-L486
 - Generating better machine code with SSA in go compiler: https://www.youtube.com/watch?v=uTMvKVma5ms
 - https://stackoverflow.com/questions/1669/learning-to-write-a-compiler
-- https://gcc.gnu.org/wiki/ListOfCompilerBooks
 - https://joshvarty.com/2015/09/18/learn-roslyn-now-part-13-keeping-track-of-syntax-nodes-with-syntax-annotations/
 - https://blog.matthieud.me/2020/exploring-clang-llvm-optimization-on-programming-horror/
 - https://rust-analyzer.github.io/blog/2019/11/13/find-usages.html
 - https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/
 - https://bellmar.medium.com/learning-almost-nothing-about-llvm-e6aea9b243d9
 - LLVM no more has any fullform, its just LLVM lol: https://lists.llvm.org/pipermail/llvm-dev/2011-December/046445.html
+- https://tratt.net/laurie/blog/entries/which_parsing_approach.html
 
-## Blog series:
+## Blog series/Articles collection:
 
 - https://dev.to/cad97/crafting-ide-ready-compilers-500o
 - LLVM Internals: https://blog.yossarian.net/2021/09/14/LLVM-internals-part-3-from-bitcode-to-IR
+- https://eli.thegreenplace.net/
+- https://blog.regehr.org/
+- https://kristerw.blogspot.com/
+- http://lambda-the-ultimate.org/
 
 ## Reddit and twitter threads:
 
 - https://www.reddit.com/r/learnprogramming/comments/5hwo3x/whats_the_best_resource_to_walk_me_through_making/
 - Good compiler books: https://news.ycombinator.com/item?id=136875
+- https://www.reddit.com/r/rust/comments/q0ttgx/where_would_i_start_making_a_compiler_in_rust/
 
 ## Repos:
 
@@ -60,11 +66,19 @@
 - https://github.com/returntocorp/semgrep
 - A miniature model of the Typescript compiler, intended to teach the structure of the real Typescript compiler: https://github.com/sandersn/mini-typescript
 - LR(1) parser generator for Rust: https://github.com/lalrpop/lalrpop
+- An incremental programming language: https://github.com/vmware/differential-datalog
+- https://github.com/antonmedv/ultra-tiny-compiler
+- The Witchcraft Compiler Collection: https://github.com/endrazine/wcc
 
 ## Courses:
 
 - Awesome course: https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/
 - https://suif.stanford.edu/dragonbook/
+
+## Books:
+
+- https://www.cs.princeton.edu/~appel/modern/ml/
+- https://gcc.gnu.org/wiki/ListOfCompilerBooks
 
 ## Interesting rust-analyzer issues:
 

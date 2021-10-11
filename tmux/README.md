@@ -14,6 +14,7 @@
 - https://github.com/tmuxinator/tmuxinator
 - Control tmux from phone: https://github.com/bjesus/muxile
 - Load tmux sessions via json and YAML, tmuxinator and teamocil style: https://github.com/tmux-python/tmuxp
+- https://github.com/artemave/tmux_super_fingers
 
 ## Plugins:
 
@@ -34,6 +35,7 @@
 ## Twitter and reddit:
 
 - Writing a yaml for preconfiguring tmux: https://twitter.com/n___vc/status/1438796516588756998
+- https://www.reddit.com/r/tmux/comments/olgte7/floating_popups_in_tmux/
 
 ## Tmux configs for reference:
 

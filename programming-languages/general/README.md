@@ -1,5 +1,10 @@
 <h2 align="center">General-Programming</h2>
 
+## Websites:
+
+- Programming languages resources(everything from compilers, RTO, assemblers, etc.): https://bernsteinbear.com/pl-resources/
+- OP Cheatsheets over various languages: https://devhints.io/
+
 ## Blogs and Articles:
 
 - typedef affect on type system safety garauntees as a whole: https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/
@@ -31,6 +36,10 @@
 - https://www.cbui.dev/how-to-rapidly-improve-at-any-programming-language/
 - https://medium.com/deutsche-telekom-gurgaon/hexagonal-code-architecture-clean-architecture-14ffddf4b9a9
 
+## Reddit threads and tweets:
+
+- https://www.reddit.com/r/Compilers/comments/q5nsun/any_tutorials_on_type_systems/
+
 ## Repos:
 
 - https://github.com/danistefanovic/build-your-own-x
@@ -58,6 +67,7 @@
 - Learning book: https://medium.com/pragmatic-programmers/table-of-contents-28c6d9173c33
 - https://pragprog.com/titles/sbsockets/real-time-phoenix/
 - https://sadia-mehmood.medium.com/elixir-for-software-development-a-fair-choice-2e60b40581f1
+- Elixir cheatsheet: https://devhints.io/elixir
 
 ### General:
 
@@ -86,6 +96,7 @@
 - https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/
 - https://towardsdatascience.com/hidden-gems-of-python-76020b14e42f
 - https://python.plainenglish.io/a-solution-to-boost-python-speed-1000x-times-c9e7d5be2f40
+- https://tenthousandmeters.com/tag/python-behind-the-scenes/
 
 ### Repos:
 
@@ -134,6 +145,8 @@
 - https://dane-bulat.medium.com/cmake-how-to-inspect-and-configure-the-compiler-877e6cb0317f
 - https://www.fluentcpp.com/2018/09/04/function-poisoning-in-cpp/
 - Learning CPP: https://www.reddit.com/r/rust/comments/phybjq/could_you_recommend_a_rust_book_thats_phase/
+- https://www.drdobbs.com/lock-free-data-structures-with-hazard-po/184401890
+- https://www.thecoderworld.com/difference-between-ansi-c-and-c/
 
 ### Repos:
 

@@ -4,6 +4,7 @@
 
 - https://github.com/ryanmcdermott/clean-code-javascript#table-of-contents
 - https://gabrieltanner.org/
+- https://dayssincelastjavascriptframework.com/
 
 ## Blogs and Articles:
 
@@ -48,6 +49,7 @@
 - https://www.reddit.com/r/javascript/comments/pqr8ox/askjs_how_to_you_structure_your_projects_to_avoid/
 - https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/
 - https://careerfoundry.com/en/blog/web-development/7-essential-tools-for-front-end-development/
+- https://blog.bitsrc.io/event-bubbling-and-capturing-in-javascript-6bc908321b22
 
 ### Tutorials:
 
@@ -83,3 +85,7 @@
 ## Learning:
 
 - https://www.freecodecamp.org/news/learn-typescript-with-this-crash-course/
+
+## Blogs and articles:
+
+- https://blog.devgenius.io/how-to-use-the-keyof-type-operator-in-typescript-6d5e0ea6740f

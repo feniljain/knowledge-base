@@ -20,6 +20,7 @@
 - https://iisprey.medium.com/a-minimalist-guide-to-protobuf-1f24fbca0e2d
 - https://netflixtechblog.com/practical-api-design-at-netflix-part-2-protobuf-fieldmask-for-mutation-operations-2e75e1d230e4
 - https://pashkatrick.medium.com/postman-grpc-fd43b4f2c223
+- https://www.infoq.com/news/2021/09/practical-api-design-netflix/
 
 ## Repos:
 

@@ -46,6 +46,9 @@
 - https://topic.alibabacloud.com/a/ulp-upper-layer-protocol-brought-in-by-the-linux-413414-kernel_1_16_30149121.html
 - KProbes: https://lwn.net/Articles/132196/
 - https://medium.com/@christina.jacob.koikara/what-is-xdp-the-express-data-path-in-linux-kernel-9413880a0113
+- https://www.cloudflare.com/en-in/learning/ddos/what-is-layer-7/(Includes a small OSI useful summary diagram)
+- https://iximiuz.com/en/posts/reverse-proxy-http-keep-alive-and-502s/
+- https://medium.com/enjoy-algorithm/network-protocols-cb979547a114
 
 ## Repos:
 
@@ -59,6 +62,7 @@
 - https://www.reddit.com/r/sysadmin/comments/mm45e6/dns_should_www_cname_and_a_records_exist/
 - https://www.reddit.com/r/rust/comments/nsu1y0/quic_version_1_is_live_on_cloudflare/
 - https://www.reddit.com/r/linuxquestions/comments/om0dok/is_it_possible_to_create_an_ethernet_hotspot/
+- https://www.reddit.com/r/webdev/comments/pyjzho/dns_record_types/
 
 ## Videos:
 
@@ -66,7 +70,9 @@
 - Hub vs Switch vs Bridge vs Router(alongwith proper OSI layer comparison): https://www.youtube.com/watch?v=AA_dywKmkhg
 - Connecting to localhost:0 causes kernel to select an open port for you: https://twitter.com/jimmyzelinskie/status/1413524246693916686
 - In-kernel, fast-path packet processing with AF_XDP: https://www.youtube.com/watch?v=Gv-nG6F_09I
+- Networking fundamentals: https://www.youtube.com/watch?v=9uebakqWlB0
 
-## Blog Series:
+## Blog Series/Articles collection:
 
 - https://iximiuz.com/en/
+- https://www.cloudflare.com/learning/

@@ -38,6 +38,7 @@
 - https://areweyeetyet.rs/
 - https://rust.careers/
 - https://rustacean-principles.netlify.app/
+- https://programming-idioms.org/cheatsheet/Cpp/Rust
 
 ## Blogs and Articles:
 
@@ -93,6 +94,8 @@
 - https://blog.adamchalmers.com/pin-unpin/
 - https://matklad.github.io/2021/08/22/large-rust-workspaces.html
 - Copy vs Clone: https://stackoverflow.com/questions/31012923/what-is-the-difference-between-copy-and-clone
+- https://blog.knoldus.com/design-patterns-in-rust-programming
+- https://diziet.dreamwidth.org/9894.html
 
 ### Tutorials:
 
@@ -179,6 +182,10 @@
 - https://preettheman.medium.com/lets-build-minecraft-with-rust-b5622af36041
 - https://johanhelsing.studio/posts/introducing-matchbox
 - Integration tests in rust: https://tjtelan.com/blog/rust-custom-test-harness/
+- https://daveceddia.com/debug-electron-native-rust-with-vscode/
+- https://dev.to/askrodney/using-rust-cloudflare-workers-serverless-hcaptcha-358g
+- https://medium.com/@fujita.tomonori/scalable-server-design-in-rust-with-tokio-4c81a5f350a3
+- https://penumbra23.medium.com/container-runtime-in-rust-part-i-7bd9a434c50a
 
 ### Language general:
 
@@ -206,7 +213,15 @@
 - https://joshchoo.com/writing/rust-lazy-async-operations
 - http://likebike.com/posts/How_To_Write_Fast_Rust_Code.html
 - https://nullderef.com/blog/plugin-start/
+- https://nullderef.com/blog/plugin-dynload/
 - https://epage.github.io/blog/2021/09/learning-rust/
+- https://adventures.michaelfbryan.com/posts/rust-best-practices/bad-habits
+- https://ohsayan.github.io/2021/09/the-derived-macro-0.4/
+- https://www.reddit.com/r/rust/comments/pyrz1u/should_i_always_avoid_refcell_wherever_possible/
+- https://www.fpcomplete.com/blog/rust-asref-asderef/
+- https://tweedegolf.nl/blog/62/measuring-power-consumption-sync-vs-async
+- https://codeandbitters.com/published-crate-analysis/
+- Does the Bronze Garbage Collector Make Rust Easier to Use? A Controlled Experiment: https://arxiv.org/abs/2110.01098
 
 ### Others:
 
@@ -225,9 +240,7 @@
 - https://mrtact.medium.com/polishing-rust-30eeac3c4bf3
 - https://www.possiblerust.com/guide/how-to-read-rust-functions-part-1
 - https://vorner.github.io/2021/01/31/saving-some-allocations.html
-- Visibility and privacy in rust explained perfectly: https://doc.rust-lang.org/reference/visibility-and-privacy.html
-- https://this-week-in-rust.org/blog/2021/02/03/this-week-in-rust-376/
-- https://www.cvedetails.com/product/48677/Rust-lang-Rust.html?vendor_id=19029
+- Visibility and privacy in rust explained perfectly: https://doc.rust-lang.org/reference/visibility-and-privacy.html https://this-week-in-rust.org/blog/2021/02/03/this-week-in-rust-376/ https://www.cvedetails.com/product/48677/Rust-lang-Rust.html?vendor_id=19029
 - https://robert.kra.hn/posts/2021-02-03_is-rust-fp/
 - https://cglab.ca/~abeinges/blah/rust-btree-case/
 - https://medium.com/dev-genius/open-source-rust-24-awesome-frameworks-projects-and-libraries-8885112f8a73
@@ -287,6 +300,8 @@
 - https://sixtyfps.io/blog/introducing-cargo-ui.html
 - https://www.eurekalert.org/pub_releases/2021-07/su-cs071521.php
 - Cross compiling windows binaries from linux: https://jake-shadle.github.io/xwin/
+- https://github.com/ericseppanen/crates_io_analyzer/blob/main/README.md
+- https://www.cvedetails.com/product/48677/Rust-lang-Rust.html?vendor_id=19029
 
 ## Blog Series/Collection of articles:
 
@@ -318,9 +333,11 @@
 - https://blog.yoshuawuyts.com/
 - https://readrust.net/
 - https://owengage.com/writing/
+- https://diziet.dreamwidth.org/
 
 ## Repos:
 
+- https://www.alexedwards.net/blog/which-go-router-should-i-use
 - Infomation useful to people contributing to rust: https://github.com/rust-lang/rust-forge
 - https://github.com/rust-lang/rustlings
 - https://github.com/not-yet-awesome-rust/not-yet-awesome-rust
@@ -388,6 +405,8 @@
 - A smol tcp/ip stack: https://github.com/smoltcp-rs/smoltcp
 - Powerful IDE Tools for Rust: https://github.com/willcrichton/flowistry
 - https://github.com/DanielKeep/cargo-script
+- https://github.com/rust-lang/this-week-in-rust
+- A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust: https://github.com/mre/idiomatic-rust
 
 ## Videos:
 
@@ -418,6 +437,11 @@
 - Creating AWS lambda in rust: https://www.youtube.com/watch?v=PmtwtK6jyLc
 - Why you should not use rust: https://www.youtube.com/watch?v=S3fAmfbiNk8
 - GhostCell: Separating Permissions from Data in Rust: https://www.youtube.com/watch?v=jIbubw86p0M
+- https://www.reddit.com/r/rust/comments/pxz7at/rustlinux_plumbers_conference_2021/
+
+## Newsletters:
+
+- https://rustinblockchain.org/
 
 ## YT and Twitch Project channels/Playlists:
 
@@ -449,6 +473,10 @@
 - Performance Book: https://github.com/nnethercote/perf-book
 - Book on rust macros: https://danielkeep.github.io/tlborm/book/index.html
 - https://www.oreilly.com/library/view/hands-on-systems-programming/9781098109424/
+- https://www.pragprog.com/titles/hwrustbrain/rust-brain-teasers/
+- Rust for the polygot programmer: https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html
+- https://www.reddit.com/r/rust/comments/q09828/best_free_rust_books/
+- https://ocamlpro.github.io/verification_for_dummies/
 
 ## Interesting Projects:
 
@@ -506,6 +534,7 @@
 - https://crates.io/crates/tracing
 - Statically-checked alternatives to RefCell: https://docs.rs/qcell/0.4.2/qcell/
 - Generate a THIRDPARTY file with all licenses in a cargo project: https://github.com/sstadick/cargo-bundle-licenses
+- CLI for managing workspace-hack crates: https://crates.io/crates/cargo-hakari
 
 ## Rust Internals:
 
@@ -538,6 +567,8 @@
 - https://dev.to/xphoniex/adding-our-own-custom-statement-to-rust-language-30lc
 - https://github.com/lalrpop/lalrpop
 - Borrowing Trouble: The Difficulties Of A C++ Borrow-Checker: https://docs.google.com/document/d/e/2PACX-1vSt2VB1zQAJ6JDMaIA9PlmEgBxz2K5Tx6w2JqJNeYCy0gU4aoubdTxlENSKNSrQ2TXqPWcuwtXe6PlO/pub
+- https://www.reddit.com/r/rust/comments/my3ipa/if_you_could_redesign_rust_from_scratch_today/
+- https://rust-lang.github.io/compiler-team/#meeting-calendar
 
 ## Rust and security
 
@@ -565,6 +596,9 @@
 - How would you further organize the project structure of the web server in the Rust book? - https://www.reddit.com/r/rust/comments/ny44z6/how_would_you_further_organize_the_project/
 - https://www.reddit.com/r/rust/comments/oc3zby/do_you_think_rust_has_a_future_in_backend_web/
 - Tips for CI of large rust projects: https://twitter.com/ManishEarth/status/1417648658485440516
+- Why try-catch shouldnt be used: https://twitter.com/badamczewski01/status/1427248857197514754
+- Status quo on developing for Android in Rust: https://www.reddit.com/r/rust/comments/q140zn/status_quo_on_developing_for_android_in_rust/
+- Idiomatic rust usage: https://www.reddit.com/r/rust/comments/q41cg9/is_there_a_rust_equivalent_to_the_c_standard/
 
 ## Rust Learning:
 

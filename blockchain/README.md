@@ -13,11 +13,18 @@
 - https://bnjjj.medium.com/why-and-how-we-wrote-a-compiler-in-rust-blog-post-series-1-x-the-context-e2f83b10edb9
 - https://www.metachris.com/2021/05/creating-go-bindings-for-ethereum-smart-contracts/
 - https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291
+- https://medium.com/@bytesbay/you-dont-need-jwt-anymore-974aa6196976
 
 ### General:
 
 - https://blog.1inch.exchange/introducing-the-1inch-aggregation-protocol-v3-b02890986547
 - https://medium.com/coinmonks/ethereum-foundation-announces-berlin-hardfork-603773bbc2aa
+- https://www.infoq.com/articles/enterprise-private-public-blockchains
+- https://hackernoon.com/introducing-any-language-smart-contracts
+
+## Websites:
+
+- https://rustinblockchain.org/
 
 ## Repos:
 

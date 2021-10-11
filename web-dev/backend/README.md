@@ -63,6 +63,10 @@
 - https://blog.devgenius.io/difference-between-throttling-and-debouncing-adf54f697d33
 - https://hackernoon.com/the-rest-of-the-10-commandments
 - https://discord.com/blog/how-discord-handles-two-and-half-million-concurrent-voice-users-using-webrtc
+- https://www.infoq.com/presentations/intelligent-request-routing/
+- https://medium.com/event-driven-utopia/sending-reliable-event-notifications-with-transactional-outbox-pattern-7a7c69158d1b
+- https://www.infoq.com/presentations/microservices-design-time-coupling/
+- https://adhiputraperkasa.medium.com/the-growing-pain-of-caches-in-microservices-a03cf9023c0c
 
 ## Reddits and twitter threads:
 

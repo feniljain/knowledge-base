@@ -4,6 +4,7 @@
 
 - Get direct download and magnet links to english & hindi series: https://yts.rs/
 - Download songs from various soures like gaana, itunes, etc.: https://ytmdl.deepjyoti30.dev/
+- Watch all english series online without ads: https://www3.watchserieshd.ru/
 
 # Online radios:
 

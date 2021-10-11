@@ -3,6 +3,7 @@
 ## Websites:
 
 - Creates slow responses, which can be used to test and optimize the website: https://slowfil.es/
+- https://serverless.page/
 
 ## Blogs And Articles:
 
@@ -31,6 +32,7 @@
 - https://dev.to/kiranrajvjd/awesome-resource-for-your-web-projects-75-background-resources-2cm8
 - https://dev.to/maureento8888/realistic-list-of-web-dev-resources-253c
 - https://medium.com/weekly-webtips/what-is-the-difference-between-a-url-and-a-uri-8d4f473b04b
+- https://javascript.plainenglish.io/17-killer-websites-for-web-developers-13e1e30345b8
 
 ## Videos:
 

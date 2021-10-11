@@ -52,6 +52,7 @@
 ## Videos:
 
 - Gaurav Sen: https://www.youtube.com/watch?v=bBPHpH8aKjw
+- Why your resume gets auto-rejected: https://www.youtube.com/watch?v=Kpm8rEywBDQ
 
 ## Books:
 
@@ -74,21 +75,20 @@
 - https://towardsdatascience.com/crack-data-science-interviews-advanced-sql-skills-in-2021-322fef819c6c
 - https://www.reddit.com/r/SQL/comments/nww7g0/best_way_to_cram_for_sql_interview_test/
 
-## Docker interviews:
-
-- https://www.interviewbit.com/docker-interview-questions/
-- https://www.guru99.com/docker-interview-questions.html
-- See last answer's diagram: https://stackoverflow.com/questions/60527336/what-is-the-difference-between-docker-daemon-and-docker-engine
-
 ## Devops interviews:
 
 - Assorted interview questions (across networking, Linux, OS internals, AWS, Docker, etc.): https://gist.github.com/kwilczynski/66fe48a1339454798af4152dd9c34a6e
+- https://medium.com/bb-tutorials-and-thoughts/kubernetes-interview-questions-part-1-eb88a9df785f
+- https://www.interviewbit.com/docker-interview-questions/
+- https://www.guru99.com/docker-interview-questions.html
+- See last answer's diagram: https://stackoverflow.com/questions/60527336/what-is-the-difference-between-docker-daemon-and-docker-engine
 
 ## Repos:
 
 - Awesome guide: https://github.com/jwasham/coding-interview-university
 - https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation
 - Curated interview preparation materials for busy engineers: https://github.com/yangshun/tech-interview-handbook
+- https://dev.to/olanetsoft/12-github-repositories-to-help-you-ace-your-job-interview-2a08
 
 ## Tweets:
 

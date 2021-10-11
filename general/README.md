@@ -18,6 +18,7 @@
 - https://simplelogin.io/
 - https://resizeimage.net/
 - https://qrcode.show/
+- Check which tab your email will land in gmail: https://www.producthunt.com/posts/promotab
 
 ## Blogs and articles:
 
@@ -39,6 +40,12 @@
 - https://proprivacy.com/privacy-service/guides/firefox-privacy-security-guide
 - https://betterhumans.pub/how-to-network-with-people-you-dont-know-to-get-the-job-you-want-7feee9474d40
 - https://betterprogramming.pub/5-lessons-from-a-no-nonsense-mentor-137b991a4740
+- https://debugger.medium.com/how-to-optimize-your-ability-to-focus-with-sound-and-music-b59731128be8
+- https://forge.medium.com/the-follow-up-is-the-most-important-email-youll-ever-write-3fbcfc17ebb4
+
+## Blog series/Articles collection:
+
+- https://forge.medium.com/how-to-write-anything/home
 
 ## Reddit threads and tweets:
 
@@ -107,6 +114,9 @@
 - Anime CLI: https://github.com/pystardust/ani-cli
 - Collection of Firefox customization scripts: https://github.com/MrOtherGuy/firefox-csshacks
 - Gruvbox for complete firefox: https://github.com/FirefoxCSSThemers/GruvFox
+- Free and OSS self-hosted newsletter and mailing list manager: https://listmonk.app/
+- https://github.com/Xithrius/terminal-twitch-chat
+- https://github.com/LappleApple/awesome-leading-and-managing
 
 ## Free Creds:
 

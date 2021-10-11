@@ -9,6 +9,7 @@
 - Awesome Architecture Diagrams: https://app.ilograph.com/
 - https://container.training/
 - http://highscalability.com/
+- Ton of resource, like a lot(this is a all devops knowledge-base, including docker, kubernetes, etc.): https://redhatspain.com/
 
 ## Blogs and Articles:
 
@@ -58,10 +59,19 @@
 - https://www.infoq.com/articles/service-mesh-ultimate-guide-2e/
 - https://medium.com/codex/implementing-service-discovery-for-microservices-df737e012bc2
 - https://betterprogramming.pub/the-roles-of-service-mesh-and-api-gateways-in-microservice-architecture-f6e7dfd61043
+- https://towardsdatascience.com/mlops-without-much-ops-d17f502f76e8
+- https://www.infoq.com/articles/service-mesh-unnecessary-complexity/
+- https://netflixtechblog.com/hyper-scale-vpc-flow-logs-enrichment-to-provide-network-insight-e5f1db02910d
+- https://docs.microsoft.com/en-us/azure/architecture/patterns/#catalog-of-patterns
+- https://adhiputraperkasa.medium.com/the-growing-pain-of-caches-in-microservices-a03cf9023c0c
 
 ## Blog Series/Blog collections:
 
 - https://blog.stackpath.com/author/robertgibb/
+
+## Newsletters:
+
+- https://anaisurl.com/
 
 ## Videos:
 
@@ -69,7 +79,8 @@
 - Ultimate guide to AWS Advocate Certification: https://www.youtube.com/watch?v=RrKRN9zRBWs
 - https://www.youtube.com/channel/UC4MdpjzjPuop_qWNAvR23JA
 - Build containers from scratch in golang: https://www.youtube.com/watch?v=8fi7uSYlOdc
-- https://www.youtube.com/playlist?list=PL4RlCVv9MdsPH1G2igGUwG5wUukBQuAyN
+- Devops learn and misc: https://www.youtube.com/playlist?list=PL4RlCVv9MdsPH1G2igGUwG5wUukBQuAyN
+- DevOps Master Class: https://www.youtube.com/watch?v=YMdtaWfU_QE&list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq
 
 ## Books:
 
@@ -80,7 +91,7 @@
 
 - https://github.com/donnemartin/system-design-primer
 - https://github.com/actions/virtual-environments
-- https://github.com/upgundecha/howtheyaws
+- A curated collection of publicly available resources on how technology and tech-savvy organizations around the world use Amazon Web Services: https://github.com/upgundecha/howtheyaws
 - https://endgame.readthedocs.io/en/latest/
 - https://github.com/salesforce/cloudsplaining
 - https://github.com/nats-io
@@ -91,6 +102,8 @@
 - https://github.com/graviraja/MLOps-Basics
 - https://github.com/bregman-arie/devops-exercises
 - https://github.com/cloudquery/cloudquery
+- https://github.com/yomorun/yomo
+- https://github.com/grafana/agent
 
 ## Courses:
 
@@ -110,3 +123,4 @@
 - AWS related blogs: https://awsteele.com/
 - https://medium.com/ancestry-engineering/the-big-problem-with-aws-fargate-and-autoscaling-194ed8a44cc1
 - https://medium.com/@brunoamaroalmeida/what-i-wish-someone-had-told-me-about-pursuing-an-aws-certification-tips-tricks-for-self-study-a9244462a1a1
+- https://dev.to/mrwormhole/localstack-with-terraform-and-docker-for-running-aws-locally-3a6d

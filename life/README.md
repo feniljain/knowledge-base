@@ -32,6 +32,7 @@
 - https://betterprogramming.pub/why-most-software-developers-struggle-to-improve-ca6cb534eff5
 - https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest
 - https://dev.to/tomeraitz/the-right-mindset-to-solve-complex-problems-1gc6
+- https://entrepreneurshandbook.co/i-interviewed-75-overachievers-here-is-the-one-thing-they-all-have-in-common-85a4756de3b
 
 ## Videos:
 

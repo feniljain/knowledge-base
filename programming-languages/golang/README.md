@@ -18,6 +18,7 @@
 - https://threedots.tech/post/common-anti-patterns-in-go-web-applications/
 - https://seankhliao.com/blog/12020-11-23-go-error-handling-proposals/
 - How to update APIs for generics: https://github.com/golang/go/discussions/48287
+- https://eli.thegreenplace.net/2019/go-internals-capturing-loop-variables-in-closures/
 
 ### Tutorials:
 
@@ -65,6 +66,7 @@
 - https://medium.com/@amitdavidson234/write-a-static-code-analysis-tool-for-detecting-race-conditions-e05a49692ab1
 - https://poonai.github.io/posts/how-debuggers-works-part1/
 - https://douglasmakey.medium.com/socket-sharding-in-linux-example-with-go-b0514d6b5d08
+- https://medium.com/trendyol-tech/the-fanciest-way-of-releasing-go-binaries-with-goreleaser-dbbd3d44c7fb
 
 ### Architecture:
 
@@ -85,6 +87,7 @@
 - https://github.com/xinliangnote/go-gin-api
 - https://github.com/golang-standards/project-layout
 - https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example
+- https://levelup.gitconnected.com/practical-ddd-in-golang-repository-d308c9d79ba7
 
 ### Others:
 
@@ -165,6 +168,10 @@
 - https://tarithj.medium.com/creating-small-go-lang-executables-78cf117e8b33
 - https://neilalexander.dev/2021/08/29/go-pass-by-value.html
 - https://golang.design/research/zero-alloc-call-sched/
+- https://philpearl.github.io/post/perf_time/
+- https://www.alexedwards.net/blog/which-go-router-should-i-use
+- https://eli.thegreenplace.net/2021/rewriting-go-source-code-with-ast-tooling/
+- https://tailscale.com/blog/go-linker/
 
 ## Blog Series:
 
@@ -200,6 +207,7 @@
 ## Reddit and Twitter threads:
 
 - Distributed Task Queue discussion in golang: https://www.reddit.com/r/golang/comments/nsfjtq/for_those_running_go_in_production_at_scale_what/
+- https://www.reddit.com/r/golang/comments/pzeunz/proper_package_management_commands_in_go_117/
 
 ## Books:
 
@@ -209,6 +217,8 @@
 - https://www.practical-go-lessons.com/
 - https://docs.google.com/document/d/1QQq8Yf90ar59OUQM6qRDS6Bwk5hfOCpcqw_WUX43YOg/
 - https://threedots.tech/go-with-the-domain/
+- Books to learn go in depth: https://www.reddit.com/r/golang/comments/pwamgm/books_to_learn_go_in_depth/
+- https://github.com/chapin666/books/blob/master/golang/Concurrency-in-Go.pdf
 
 ## Videos:
 
@@ -255,6 +265,7 @@
 - https://go101.org/article/101.html
 - https://www.practical-go-lessons.com/
 - https://goingwithgo.com/
+- Job search website: https://www.goopensource.dev/
 
 ## Repos and tools:
 
@@ -290,6 +301,8 @@
 - Host your own go proxy: https://docs.gomods.io/
 - https://github.com/nikolaydubina/go-recipes
 - Busy Developer's Guide to Go Profiling, Tracing and Observability: https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md
+- A collection of Go sytle guides: https://github.com/dgryski/awesome-go-style
+- Collection of unusual usecases of generics: https://github.com/xakep666/unusual_generics
 
 ## Packages:
 

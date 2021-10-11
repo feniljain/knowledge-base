@@ -37,6 +37,7 @@
 - https://www.honeybadger.io/blog/git-tricks/
 - https://medium.com/@gohberg/the-biggest-misconception-about-git-b2f87d97ed52
 - https://dev.to/pragativerma18/confusing-terms-in-the-git-terminology-1578
+- https://dev.to/scottshipp/emojis-in-commit-messages-or-2d32
 - https://www.aosabook.org/en/git.html
 - https://reallifeprogramming.com/git-process-that-works-say-no-to-gitflow-50bf2038ccf7
 - https://medium.com/@iAnkurBiswas/common-git-mistakes-and-how-to-fix-them-10184cd5fa77

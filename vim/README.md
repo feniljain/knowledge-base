@@ -100,11 +100,15 @@
 - https://vim.fandom.com/wiki/Power_of_g
 - https://pragmaticpineapple.com/how-did-vim-become-so-popular/#half-a-century-of-contributions
 - https://pragmaticpineapple.com/reducing-boilerplate-with-vim-templates/
+- https://alpha2phi.medium.com/neovim-lsp-and-dap-using-lua-3fb24610ac9f
+- https://vi.stackexchange.com/questions/4891/what-is-the-select-mode-and-when-is-it-relevant-to-use-it
+- https://www.barbarianmeetscoding.com/blog/exploring-vim-plugins-improve-and-extend-your-text-objects-with-targets-vim
 
 ## Blog series:
 
 - https://thoughtbot.com/blog/tags/vim
 - https://pragmaticpineapple.com/
+- https://www.barbarianmeetscoding.com/
 
 ## Reddit threads and tweets:
 
@@ -135,6 +139,8 @@
 - Move viewport by one line: https://twitter.com/vim_tricks/status/1425839692222771200
 - https://www.reddit.com/r/neovim/comments/pmvc7a/how_can_i_conditionally_add_to_the_on_attach/
 - Editing macros: https://twitter.com/VImTipsDaily/status/1438797931851796482
+- Using <C-o>, From Insert mode, we can switch to Normal mode for a single command: https://twitter.com/VImTipsDaily/status/1441334737960726531
+- Using g<C-g> to get word count, line count and byte count in current file: https://twitter.com/VimLinks/status/1442412535374696461
 
 ## Vimscript:
 
@@ -171,6 +177,7 @@
 - Everthing about vim: https://github.com/mhinz/vim-galore
 - https://github.com/rhysd/vim.wasm
 - Good golang config for nvim: https://github.com/jhchabran/nvim-config
+- https://github.com/hakluke/how-to-exit-vim
 
 ## General:
 
@@ -426,6 +433,8 @@
 - https://github.com/nvim-telescope/telescope-frecency.nvim
 - https://github.com/GustavoKatel/sidebar.nvim
 - https://github.com/sindrets/winshift.nvim
+- https://github.com/weilbith/nvim-code-action-menu
+- https://github.com/windwp/windline.nvim
 
 ## -- $$ -- :
 

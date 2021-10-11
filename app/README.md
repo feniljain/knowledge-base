@@ -52,6 +52,7 @@
 
 ## Repos:
 
+- Flutter apprentice materials: https://github.com/raywenderlich/flta-materials
 - https://github.com/Solido/awesome-flutter
 - https://github.com/iampawan/VelocityX
 - https://github.com/hydro-sdk/hydro-sdk

@@ -41,6 +41,7 @@
 - https://deps.dev/
 - Collection of blog websites: https://refined.blog/
 - https://computingthehumanexperience.com/
+- Quality metadata badges for open source projects: https://shields.io/
 
 ## Blogs and Articles:
 
@@ -117,18 +118,24 @@
 - https://medium.com/@chadfowler/the-best-job-description-for-an-engineer-ever-written-57b42919cc2f
 - https://medium.com/free-code-camp/books-that-every-engineering-manager-should-read-7a053e296d11
 - Mechanical Keyboard switches guide: https://docs.google.com/spreadsheets/u/1/d/1GOlfD1-WLaCtABPBLcAsxi8HftuOfaiPwEZQPdg_wfU/pubhtml
+- https://hackernoon.com/things-to-think-about-when-debugging-part-1
+- https://hackernoon.com/the-debugger-checklist-part-2
+- https://dev.to/ben/what-skills-do-career-indie-developers-not-learn-vs-those-employed-mostly-on-teams-485j
+- https://dev.to/erikmelone/how-to-ask-the-right-questions-as-a-junior-developer-5701
+- https://www.esecurityplanet.com/applications/top-code-debugging-and-code-security-tools/
 
 ## Blog Series:
 
 - Damn good articles on general programming stuff: https://journal.stuffwithstuff.com/category/code/
 
-## Useful threads:
+## Reddit posts and tweets:
 
 - Correct posture to sit while programming: https://twitter.com/frontenddude/status/1346032968800854016
 - Mistakes not to make as a software engineer: https://twitter.com/bahdcoder/status/1351090302354927616
 - What happens to old programmers: https://news.ycombinator.com/item?id=7372997
 - https://www.reddit.com/r/learnprogramming/comments/ortnef/a_super_harsh_guide_to_learning_computer_science/
 - Blog series collection: https://news.ycombinator.com/item?id=27973836
+- Leaning latex: https://www.reddit.com/r/linux/comments/q5dnm7/i_wanted_to_learn_latex_so_i_made_a_zine_about/
 
 ## Videos:
 
@@ -188,6 +195,9 @@
 - A self-hosted, ad-free, privacy respecting metasearch engine: https://github.com/benbusby/whoogle-search
 - https://github.com/freeCodeCamp/freeCodeCamp
 - https://www.reddit.com/r/coolgithubprojects/comments/ptc807/i_created_a_site_to_check_if_your_location_is/
+- A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more: https://github.com/trimstray/the-book-of-secret-knowledge
+- A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources: https://github.com/protontypes/open-sustainable-technology
+- https://github.com/sindresorhus/awesome
 
 ## Extensions:
 
@@ -202,6 +212,7 @@
 
 ## Books:
 
+- Collection of books over various topics: https://github.com/chapin666/books
 - https://atcold.github.io/pytorch-Deep-Learning/
 - https://dev.to/jameesy/the-five-books-that-changed-my-life-2ghe
 - https://dev.to/simonholdorf/10-fantastic-books-by-developers-for-developers-3hgc
@@ -213,6 +224,7 @@
 - Alex Petrov's Database Internals
 - https://medium.com/pragmatic-programmers/directory-of-pragmatic-programmer-books-on-medium-6a5cbadbd4b4
 - https://dev.to/jordienr/4-books-that-are-not-about-computers-that-made-me-a-good-software-developer-2hac
+- Learning type theory: https://www.reddit.com/r/math/comments/k41lla/category_and_type_theory_which_should_i_learn/
 
 ## Tools:
 

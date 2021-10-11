@@ -5,6 +5,7 @@
 - https://dzone.com/
 - https://dbdiagram.io/
 - https://dbdb.io/
+- https://proxysql.com/
 
 ## Blogs And Articles:
 
@@ -56,6 +57,9 @@
 - https://medium.com/swlh/design-considerations-in-a-read-local-write-local-multi-master-data-store-8ff16c9c120
 - https://betterprogramming.pub/scaling-sql-nosql-databases-1121b24506df
 - https://rudderstack.medium.com/kafka-vs-postgresql-how-we-implemented-our-queueing-system-using-postgresql-ec128650e3e
+- https://medium.com/geekculture/distributed-transactions-two-phase-commit-c82752d69324
+- https://betterprogramming.pub/create-a-graph-database-and-api-with-postgresql-and-node-js-d7bddcc00bbb
+- https://medium.com/@amitdavidson234/databases-behind-the-scenes-how-boltdb-saves-data-to-the-disk-de8f1e3feda6
 
 ## Blog Series:
 
@@ -100,6 +104,9 @@
 
 - Some SQL Aggregate Functions that would come in handy : https://twitter.com/Sukriti_Macker/status/1405196069508587520
 - https://www.reddit.com/r/SQL/comments/pp53lr/fastest_way_to_learn_sql_and_some_database_design/
+- https://www.reddit.com/r/SQL/comments/pyr4q0/best_certificate_program_for_a_beginner_learning/
+- https://www.reddit.com/r/SQL/comments/pym9iv/any_good_site_where_you_can_get_updates_about_sql/
+- https://www.reddit.com/r/SQL/comments/q5hw3o/free_resources_to_learn_sql/
 
 ## Blogs and articles:
 

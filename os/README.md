@@ -6,6 +6,7 @@
 - https://9p.io/plan9/
 - https://ebpf.io/
 - https://fuchsia.dev/fuchsia-src/reference/syscalls
+- News site providing news around linx kernel: https://lwn.net/
 
 ## Blog and articles:
 
@@ -36,6 +37,7 @@
 
 - https://github.com/madMAx43v3r/chia-plotter
 - https://github.com/rabbitstack/fibratus
+- The world's worst kernel module: https://github.com/davidmalcolm/antipatterns.ko
 
 ## Reddit and twitter threads:
 

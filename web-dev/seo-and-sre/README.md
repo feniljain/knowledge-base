@@ -20,6 +20,7 @@
 - https://www.reddit.com/r/devops/comments/oulqyh/interview_question/
 - https://www.infoq.com/podcasts/sre-apprentices/
 - https://blog.getambassador.io/the-rise-of-cloud-native-engineering-organizations-1a244581bda5
+- https://redhatspain.com/sre/
 
 ## Repos:
 
