@@ -56,6 +56,7 @@
 - https://github.com/cloudflare/quiche
 - An experiment in scalable routing as an encrypted IPv6 overlay network: https://github.com/yggdrasil-network/yggdrasil-go/
 - Efficient reliable UDP unicast, UDP multicast, and IPC message transport: https://github.com/real-logic/aeron
+- A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet: https://github.com/fatedier/frp
 
 ## Reddit and twitter threads:
 

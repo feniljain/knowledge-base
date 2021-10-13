@@ -15,3 +15,10 @@
 ## Repos:
 
 - A minecraft-like multi version client implemented in Rust: https://github.com/Lea-fish/Leafish
+
+## Redstone:
+
+### Videos/Channels:
+
+- CPU centric redstone videos: https://www.youtube.com/user/greatgamer34
+- Redstone basics playlist from illmango: https://www.youtube.com/watch?v=nBMzgBkFXuo&list=PLnC1rWWvOq50atbadx9lsST9t_Ecfs6_N

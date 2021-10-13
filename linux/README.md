@@ -367,6 +367,8 @@
     - https://docs.cilium.io/en/latest/bpf/
     - https://www.iovisor.org/technology/xdp
     - https://medium.com/thermokline/confused-by-ebpf-9d4a8bce318e
+    - https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d
+    - https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d
 
 ### Books:
 
@@ -390,6 +392,7 @@
     - eBPF verifier tool: https://github.com/torvalds/linux/blob/master/kernel/bpf/verifier.c
     - In-kernel cache based on eBPF: https://github.com/Orange-OpenSource/bmc-cache
     - A Rust interface for the Linux AF_XDP address family: https://github.com/seeyarh/xdpsock
+    - https://github.com/parca-dev/parca
 
 ### Reddit and twitter threads:
 
@@ -397,10 +400,14 @@
     - https://www.reddit.com/r/kernel/comments/oks79i/a_beginners_guide_to_ebpf_programming_with_go/
     - https://www.reddit.com/r/kernel/comments/osmf08/esbpf_embedded_smallest_bpf_framework/
     - What tools to use at what level(proficiency) in eBPF: https://twitter.com/brendangregg/status/1439361780010999810
+    - https://www.reddit.com/r/golang/comments/q5ptus/introducing_parca_open_source_infrastructurewide/
 
 ### Videos:
 
     - eBPF superpowers from liz rice: https://www.youtube.com/watch?v=4SiWL5tULnQ
+    - Using eBPF to measure the k8s cluster health: https://www.p99conf.io/session/using-ebpf-to-measure-the-k8s-cluster-health/
+    - https://www.p99conf.io/session/high-performance-networking-using-ebpf-xdp-and-io_uring/
+    - A moderate intro to writing BPF programs with Rust: https://www.youtube.com/watch?v=Pac083l2R34
 
 ## Rust for Linux:
 

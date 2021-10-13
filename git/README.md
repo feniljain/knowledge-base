@@ -88,6 +88,7 @@
 - https://github.blog/2021-03-30-github-advanced-security-security-overview-beta-secret-scanning-private-repos/
 - https://github.blog/2021-03-25-how-github-actions-renders-large-scale-logs/
 - https://github.com/readme/podcast
+- https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes
 
 ## Interesting commands:
 
