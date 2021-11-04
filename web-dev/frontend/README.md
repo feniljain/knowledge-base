@@ -27,6 +27,7 @@
 - https://blog.bitsrc.io/9-element-tab-features-in-chrome-devtools-for-effective-debugging-1b02aa8f000a
 - https://dev.to/polgarj/a-short-guide-to-help-you-pick-the-correct-html-tag-56l9
 - https://devtrium.com/posts/how-to-use-react-usereducer-hook
+- https://javascript.info/debugging-chrome
 
 ### Others:
 
@@ -96,6 +97,7 @@
 - https://itnext.io/the-best-frontend-development-strategies-in-2022-cb02dd7aa48b
 - https://netflixtechblog.com/how-we-build-micro-frontends-with-lattice-22b8635f77ea
 - https://blog.bitsrc.io/micro-frontends-5-common-mistakes-to-avoid-4a35a37cad3d
+- https://www.infoq.com/news/2021/09/qwik-javascript-framework/
 
 ## Websites:
 
@@ -117,6 +119,7 @@
 - https://github.com/TuSimple/naive-ui
 - https://github.com/lirantal/is-website-vulnerable/
 - https://github.com/bradtraversy/50projects50days
+- https://github.com/KieSun/all-of-frontend
 
 ## Packages:
 
@@ -143,6 +146,10 @@
 - Generate wavy dividers with ease: https://wavier.art/
 - https://css-irl.info/
 - https://csswizardry.com/ct/
+- https://cleanup.pictures/
+- https://animated-gradient-background-generator.netlify.app/
+- https://animatedbackgrounds.me/
+- Component library for tailwind css: https://flowbite.com/
 
 ## Blogs And Articles:
 
@@ -167,6 +174,8 @@
 - https://dev.to/shantanu_jana/glassmorphism-login-form-using-only-html-css-mia
 - SaaS crash course book: https://dev.to/codewithshahan/sass-crash-course-in-a-book-3kg2
 - https://charles-stover.medium.com/cache-your-react-event-listeners-to-improve-performance-14f635a62e15
+- https://medium.com/@johan.isaksson/how-i-made-googles-data-grid-scroll-10x-faster-with-one-line-of-css-78cb1e8d9cb1
+- https://iconmap.io/blog
 
 ## Extensions:
 

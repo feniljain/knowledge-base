@@ -30,6 +30,9 @@
 - https://refactoring.guru/smells/long-parameter-list
 - https://www.infoq.com/podcasts/software-architecture-hard-parts/
 - https://medium.com/codex/challenges-implementing-ddd-4113d602caf6
+- https://medium.com/design-patterns-in-typescript/decorator-pattern-in-typescript-4609b89d8dfa
+- https://www.infoq.com/news/2021/10/ddd-vas-gateway-soundcloud/
+- https://medium.com/carvago-development/domain-driven-design-handbook-4d34b069bec4
 
 ## Blogs Series:
 

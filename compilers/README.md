@@ -9,6 +9,7 @@
 - http://ellcc.org/demo/index.cgi
 - https://llvm.org/docs/GettingStartedTutorials.html
 - https://bertrandbev.github.io/dlox/#/
+- https://zerovector.space/poor-mans-compiler-explorer
 
 ## Blogs and articles:
 
@@ -43,6 +44,11 @@
 - https://bellmar.medium.com/learning-almost-nothing-about-llvm-e6aea9b243d9
 - LLVM no more has any fullform, its just LLVM lol: https://lists.llvm.org/pipermail/llvm-dev/2011-December/046445.html
 - https://tratt.net/laurie/blog/entries/which_parsing_approach.html
+- https://cpp4arduino.com/2018/10/23/what-is-string-interning.html
+- https://matklad.github.io/2020/03/22/fast-simple-rust-interner.html
+- https://www.javatpoint.com/compiler-passes
+- https://www.apollographql.com/blog/announcement/tooling/apollo-rs-graphql-tools-in-rust/
+- Pratt Parsing Index and Updates(Collection of blogs regarding pratt parsing): https://www.oilshell.org/blog/2017/03/31.html
 
 ## Blog series/Articles collection:
 
@@ -69,16 +75,24 @@
 - An incremental programming language: https://github.com/vmware/differential-datalog
 - https://github.com/antonmedv/ultra-tiny-compiler
 - The Witchcraft Compiler Collection: https://github.com/endrazine/wcc
+- It's a New Kind of Wrapper for Exposing LLVM (Safely): https://github.com/TheDan64/inkwell
+- https://github.com/TimelyDataflow/differential-dataflow
+- https://github.com/vmware/differential-datalog
 
 ## Courses:
 
 - Awesome course: https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/
 - https://suif.stanford.edu/dragonbook/
 
+## Courses:
+
+- CppCon 2019: Matt Godbolt “Compiler Explorer: Behind The Scenes”: https://www.youtube.com/watch?v=kIoZDUd5DKw&t=192s
+
 ## Books:
 
 - https://www.cs.princeton.edu/~appel/modern/ml/
 - https://gcc.gnu.org/wiki/ListOfCompilerBooks
+- https://cglab.ca/~michiel/TheoryOfComputation/TheoryOfComputation.pdf
 
 ## Interesting rust-analyzer issues:
 

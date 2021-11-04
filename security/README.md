@@ -28,6 +28,7 @@
 - https://nowhereref.com/posts/please-dont-use-equal-operator-when-comparing-password-hashes/
 - https://hackernoon.com/juice-jacking-is-it-a-real-threat-4hw33ov0
 - https://hackernoon.com/what-is-url-masking-and-how-does-it-work
+- https://cooltechzone.com/research/how-hackers-scanning-whole-internet
 
 ## Repos and tools:
 
@@ -49,3 +50,4 @@
 - https://github.com/jaykali/maskphish
 - Protect yourself from being tracked by AirTags and Find My accessories: https://github.com/seemoo-lab/AirGuard
 - Insecure web application: https://github.com/juice-shop/juice-shop
+- Security Scorecards: https://github.com/ossf/scorecard

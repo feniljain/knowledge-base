@@ -33,6 +33,7 @@
 - Fate Series
 - Myriad Colors Phantom World
 - Princess Mononoke(Movie)
+- Watamote
 
 ## Mecha and Space:
 
@@ -110,6 +111,7 @@
 - Uzuki chan wants to hang out
 - Zombieland saga
 - Dagashi Kashi: ref: https://twitter.com/AshGandawa/status/1372070107808202752
+- Gakuen babysitters
 
 ## Sad & Romance:
 
@@ -132,7 +134,6 @@
 - Boku to kimi no taisetsu na hanashi
 - Sukasuka
 - Kimi ni Todoke
-- Tskuigakire
 - Masamune kuns revenge
 - The anthem of the heart
 - Kiznaiver
@@ -246,6 +247,7 @@
 - https://www.reddit.com/r/Animesuggest/comments/l6exw8/looking_for_a_romance_anime/
 - https://www.reddit.com/r/Animesuggest/comments/n9j6n5/bring_in_your_ultimate_romance_anime/
 - https://www.reddit.com/r/Animesuggest/comments/osegg2/need_new_romcomsslice_of_life/
+- https://www.reddit.com/r/anime/comments/a0ge2o/what_are_some_if_the_best_romance_anime_i_need/
 
 ## Websites:
 
@@ -367,6 +369,8 @@
 - Bleach
 - Tamako Market
 - Tamako love story
+- Horimiya
+- Tskuigakire
 
 ## Caught up Mangas:
 

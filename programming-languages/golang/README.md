@@ -19,6 +19,8 @@
 - https://seankhliao.com/blog/12020-11-23-go-error-handling-proposals/
 - How to update APIs for generics: https://github.com/golang/go/discussions/48287
 - https://eli.thegreenplace.net/2019/go-internals-capturing-loop-variables-in-closures/
+- https://threedots.tech/post/safer-enums-in-go/
+- You can change space occupied by struct just by reordering the struct fields: https://play.golang.org/p/MBXg4UBOerp
 
 ### Tutorials:
 
@@ -67,6 +69,8 @@
 - https://poonai.github.io/posts/how-debuggers-works-part1/
 - https://douglasmakey.medium.com/socket-sharding-in-linux-example-with-go-b0514d6b5d08
 - https://medium.com/trendyol-tech/the-fanciest-way-of-releasing-go-binaries-with-goreleaser-dbbd3d44c7fb
+- https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate
+- https://itnext.io/websocket-communication-between-two-go-programs-the-easy-way-d8c9cf40043f
 
 ### Architecture:
 
@@ -219,6 +223,7 @@
 - https://threedots.tech/go-with-the-domain/
 - Books to learn go in depth: https://www.reddit.com/r/golang/comments/pwamgm/books_to_learn_go_in_depth/
 - https://github.com/chapin666/books/blob/master/golang/Concurrency-in-Go.pdf
+- https://www.amazon.com/Network-Programming-Go-Adam-Woodbeck/dp/1718500882/ref=pd_lpo_1
 
 ## Videos:
 
@@ -266,6 +271,7 @@
 - https://www.practical-go-lessons.com/
 - https://goingwithgo.com/
 - Job search website: https://www.goopensource.dev/
+- https://mholt.github.io/json-to-go/
 
 ## Repos and tools:
 
@@ -303,6 +309,7 @@
 - Busy Developer's Guide to Go Profiling, Tracing and Observability: https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md
 - A collection of Go sytle guides: https://github.com/dgryski/awesome-go-style
 - Collection of unusual usecases of generics: https://github.com/xakep666/unusual_generics
+- A go framework for microservices: https://github.com/go-kratos/kratos
 
 ## Packages:
 
@@ -324,6 +331,8 @@
 - Simplifies testing by recording your HTTP interactions: https://github.com/dnaeon/go-vcr
 - Most accurate NLP detection lib in go: https://github.com/pemistahl/lingua-go
 - Automatic HTTPS for any go program: https://github.com/caddyserver/certmagic
+- Go tool for working with /etc/hosts files: https://github.com/kevinburke/hostsfile
+- Notifications broadcaster to multiple goroutines in Go: https://github.com/teivah/broadcast
 
 ## Go Internals:
 

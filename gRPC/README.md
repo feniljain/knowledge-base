@@ -21,6 +21,7 @@
 - https://netflixtechblog.com/practical-api-design-at-netflix-part-2-protobuf-fieldmask-for-mutation-operations-2e75e1d230e4
 - https://pashkatrick.medium.com/postman-grpc-fd43b4f2c223
 - https://www.infoq.com/news/2021/09/practical-api-design-netflix/
+- https://itnext.io/bff-pattern-with-go-microservices-using-rest-grpc-87d269bc2434
 
 ## Repos:
 

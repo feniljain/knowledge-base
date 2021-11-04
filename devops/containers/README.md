@@ -32,6 +32,8 @@
 - https://iximiuz.com/en/posts/containerd-command-line-clients/
 - https://itnext.io/software-development-in-containers-a-cookbook-2ba14d07e535
 - https://blog.sigstore.dev/cosign-signed-container-images-c1016862618
+- https://inacioklassmann.medium.com/the-death-of-linux-containers-2f7f92e59c33
+- https://iximiuz.com/en/posts/containers-vs-pods/
 
 ## Interesting Images:
 
@@ -60,3 +62,4 @@
 - https://github.com/lizrice/containers-from-scratch
 - Top-like interface for container metrics: https://github.com/bcicen/ctop
 - Container runtime written in Rust: https://github.com/containers/youki
+- https://github.com/jessfraz/dockerfiles

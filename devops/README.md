@@ -64,6 +64,11 @@
 - https://netflixtechblog.com/hyper-scale-vpc-flow-logs-enrichment-to-provide-network-insight-e5f1db02910d
 - https://docs.microsoft.com/en-us/azure/architecture/patterns/#catalog-of-patterns
 - https://adhiputraperkasa.medium.com/the-growing-pain-of-caches-in-microservices-a03cf9023c0c
+- https://blog.runx.dev/api-gateways-and-ingresses-what-do-they-do-do-they-do-things-lets-find-out-c702c2b0cb0
+- https://levelup.gitconnected.com/what-is-apache-zookeeper-540cdff6d45f
+- https://devops.anaisurl.com/2e5c82e48d374442858fc8295070a4b8
+- https://ankit-agarwal.medium.com/microservices-design-pattern-sidecar-b7c23b895cdf
+- https://azeynalli1990.medium.com/cloud-native-architecture-patterns-60a010d90978
 
 ## Blog Series/Blog collections:
 
@@ -81,15 +86,18 @@
 - Build containers from scratch in golang: https://www.youtube.com/watch?v=8fi7uSYlOdc
 - Devops learn and misc: https://www.youtube.com/playlist?list=PL4RlCVv9MdsPH1G2igGUwG5wUukBQuAyN
 - DevOps Master Class: https://www.youtube.com/watch?v=YMdtaWfU_QE&list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq
+- Scaling hotstart for 25 million concurrent viewers: https://www.youtube.com/watch?v=QjvyiyH4rr0
 
 ## Books:
 
 - Great collection of books by mayank bhaiya on cloud native and devops: https://drive.google.com/drive/folders/1NThdt2djlvsb0x3gQ6qA_c4BfCEW3TnY
 - https://www.redhat.com/rhdc/managed-files/cl-97-things-cloud-engineers-know-e-book-oreilly-f28602-202105-en.pdf
+- https://www.infoq.com/minibooks/distributed-systems/
 
 ## Repos and Tools:
 
 - https://github.com/donnemartin/system-design-primer
+- A curated list of awesome actions to use on GitHub: https://github.com/sdras/awesome-actions
 - https://github.com/actions/virtual-environments
 - A curated collection of publicly available resources on how technology and tech-savvy organizations around the world use Amazon Web Services: https://github.com/upgundecha/howtheyaws
 - https://endgame.readthedocs.io/en/latest/
@@ -104,6 +112,7 @@
 - https://github.com/cloudquery/cloudquery
 - https://github.com/yomorun/yomo
 - https://github.com/grafana/agent
+- https://github.com/grafana/dskit
 
 ## Courses:
 
@@ -116,6 +125,7 @@
 - https://www.reddit.com/r/devops/comments/mwt294/best_strategy_to_dynamically_create_and_deploy/
 - https://www.reddit.com/r/devops/comments/mx1ms5/strategy_for_securing_docker_images_before_pushed/
 - Free courses up for grabs: https://www.reddit.com/r/devops/comments/pr2urw/some_courses_up_for_grabs_hope_it_helps_someone/
+- https://www.reddit.com/r/devops/comments/qj2bgh/resources_for_learning_kafka/
 
 ## AWS:
 
@@ -124,3 +134,8 @@
 - https://medium.com/ancestry-engineering/the-big-problem-with-aws-fargate-and-autoscaling-194ed8a44cc1
 - https://medium.com/@brunoamaroalmeida/what-i-wish-someone-had-told-me-about-pursuing-an-aws-certification-tips-tricks-for-self-study-a9244462a1a1
 - https://dev.to/mrwormhole/localstack-with-terraform-and-docker-for-running-aws-locally-3a6d
+
+## Podcasts:
+
+- https://www.reddit.com/r/devops/comments/qh5kg6/new_podcast_devops_domination_all_things_devops/
+- Thread of diffrent podcasts: https://twitter.com/urlichsanais/status/1454459434839773197

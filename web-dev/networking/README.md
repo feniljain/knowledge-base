@@ -6,6 +6,7 @@
 - https://http3-explained.haxx.se/
 - https://quic.cloud/
 - A TCP/IP reference you can understand(Contains a-z everything related to tcp/ip, all relating protocols, etc): http://www.tcpipguide.com/index.htm
+- https://peering.google.com/#/
 
 ## Blogs and Articles:
 
@@ -49,6 +50,10 @@
 - https://www.cloudflare.com/en-in/learning/ddos/what-is-layer-7/(Includes a small OSI useful summary diagram)
 - https://iximiuz.com/en/posts/reverse-proxy-http-keep-alive-and-502s/
 - https://medium.com/enjoy-algorithm/network-protocols-cb979547a114
+- https://ably.com/topic/http3
+- https://darrenparkinson.uk/posts/2021-10-13-why-network-engineers-should-learn-go/
+- https://research.nccgroup.com/2021/10/11/the-challenges-of-fuzzing-5g-protocols/
+- https://www.netmeister.org/blog/tlds.html
 
 ## Repos:
 
@@ -57,6 +62,8 @@
 - An experiment in scalable routing as an encrypted IPv6 overlay network: https://github.com/yggdrasil-network/yggdrasil-go/
 - Efficient reliable UDP unicast, UDP multicast, and IPC message transport: https://github.com/real-logic/aeron
 - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet: https://github.com/fatedier/frp
+- A TCP proxy to simulate network and system conditions for chaos and resiliency testing: https://github.com/Shopify/toxiproxy
+- https://github.com/shopify/toxiproxy
 
 ## Reddit and twitter threads:
 
@@ -64,6 +71,7 @@
 - https://www.reddit.com/r/rust/comments/nsu1y0/quic_version_1_is_live_on_cloudflare/
 - https://www.reddit.com/r/linuxquestions/comments/om0dok/is_it_possible_to_create_an_ethernet_hotspot/
 - https://www.reddit.com/r/webdev/comments/pyjzho/dns_record_types/
+- Networking in layman terms: https://twitter.com/iximiuz/status/1450864740645941248
 
 ## Videos:
 
@@ -73,7 +81,16 @@
 - In-kernel, fast-path packet processing with AF_XDP: https://www.youtube.com/watch?v=Gv-nG6F_09I
 - Networking fundamentals: https://www.youtube.com/watch?v=9uebakqWlB0
 
+## Container Images:
+
+- https://hub.docker.com/r/devsisters/quic-reverse-proxy/
+
 ## Blog Series/Articles collection:
 
 - https://iximiuz.com/en/
 - https://www.cloudflare.com/learning/
+- https://ably.com/topics/protocols
+
+## Research papers:
+
+- A pure http/3 alternatice to MQTT-over-QUIC in resource constrained IoT: https://arxiv.org/pdf/2106.12684.pdf

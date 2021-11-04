@@ -33,6 +33,8 @@
 - https://en.wikipedia.org/wiki/If_a_tree_falls_in_a_forest
 - https://dev.to/tomeraitz/the-right-mindset-to-solve-complex-problems-1gc6
 - https://entrepreneurshandbook.co/i-interviewed-75-overachievers-here-is-the-one-thing-they-all-have-in-common-85a4756de3b
+- https://betterprogramming.pub/what-do-you-do-when-people-talk-over-you-7c70dc5cfe3a
+- https://forge.medium.com/what-5-serial-daters-can-teach-you-about-personal-myth-making-6532b1fb9cf8
 
 ## Videos:
 
@@ -54,6 +56,11 @@
 - The best learners are the people who push through the discomfort of being objectively bad at something
 - I must not fear. Fear is the mind-killer. Fear is the little-death that brings total obliteration. I will face my fear. I will permit it to pass over me and through me. And when it has gone past I will turn the inner eye to see its path. Where the fear has gone there will be nothing. Only I will remain.
 - Life isnt just sayonaras, when we meet, it becomes human life
+- The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it.
+- Do what you dream of doing even while you're afraid.
+- Approach the game with no preset agendas and you'll probably come away surprised at your overall efforts.
+- If you lose, don't lose the lesson.
+- Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.
 
 ## Books:
 

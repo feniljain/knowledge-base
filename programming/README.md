@@ -42,6 +42,8 @@
 - Collection of blog websites: https://refined.blog/
 - https://computingthehumanexperience.com/
 - Quality metadata badges for open source projects: https://shields.io/
+- Drawing beatiful diagrams for blogs: https://excalidraw.com/
+- https://code-reading.org/
 
 ## Blogs and Articles:
 
@@ -123,10 +125,19 @@
 - https://dev.to/ben/what-skills-do-career-indie-developers-not-learn-vs-those-employed-mostly-on-teams-485j
 - https://dev.to/erikmelone/how-to-ask-the-right-questions-as-a-junior-developer-5701
 - https://www.esecurityplanet.com/applications/top-code-debugging-and-code-security-tools/
+- Things that turbo pascal is smaller than: https://prog21.dadgum.com/116.html
+- https://just4sky.medium.com/conways-law-99fbbff9ccf0
+- Why not use else, and also how to write code whcih reads top to bottom and not left to righ: http://iq0.com/notes/deep.nesting.html
+- A guide on writing unmaintainable code: https://www.mindprod.com/jgloss/unmain.html
 
 ## Blog Series:
 
 - Damn good articles on general programming stuff: https://journal.stuffwithstuff.com/category/code/
+
+## Newsletters;
+
+- https://www.quastor.org/
+- https://abyteofcoding.com/
 
 ## Reddit posts and tweets:
 
@@ -135,7 +146,8 @@
 - What happens to old programmers: https://news.ycombinator.com/item?id=7372997
 - https://www.reddit.com/r/learnprogramming/comments/ortnef/a_super_harsh_guide_to_learning_computer_science/
 - Blog series collection: https://news.ycombinator.com/item?id=27973836
-- Leaning latex: https://www.reddit.com/r/linux/comments/q5dnm7/i_wanted_to_learn_latex_so_i_made_a_zine_about/
+- Learning latex: https://www.reddit.com/r/linux/comments/q5dnm7/i_wanted_to_learn_latex_so_i_made_a_zine_about/
+- Why FAANG doesn't contain microsoft: https://twitter.com/rakyll/status/1451585970441097219?t=WwcyNLrdRJeKsoSvn1cmPQ&s=08
 
 ## Videos:
 
@@ -146,7 +158,7 @@
 - Write your own 64-bit operating system with asm: https://www.youtube.com/watch?v=FkrpUaGThTQ
 - Parsing json quickly, story about simdjson: https://www.youtube.com/watch?v=wlvKAT7SZIQ
 - How to "Google It" like a Senior Software Engineer: https://www.youtube.com/watch?v=cEBkvm0-rg0
-- Mechanical swtiches comparision, sound only: https://www.youtube.com/watch?v=rm-WuK_9OBM
+- The forgotten art of structured programming: https://www.youtube.com/watch?v=SFv8Wm2HdNM
 
 ## Repos:
 
@@ -198,6 +210,7 @@
 - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more: https://github.com/trimstray/the-book-of-secret-knowledge
 - A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources: https://github.com/protontypes/open-sustainable-technology
 - https://github.com/sindresorhus/awesome
+- https://github.com/FreshRSS/FreshRSS
 
 ## Extensions:
 
@@ -225,6 +238,7 @@
 - https://medium.com/pragmatic-programmers/directory-of-pragmatic-programmer-books-on-medium-6a5cbadbd4b4
 - https://dev.to/jordienr/4-books-that-are-not-about-computers-that-made-me-a-good-software-developer-2hac
 - Learning type theory: https://www.reddit.com/r/math/comments/k41lla/category_and_type_theory_which_should_i_learn/
+- https://www.manning.com/books/the-programmers-brain
 
 ## Tools:
 

@@ -69,6 +69,8 @@
 ## Videos:
 
 - Time Series Database Lecture Series: https://m.youtube.com/watch?v=2SUBRE6wGiA&list=RDQMqZDZkuhXSmc&start_radio=1
+- When are indexes useless: https://www.youtube.com/watch?v=oebtXK16WuU
+- How does PostgresSQL actually work: https://www.youtube.com/watch?v=OeKbL55OyL0
 
 ## Tutorials:
 

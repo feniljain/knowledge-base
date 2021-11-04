@@ -55,6 +55,8 @@
 
 - https://dev.to/whitep4nth3r/how-to-build-test-and-release-a-node-module-in-es6-296b
 - https://dev.to/laurieontech/a-guide-to-eslint-4mj7
+- https://javascript.info/debugging-chrome
+- https://phrase.com/blog/posts/step-step-guide-javascript-localization/
 
 ## Libraries and packages and repos:
 

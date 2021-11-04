@@ -24,6 +24,8 @@
 - https://www.kickstarter.com/projects/opencv/opencv-ai-kit-oak-depth-camera-4k-cv-edge-object-detection?ref=thanks-tweet
 - https://www.reddit.com/r/learnmachinelearning/comments/pr7ss4/turning_my_data_science_interview_guide_into_a/
 - https://towardsdatascience.com/using-docker-for-deep-learning-projects-fa51d2c4f64c
+- https://www.neuraldesigner.com/learning/examples
+- https://www.infoq.com/news/2021/10/ibm-vector-symbolic/
 
 ## Repos:
 

@@ -42,10 +42,17 @@
 - https://betterprogramming.pub/5-lessons-from-a-no-nonsense-mentor-137b991a4740
 - https://debugger.medium.com/how-to-optimize-your-ability-to-focus-with-sound-and-music-b59731128be8
 - https://forge.medium.com/the-follow-up-is-the-most-important-email-youll-ever-write-3fbcfc17ebb4
+- https://hackernoon.com/into-the-depths-of-wikipedia
+- https://inacioklassmann.medium.com/technical-leader-vs-effective-leader-5996a7ea7514
+- https://www.infoq.com/podcasts/career-leadership-advice-engineers/
+- https://en.wikipedia.org/wiki/Classful_network
+- https://www.netmeister.org/blog/inet_aton.html
+- https://www.netmeister.org/blog/urls.html
 
 ## Blog series/Articles collection:
 
 - https://forge.medium.com/how-to-write-anything/home
+- https://www.netmeister.org/blog/
 
 ## Reddit threads and tweets:
 

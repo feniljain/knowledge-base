@@ -85,14 +85,18 @@
 
 - https://www.androidpolice.com/2021/03/27/install-use-custom-rom-no-google-apps/
 - https://medium.com/easyread/how-to-simplify-your-android-view-binding-delegation-d07812b2a616
+- https://source.android.com/setup/build/rust/building-rust-modules/overview
+- https://hvg24.medium.com/how-to-use-an-android-device-for-development-wirelessly-7e6fc08c7438
 
 ## Websites:
 
 - No-code app dev: https://www.appsheet.com/
 - A container based approach to boot a full android system on a regular GNU/Linux system like ubuntu: https://waydro.id/
+- https://www.android-x86.org/
 
 ## Repos:
 
 - https://github.com/airbnb/mavericks
 - https://github.com/google/accompanist
 - https://github.com/florinpop17/app-ideas
+- https://github.com/JetBrains/compose-jb

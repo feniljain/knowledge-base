@@ -14,6 +14,8 @@
 - https://www.metachris.com/2021/05/creating-go-bindings-for-ethereum-smart-contracts/
 - https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291
 - https://medium.com/@bytesbay/you-dont-need-jwt-anymore-974aa6196976
+- https://hackernoon.com/5-solidity-code-smells-every-dev-should-know
+- https://blog.knoldus.com/why-solidity-is-used-to-develop-smart-contracts/
 
 ### General:
 

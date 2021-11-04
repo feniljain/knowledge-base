@@ -39,6 +39,7 @@
 - https://rust.careers/
 - https://rustacean-principles.netlify.app/
 - https://programming-idioms.org/cheatsheet/Cpp/Rust
+- https://letsgetrusty.com/wp-content/uploads/2021/10/LGR-Cheat-Sheet.pdf
 
 ## Blogs and Articles:
 
@@ -96,6 +97,7 @@
 - Copy vs Clone: https://stackoverflow.com/questions/31012923/what-is-the-difference-between-copy-and-clone
 - https://blog.knoldus.com/design-patterns-in-rust-programming
 - https://diziet.dreamwidth.org/9894.html
+- https://swatinem.de/blog/zero-cost-async/
 
 ### Tutorials:
 
@@ -186,6 +188,11 @@
 - https://dev.to/askrodney/using-rust-cloudflare-workers-serverless-hcaptcha-358g
 - https://medium.com/@fujita.tomonori/scalable-server-design-in-rust-with-tokio-4c81a5f350a3
 - https://penumbra23.medium.com/container-runtime-in-rust-part-i-7bd9a434c50a
+- Learn to write Rust procedural macros: https://github.com/dtolnay/proc-macro-workshop
+- Building a rust async executor: https://github.com/mgattozzi/whorl/blob/main/src/lib.rs
+- https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
+- https://nimrodshn.medium.com/writing-a-storage-engine-in-rust-writing-a-persistent-btree-part-1-916b6f3e2934
+- https://ferrous-systems.com/blog/testing-proc-macros/
 
 ### Language general:
 
@@ -222,6 +229,13 @@
 - https://tweedegolf.nl/blog/62/measuring-power-consumption-sync-vs-async
 - https://codeandbitters.com/published-crate-analysis/
 - Does the Bronze Garbage Collector Make Rust Easier to Use? A Controlled Experiment: https://arxiv.org/abs/2110.01098
+- https://itnext.io/rust-iterators-2f0bb958aa08
+- https://nickymeuleman.netlify.app/blog/multithreading-rust
+- https://www.greyblake.com/blog/2021-10-11-phantom-types-in-rust/
+- https://jeffa.io/rust_guide_generics_demystified_part_1
+- https://pkolaczk.github.io/overhead-of-optional/
+- How to apply static check on dynamic builder pattern: https://www.greyblake.com/blog/2021-10-25-builder-with-typestate-in-rust/
+- Awesome article: http://cliffle.com/blog/rust-typestate/
 
 ### Others:
 
@@ -302,6 +316,7 @@
 - Cross compiling windows binaries from linux: https://jake-shadle.github.io/xwin/
 - https://github.com/ericseppanen/crates_io_analyzer/blob/main/README.md
 - https://www.cvedetails.com/product/48677/Rust-lang-Rust.html?vendor_id=19029
+- https://quickwit.io/blog/search-a-sorted-block/
 
 ## Blog Series/Collection of articles:
 
@@ -334,6 +349,7 @@
 - https://readrust.net/
 - https://owengage.com/writing/
 - https://diziet.dreamwidth.org/
+- https://jeffa.io/
 
 ## Repos:
 
@@ -438,10 +454,16 @@
 - Why you should not use rust: https://www.youtube.com/watch?v=S3fAmfbiNk8
 - GhostCell: Separating Permissions from Data in Rust: https://www.youtube.com/watch?v=jIbubw86p0M
 - https://www.reddit.com/r/rust/comments/pxz7at/rustlinux_plumbers_conference_2021/
+- Type-Driven API Design in Rust: https://www.youtube.com/watch?v=bnnacleqg6k
 
 ## Newsletters:
 
 - https://rustinblockchain.org/
+- https://this-week-in-rust.org/
+
+## Podcast:
+
+- https://rustacean-station.org/
 
 ## YT and Twitch Project channels/Playlists:
 
@@ -535,6 +557,7 @@
 - Statically-checked alternatives to RefCell: https://docs.rs/qcell/0.4.2/qcell/
 - Generate a THIRDPARTY file with all licenses in a cargo project: https://github.com/sstadick/cargo-bundle-licenses
 - CLI for managing workspace-hack crates: https://crates.io/crates/cargo-hakari
+- Alternative to anyhow: https://crates.io/crates/eyre
 
 ## Rust Internals:
 
@@ -569,6 +592,7 @@
 - Borrowing Trouble: The Difficulties Of A C++ Borrow-Checker: https://docs.google.com/document/d/e/2PACX-1vSt2VB1zQAJ6JDMaIA9PlmEgBxz2K5Tx6w2JqJNeYCy0gU4aoubdTxlENSKNSrQ2TXqPWcuwtXe6PlO/pub
 - https://www.reddit.com/r/rust/comments/my3ipa/if_you_could_redesign_rust_from_scratch_today/
 - https://rust-lang.github.io/compiler-team/#meeting-calendar
+- Visualizing memory layout of rust-s data types: https://www.youtube.com/watch?v=rDoqT-a6UFg
 
 ## Rust and security
 
@@ -599,6 +623,7 @@
 - Why try-catch shouldnt be used: https://twitter.com/badamczewski01/status/1427248857197514754
 - Status quo on developing for Android in Rust: https://www.reddit.com/r/rust/comments/q140zn/status_quo_on_developing_for_android_in_rust/
 - Idiomatic rust usage: https://www.reddit.com/r/rust/comments/q41cg9/is_there_a_rust_equivalent_to_the_c_standard/
+- Phantom types in rust: https://www.reddit.com/r/rust/comments/q5r9uy/phantom_types_in_rust/
 
 ## Rust Learning:
 

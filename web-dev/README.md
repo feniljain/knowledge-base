@@ -33,6 +33,8 @@
 - https://dev.to/maureento8888/realistic-list-of-web-dev-resources-253c
 - https://medium.com/weekly-webtips/what-is-the-difference-between-a-url-and-a-uri-8d4f473b04b
 - https://javascript.plainenglish.io/17-killer-websites-for-web-developers-13e1e30345b8
+- https://blog.bitsrc.io/api-versioning-dos-and-don-ts-4bd9db073f2a
+- https://www.quastor.org/p/the-architecture-of-web-browsers
 
 ## Videos:
 

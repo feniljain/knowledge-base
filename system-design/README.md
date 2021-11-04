@@ -1,5 +1,9 @@
 <h2 align="center">System Design</h2>
 
+## Websites:
+
+- https://c4model.com/
+
 ## Blogs and articles:
 
 - https://www.infoq.com/news/2021/01/uber-multi-region-kafka/
@@ -61,12 +65,15 @@
 - https://medium.com/google-cloud/system-designing-google-sheet-bdf12321b99c
 - https://medium.com/nerd-for-tech/system-design-architecture-for-hotel-booking-apps-like-airbnb-oyo-6efb4f4dddd7
 - https://medium.com/design-microservices-architecture-with-patterns/gateway-aggregation-pattern-9ff92e1771d0
+- https://cechinel.medium.com/system-design-c4-model-766683fed1c9
+- https://jinkanglow.medium.com/twitter-system-architecture-8dafce16aec4
 
 ## Repos:
 
 - Very good resource, also contains redirects to many other good resources: https://github.com/donnemartin/system-design-primer
 - https://github.com/mehdihadeli/awesome-software-architecture
 - https://github.com/mhadidg/software-architecture-books
+- https://github.com/tobiashochguertel/c4-draw.io
 
 ## Blog series:
 

@@ -67,6 +67,15 @@
 - https://medium.com/event-driven-utopia/sending-reliable-event-notifications-with-transactional-outbox-pattern-7a7c69158d1b
 - https://www.infoq.com/presentations/microservices-design-time-coupling/
 - https://adhiputraperkasa.medium.com/the-growing-pain-of-caches-in-microservices-a03cf9023c0c
+- https://www.infoq.com/news/2021/08/google-cloud-cas-ga
+- https://medium.com/@Growth_at_Wundergraph/version-less-apis-making-apis-backwards-compatible-forever-to-enable-businesses-to-collaborate-ee3b005b0e06
+- https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33
+- https://chanakaudaya.medium.com/building-scalable-microservices-without-a-service-mesh-86b916ba7e98
+- https://medium.com/@eduardoslafiq/golang-circuit-break-relay-with-grelay-45faccbf1c77
+
+## Blog series/Articles collection:
+
+- https://ably.com/blog/tag/the-hardest-aspects-of-realtime-engineering
 
 ## Reddits and twitter threads:
 

@@ -10,7 +10,9 @@
 - https://netflixtechblog.com/evolution-of-application-data-caching-from-ram-to-ssd-a33d6fa7a690
 - https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html
 - https://jamesjdavis.medium.com/youtube-servers-switched-to-google-developed-argos-processors-5264dc2c8d84
+- https://zipcpu.com/blog/2021/10/26/clkgate.html
 
 ## Repos:
 
 - https://github.com/geerlingguy/internet-pi
+- https://github.com/stong/how-to-exploit-a-double-free

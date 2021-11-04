@@ -103,6 +103,9 @@
 - https://alpha2phi.medium.com/neovim-lsp-and-dap-using-lua-3fb24610ac9f
 - https://vi.stackexchange.com/questions/4891/what-is-the-select-mode-and-when-is-it-relevant-to-use-it
 - https://www.barbarianmeetscoding.com/blog/exploring-vim-plugins-improve-and-extend-your-text-objects-with-targets-vim
+- https://sean-warman.medium.com/coolest-vim-features-3d840f87ae31
+- https://towardsdatascience.com/custom-vim-functions-to-format-your-text-b694295f7764
+- https://susamn.medium.com/its-time-to-edit-effectively-in-vim-a-visual-article-76f9d0b45938
 
 ## Blog series:
 
@@ -368,6 +371,12 @@
 - https://github.com/gelguy/wilder.nvim
 - https://awesomeopensource.com/project/wellle/context.vim
 - https://github.com/axlebedev/footprints
+- https://github.com/metakirby5/codi.vim
+- https://github.com/wakatime/vim-wakatime
+- https://github.com/t9md/vim-choosewin
+- https://github.com/alvan/vim-closetag
+- https://github.com/junegunn/vim-slash/blob/master/README.md
+- https://github.com/github/copilot.vim
 
 ## Lua/Nvim 0.5+ Exclusive plugins:
 
@@ -409,7 +418,6 @@
 - https://github.com/NTBBloodbath/color-converter.nvim
 - Neovim http client written in lua: https://github.com/NTBBloodbath/rest.nvim
 - https://github.com/abecodes/tabout.nvim
-- https://github.com/Murtaza-Udaipurwala/gruvqueen
 - https://github.com/nvim-telescope/telescope-github.nvim
 - https://github.com/xiyaowong/telescope-emoji.nvim
 - https://github.com/henriquehbr/nvim-startup.lua
@@ -436,6 +444,18 @@
 - https://github.com/sindrets/winshift.nvim
 - https://github.com/weilbith/nvim-code-action-menu
 - https://github.com/windwp/windline.nvim
+- Plugin that helps managing crates.io dependencies: https://github.com/Saecki/crates.nvim
+- https://github.com/vuki656/package-info.nvim
+- https://github.com/danymat/neogen
+- Autoclosing and renaming html tags using treesitter: https://github.com/windwp/nvim-ts-autotag
+- Previewing swagger in real time like livemarkdown: https://github.com/shuntaka9576/preview-swagger.nvim
+- Plugin that creates missing folders on save: https://github.com/jghauser/mkdir.nvim
+- https://github.com/Xuyuanp/scrollbar.nvim
+- https://github.com/hkupty/nvimux
+- https://github.com/windwp/nvim-projectconfig
+- https://github.com/tanvirtin/vgit.nvim
+- Debug adapter for neovim plugins: https://github.com/jbyuki/one-small-step-for-vimkind
+- https://github.com/AyeSpacey/Nvimfy
 
 ## -- $$ -- :
 
@@ -443,6 +463,14 @@
 - https://github.com/tamago324/nlsp-settings.nvim
 - https://github.com/Pocco81/DAPInstall.nvim
 - https://github.com/nvim-telescope/telescope-hop.nvim
+- https://github.com/Murtaza-Udaipurwala/gruvqueen
+- https://github.com/norcalli/nvim-colorizer.lua
+- https://github.com/winston0410/commented.nvim
+- https://reposhub.com/linux/system-utilities/luukvbaal-stabilize-nvim.html
+- https://github.com/rcarriga/nvim-notify
+- https://github.com/ruifm/gitlinker.nvim
+- https://github.com/tpope/vim-rhubarb
+- https://github.com/rcarriga/vim-ultest
 
 ## VimRCs for reference:
 
@@ -470,6 +498,8 @@
 - https://github.com/yutkat/dotfiles/blob/master/.config/nvim/init.lua
 - https://www.reddit.com/r/neovim/comments/o3ia0b/recommend_config_repos_that_i_can_use_to/
 - https://github.com/Blacksuan19/init.nvim
+- https://github.com/danielnehrig/nvim
+- https://gitlab.com/mrswats/dotfiles/-/tree/main/nvim
 
 ## Emacs:
 

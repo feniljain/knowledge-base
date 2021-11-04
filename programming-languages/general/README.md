@@ -4,6 +4,7 @@
 
 - Programming languages resources(everything from compilers, RTO, assemblers, etc.): https://bernsteinbear.com/pl-resources/
 - OP Cheatsheets over various languages: https://devhints.io/
+- https://learntla.com/introduction/
 
 ## Blogs and Articles:
 
@@ -35,6 +36,9 @@
 - https://blog.sunfishcode.online/broken-encapsulation/
 - https://www.cbui.dev/how-to-rapidly-improve-at-any-programming-language/
 - https://medium.com/deutsche-telekom-gurgaon/hexagonal-code-architecture-clean-architecture-14ffddf4b9a9
+- http://blog.rongarret.info/2015/05/why-lisp.html
+- https://javascript.plainenglish.io/the-most-common-programming-misconception-interpreted-vs-compiled-languages-5d38e1904c8d
+- https://www.cs.yale.edu/homes/aspnes/pinewiki/AbstractDataTypes.html
 
 ## Reddit threads and tweets:
 
@@ -45,6 +49,10 @@
 - https://github.com/danistefanovic/build-your-own-x
 - https://github.com/mazy1998/asciiVideo
 - Makes C a build-once-and-run-anywhere-lang like java: https://github.com/jart/cosmopolitan
+
+## Videos:
+
+- https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/
 
 ## Lua:
 
@@ -86,6 +94,7 @@
 - https://medium.com/very-big-things/towards-maintainable-elixir-the-development-process-205ee257c109
 - https://medium.com/free-code-camp/how-to-write-a-super-fast-link-shortener-with-elixir-phoenix-and-mnesia-70ffa1564b3c
 - https://mrjoelkemp.medium.com/jvm-struggles-and-the-beam-4d9c58547410
+- https://learnyousomeerlang.com/dialyzer
 
 ## Python:
 
@@ -147,6 +156,7 @@
 - Learning CPP: https://www.reddit.com/r/rust/comments/phybjq/could_you_recommend_a_rust_book_thats_phase/
 - https://www.drdobbs.com/lock-free-data-structures-with-hazard-po/184401890
 - https://www.thecoderworld.com/difference-between-ansi-c-and-c/
+- https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/
 
 ### Repos:
 

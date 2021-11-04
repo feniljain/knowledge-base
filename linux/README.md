@@ -31,10 +31,7 @@
 - https://1lib.in/s/linux%20networking
 - https://nosystemd.org/
 - https://www.memorysafety.org/
-- Linux Kernel Mentorship Program: https://wiki.linuxfoundation.org/lkmp
-- https://kernelnewbies.org/
 - https://www.gamingonlinux.com/
-- https://docs.kernel.org/
 
 ## Blogs and articles:
 
@@ -106,6 +103,7 @@
 - https://squidarth.com/networking/systems/rc/2018/05/28/using-raw-sockets.html
 - https://man7.org/linux/man-pages/man7/capabilities.7.html
 - http://www.andy-pearce.com/blog/posts/2013/Mar/file-capabilities-in-linux/
+- https://www.poor.dev/blog/terminal-anatomy/
 
 ### Others:
 
@@ -408,6 +406,11 @@
     - Using eBPF to measure the k8s cluster health: https://www.p99conf.io/session/using-ebpf-to-measure-the-k8s-cluster-health/
     - https://www.p99conf.io/session/high-performance-networking-using-ebpf-xdp-and-io_uring/
     - A moderate intro to writing BPF programs with Rust: https://www.youtube.com/watch?v=Pac083l2R34
+    - https://www.infoq.com/presentations/ebpf-cloud-native/
+
+### Videos:
+
+- eBPF and Go: https://changelog.com/gotime/201
 
 ## Rust for Linux:
 
