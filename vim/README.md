@@ -35,6 +35,7 @@
 - Nvim-dap : https://www.youtube.com/watch?v=SIYt1dopfTc
 - Neovim change highlight color: https://www.youtube.com/watch?v=twrNV_BZ2jU
 - Making plugins with lua: https://www.youtube.com/watch?v=wkxtHV1hzEY
+- Set up Vim as external code editor to Unity, Godot, or any applications: https://www.youtube.com/watch?v=6-ruUW8hiS0
 
 ## Blogs, Articles and threads:
 
@@ -106,6 +107,10 @@
 - https://sean-warman.medium.com/coolest-vim-features-3d840f87ae31
 - https://towardsdatascience.com/custom-vim-functions-to-format-your-text-b694295f7764
 - https://susamn.medium.com/its-time-to-edit-effectively-in-vim-a-visual-article-76f9d0b45938
+
+## VimTricks:
+
+- https://vimtricks.com/p/open-splits-more-naturally/
 
 ## Blog series:
 
@@ -456,6 +461,7 @@
 - https://github.com/tanvirtin/vgit.nvim
 - Debug adapter for neovim plugins: https://github.com/jbyuki/one-small-step-for-vimkind
 - https://github.com/AyeSpacey/Nvimfy
+- https://github.com/SmiteshP/nvim-gps
 
 ## -- $$ -- :
 

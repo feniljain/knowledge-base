@@ -177,6 +177,7 @@
 - Kanamewo
 - Higehiro: after being rejected, I shaved and took in a highschool runaway
 - Ballroom e Youkoso(Welcome to the ballroom)
+- One Week Friends
 
 ## Sports:
 
@@ -191,7 +192,7 @@
 
 ## Isekai:
 
-- Bofuri
+- That time I got reincarnated as slime
 
 ## Drama:
 
@@ -201,7 +202,6 @@
 - Run with the wind
 - The day I became a god
 - Natsume Yuujinchou
-- Jobless reincarnation
 
 ## Hentai:
 
@@ -234,6 +234,12 @@
 - Famous anime openings only beats version: https://www.youtube.com/watch?v=Tr-ht9Juieg
 - Clannad piano version: https://www.youtube.com/watch?v=KszXvLjcDVo
 - Lost umbrella: https://www.youtube.com/watch?v=Yvs7gfWqNSE
+- MC Vrigin Trap anthem: https://www.youtube.com/watch?v=EeIfEVnmzUc
+- Lofi songs of jujutsu kaisen: https://www.youtube.com/watch?v=nSbs0EHf374
+
+## MAL accounts to lookout anime from(this is just a list of decent accounts I come across):
+
+- https://myanimelist.net/profile/G_Spark233
 
 ## Videos:
 
@@ -371,6 +377,13 @@
 - Tamako love story
 - Horimiya
 - Tskuigakire
+- 86
+- 86 S2
+- Jobless reincarnation
+- Jobless reincarnation S2
+- Bofuri
+- Tokyo magnitude 8.0
+- Teasing master tagisan
 
 ## Caught up Mangas:
 

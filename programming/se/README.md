@@ -33,6 +33,9 @@
 - https://medium.com/design-patterns-in-typescript/decorator-pattern-in-typescript-4609b89d8dfa
 - https://www.infoq.com/news/2021/10/ddd-vas-gateway-soundcloud/
 - https://medium.com/carvago-development/domain-driven-design-handbook-4d34b069bec4
+- https://kkolomeitsev.medium.com/why-hexagonal-architecture-doesnt-suit-me-my-ddd-implementation-is-a-layered-block-architecture-6f21a645e23e
+- https://itnext.io/design-pattern-federated-client-91fce307db9c
+- https://www.infoq.com/minibooks/architectures-you-wondered-about/
 
 ## Blogs Series:
 

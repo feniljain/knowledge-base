@@ -31,6 +31,7 @@
 - https://medium.com/@vamsik23/automate-tmux-86774b12f348
 - https://ryan.himmelwright.net/post/scripting-tmux-workspaces/
 - https://pragmaticpineapple.com/gentle-guide-to-get-started-with-tmux/
+- https://zolmok.org/posts/tmux-multiple-projects-sessions/
 
 ## Twitter and reddit:
 

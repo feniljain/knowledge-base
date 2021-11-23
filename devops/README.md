@@ -10,6 +10,7 @@
 - https://container.training/
 - http://highscalability.com/
 - Ton of resource, like a lot(this is a all devops knowledge-base, including docker, kubernetes, etc.): https://redhatspain.com/
+- http://flaws.cloud/
 
 ## Blogs and Articles:
 
@@ -69,6 +70,7 @@
 - https://devops.anaisurl.com/2e5c82e48d374442858fc8295070a4b8
 - https://ankit-agarwal.medium.com/microservices-design-pattern-sidecar-b7c23b895cdf
 - https://azeynalli1990.medium.com/cloud-native-architecture-patterns-60a010d90978
+- https://thenewstack.io/cncf-working-group-sets-some-standards-for-gitops/
 
 ## Blog Series/Blog collections:
 
@@ -113,6 +115,7 @@
 - https://github.com/yomorun/yomo
 - https://github.com/grafana/agent
 - https://github.com/grafana/dskit
+- https://github.com/dreamhead/patterns-of-distributed-systems
 
 ## Courses:
 
@@ -126,6 +129,7 @@
 - https://www.reddit.com/r/devops/comments/mx1ms5/strategy_for_securing_docker_images_before_pushed/
 - Free courses up for grabs: https://www.reddit.com/r/devops/comments/pr2urw/some_courses_up_for_grabs_hope_it_helps_someone/
 - https://www.reddit.com/r/devops/comments/qj2bgh/resources_for_learning_kafka/
+- https://www.reddit.com/r/devops/comments/qsg5eq/ideas_for_a_side_project_blog_tutorial_showcasing/
 
 ## AWS:
 
@@ -134,6 +138,8 @@
 - https://medium.com/ancestry-engineering/the-big-problem-with-aws-fargate-and-autoscaling-194ed8a44cc1
 - https://medium.com/@brunoamaroalmeida/what-i-wish-someone-had-told-me-about-pursuing-an-aws-certification-tips-tricks-for-self-study-a9244462a1a1
 - https://dev.to/mrwormhole/localstack-with-terraform-and-docker-for-running-aws-locally-3a6d
+- https://twitter.com/sunilc_/status/1457033186546946058?t=g3CO-Ka-oEjxFGM0SC-OrQ&s=08
+- https://ably.com/blog/limits-aws-network-load-balancers
 
 ## Podcasts:
 

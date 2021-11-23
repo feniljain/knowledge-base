@@ -129,6 +129,10 @@
 - https://just4sky.medium.com/conways-law-99fbbff9ccf0
 - Why not use else, and also how to write code whcih reads top to bottom and not left to righ: http://iq0.com/notes/deep.nesting.html
 - A guide on writing unmaintainable code: https://www.mindprod.com/jgloss/unmain.html
+- https://hackernoon.com/apis-the-prefabrication-of-software
+- https://dev.to/unitybuddy/7-ways-to-improve-your-logic-in-programming-55io
+- https://boonepeter.github.io/posts/2020-11-10-spotify-codes/
+- https://boonepeter.github.io/posts/spotify-codes-part-2/
 
 ## Blog Series:
 
@@ -148,6 +152,7 @@
 - Blog series collection: https://news.ycombinator.com/item?id=27973836
 - Learning latex: https://www.reddit.com/r/linux/comments/q5dnm7/i_wanted_to_learn_latex_so_i_made_a_zine_about/
 - Why FAANG doesn't contain microsoft: https://twitter.com/rakyll/status/1451585970441097219?t=WwcyNLrdRJeKsoSvn1cmPQ&s=08
+- How do computers remember?: https://www.reddit.com/r/programming/comments/qqhn00/how_do_computers_remember/
 
 ## Videos:
 
@@ -211,6 +216,9 @@
 - A curated list of open technology projects to sustain a stable climate, energy supply, and vital natural resources: https://github.com/protontypes/open-sustainable-technology
 - https://github.com/sindresorhus/awesome
 - https://github.com/FreshRSS/FreshRSS
+- https://github.com/lauragift21/awesome-learning-resources
+- https://github.com/GDGAhmedabad/Awesome-Learning-Resources
+- https://github.com/Xtremilicious/projectlearn-project-based-learning
 
 ## Extensions:
 

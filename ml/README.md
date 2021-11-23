@@ -26,6 +26,8 @@
 - https://towardsdatascience.com/using-docker-for-deep-learning-projects-fa51d2c4f64c
 - https://www.neuraldesigner.com/learning/examples
 - https://www.infoq.com/news/2021/10/ibm-vector-symbolic/
+- https://jonathanbgn.com/2021/10/30/hubert-visually-explained.html
+- https://www.infoq.com/presentations/designing-ml-systems-netflix/
 
 ## Repos:
 
@@ -54,7 +56,13 @@
 - https://www.theinsaneapp.com/2021/09/best-github-repository-for-machine-learning.html
 - Music Understanding and Generation with Artificial Intelligence: https://github.com/microsoft/muzic
 - https://github.com/python-engineer/ml-study-plan
+- https://github.com/bryandlee/animegan2-pytorch
+- https://github.com/dair-ai/ML-YouTube-Courses
 
 ## Reddit and twitter threads:
 
 - https://www.reddit.com/r/MachineLearning/comments/nwqc8o/d_what_is_currently_the_best_theoretical_book/
+- https://www.reddit.com/r/learnmachinelearning/comments/qmeq5s/7_completely_free_tensorflow_courses/
+- https://www.reddit.com/r/artificial/comments/qo5h44/gpt3_is_no_longer_the_only_game_in_town/
+- https://www.reddit.com/r/learnmachinelearning/comments/qonbqx/buying_a_laptop_for_ml_purposes/
+- https://www.reddit.com/r/artificial/comments/qooxb2/2021_a_year_full_of_amazing_ai_papers_a_review/

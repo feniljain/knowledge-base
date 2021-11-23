@@ -224,6 +224,8 @@
 - Books to learn go in depth: https://www.reddit.com/r/golang/comments/pwamgm/books_to_learn_go_in_depth/
 - https://github.com/chapin666/books/blob/master/golang/Concurrency-in-Go.pdf
 - https://www.amazon.com/Network-Programming-Go-Adam-Woodbeck/dp/1718500882/ref=pd_lpo_1
+- Writing compiler in Go: https://compilerbook.com/
+- Writing interpreter in Go: https://interpreterbook.com/
 
 ## Videos:
 
@@ -310,6 +312,7 @@
 - A collection of Go sytle guides: https://github.com/dgryski/awesome-go-style
 - Collection of unusual usecases of generics: https://github.com/xakep666/unusual_generics
 - A go framework for microservices: https://github.com/go-kratos/kratos
+- Suggests struct field arrangments to make memory usage most efficient: https://github.com/orijtech/structslop
 
 ## Packages:
 
@@ -367,6 +370,7 @@
 - https://tpaschalis.github.io/golang-len/
 - https://golang.org/src/cmd/compile/README
 - Why go did not go forward with LLVM and chose Plan9 compiler from russ coxx: https://news.ycombinator.com/item?id=8817990
+- Convert Go values to their AST: https://github.com/hexops/valast
 
 # Go Learning:
 

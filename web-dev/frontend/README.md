@@ -98,6 +98,7 @@
 - https://netflixtechblog.com/how-we-build-micro-frontends-with-lattice-22b8635f77ea
 - https://blog.bitsrc.io/micro-frontends-5-common-mistakes-to-avoid-4a35a37cad3d
 - https://www.infoq.com/news/2021/09/qwik-javascript-framework/
+- https://indepth.dev/posts/1482/an-in-depth-perspective-on-webpacks-bundling-process
 
 ## Websites:
 
@@ -147,8 +148,6 @@
 - https://css-irl.info/
 - https://csswizardry.com/ct/
 - https://cleanup.pictures/
-- https://animated-gradient-background-generator.netlify.app/
-- https://animatedbackgrounds.me/
 - Component library for tailwind css: https://flowbite.com/
 
 ## Blogs And Articles:
@@ -176,7 +175,14 @@
 - https://charles-stover.medium.com/cache-your-react-event-listeners-to-improve-performance-14f635a62e15
 - https://medium.com/@johan.isaksson/how-i-made-googles-data-grid-scroll-10x-faster-with-one-line-of-css-78cb1e8d9cb1
 - https://iconmap.io/blog
+- https://medium.com/@jonathan.pretre91/clean-architecture-with-nestjs-e089cef65045
+- https://www.reddit.com/r/webdev/comments/qt15s4/the_css_rule_%F0%9D%98%A2%F0%9D%98%B4%F0%9D%98%B1%F0%9D%98%A6%F0%9D%98%A4%F0%9D%98%B5%F0%9D%98%B3%F0%9D%98%A2%F0%9D%98%B5%F0%9D%98%AA%F0%9D%98%B0_now_works_in_all_major/
+- https://calibreapp.com/blog/core-web-vitals
 
 ## Extensions:
 
 - https://chrome.google.com/webstore/detail/dom-treemap/albnoggfgnooeefdjpncieecohhblonh/
+
+## Reddit and twitter threads:
+
+- https://www.reddit.com/r/webdev/comments/qmy2f7/would_you_ever_size_a_font_with_any_units_other/

@@ -60,6 +60,12 @@
 - https://medium.com/geekculture/distributed-transactions-two-phase-commit-c82752d69324
 - https://betterprogramming.pub/create-a-graph-database-and-api-with-postgresql-and-node-js-d7bddcc00bbb
 - https://medium.com/@amitdavidson234/databases-behind-the-scenes-how-boltdb-saves-data-to-the-disk-de8f1e3feda6
+- https://www.postgresql.org/docs/current/protocol.html
+- http://rachelbythebay.com/w/2021/11/06/sql/
+- https://hakibenita.com/postgresql-unknown-features
+- https://andrewjdawson2016.medium.com/why-google-built-spanner-43749516ae60
+- https://andrewjdawson2016.medium.com/how-google-built-spanner-af2505752d93
+- https://itnext.io/all-about-b-trees-and-databases-8c0697856189
 
 ## Blog Series:
 
@@ -82,6 +88,7 @@
 - https://github.com/jameycribbs/hare
 - https://github.com/RedisJSON/RedisJSON
 - https://github.com/pingcap/dumpling
+- OpenSource alternative to mongodb: https://github.com/MangoDB-io/MangoDB
 
 ## Reddit, twitter and ycombinator threads:
 

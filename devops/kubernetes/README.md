@@ -14,6 +14,7 @@
 - https://learn.openshift.com/operatorframework/
 - https://k8slens.dev/
 - https://operatorhub.io/
+- https://kind.sigs.k8s.io/
 
 ## Blogs and Articles:
 
@@ -60,6 +61,8 @@
 - Awesome kubernetes(collection of huge amount of resources, like too many): https://redhatspain.com/kubernetes/
 - https://medium.com/dynatrace-engineering/how-not-to-start-with-kubernetes-21b58d6252a8
 - https://medium.com/@mayankshah1607/leader-election-in-kubernetes-using-client-go-a19cbe7a9a85
+- https://danielmangum.com/posts/how-kubernetes-validates-custom-resources/
+- https://downey.io/notes/dev/ubuntu-sleep-pod-yaml/
 
 ## Blog series:
 
@@ -104,6 +107,8 @@
 - https://github.com/krustlet/krustlet
 - https://github.com/Slurmio/school-dev-k8s
 - https://github.com/cloudflare/sciuro
+- https://github.com/diegolnasc/kubernetes-best-practices
+- https://github.com/googleforgames/agones
 
 ## Tools:
 
@@ -111,6 +116,10 @@
 - https://github.com/kubernetes-simulator/simulator
 
 ## Learning:
+
+### Websites:
+
+- Interactive Playgrounds for docker: https://katacoda.com/courses/kubernetes
 
 ### Blogs and articles:
 

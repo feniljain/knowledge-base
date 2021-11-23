@@ -4,6 +4,8 @@
 
 - https://container.training/
 - Cloud-Native Learn-By-Doing platforms: https://twitter.com/iximiuz/status/1441826086489235456
+- https://linuxcontainers.org/
+- Interactive Playgrounds for docker: https://www.katacoda.com/courses/docker
 
 ## Blogs and Articles:
 
@@ -34,6 +36,7 @@
 - https://blog.sigstore.dev/cosign-signed-container-images-c1016862618
 - https://inacioklassmann.medium.com/the-death-of-linux-containers-2f7f92e59c33
 - https://iximiuz.com/en/posts/containers-vs-pods/
+- https://www.section.io/engineering-education/lxc-vs-docker-what-is-the-difference-and-why-docker-is-better/
 
 ## Interesting Images:
 
@@ -63,3 +66,4 @@
 - Top-like interface for container metrics: https://github.com/bcicen/ctop
 - Container runtime written in Rust: https://github.com/containers/youki
 - https://github.com/jessfraz/dockerfiles
+- The lazier way to manage everything docker: https://github.com/jesseduffield/lazydocker

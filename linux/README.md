@@ -32,6 +32,7 @@
 - https://nosystemd.org/
 - https://www.memorysafety.org/
 - https://www.gamingonlinux.com/
+- https://wkz.github.io/ply/
 
 ## Blogs and articles:
 
@@ -64,6 +65,7 @@
 - https://fasterthanli.me/articles/a-terminal-case-of-linux
 - https://earthly.dev/blog/awk-examples/
 - https://towardsdatascience.com/3-tools-to-monitor-and-optimize-your-linux-system-c8a46c18d692
+- https://www.dolthub.com/blog/2021-11-15-zsh-completions-with-subcommands/
 
 ### Linux working:
 
@@ -134,11 +136,13 @@
 - Pipewire Installation: https://pipewire-debian.github.io/pipewire-debian/
 - https://blog.macrium.com/what-is-exfat-and-why-is-it-so-important-for-removable-storage-fd7661fce191
 - A fork for the time-zone databases: https://lwn.net/Articles/870478/
+- https://www.quastor.org/p/google-file-system-explained
 
 ## Blog series:
 
 - https://medium.com/100-days-of-linux/
 - http://brendangregg.com/blog/index.html
+- https://ojeda.dev/
 
 ## Bash and ZSH:
 
@@ -158,6 +162,7 @@
 - Nice collection of commands: https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/
 - Bash General-Purpose Yes/No Prompt Function ("ask"): https://gist.github.com/davejamesmiller/1965569
 - Bash scripting resources: https://www.reddit.com/r/linux4noobs/comments/pizkkq/any_good_resources_for_bash_scripting_for_this_new/
+- Color manager for terminal, super easy to use, just run a curl command, it will show a long list of commands and theme is set: https://github.com/Mayccoll/Gogh
 
 ## Cheatsheets:
 
@@ -179,6 +184,8 @@
 - https://tmate.io/
 - Terminal on browser: https://github.com/skanehira/rtty
 - Managing shell commands: https://github.com/Nukesor/pueue
+- Useful sed scripts & patterns: https://github.com/adrianscheff/useful-sed
+- https://www.reddit.com/r/linux/comments/qzkhy3/virtual_surround_sound_headphone_setup_on_linux/
 
 ### Others:
 
@@ -212,6 +219,8 @@
 - Inner working of linux: https://github.com/0xAX/linux-insides
 - https://lists.gnu.org/archive/html/grub-devel/2021-08/msg00099.html
 - https://github.com/jlevy/the-art-of-command-line
+- Architecture independent access to linux system calls: https://github.com/matheusmoreira/liblinux
+- cheat allows you to create and view interactive cheatsheets on the command-line: https://github.com/cheat/cheat
 
 ## Terminal tools I use:
 
@@ -304,6 +313,7 @@
 - https://www.reddit.com/r/linuxquestions/comments/pykk3v/cons_of_using_waylandsway/
 - https://www.reddit.com/r/linuxquestions/comments/pz0u47/what_are_some_good_resources_to_learn_about_the/
 - https://www.reddit.com/r/linux4noobs/comments/q496kw/best_sites_to_learn_linux/
+- https://www.reddit.com/r/LLVM/comments/qly49y/how_to_build_a_compiler_with_llvm_and_mlir_12/
 
 ## Config Repos:
 
@@ -367,6 +377,8 @@
     - https://medium.com/thermokline/confused-by-ebpf-9d4a8bce318e
     - https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d
     - https://medium.com/zendesk-engineering/hunting-down-a-c-memory-leak-in-a-go-program-2d08b24b617d
+    - https://kentiklabs.com/blog/container-visibility/
+    - https://medium.com/nttlabs/bpf-and-async-rust-c1818f03aff7
 
 ### Books:
 
@@ -391,6 +403,8 @@
     - In-kernel cache based on eBPF: https://github.com/Orange-OpenSource/bmc-cache
     - A Rust interface for the Linux AF_XDP address family: https://github.com/seeyarh/xdpsock
     - https://github.com/parca-dev/parca
+    - https://github.com/kentik/convis
+    - https://github.com/fujita/libbpf-async
 
 ### Reddit and twitter threads:
 
@@ -399,6 +413,7 @@
     - https://www.reddit.com/r/kernel/comments/osmf08/esbpf_embedded_smallest_bpf_framework/
     - What tools to use at what level(proficiency) in eBPF: https://twitter.com/brendangregg/status/1439361780010999810
     - https://www.reddit.com/r/golang/comments/q5ptus/introducing_parca_open_source_infrastructurewide/
+    - https://www.reddit.com/r/eBPF/comments/qmgo07/introducing_oxidebpf_a_linux_tool_for_rust_and/
 
 ### Videos:
 

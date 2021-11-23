@@ -7,6 +7,7 @@
 - https://quic.cloud/
 - A TCP/IP reference you can understand(Contains a-z everything related to tcp/ip, all relating protocols, etc): http://www.tcpipguide.com/index.htm
 - https://peering.google.com/#/
+- https://crt.sh/
 
 ## Blogs and Articles:
 
@@ -54,6 +55,19 @@
 - https://darrenparkinson.uk/posts/2021-10-13-why-network-engineers-should-learn-go/
 - https://research.nccgroup.com/2021/10/11/the-challenges-of-fuzzing-5g-protocols/
 - https://www.netmeister.org/blog/tlds.html
+- https://en.wikipedia.org/wiki/Classful_network
+- https://www.netmeister.org/blog/inet_aton.html
+- https://www.netmeister.org/blog/urls.html
+- https://medium.com/@sleevi_/path-building-vs-path-verifying-the-chain-of-pain-9fbab861d7d6
+- https://www.lifewire.com/what-happened-to-ipv5-3971327
+- https://routingcraft.net/anycast-in-segment-routing/
+
+## Blog Series/Articles collection:
+
+- https://iximiuz.com/en/
+- https://www.cloudflare.com/learning/
+- https://ably.com/topics/protocols
+- https://routingcraft.net/
 
 ## Repos:
 
@@ -80,16 +94,11 @@
 - Connecting to localhost:0 causes kernel to select an open port for you: https://twitter.com/jimmyzelinskie/status/1413524246693916686
 - In-kernel, fast-path packet processing with AF_XDP: https://www.youtube.com/watch?v=Gv-nG6F_09I
 - Networking fundamentals: https://www.youtube.com/watch?v=9uebakqWlB0
+- Load balancing without load balancers(iptables): https://www.youtube.com/watch?v=-CraNvj48J0
 
 ## Container Images:
 
 - https://hub.docker.com/r/devsisters/quic-reverse-proxy/
-
-## Blog Series/Articles collection:
-
-- https://iximiuz.com/en/
-- https://www.cloudflare.com/learning/
-- https://ably.com/topics/protocols
 
 ## Research papers:
 

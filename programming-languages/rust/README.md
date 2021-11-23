@@ -98,6 +98,9 @@
 - https://blog.knoldus.com/design-patterns-in-rust-programming
 - https://diziet.dreamwidth.org/9894.html
 - https://swatinem.de/blog/zero-cost-async/
+- https://blog.yoshuawuyts.com/async-cancellation-1/
+- https://smallcultfollowing.com/babysteps/blog/2021/11/05/view-types/
+- https://nora.codes/post/its-time-to-get-hyped-about-const-generics-in-rust/
 
 ### Tutorials:
 
@@ -193,6 +196,7 @@
 - https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - https://nimrodshn.medium.com/writing-a-storage-engine-in-rust-writing-a-persistent-btree-part-1-916b6f3e2934
 - https://ferrous-systems.com/blog/testing-proc-macros/
+- 3 popular ways to implement circular referencing data structures in rust: https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/
 
 ### Language general:
 
@@ -236,6 +240,12 @@
 - https://pkolaczk.github.io/overhead-of-optional/
 - How to apply static check on dynamic builder pattern: https://www.greyblake.com/blog/2021-10-25-builder-with-typestate-in-rust/
 - Awesome article: http://cliffle.com/blog/rust-typestate/
+- https://arunanshub.hashnode.dev/self-referential-structs-in-rust
+- https://smallcultfollowing.com/babysteps//blog/2021/11/05/view-types/
+- Interesting: Implementing euclidean algorithm using rust's type system only: https://gist.github.com/Steelbirdy/65f495807d5d312d5627794190353b05
+- https://www.reddit.com/r/rust/comments/qqn7ax/media_pattern_matching_with_match_in_rust/
+- https://ihatereality.space/04-what-mutref-to-slice-ref-means/
+- https://stackoverflow.com/questions/25296195/why-are-recursive-struct-types-illegal-in-rust
 
 ### Others:
 
@@ -317,6 +327,7 @@
 - https://github.com/ericseppanen/crates_io_analyzer/blob/main/README.md
 - https://www.cvedetails.com/product/48677/Rust-lang-Rust.html?vendor_id=19029
 - https://quickwit.io/blog/search-a-sorted-block/
+- Writing trees in rust: https://gist.github.com/aidanhs/5ac9088ca0f6bdd4a370
 
 ## Blog Series/Collection of articles:
 
@@ -350,6 +361,7 @@
 - https://owengage.com/writing/
 - https://diziet.dreamwidth.org/
 - https://jeffa.io/
+- https://estebank.github.io/
 
 ## Repos:
 
@@ -423,6 +435,7 @@
 - https://github.com/DanielKeep/cargo-script
 - https://github.com/rust-lang/this-week-in-rust
 - A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust: https://github.com/mre/idiomatic-rust
+- Fullstack rust template with yew and rocket: https://gitlab.com/zwolnik/fullstack-rs
 
 ## Videos:
 
@@ -455,6 +468,7 @@
 - GhostCell: Separating Permissions from Data in Rust: https://www.youtube.com/watch?v=jIbubw86p0M
 - https://www.reddit.com/r/rust/comments/pxz7at/rustlinux_plumbers_conference_2021/
 - Type-Driven API Design in Rust: https://www.youtube.com/watch?v=bnnacleqg6k
+- Writing a programming language in rust: https://www.youtube.com/channel/UCYOQ9BD5apJ1nMmkFWp4Q5w
 
 ## Newsletters:
 
@@ -499,6 +513,7 @@
 - Rust for the polygot programmer: https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html
 - https://www.reddit.com/r/rust/comments/q09828/best_free_rust_books/
 - https://ocamlpro.github.io/verification_for_dummies/
+- Writing interpreters in rust: https://rust-hosted-langs.github.io/book/
 
 ## Interesting Projects:
 
@@ -558,6 +573,8 @@
 - Generate a THIRDPARTY file with all licenses in a cargo project: https://github.com/sstadick/cargo-bundle-licenses
 - CLI for managing workspace-hack crates: https://crates.io/crates/cargo-hakari
 - Alternative to anyhow: https://crates.io/crates/eyre
+- Detects usage of unsafe Rust in a Rust crate and its dependencies: https://github.com/rust-secure-code/cargo-geiger
+- https://crates.io/crates/opencv/
 
 ## Rust Internals:
 
@@ -593,6 +610,7 @@
 - https://www.reddit.com/r/rust/comments/my3ipa/if_you_could_redesign_rust_from_scratch_today/
 - https://rust-lang.github.io/compiler-team/#meeting-calendar
 - Visualizing memory layout of rust-s data types: https://www.youtube.com/watch?v=rDoqT-a6UFg
+- https://lwn.net/Articles/871283/
 
 ## Rust and security
 

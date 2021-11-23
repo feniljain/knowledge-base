@@ -35,6 +35,8 @@
 - https://entrepreneurshandbook.co/i-interviewed-75-overachievers-here-is-the-one-thing-they-all-have-in-common-85a4756de3b
 - https://betterprogramming.pub/what-do-you-do-when-people-talk-over-you-7c70dc5cfe3a
 - https://forge.medium.com/what-5-serial-daters-can-teach-you-about-personal-myth-making-6532b1fb9cf8
+- https://betterhumans.pub/why-you-should-have-a-field-manual-for-your-life-4ee33700ef95
+- https://betterhumans.pub/how-to-master-intentional-dreaming-for-a-satisfying-life-af96b99179b7
 
 ## Videos:
 
@@ -61,6 +63,20 @@
 - Approach the game with no preset agendas and you'll probably come away surprised at your overall efforts.
 - If you lose, don't lose the lesson.
 - Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality.
+- We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
+- Knowing is not enough, we must apply. Willing is not enough, we must do.
+- You take your life in your own hands, and what happens? A terrible thing, no one to blame.
+- Everything around you that you call life was made up by people, and you can change it.
+- Whatever you think you can do or believe you can do, begin it. Action has magic, grace, and power in it.
+- If they can do it, so can you.
+- Whether you think you can or you think you can't, you are right.
+- It's a helluva start, being able to recognize what makes you happy.
+- It is our choices that show what we truly are, far more than our abilities.
+- The brain is like a muscle. When it is in use we feel very good. Understanding is joyous.
+- The greatest discovery of all time is that a person can change their future by merely changing their attitude.
+- Simplicity is the ultimate sophistication.
+- The world breaks everyone and afterward many are strong at the broken places.
+- If your heart is in your dream, no request is too extreme.
 
 ## Books:
 

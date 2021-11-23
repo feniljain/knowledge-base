@@ -35,6 +35,7 @@
 - https://javascript.plainenglish.io/17-killer-websites-for-web-developers-13e1e30345b8
 - https://blog.bitsrc.io/api-versioning-dos-and-don-ts-4bd9db073f2a
 - https://www.quastor.org/p/the-architecture-of-web-browsers
+- https://www.reddit.com/r/ProgrammingLanguages/comments/qqtg0v/oilpan_gc_library_for_c_recently_exposed_in_v8/
 
 ## Videos:
 
@@ -62,6 +63,7 @@
 ### Videos:
 
 - Bringing webassembly outside browser using wasi: https://www.youtube.com/watch?v=fh9WXPu0hw8
+- https://www.infoq.com/presentations/wasm-server-api/
 
 ### Blogs and articles:
 
@@ -91,3 +93,4 @@
 - https://github.com/topheman/rust-wasm-experiments
 - https://github.com/hasura/graphql-engine
 - https://github.com/ulid/spec
+- https://github.com/pannous/wasp

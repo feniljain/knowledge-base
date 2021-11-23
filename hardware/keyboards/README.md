@@ -6,11 +6,23 @@
 - https://pimpmykeyboard.com/
 - https://www.littlekeyboards.com/
 - https://mkultra.click/
+- https://www.meckeys.com/
+- https://www.razer.com/pc/gaming-keyboards-and-keypads
+- https://splitkb.com/
+- https://drop.com/
+- Electronics amazon for india: https://robu.in/
+
+## Specifically for India:
+
+- https://rectangles.store
+- https://stackskb.com
+- https://www.genesispc.in/
 
 ## Repos:
 
 - https://github.com/diimdeep/awesome-split-keyboards
 - https://gist.github.com/itod/ae27b30f7517dc18b8df110c1d98bccb
+- https://github.com/Lenbok/scad-keyboard-cases
 
 ## Sheets:
 
@@ -19,7 +31,13 @@
 ## Reddit threads and tweets:
 
 - https://www.reddit.com/r/MechanicalKeyboards/comments/qgbm31/keycaps_profile_pros_and_cons/
+- Split keyboards in india: https://www.reddit.com/r/mkindia/comments/lw3imi/split_keyboard_what_are_my_options/
+- DIY keyboard in India: https://www.reddit.com/r/mkindia/comments/kx5dz7/almost_complete_custom_split_handwired_outemu/
 
 ## Videos:
 
 - Mechanical swtiches comparision, sound only: https://www.youtube.com/watch?v=rm-WuK_9OBM
+- How to make a FERRIS KEYBOARD [ beginner friendly! ]: https://www.youtube.com/watch?v=fBPu7AyDtkM
+- Keyboard journey: https://www.youtube.com/watch?v=LgEkusmH-9k
+- A Guide to Weird Keyboards: https://www.youtube.com/watch?v=SkNGxM4LRKQ
+- Is tenting your keyboard really THAT important?: https://www.youtube.com/watch?v=pUKoB95aEc4

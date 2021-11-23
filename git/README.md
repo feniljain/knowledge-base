@@ -47,6 +47,8 @@
 - https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/
 - https://stackoverflow.com/questions/3103589/how-can-i-easily-fixup-a-past-commit
 - https://dev.to/neshaz/how-to-git-stash-your-work-the-correct-way-cna
+- https://stevelosh.com/blog/2013/04/git-koans/
+- https://dev.to/martiliones/how-i-got-linus-torvalds-in-my-contributors-on-github-3k4g
 
 ## Interesting git configs:
 
@@ -68,6 +70,8 @@
 
 - https://dev.to/craigtaub/under-the-hood-of-git-309f
 - https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain
+- https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/
+- https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/
 
 ## Github Enhancements:
 
@@ -89,6 +93,7 @@
 - https://github.blog/2021-03-25-how-github-actions-renders-large-scale-logs/
 - https://github.com/readme/podcast
 - https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes
+- https://github.blog/changelog/2021-10-27-pull-request-merge-queue-limited-beta/
 
 ## Interesting commands:
 

@@ -49,6 +49,12 @@
 - https://www.javatpoint.com/compiler-passes
 - https://www.apollographql.com/blog/announcement/tooling/apollo-rs-graphql-tools-in-rust/
 - Pratt Parsing Index and Updates(Collection of blogs regarding pratt parsing): https://www.oilshell.org/blog/2017/03/31.html
+- https://www.reddit.com/r/ProgrammingLanguages/comments/qm41w2/anybody_have_tips_for_writing_a_recursive_descent/
+- https://stackfull.dev/trie-in-javascript-the-data-structure-behind-autocomplete
+- https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/
+- https://blog.methodscript.com/2021/10/05/compiling-methodscript-to-llvm/
+- https://www.i-programmer.info/news/149-security/15004-latest-vulnerability-suggests-compilers-should-learn-unicode.html
+- https://simonbyrne.github.io/notes/fastmath/
 
 ## Blog series/Articles collection:
 
@@ -58,12 +64,20 @@
 - https://blog.regehr.org/
 - https://kristerw.blogspot.com/
 - http://lambda-the-ultimate.org/
+- https://blog.regehr.org/archives/category/compilers
+- https://lowlevelbits.org/
+- https://jesper.sikanda.be/blog.html
+- https://blog.regehr.org/
+- Let's build a compiler: https://compilers.iecc.com/crenshaw/
 
 ## Reddit and twitter threads:
 
 - https://www.reddit.com/r/learnprogramming/comments/5hwo3x/whats_the_best_resource_to_walk_me_through_making/
 - Good compiler books: https://news.ycombinator.com/item?id=136875
 - https://www.reddit.com/r/rust/comments/q0ttgx/where_would_i_start_making_a_compiler_in_rust/
+- https://www.reddit.com/r/LLVM/comments/qly49y/how_to_build_a_compiler_with_llvm_and_mlir_12/
+- https://www.reddit.com/r/programming/comments/qn8qqb/how_to_learn_compilers_llvm_edition/
+- The web archive of the comp.compilers newsgroup, under the same management since 1986: https://twitter.com/compcompilers
 
 ## Repos:
 
@@ -79,20 +93,26 @@
 - https://github.com/TimelyDataflow/differential-dataflow
 - https://github.com/vmware/differential-datalog
 
+## Videos:
+
+- The Golden Age of Compiler Design in an Era of HW/SW Co-design by Dr. Chris Lattner
+  : https://www.youtube.com/watch?v=4HgShra-KnY
+- Chris Lattner: Compilers, LLVM, Swift, TPU, and ML Accelerators | Lex Fridman Podcast #21: https://www.youtube.com/watch?v=yCd3CzGSte8
+- CppCon 2019: Matt Godbolt “Compiler Explorer: Behind The Scenes”: https://www.youtube.com/watch?v=kIoZDUd5DKw&t=192s
+
 ## Courses:
 
 - Awesome course: https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/
 - https://suif.stanford.edu/dragonbook/
-
-## Courses:
-
-- CppCon 2019: Matt Godbolt “Compiler Explorer: Behind The Scenes”: https://www.youtube.com/watch?v=kIoZDUd5DKw&t=192s
+- https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020/
 
 ## Books:
 
 - https://www.cs.princeton.edu/~appel/modern/ml/
 - https://gcc.gnu.org/wiki/ListOfCompilerBooks
 - https://cglab.ca/~michiel/TheoryOfComputation/TheoryOfComputation.pdf
+- Writing compiler in Go: https://compilerbook.com/
+- Writing interpreter in Go: https://interpreterbook.com/
 
 ## Interesting rust-analyzer issues:
 

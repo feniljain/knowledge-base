@@ -39,10 +39,19 @@
 - http://blog.rongarret.info/2015/05/why-lisp.html
 - https://javascript.plainenglish.io/the-most-common-programming-misconception-interpreted-vs-compiled-languages-5d38e1904c8d
 - https://www.cs.yale.edu/homes/aspnes/pinewiki/AbstractDataTypes.html
+- The history of standard ML: https://smlfamily.github.io/history/
+- One letter programming languages: https://beza1e1.tuxen.de/one_letter_proglangs.html
+
+## Blog series/articles collection:
+
+- https://jesper.sikanda.be/blog.html
 
 ## Reddit threads and tweets:
 
 - https://www.reddit.com/r/Compilers/comments/q5nsun/any_tutorials_on_type_systems/
+- https://www.reddit.com/r/programmingcirclejerk/comments/qneujj/nonturing_complete_languages_offer_a_great/
+- https://www.reddit.com/r/ProgrammingLanguages/comments/qn2gby/pattern_matching_where_did_this_approach_come_from/
+- Some old (ancient) handwritten notes on category theory, domain theory and concurrency: https://twitter.com/haskellhutt/status/1462171329344557064
 
 ## Repos:
 
@@ -53,6 +62,8 @@
 ## Videos:
 
 - https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/
+- Introduction to esoteric languages(includes good learning resources too): https://www.youtube.com/watch?v=cQ7bcCrJMHc
+- Integrating Usability into Programming Language Design: https://www.youtube.com/watch?v=38qBwZGUMMs
 
 ## Lua:
 
@@ -124,6 +135,9 @@
 - https://en.wikipedia.org/wiki/Region-based_memory_management
 - http://netlib.org/
 - Borrowing Trouble: The Difficulties Of A C++ Borrow-Checker: https://docs.google.com/document/d/e/2PACX-1vSt2VB1zQAJ6JDMaIA9PlmEgBxz2K5Tx6w2JqJNeYCy0gU4aoubdTxlENSKNSrQ2TXqPWcuwtXe6PlO/pub
+- https://www.reddit.com/r/ProgrammingLanguages/comments/qqtg0v/oilpan_gc_library_for_c_recently_exposed_in_v8/
+- https://v8.dev/blog/high-performance-cpp-gc
+- https://cpp.chat/
 
 ### Blogs and articles:
 
@@ -157,6 +171,7 @@
 - https://www.drdobbs.com/lock-free-data-structures-with-hazard-po/184401890
 - https://www.thecoderworld.com/difference-between-ansi-c-and-c/
 - https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/
+- https://itnext.io/c-20-ranges-complete-guide-4d26e3511db0
 
 ### Repos:
 

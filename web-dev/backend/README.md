@@ -72,10 +72,15 @@
 - https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33
 - https://chanakaudaya.medium.com/building-scalable-microservices-without-a-service-mesh-86b916ba7e98
 - https://medium.com/@eduardoslafiq/golang-circuit-break-relay-with-grelay-45faccbf1c77
+- https://medium.com/@dongfuye/the-seven-most-classic-solutions-for-distributed-transaction-management-3f915f331e15
+- https://stackoverflow.com/questions/5195452/websockets-vs-server-sent-events-eventsource
+- https://www.html5rocks.com/en/tutorials/eventsource/basics/
+- https://en.wikipedia.org/wiki/Fan-out_(software)
 
 ## Blog series/Articles collection:
 
 - https://ably.com/blog/tag/the-hardest-aspects-of-realtime-engineering
+- https://andrewjdawson2016.medium.com/andrews-distributed-systems-blog-ef5194a4a713
 
 ## Reddits and twitter threads:
 

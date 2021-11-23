@@ -67,6 +67,18 @@
 - https://medium.com/design-microservices-architecture-with-patterns/gateway-aggregation-pattern-9ff92e1771d0
 - https://cechinel.medium.com/system-design-c4-model-766683fed1c9
 - https://jinkanglow.medium.com/twitter-system-architecture-8dafce16aec4
+- https://medium.com/hookdeck/message-queues-deep-dive-94592b0d9d3c
+- https://medium.com/@gupta.samriti1991/my-first-system-design-whatsapp-f59d23660a8c
+- https://evelynn.tech/system-design-distributed-job-scheduler-part-1-e593ecc9fdf8
+- https://megtechcorner.medium.com/how-uber-handles-millions-of-ride-food-requests-efficiently-part-1-2aa8db436204
+- https://eng.uber.com/fulfillment-platform-rearchitecture/
+- https://medium.com/hookdeck/message-queues-deep-dive-94592b0d9d3c
+- https://medium.com/@surfd1001/system-design-notification-service-d7a47fdfcee3
+- https://evelynn.tech/system-design-data-builder-framework-designed-by-flipkart-engineering-team-4d8c5108b687
+- https://medium.com/geekculture/system-design-build-messaging-capability-for-live-video-streams-b9fdb7ce9ff8
+- https://engineering.linkedin.com/blog/2016/10/instant-messaging-at-linkedin--scaling-to-hundreds-of-thousands-
+- https://engineering.linkedin.com/blog/2018/04/samza-aeon--latency-insights-for-asynchronous-one-way-flows
+- https://engineering.linkedin.com/blog/2018/01/now-you-see-me--now-you-dont--linkedins-real-time-presence-platf
 
 ## Repos:
 
@@ -89,3 +101,6 @@
 
 - System Design Interview - Step by step guide: https://www.youtube.com/watch?v=bUHFg8CZFws
 - IRCTC System Design: https://www.youtube.com/watch?v=j3etJx7M0Sc
+- Scaling Instagram Interview: https://www.youtube.com/watch?v=hnpzNAPiC0E
+- Streaming a Million Likes/Second: Real-Time Interactions on Live Video: https://www.youtube.com/watch?v=yqc3PPmHvrA
+- Scaling Facebook Live Videos to a Billion Users: https://www.youtube.com/watch?v=IO4teCbHvZw

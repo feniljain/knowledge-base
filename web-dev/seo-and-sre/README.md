@@ -24,6 +24,7 @@
 - https://blog.realkinetic.com/sre-doesnt-scale-279dcd632c91
 - https://medium.com/@siliconpaladin/how-to-transform-infrastructure-teams-into-sustainable-sre-organizations-a7c82e5c9b5
 - https://michaellevan.net/sre-mind-and-roadmap/
+- https://medium.com/dm03514-tech-blog/sre-observability-metric-namespaces-and-structures-12ffcf5a5bdc
 
 ## Repos:
 

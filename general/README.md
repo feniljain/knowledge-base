@@ -19,6 +19,7 @@
 - https://resizeimage.net/
 - https://qrcode.show/
 - Check which tab your email will land in gmail: https://www.producthunt.com/posts/promotab
+- http://csrankings.org/#/index?all&us
 
 ## Blogs and articles:
 
@@ -45,9 +46,9 @@
 - https://hackernoon.com/into-the-depths-of-wikipedia
 - https://inacioklassmann.medium.com/technical-leader-vs-effective-leader-5996a7ea7514
 - https://www.infoq.com/podcasts/career-leadership-advice-engineers/
-- https://en.wikipedia.org/wiki/Classful_network
-- https://www.netmeister.org/blog/inet_aton.html
-- https://www.netmeister.org/blog/urls.html
+- How to remember anything forever-ish: https://ncase.me/remember/
+- https://dev.to/heshiebee/the-key-to-developer-happiness-and-how-to-prevent-coding-from-becoming-just-another-job-4m60
+- https://scattered-thoughts.net/writing/moving-faster/
 
 ## Blog series/Articles collection:
 
@@ -124,6 +125,7 @@
 - Free and OSS self-hosted newsletter and mailing list manager: https://listmonk.app/
 - https://github.com/Xithrius/terminal-twitch-chat
 - https://github.com/LappleApple/awesome-leading-and-managing
+- https://trilarion.github.io/opensourcegames/
 
 ## Free Creds:
 

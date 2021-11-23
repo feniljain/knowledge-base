@@ -48,6 +48,9 @@
 - https://bayareabelletrist.medium.com/how-i-negotiated-a-software-engineer-offer-in-silicon-valley-f11590f5c656
 - https://aphyr.com/posts/342-typing-the-technical-interview
 - https://forge.medium.com/a-by-the-numbers-guide-to-asking-for-a-raise-39d495c7f7d7
+- https://www.reddit.com/r/devops/comments/qpy6un/interview_questions_tough_questions_to_ask/
+- https://mlengineer.io/from-semiconductor-to-software-engineer-8c3126dde65b
+- https://dev.to/tim012432/do-not-put-skill-bars-on-your-resume-lh6
 
 ## Videos:
 

@@ -58,6 +58,7 @@
 - https://github.com/hydro-sdk/hydro-sdk
 - https://github.com/isar
 - High-performant, web standards-compliant rendering engine based on flutter: https://github.com/openkraken
+- https://github.com/vandadnp/flutter-tips-and-tricks
 
 ## Packages:
 

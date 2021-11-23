@@ -50,6 +50,8 @@
 - https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/
 - https://careerfoundry.com/en/blog/web-development/7-essential-tools-for-front-end-development/
 - https://blog.bitsrc.io/event-bubbling-and-capturing-in-javascript-6bc908321b22
+- https://www.makeuseof.com/javascript-set-methods-to-master/
+- Rust Is The Future of JavaScript Infrastructure: https://leerob.io/blog/rust
 
 ### Tutorials:
 
