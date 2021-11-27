@@ -76,6 +76,7 @@
 - https://stackoverflow.com/questions/5195452/websockets-vs-server-sent-events-eventsource
 - https://www.html5rocks.com/en/tutorials/eventsource/basics/
 - https://en.wikipedia.org/wiki/Fan-out_(software)
+- https://www.infoq.com/articles/api-mocking-break-dependencies/
 
 ## Blog series/Articles collection:
 

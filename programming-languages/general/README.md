@@ -5,6 +5,8 @@
 - Programming languages resources(everything from compilers, RTO, assemblers, etc.): https://bernsteinbear.com/pl-resources/
 - OP Cheatsheets over various languages: https://devhints.io/
 - https://learntla.com/introduction/
+- Repository of academic computer science papers: https://paperswelove.org/
+- https://iris-project.org/
 
 ## Blogs and Articles:
 
@@ -41,10 +43,14 @@
 - https://www.cs.yale.edu/homes/aspnes/pinewiki/AbstractDataTypes.html
 - The history of standard ML: https://smlfamily.github.io/history/
 - One letter programming languages: https://beza1e1.tuxen.de/one_letter_proglangs.html
+- https://blog.sigplan.org/2021/11/18/undefined-behavior-deserves-a-better-reputation/
+- https://blog.sigplan.org/2019/10/17/what-type-soundness-theorem-do-you-really-want-to-prove/
 
 ## Blog series/articles collection:
 
 - https://jesper.sikanda.be/blog.html
+- https://blog.acolyer.org/
+- The Programming Languages Weblog: http://lambda-the-ultimate.org/
 
 ## Reddit threads and tweets:
 
@@ -59,11 +65,17 @@
 - https://github.com/mazy1998/asciiVideo
 - Makes C a build-once-and-run-anywhere-lang like java: https://github.com/jart/cosmopolitan
 
+## Books:
+
+- https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs
+- https://mitpress.mit.edu/sites/default/files/sicp/index.html
+
 ## Videos:
 
 - https://www.infoq.com/presentations/Null-References-The-Billion-Dollar-Mistake-Tony-Hoare/
 - Introduction to esoteric languages(includes good learning resources too): https://www.youtube.com/watch?v=cQ7bcCrJMHc
 - Integrating Usability into Programming Language Design: https://www.youtube.com/watch?v=38qBwZGUMMs
+- Undefined Behaviour, when is it bad and when not: https://youtu.be/yG1OZ69H_-o
 
 ## Lua:
 

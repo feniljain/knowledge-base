@@ -16,3 +16,4 @@
 
 - https://github.com/geerlingguy/internet-pi
 - https://github.com/stong/how-to-exploit-a-double-free
+- x86 virtualization in your browser, recompiling x86 to wasm on the fly: https://github.com/copy/v86

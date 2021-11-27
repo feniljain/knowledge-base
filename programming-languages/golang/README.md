@@ -71,6 +71,8 @@
 - https://medium.com/trendyol-tech/the-fanciest-way-of-releasing-go-binaries-with-goreleaser-dbbd3d44c7fb
 - https://eli.thegreenplace.net/2021/a-comprehensive-guide-to-go-generate
 - https://itnext.io/websocket-communication-between-two-go-programs-the-easy-way-d8c9cf40043f
+- https://pauldigian.hashnode.dev/advanced-go-avoiding-if-for-initialization-using-synconce-and-foot-guns-to-watch-out-for
+- https://blog.cskr.dev/posts/arena-allocation-in-go/
 
 ### Architecture:
 
@@ -176,6 +178,7 @@
 - https://www.alexedwards.net/blog/which-go-router-should-i-use
 - https://eli.thegreenplace.net/2021/rewriting-go-source-code-with-ast-tooling/
 - https://tailscale.com/blog/go-linker/
+- https://dev.to/aruna/abstract-syntax-trees-theyre-used-everywhere-but-what-are-they-jh6
 
 ## Blog Series:
 
@@ -371,6 +374,8 @@
 - https://golang.org/src/cmd/compile/README
 - Why go did not go forward with LLVM and chose Plan9 compiler from russ coxx: https://news.ycombinator.com/item?id=8817990
 - Convert Go values to their AST: https://github.com/hexops/valast
+- https://erik-engheim.medium.com/go-does-not-need-a-java-style-gc-ac99b8d26c60
+- Getting to Go: The Journey of Go's Garbage Collector: https://go.dev/blog/ismmkeynote
 
 # Go Learning:
 

@@ -150,6 +150,7 @@
 - Using <C-o>, From Insert mode, we can switch to Normal mode for a single command: https://twitter.com/VImTipsDaily/status/1441334737960726531
 - Using g<C-g> to get word count, line count and byte count in current file: https://twitter.com/VimLinks/status/1442412535374696461
 - https://www.reddit.com/r/neovim/comments/q5clgg/how_to_structure_lua_plugin_to_load_commands/
+- https://www.reddit.com/r/neovim/comments/r109yv/how_do_i_move_and_select_through_list_of/
 
 ## Vimscript:
 
@@ -477,6 +478,7 @@
 - https://github.com/ruifm/gitlinker.nvim
 - https://github.com/tpope/vim-rhubarb
 - https://github.com/rcarriga/vim-ultest
+- https://github.com/gelguy/wilder.nvim
 
 ## VimRCs for reference:
 

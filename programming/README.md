@@ -133,6 +133,7 @@
 - https://dev.to/unitybuddy/7-ways-to-improve-your-logic-in-programming-55io
 - https://boonepeter.github.io/posts/2020-11-10-spotify-codes/
 - https://boonepeter.github.io/posts/spotify-codes-part-2/
+- https://blog.plan99.net/modern-garbage-collection-911ef4f8bd8e
 
 ## Blog Series:
 

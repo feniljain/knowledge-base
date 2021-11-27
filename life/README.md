@@ -77,6 +77,10 @@
 - Simplicity is the ultimate sophistication.
 - The world breaks everyone and afterward many are strong at the broken places.
 - If your heart is in your dream, no request is too extreme.
+- Mistakes are the portals of discovery.
+- Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.
+- A goal should scare you a little, and excite you a lot.
+- It is never too late to be what you might have been.
 
 ## Books:
 

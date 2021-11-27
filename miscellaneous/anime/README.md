@@ -185,7 +185,6 @@
 - Free!
 - Diamond no ace
 - Yuri on ice
-- Bakugaan
 - Keijo
 - 2.43
 - sk8 the infinity
@@ -255,7 +254,7 @@
 - https://www.reddit.com/r/Animesuggest/comments/osegg2/need_new_romcomsslice_of_life/
 - https://www.reddit.com/r/anime/comments/a0ge2o/what_are_some_if_the_best_romance_anime_i_need/
 
-## Websites:
+## Watch Websites:
 
 - https://aniwatch.me/
 - animesuge.io
@@ -274,6 +273,10 @@
 - moetube.to
 - haho.moe
 - 9anime.at
+
+## General Websites:
+
+- https://anichart.net/
 
 ## Completed(I started maintaining this list very late may not have a lot of anime I have watched):
 
@@ -302,6 +305,7 @@
 - Future Diary
 - Neon Genesis Evangelion
 - One Punch Man
+- Bakugaan
 - A place further than the universe
 - Oregairu
 - Toradora

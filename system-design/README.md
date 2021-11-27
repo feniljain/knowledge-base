@@ -79,6 +79,7 @@
 - https://engineering.linkedin.com/blog/2016/10/instant-messaging-at-linkedin--scaling-to-hundreds-of-thousands-
 - https://engineering.linkedin.com/blog/2018/04/samza-aeon--latency-insights-for-asynchronous-one-way-flows
 - https://engineering.linkedin.com/blog/2018/01/now-you-see-me--now-you-dont--linkedins-real-time-presence-platf
+- https://medium.com/@d.palmer101/system-design-must-haves-85953457b9d6
 
 ## Repos:
 

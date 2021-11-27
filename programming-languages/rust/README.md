@@ -362,6 +362,7 @@
 - https://diziet.dreamwidth.org/
 - https://jeffa.io/
 - https://estebank.github.io/
+- https://pkolaczk.github.io/
 
 ## Repos:
 
@@ -642,6 +643,7 @@
 - Status quo on developing for Android in Rust: https://www.reddit.com/r/rust/comments/q140zn/status_quo_on_developing_for_android_in_rust/
 - Idiomatic rust usage: https://www.reddit.com/r/rust/comments/q41cg9/is_there_a_rust_equivalent_to_the_c_standard/
 - Phantom types in rust: https://www.reddit.com/r/rust/comments/q5r9uy/phantom_types_in_rust/
+- https://www.reddit.com/r/rust/comments/r10pp1/will_rust_ever_have_a_futures_executor_in_std/
 
 ## Rust Learning:
 

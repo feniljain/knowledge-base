@@ -20,6 +20,7 @@
 - https://qrcode.show/
 - Check which tab your email will land in gmail: https://www.producthunt.com/posts/promotab
 - http://csrankings.org/#/index?all&us
+- https://www.tldraw.com/
 
 ## Blogs and articles:
 
@@ -49,6 +50,7 @@
 - How to remember anything forever-ish: https://ncase.me/remember/
 - https://dev.to/heshiebee/the-key-to-developer-happiness-and-how-to-prevent-coding-from-becoming-just-another-job-4m60
 - https://scattered-thoughts.net/writing/moving-faster/
+- https://dev.to/erikaheidi/how-to-use-obs-studio-to-record-or-stream-live-presentations-474j
 
 ## Blog series/Articles collection:
 

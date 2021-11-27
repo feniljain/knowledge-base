@@ -37,6 +37,7 @@
 - https://inacioklassmann.medium.com/the-death-of-linux-containers-2f7f92e59c33
 - https://iximiuz.com/en/posts/containers-vs-pods/
 - https://www.section.io/engineering-education/lxc-vs-docker-what-is-the-difference-and-why-docker-is-better/
+- https://iximiuz.com/en/posts/container-learning-path/
 
 ## Interesting Images:
 

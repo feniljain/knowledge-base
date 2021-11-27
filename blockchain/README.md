@@ -16,6 +16,7 @@
 - https://medium.com/@bytesbay/you-dont-need-jwt-anymore-974aa6196976
 - https://hackernoon.com/5-solidity-code-smells-every-dev-should-know
 - https://blog.knoldus.com/why-solidity-is-used-to-develop-smart-contracts/
+- http://bitcoin-dev.blog/
 
 ### General:
 

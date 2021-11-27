@@ -55,6 +55,8 @@
 - https://blog.methodscript.com/2021/10/05/compiling-methodscript-to-llvm/
 - https://www.i-programmer.info/news/149-security/15004-latest-vulnerability-suggests-compilers-should-learn-unicode.html
 - https://simonbyrne.github.io/notes/fastmath/
+- https://dev.to/aruna/abstract-syntax-trees-theyre-used-everywhere-but-what-are-they-jh6
+- https://matt.might.net/articles/by-example-continuation-passing-style/
 
 ## Blog series/Articles collection:
 

@@ -23,6 +23,7 @@
 - https://github.com/diimdeep/awesome-split-keyboards
 - https://gist.github.com/itod/ae27b30f7517dc18b8df110c1d98bccb
 - https://github.com/Lenbok/scad-keyboard-cases
+- https://github.com/abstracthat/dactyl-manuform
 
 ## Sheets:
 
@@ -41,3 +42,8 @@
 - Keyboard journey: https://www.youtube.com/watch?v=LgEkusmH-9k
 - A Guide to Weird Keyboards: https://www.youtube.com/watch?v=SkNGxM4LRKQ
 - Is tenting your keyboard really THAT important?: https://www.youtube.com/watch?v=pUKoB95aEc4
+
+## Keyboards:
+
+- K2V2
+- Ducky One2 Mini

@@ -106,6 +106,7 @@
 - https://man7.org/linux/man-pages/man7/capabilities.7.html
 - http://www.andy-pearce.com/blog/posts/2013/Mar/file-capabilities-in-linux/
 - https://www.poor.dev/blog/terminal-anatomy/
+- A very good linux kernel modules explanation and exercise: https://www.muppetlabs.com/~breadbox/txt/mopb.html
 
 ### Others:
 
@@ -221,6 +222,7 @@
 - https://github.com/jlevy/the-art-of-command-line
 - Architecture independent access to linux system calls: https://github.com/matheusmoreira/liblinux
 - cheat allows you to create and view interactive cheatsheets on the command-line: https://github.com/cheat/cheat
+- Bringing ML to linux kernel: https://github.com/sbu-fsl/kernel-ml
 
 ## Terminal tools I use:
 

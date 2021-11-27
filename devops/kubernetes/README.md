@@ -63,6 +63,7 @@
 - https://medium.com/@mayankshah1607/leader-election-in-kubernetes-using-client-go-a19cbe7a9a85
 - https://danielmangum.com/posts/how-kubernetes-validates-custom-resources/
 - https://downey.io/notes/dev/ubuntu-sleep-pod-yaml/
+- About operators: https://itnext.io/how-to-level-up-your-kubernetes-game-96f8f7ea50b9
 
 ## Blog series:
 
