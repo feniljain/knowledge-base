@@ -3,6 +3,7 @@
 ## Websites:
 
 - Free book collection: https://b-ok.asia/
+- Free book collection: 1337x.to
 - Fix Anything: https://www.ifixit.com/
 - A good webcomic of romance, sarcasm, math and language: https://xkcd.com/ (Checkout redirects on other pages too, its good)
 - https://libretranslate.com/
@@ -51,6 +52,7 @@
 - https://dev.to/heshiebee/the-key-to-developer-happiness-and-how-to-prevent-coding-from-becoming-just-another-job-4m60
 - https://scattered-thoughts.net/writing/moving-faster/
 - https://dev.to/erikaheidi/how-to-use-obs-studio-to-record-or-stream-live-presentations-474j
+- How to learn maths fast: http://www.geometry.org/human/?i=/tex/conc/mathlearn.html
 
 ## Blog series/Articles collection:
 

@@ -72,6 +72,7 @@
 - https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain
 - https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/
 - https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/
+- Series on git internals: https://dev.to/calebsander/git-internals-part-2-packfiles-1jg8
 
 ## Github Enhancements:
 

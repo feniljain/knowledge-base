@@ -36,6 +36,7 @@
 - https://kkolomeitsev.medium.com/why-hexagonal-architecture-doesnt-suit-me-my-ddd-implementation-is-a-layered-block-architecture-6f21a645e23e
 - https://itnext.io/design-pattern-federated-client-91fce307db9c
 - https://www.infoq.com/minibooks/architectures-you-wondered-about/
+- https://medium.com/geekculture/elevator-system-architecture-db3d82a6ff0d
 
 ## Blogs Series:
 

@@ -71,6 +71,10 @@
 - https://ankit-agarwal.medium.com/microservices-design-pattern-sidecar-b7c23b895cdf
 - https://azeynalli1990.medium.com/cloud-native-architecture-patterns-60a010d90978
 - https://thenewstack.io/cncf-working-group-sets-some-standards-for-gitops/
+- https://d11engg.medium.com/observability-at-scale-how-we-built-a-cutting-edge-dream11-monitoring-ecosystem-c3ac8cfeca1
+- Full Tutorial: Monitoring and Troubleshooting stack with Prometheus, Grafana, Loki and Komodor: https://anaisurl.com/full-tutorial-monitoring/
+- https://www.infoq.com/presentations/data-mesh-concepts/
+- https://cloud.google.com/architecture/devops/devops-tech-trunk-based-development
 
 ## Blog Series/Blog collections:
 
@@ -89,6 +93,7 @@
 - Devops learn and misc: https://www.youtube.com/playlist?list=PL4RlCVv9MdsPH1G2igGUwG5wUukBQuAyN
 - DevOps Master Class: https://www.youtube.com/watch?v=YMdtaWfU_QE&list=PLlVtbbG169nFr8RzQ4GIxUEznpNR53ERq
 - Scaling hotstart for 25 million concurrent viewers: https://www.youtube.com/watch?v=QjvyiyH4rr0
+- Using NATS: https://www.youtube.com/watch?v=AhnL5addsVo&list=PLDWZ5uzn69ex0U5MmbKWorsTuVBgUePxw&index=8
 
 ## Books:
 
@@ -116,6 +121,7 @@
 - https://github.com/grafana/agent
 - https://github.com/grafana/dskit
 - https://github.com/dreamhead/patterns-of-distributed-systems
+- https://github.com/cloud-hypervisor/cloud-hypervisor
 
 ## Courses:
 

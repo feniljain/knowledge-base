@@ -33,6 +33,7 @@
 - https://www.memorysafety.org/
 - https://www.gamingonlinux.com/
 - https://wkz.github.io/ply/
+- Online operating system tester: https://distrotest.net/index.php
 
 ## Blogs and articles:
 
@@ -66,6 +67,8 @@
 - https://earthly.dev/blog/awk-examples/
 - https://towardsdatascience.com/3-tools-to-monitor-and-optimize-your-linux-system-c8a46c18d692
 - https://www.dolthub.com/blog/2021-11-15-zsh-completions-with-subcommands/
+- https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html
+- https://stackoverflow.com/questions/614795/simulate-delayed-and-dropped-packets-on-linux
 
 ### Linux working:
 
@@ -107,6 +110,8 @@
 - http://www.andy-pearce.com/blog/posts/2013/Mar/file-capabilities-in-linux/
 - https://www.poor.dev/blog/terminal-anatomy/
 - A very good linux kernel modules explanation and exercise: https://www.muppetlabs.com/~breadbox/txt/mopb.html
+- https://hackernoon.com/whats-the-big-deal-with-linux-capabilities
+- https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/
 
 ### Others:
 
@@ -138,12 +143,18 @@
 - https://blog.macrium.com/what-is-exfat-and-why-is-it-so-important-for-removable-storage-fd7661fce191
 - A fork for the time-zone databases: https://lwn.net/Articles/870478/
 - https://www.quastor.org/p/google-file-system-explained
+- UNIX administration horror story: https://www-uxsup.csx.cam.ac.uk/misc/horror.txt
+- A simple way to improve bash script debugging: https://johannes.truschnigg.info/writing/2021-12_colodebug/
 
 ## Blog series:
 
 - https://medium.com/100-days-of-linux/
 - http://brendangregg.com/blog/index.html
 - https://ojeda.dev/
+
+## Books:
+
+- The UNIX-HATERS Handbook: https://web.mit.edu/~simsong/www/ugh.pdf
 
 ## Bash and ZSH:
 
@@ -223,6 +234,7 @@
 - Architecture independent access to linux system calls: https://github.com/matheusmoreira/liblinux
 - cheat allows you to create and view interactive cheatsheets on the command-line: https://github.com/cheat/cheat
 - Bringing ML to linux kernel: https://github.com/sbu-fsl/kernel-ml
+- Low level access to linux netlink sockets: https://github.com/mdlayher/netlink
 
 ## Terminal tools I use:
 
@@ -244,6 +256,7 @@
 - tldr
 - cmatrix
 - kondo
+- fd
 
 ### Rust Dev
 

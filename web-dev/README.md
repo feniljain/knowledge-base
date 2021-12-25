@@ -4,6 +4,7 @@
 
 - Creates slow responses, which can be used to test and optimize the website: https://slowfil.es/
 - https://serverless.page/
+- https://module-federation.github.io/
 
 ## Blogs And Articles:
 
@@ -36,10 +37,15 @@
 - https://blog.bitsrc.io/api-versioning-dos-and-don-ts-4bd9db073f2a
 - https://www.quastor.org/p/the-architecture-of-web-browsers
 - https://www.reddit.com/r/ProgrammingLanguages/comments/qqtg0v/oilpan_gc_library_for_c_recently_exposed_in_v8/
+- https://trmidboe.medium.com/federated-applications-e-plurbus-unum-2cc7850250a0
 
 ## Videos:
 
 - Browser hacking: Let's get the "Canvas Cycle" JS demo running in our Browser!: https://www.youtube.com/watch?v=b3a5V45LLss
+
+## Reddit posts and twitter threads:
+
+- https://www.reddit.com/r/webdev/comments/rmjulc/cheap_hosting_sites/
 
 ## Repos:
 
@@ -59,6 +65,7 @@
 - https://madewithwebassembly.com/
 - Gameboy emulator in wasm: https://madewithwebassembly.com/showcase/binjgb/
 - https://webassembly.cloud/
+- Newsletter for webassembly: https://wasmweekly.news/issue-161/
 
 ### Videos:
 

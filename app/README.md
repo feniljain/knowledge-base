@@ -59,6 +59,7 @@
 - https://github.com/isar
 - High-performant, web standards-compliant rendering engine based on flutter: https://github.com/openkraken
 - https://github.com/vandadnp/flutter-tips-and-tricks
+- https://github.com/XianyuTech/aspectd
 
 ## Packages:
 

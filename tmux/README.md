@@ -34,6 +34,7 @@
 - https://pragmaticpineapple.com/gentle-guide-to-get-started-with-tmux/
 - https://zolmok.org/posts/tmux-multiple-projects-sessions/
 - https://blog.guilhermegarnier.com/2017/12/increasing-productivity-in-tmux-with-a-single-prefix-key/
+- https://chasewb.substack.com/p/automuxsh
 
 ## Twitter and reddit:
 

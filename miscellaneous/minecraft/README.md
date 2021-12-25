@@ -1,5 +1,9 @@
 <h2 align="center">Minecraft</h2>
 
+## Websites:
+
+- https://www.mcserversoft.com/
+
 ## Blogs and articles:
 
 - https://medium.com/@michalkowal567/drinking-coffee-and-developing-minecraft-server-in-golang-47cfc8d6955e
@@ -11,10 +15,12 @@
 - Wattles Iron Farm: https://www.youtube.com/watch?v=cD5qn98ahlI
 - Spider spawner: https://www.youtube.com/watch?v=JZxWMV0FZgY
 - 50 Projects for survival: https://www.youtube.com/watch?v=Agc4YLmxT88
+- Rays Works: 27 NEW Pro Cave Mining Strats for 1.18+ Minecraft!: https://www.youtube.com/watch?v=usb091Ximjc
 
 ## Repos:
 
 - A minecraft-like multi version client implemented in Rust: https://github.com/Lea-fish/Leafish
+- https://minecraftservercontrol.github.io/docs/mscs
 
 ## Redstone:
 
@@ -31,3 +37,4 @@
 - Using observers and piston in different way(honestly couldn't find how to describe it): https://www.reddit.com/r/redstone/comments/qok9wa/very_interesting_and_useful_especially_for/
 - Quasi connectivity explained: https://www.reddit.com/r/redstone/comments/qt0p7e/since_we_get_posts_about_dicovering_qc_every/
 - Multi Item sorting with world download: https://www.reddit.com/r/redstone/comments/qurwi7/new_silent_multi_item_sorting_design_world/
+- Beginner restoner asking for resources to learn: https://www.reddit.com/r/redstone/comments/r495ex/i_want_to_learn_how_to_use_redstone_is_there/

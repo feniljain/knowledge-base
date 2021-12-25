@@ -22,6 +22,7 @@
 - https://pashkatrick.medium.com/postman-grpc-fd43b4f2c223
 - https://www.infoq.com/news/2021/09/practical-api-design-netflix/
 - https://itnext.io/bff-pattern-with-go-microservices-using-rest-grpc-87d269bc2434
+- GRPC Internals Series: https://tech.trell.co/grpc-go-how-are-the-bytes-written-in-http-2-streams-48f1a7679a62
 
 ## Repos:
 

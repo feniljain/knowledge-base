@@ -5,6 +5,7 @@
 - https://github.com/ryanmcdermott/clean-code-javascript#table-of-contents
 - https://gabrieltanner.org/
 - https://dayssincelastjavascriptframework.com/
+- http://callbackhell.com/
 
 ## Blogs and Articles:
 
@@ -52,6 +53,7 @@
 - https://blog.bitsrc.io/event-bubbling-and-capturing-in-javascript-6bc908321b22
 - https://www.makeuseof.com/javascript-set-methods-to-master/
 - Rust Is The Future of JavaScript Infrastructure: https://leerob.io/blog/rust
+- https://blog.bitsrc.io/5-express-middleware-libraries-every-developer-should-know-94e2728f7503
 
 ### Tutorials:
 

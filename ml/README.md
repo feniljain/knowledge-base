@@ -28,6 +28,16 @@
 - https://www.infoq.com/news/2021/10/ibm-vector-symbolic/
 - https://jonathanbgn.com/2021/10/30/hubert-visually-explained.html
 - https://www.infoq.com/presentations/designing-ml-systems-netflix/
+- https://hackernoon.com/how-to-evaluate-mlops-platforms
+- https://deepai.org/machine-learning-glossary-and-terms/tensor
+- https://towardsdatascience.com/understanding-variational-autoencoders-vaes-f70510919f73
+- https://hackernoon.com/what-is-r-cnn-summarizing-regions-with-cnn-features
+- https://huggingface.co/blog/codeparrot
+- https://lorenzopieri.com/rl_transformers/
+
+## Blog series/Articles collection:
+
+- Good articles on DL speech processing: https://jonathanbgn.com/
 
 ## Repos:
 

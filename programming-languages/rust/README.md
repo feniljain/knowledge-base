@@ -101,6 +101,10 @@
 - https://blog.yoshuawuyts.com/async-cancellation-1/
 - https://smallcultfollowing.com/babysteps/blog/2021/11/05/view-types/
 - https://nora.codes/post/its-time-to-get-hyped-about-const-generics-in-rust/
+- https://matklad.github.io//2021/11/27/notes-on-module-system.html
+- https://www.thecodedmessage.com/posts/endian_polymorphism/
+- Higher Kinded Types in Rust: https://hugopeters.me/posts/14/
+- https://hurryabit.github.io/blog/stack-safety-for-free/
 
 ### Tutorials:
 
@@ -197,6 +201,8 @@
 - https://nimrodshn.medium.com/writing-a-storage-engine-in-rust-writing-a-persistent-btree-part-1-916b6f3e2934
 - https://ferrous-systems.com/blog/testing-proc-macros/
 - 3 popular ways to implement circular referencing data structures in rust: https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/
+- https://depth-first.com/articles/2021/12/16/a-beginners-guide-to-parsing-in-rust/
+- https://blog.knoldus.com/getting-started-with-the-writing-of-operating-system-rust/
 
 ### Language general:
 
@@ -246,6 +252,8 @@
 - https://www.reddit.com/r/rust/comments/qqn7ax/media_pattern_matching_with_match_in_rust/
 - https://ihatereality.space/04-what-mutref-to-slice-ref-means/
 - https://stackoverflow.com/questions/25296195/why-are-recursive-struct-types-illegal-in-rust
+- https://www.unwoundstack.com/blog/rust-error-handling.html
+- Super good article on accurate mental model for rust's reference types: https://docs.rs/dtolnay/0.0.9/dtolnay/macro._02__reference_types.html
 
 ### Others:
 
@@ -437,6 +445,10 @@
 - https://github.com/rust-lang/this-week-in-rust
 - A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust: https://github.com/mre/idiomatic-rust
 - Fullstack rust template with yew and rocket: https://gitlab.com/zwolnik/fullstack-rs
+- Rust async runtime based on io_uring: https://github.com/bytedance/monoio
+- Rust persistent data structures: https://github.com/orium/rpds
+- Declarative binary reading and writing: bit-level, symmetric, serialization/deserialization: https://github.com/sharksforarms/deku
+- Everything about releasing a rust crate: https://github.com/crate-ci/cargo-release
 
 ## Videos:
 
@@ -612,6 +624,7 @@
 - https://rust-lang.github.io/compiler-team/#meeting-calendar
 - Visualizing memory layout of rust-s data types: https://www.youtube.com/watch?v=rDoqT-a6UFg
 - https://lwn.net/Articles/871283/
+- Historical archive of rust pre-publication development: jhttps://github.com/graydon/rust-prehistory
 
 ## Rust and security
 
@@ -647,10 +660,11 @@
 
 ## Rust Learning:
 
-## Websites:
+### Websites:
 
 - https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
 - https://tourofrust.com/
+- https://ferrous-systems.github.io/teaching-material/
 
 ### Blogs and articles:
 
@@ -669,9 +683,14 @@
 - https://loige.co/where-to-go-to-learn-rust-in-2021/
 - full-stack projects: https://github.com/steadylearner/Rust-Full-Stack
 - https://www.reddit.com/r/devops/comments/pr2urw/some_courses_up_for_grabs_hope_it_helps_someone/
+- https://dystroy.org/blog/how-not-to-learn-rust/
 
 ### Videos:
 
 - Easy Rust: https://www.youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk
 - Overview of rust(4 part series): https://www.youtube.com/watch?v=gesNaLkUJeA&list=PLP2yfE2-FXdQmXLvrQ5QN64enbF_KCYQW
 - Beginner series to rust by microsoft: https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x
+
+### Repos:
+
+- https://github.com/ferrous-systems/teaching-material

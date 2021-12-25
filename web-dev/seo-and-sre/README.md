@@ -25,11 +25,16 @@
 - https://medium.com/@siliconpaladin/how-to-transform-infrastructure-teams-into-sustainable-sre-organizations-a7c82e5c9b5
 - https://michaellevan.net/sre-mind-and-roadmap/
 - https://medium.com/dm03514-tech-blog/sre-observability-metric-namespaces-and-structures-12ffcf5a5bdc
+- Observing and Understanding Failures: SRE Apprentices: https://www.infoq.com/presentations/sre-apprentices/
+- https://blog.relyabilit.ie/what-sre-is-not/
+- https://www.infoq.com/news/2021/12/remote-first-sre/
 
 ## Repos:
 
 - https://github.com/upgundecha/howtheysre
+- https://github.com/mxssl/sre-interview-prep-guide
 
 ## Videos:
 
 - Difference between DevOps and SRE: https://www.youtube.com/watch?v=uTEL8Ff1Zvk
+- What is SRE: https://youtu.be/TVlQclvENrA

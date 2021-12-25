@@ -23,3 +23,4 @@
 ## Repos:
 
 - Spotify adblock for linux: https://github.com/abba23/spotify-adblock
+- Spotify adblock for mac: https://github.com/simonmeusel/MuteSpotifyAds

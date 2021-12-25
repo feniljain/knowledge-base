@@ -11,6 +11,8 @@
 - https://databasearchitects.blogspot.com/2021/06/what-every-programmer-should-know-about.html
 - https://jamesjdavis.medium.com/youtube-servers-switched-to-google-developed-argos-processors-5264dc2c8d84
 - https://zipcpu.com/blog/2021/10/26/clkgate.html
+- https://eli.thegreenplace.net/2011/02/04/where-the-top-of-the-stack-is-on-x86
+- https://www.downtowndougbrown.com/2021/12/upgrading-a-motherboards-bios-uefi-the-hard-way/
 
 ## Repos:
 

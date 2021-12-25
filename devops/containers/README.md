@@ -37,7 +37,7 @@
 - https://inacioklassmann.medium.com/the-death-of-linux-containers-2f7f92e59c33
 - https://iximiuz.com/en/posts/containers-vs-pods/
 - https://www.section.io/engineering-education/lxc-vs-docker-what-is-the-difference-and-why-docker-is-better/
-- https://iximiuz.com/en/posts/container-learning-path/
+- https://iximiuz.com/en/posts/containers-101-attach-vs-exec/
 
 ## Interesting Images:
 
@@ -68,3 +68,10 @@
 - Container runtime written in Rust: https://github.com/containers/youki
 - https://github.com/jessfraz/dockerfiles
 - The lazier way to manage everything docker: https://github.com/jesseduffield/lazydocker
+- https://gitlab.com/wyrcan/wyrcan/
+
+## Learning
+
+### Blogs and articles:
+
+- https://iximiuz.com/en/posts/container-learning-path/

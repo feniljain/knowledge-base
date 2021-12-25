@@ -99,6 +99,7 @@
 - https://blog.bitsrc.io/micro-frontends-5-common-mistakes-to-avoid-4a35a37cad3d
 - https://www.infoq.com/news/2021/09/qwik-javascript-framework/
 - https://indepth.dev/posts/1482/an-in-depth-perspective-on-webpacks-bundling-process
+- https://dev.to/ben/what-are-the-coolest-coding-music-projects-out-there-3kno
 
 ## Websites:
 
@@ -108,6 +109,7 @@
 - https://hotwire.dev/
 - https://progressier.com/
 - Generating random avatars for users: https://boringavatars.com/
+- Auto-generate different kinds of add to calendar buttons online: https://jekuer.github.io/add-to-calendar-button/
 
 ## Repos:
 
@@ -178,6 +180,7 @@
 - https://medium.com/@jonathan.pretre91/clean-architecture-with-nestjs-e089cef65045
 - https://www.reddit.com/r/webdev/comments/qt15s4/the_css_rule_%F0%9D%98%A2%F0%9D%98%B4%F0%9D%98%B1%F0%9D%98%A6%F0%9D%98%A4%F0%9D%98%B5%F0%9D%98%B3%F0%9D%98%A2%F0%9D%98%B5%F0%9D%98%AA%F0%9D%98%B0_now_works_in_all_major/
 - https://calibreapp.com/blog/core-web-vitals
+- https://dev.to/daaahailey/sassscss-for-beginners-2aci
 
 ## Extensions:
 

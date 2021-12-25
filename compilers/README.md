@@ -57,6 +57,14 @@
 - https://simonbyrne.github.io/notes/fastmath/
 - https://dev.to/aruna/abstract-syntax-trees-theyre-used-everywhere-but-what-are-they-jh6
 - https://matt.might.net/articles/by-example-continuation-passing-style/
+- https://gcc.gnu.org/onlinedocs/gccint/GIMPLE.html
+- https://gcc.gnu.org/onlinedocs/gccint/RTL.html
+- https://richardstartin.github.io/posts/loop-fission
+- Lexical Analysis of python documentation: https://docs.python.org/3/reference/lexical_analysis.html
+- Scope Graphs, a theory of name resolution(used in github code search): https://pl.ewi.tudelft.nl/research/projects/scope-graphs/
+- https://releases.llvm.org/3.0/docs/SegmentedStacks.html
+- https://gcc.gnu.org/wiki/SplitStacks
+- https://depth-first.com/articles/2021/12/16/a-beginners-guide-to-parsing-in-rust/
 
 ## Blog series/Articles collection:
 
@@ -71,6 +79,7 @@
 - https://jesper.sikanda.be/blog.html
 - https://blog.regehr.org/
 - Let's build a compiler: https://compilers.iecc.com/crenshaw/
+- The GNU C Preprocessor Internals: https://gcc.gnu.org/onlinedocs/cppinternals/
 
 ## Reddit and twitter threads:
 
@@ -94,6 +103,12 @@
 - It's a New Kind of Wrapper for Exposing LLVM (Safely): https://github.com/TheDan64/inkwell
 - https://github.com/TimelyDataflow/differential-dataflow
 - https://github.com/vmware/differential-datalog
+- https://github.com/softdevteam/grmtools
+
+## Tools:
+
+- Generating scanners from regexs: http://dinosaur.compilertools.net/lex/
+- Generating scanners from regexs: https://github.com/westes/flex
 
 ## Videos:
 

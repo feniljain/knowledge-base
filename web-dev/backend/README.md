@@ -77,6 +77,7 @@
 - https://www.html5rocks.com/en/tutorials/eventsource/basics/
 - https://en.wikipedia.org/wiki/Fan-out_(software)
 - https://www.infoq.com/articles/api-mocking-break-dependencies/
+- https://betterprogramming.pub/jwt-ultimate-how-to-guide-with-best-practices-in-javascript-f7ba4c48dfbd
 
 ## Blog series/Articles collection:
 

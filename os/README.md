@@ -9,8 +9,15 @@
 
 ## Blog and articles:
 
-- https://en.wikipedia.org/wiki/Inferno_(operating_system)
+### Tutorials:
+
+- Write an OS: ttps://arriqaaq.medium.com/writing-an-operating-system-the-boot-process-part-1-52123401053f
+- https://blog.knoldus.com/getting-started-with-the-writing-of-operating-system-rust/
 - https://dev.to/tobychui/i-write-my-own-web-desktop-os-for-3-years-and-this-is-what-it-looks-like-now-2903
+
+### Others:
+
+- https://en.wikipedia.org/wiki/Inferno_(operating_system)
 - https://muhammedimdaad.medium.com/rtos-01-into-real-time-operating-systems-a14cbd717a09
 - https://erik-engheim.medium.com/the-genius-of-risc-v-microprocessors-b19d735abaa6
 - https://www.cl.cam.ac.uk/teaching/1617/ECAD+Arch/files/docs/RISCVGreenCardv8-20151013.pdf
@@ -27,10 +34,9 @@
 - https://en.wikipedia.org/wiki/Slab_allocation
 - https://gregoire-monet.medium.com/from-physical-ram-to-virtual-memory-cbb4cc8f98d2
 - https://maskray.me/blog/2021-10-31-relative-relocations-and-relr
+- https://en.wikipedia.org/wiki/Thread_control_block
 
 ## Blog series/Articles collections:
-
-- Write an OS: ttps://arriqaaq.medium.com/writing-an-operating-system-the-boot-process-part-1-52123401053f
 
 ## Repos:
 

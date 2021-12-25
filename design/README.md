@@ -17,6 +17,8 @@
 - https://fffuel.co/llline/
 - https://fffuel.co/ssshape/
 - https://www.joshwcomeau.com/shadow-palette/
+- https://fffuel.co/ffflux/
+- SVGcode: a PWA to convert raster images to SVG vector graphics: https://web.dev/svgcode/
 
 ## Blogs and articles:
 
@@ -26,7 +28,12 @@
 - https://modus.medium.com/how-to-get-started-with-illustration-part-1-10f82f8647cb
 - https://animated-gradient-background-generator.netlify.app/
 - https://animatedbackgrounds.me/
+- https://www.telerik.com/blogs/figma-developers
 
 ## Repos:
 
 - https://github.com/bradtraversy/design-resources-for-developers/
+
+## Tools:
+
+- https://www.producthunt.com/posts/iphone-13-mockup-pack

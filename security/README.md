@@ -29,6 +29,7 @@
 - https://hackernoon.com/juice-jacking-is-it-a-real-threat-4hw33ov0
 - https://hackernoon.com/what-is-url-masking-and-how-does-it-work
 - https://cooltechzone.com/research/how-hackers-scanning-whole-internet
+- https://www.infoq.com/news/2021/11/linux-dns-vulnerability/
 
 ## Repos and tools:
 

@@ -134,6 +134,13 @@
 - https://boonepeter.github.io/posts/2020-11-10-spotify-codes/
 - https://boonepeter.github.io/posts/spotify-codes-part-2/
 - https://blog.plan99.net/modern-garbage-collection-911ef4f8bd8e
+- https://fabiensanglard.net/floating_point_visually_explained/
+- https://www.a1k0n.net/2011/07/20/donut-math.html
+- https://www.geeksforgeeks.org/pointers-vs-references-cpp/
+- https://stackoverflow.com/questions/79923/what-and-where-are-the-stack-and-heap
+- https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
+- https://medium.com/edge-coders/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312
+- https://www.infoq.com/news/2021/12/reading-code/
 
 ## Blog Series:
 
@@ -143,6 +150,7 @@
 
 - https://www.quastor.org/
 - https://abyteofcoding.com/
+- https://wasmweekly.news/
 
 ## Reddit posts and tweets:
 
@@ -220,6 +228,8 @@
 - https://github.com/lauragift21/awesome-learning-resources
 - https://github.com/GDGAhmedabad/Awesome-Learning-Resources
 - https://github.com/Xtremilicious/projectlearn-project-based-learning
+- https://github.com/dendibakh/perf-book
+- https://github.com/QianMo/Game-Programmer-Study-Notes
 
 ## Extensions:
 
@@ -248,6 +258,8 @@
 - https://dev.to/jordienr/4-books-that-are-not-about-computers-that-made-me-a-good-software-developer-2hac
 - Learning type theory: https://www.reddit.com/r/math/comments/k41lla/category_and_type_theory_which_should_i_learn/
 - https://www.manning.com/books/the-programmers-brain
+- Software Engineering at Google: https://abseil.io/resources/swe_at_google.2.pdf
+- http://gchandbook.org/
 
 ## Tools:
 

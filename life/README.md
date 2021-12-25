@@ -37,10 +37,12 @@
 - https://forge.medium.com/what-5-serial-daters-can-teach-you-about-personal-myth-making-6532b1fb9cf8
 - https://betterhumans.pub/why-you-should-have-a-field-manual-for-your-life-4ee33700ef95
 - https://betterhumans.pub/how-to-master-intentional-dreaming-for-a-satisfying-life-af96b99179b7
+- https://forge.medium.com/show-your-boss-everything-you-actually-do-86c6dd8f9658
 
 ## Videos:
 
 - Think Fast, Talk Smart: Communication Techniques: https://nofreakingspeaking.com/
+- Tips on How to Pose Men: https://www.youtube.com/watch?v=g7fIhkFY_jo
 
 ## Reddit and twitter threds:
 
@@ -81,6 +83,27 @@
 - Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less.
 - A goal should scare you a little, and excite you a lot.
 - It is never too late to be what you might have been.
+- Don’t be pushed by your problems. Be led by your dreams.
+- Jumping from failure to failure with undiminished enthusiasm is the big secret to success.
+- How we spend our days is, of course, how we spend our lives.
+- You have power over your mind — not outside events. Realize this, and you will find strength.
+- When you notice that you’re having negative thoughts about how all of this is going to pan out, you need to remind yourself that you are not a very good fortune teller.
+- You cannot protect yourself from sadness without protecting yourself from happiness.
+- An investment in knowledge pays the best interest.
+- If you cannot find peace within yourself, you will never find it anywhere else.
+- Never be limited by other people’s limited imaginations.
+- Be the type of person you want to meet.
+- A goal without a plan is only a wish.
+- Be not afraid of growing slowly; be afraid only of standing still.
+- We are all faced with a series of great opportunities brilliantly disguised as impossible situations.
+- Do not let what you cannot do interfere with what you can do.
+- Strength does not come from winning. Your struggles develop your strengths.
+- It is better to live your own destiny imperfectly than to live an imitation of somebody else’s life with perfection.
+- Decide whether or not the goal is worth the risks involved. If it is, stop worrying.
+- We do not need magic to transform our world. We carry all the power we need inside ourselves already.
+- Carry out a random act of kindness, with no expectation of reward, safe in the knowledge that one day someone might do the same for you.
+- The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.
+- Open your eyes, look within. Are you satisfied with the life you're living?
 
 ## Books:
 

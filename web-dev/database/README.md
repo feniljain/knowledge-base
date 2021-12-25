@@ -6,6 +6,7 @@
 - https://dbdiagram.io/
 - https://dbdb.io/
 - https://proxysql.com/
+- https://planetscale.com/
 
 ## Blogs And Articles:
 
@@ -66,6 +67,8 @@
 - https://andrewjdawson2016.medium.com/why-google-built-spanner-43749516ae60
 - https://andrewjdawson2016.medium.com/how-google-built-spanner-af2505752d93
 - https://itnext.io/all-about-b-trees-and-databases-8c0697856189
+- https://jpmonteiro.substack.com/p/codds-dream
+- A prioritised micro-batch scheduler in rust: https://njk.onl/blog/gaffer.html
 
 ## Blog Series:
 

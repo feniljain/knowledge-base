@@ -8,6 +8,8 @@
 - A TCP/IP reference you can understand(Contains a-z everything related to tcp/ip, all relating protocols, etc): http://www.tcpipguide.com/index.htm
 - https://peering.google.com/#/
 - https://crt.sh/
+- https://howhttps.works/
+- https://www.distributed.net/Main_Page
 
 ## Blogs and Articles:
 
@@ -61,6 +63,11 @@
 - https://medium.com/@sleevi_/path-building-vs-path-verifying-the-chain-of-pain-9fbab861d7d6
 - https://www.lifewire.com/what-happened-to-ipv5-3971327
 - https://routingcraft.net/anycast-in-segment-routing/
+- https://www.reddit.com/r/programming/comments/r5j2lt/computer_networking_basics_for_developers/
+- https://www.infoq.com/news/2021/11/linux-dns-vulnerability/
+- https://sookocheff.com/post/time/how-does-ntp-work/
+- https://guardianproject.info/2021/11/30/implementing-tls-encrypted-client-hello/
+- https://jvns.ca/blog/2021/12/15/mess-with-dns/
 
 ## Blog Series/Articles collection:
 
@@ -95,6 +102,8 @@
 - In-kernel, fast-path packet processing with AF_XDP: https://www.youtube.com/watch?v=Gv-nG6F_09I
 - Networking fundamentals: https://www.youtube.com/watch?v=9uebakqWlB0
 - Load balancing without load balancers(iptables): https://www.youtube.com/watch?v=-CraNvj48J0
+- Netflix Networking: Beating the Speed of Light with Intelligent Request Routing: https://www.infoq.com/presentations/intelligent-request-routing/
+- Kranky Geek WebRTC Conf Videos Playlist: https://www.youtube.com/watch?v=UDB5KkcRRb0&list=PL4_h-ulX5eNdNK_z3_rflsHuXM-6pvvK7
 
 ## Container Images:
 

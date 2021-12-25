@@ -21,6 +21,7 @@
 - https://eli.thegreenplace.net/2019/go-internals-capturing-loop-variables-in-closures/
 - https://threedots.tech/post/safer-enums-in-go/
 - You can change space occupied by struct just by reordering the struct fields: https://play.golang.org/p/MBXg4UBOerp
+- https://rytisbiel.com/2021/03/06/darker-corners-of-go/
 
 ### Tutorials:
 
@@ -240,6 +241,8 @@
 - Featherweight Go: https://www.youtube.com/watch?v=Sw53HGyCGcU
 - Using delve: https://www.youtube.com/watch?v=r033vEzL6a4&t=627s&ab_channel=BryanEnglish
 - Runes in Detail: https://www.youtube.com/watch?v=7isCXLWPTqI
+- Using NATS: https://www.youtube.com/watch?v=AhnL5addsVo&list=PLDWZ5uzn69ex0U5MmbKWorsTuVBgUePxw&index=8
+- Deadlocks: The Dark Side of Concurrency: https://www.youtube.com/watch?v=9j0oQkqzhAE&list=PLDWZ5uzn69ex0U5MmbKWorsTuVBgUePxw&index=7
 
 ## Go in prod:
 
@@ -249,6 +252,7 @@
 - https://levelup.gitconnected.com/go-the-moment-when-cpu-context-switching-blindfolded-us-a7a6eabb2bc1
 - https://medium.com/swlh/memory-optimizations-for-go-systems-48d95cf64a13
 - Bringing down allocations to zero: https://chris124567.github.io/2021-06-21-go-performance/
+- https://medium.com/twitch-news/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2
 
 ## Golang-nuts:
 
@@ -277,6 +281,7 @@
 - https://goingwithgo.com/
 - Job search website: https://www.goopensource.dev/
 - https://mholt.github.io/json-to-go/
+- https://go-proverbs.github.io/
 
 ## Repos and tools:
 
@@ -376,8 +381,15 @@
 - Convert Go values to their AST: https://github.com/hexops/valast
 - https://erik-engheim.medium.com/go-does-not-need-a-java-style-gc-ac99b8d26c60
 - Getting to Go: The Journey of Go's Garbage Collector: https://go.dev/blog/ismmkeynote
+- https://menno.io/posts/golang-register-calling/
+- Hacking Go compiler to add a new keyword: https://avi.im/blag/2021/rc-day-24/
+- How does go calculate len: https://tpaschalis.github.io/golang-len/
 
 # Go Learning:
+
+## Websites:
+
+- https://mehdihadeli.github.io/awesome-go-education/
 
 ## Blogs and articles:
 
@@ -389,6 +401,7 @@
 - https://dev.to/moficodes/go-crash-course-part-1-18h1
 - https://kush01.hashnode.dev/resources-for-learning-go
 - https://www.alexedwards.net/blog/
+- https://dev.to/techworld_with_nana/golang-tutorial-for-beginners-free-course-330
 
 ## Blog Series
 

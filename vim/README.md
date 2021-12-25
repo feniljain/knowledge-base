@@ -151,6 +151,8 @@
 - Using g<C-g> to get word count, line count and byte count in current file: https://twitter.com/VimLinks/status/1442412535374696461
 - https://www.reddit.com/r/neovim/comments/q5clgg/how_to_structure_lua_plugin_to_load_commands/
 - https://www.reddit.com/r/neovim/comments/r109yv/how_do_i_move_and_select_through_list_of/
+- https://www.reddit.com/r/vim/comments/rctvgk/a_lesser_known_built_in_feature_you_use_regularly/
+- https://www.reddit.com/r/vim/comments/rl8af9/plugin_to_draw_diagrams_in_vim/
 
 ## Vimscript:
 
@@ -383,6 +385,7 @@
 - https://github.com/alvan/vim-closetag
 - https://github.com/junegunn/vim-slash/blob/master/README.md
 - https://github.com/github/copilot.vim
+- Plugins to draw diagarms easily in vim: https://github.com/willchao612/vim-diagon
 
 ## Lua/Nvim 0.5+ Exclusive plugins:
 
@@ -508,6 +511,7 @@
 - https://github.com/Blacksuan19/init.nvim
 - https://github.com/danielnehrig/nvim
 - https://gitlab.com/mrswats/dotfiles/-/tree/main/nvim
+- https://github.com/LunarVim/Neovim-from-scratch
 
 ## Emacs:
 

@@ -7,6 +7,7 @@
 - https://learntla.com/introduction/
 - Repository of academic computer science papers: https://paperswelove.org/
 - https://iris-project.org/
+- A book using [type-effect system](https://en.wikipedia.org/wiki/Effect_system): https://koka-lang.github.io/koka/doc/book.html
 
 ## Blogs and Articles:
 
@@ -45,6 +46,8 @@
 - One letter programming languages: https://beza1e1.tuxen.de/one_letter_proglangs.html
 - https://blog.sigplan.org/2021/11/18/undefined-behavior-deserves-a-better-reputation/
 - https://blog.sigplan.org/2019/10/17/what-type-soundness-theorem-do-you-really-want-to-prove/
+- Implementing Functional Languages: https://www.microsoft.com/en-us/research/wp-content/uploads/1992/01/student.pdf
+- https://en.wikipedia.org/wiki/Effect_system
 
 ## Blog series/articles collection:
 
@@ -137,6 +140,12 @@
 - https://github.com/jackfrued/Python-100-Days
 - https://github.com/TheAlgorithms/Python
 
+## Lisp:
+
+### Reddit and twitter thrads:
+
+- LISP Learning resources: https://www.reddit.com/r/lisp/comments/bavxir/what_are_good_resources_to_start_learning_lisp/
+
 ## C and CPP
 
 ### Under the hood:
@@ -184,6 +193,9 @@
 - https://www.thecoderworld.com/difference-between-ansi-c-and-c/
 - https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/
 - https://itnext.io/c-20-ranges-complete-guide-4d26e3511db0
+- Why C has such odd syntax: https://softwareengineering.stackexchange.com/questions/117024/why-was-the-c-syntax-for-arrays-pointers-and-functions-designed-this-way
+- https://stackoverflow.com/questions/44325085/raii-vs-garbage-collector/44325607
+- https://developers.redhat.com/blog/2021/04/23/valgrind-memcheck-different-ways-to-lose-your-memory#
 
 ### Repos:
 

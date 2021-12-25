@@ -18,7 +18,6 @@
 - Inuyashiki
 - yu yu hakusho(like hunter X hunter)
 - Fog hill of five elements
-- Black Lagoon
 - Baccano
 - Overlord
 - Akudama drive
@@ -55,7 +54,6 @@
 ## Fiction & Mystery & Psychological:
 
 - Shiguang Dailiren
-- Blue Exorcist
 - Kakegurui
 - Tokyo Ghoul
 - Welcome to the NHK
@@ -387,7 +385,10 @@
 - Jobless reincarnation S2
 - Bofuri
 - Tokyo magnitude 8.0
-- Teasing master tagisan
+- Teasing master takagi-san
+- Teasing master takagi-san 2
+- Blue Exorcist
+- Black Lagoon
 
 ## Caught up Mangas:
 

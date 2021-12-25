@@ -64,6 +64,11 @@
 - https://danielmangum.com/posts/how-kubernetes-validates-custom-resources/
 - https://downey.io/notes/dev/ubuntu-sleep-pod-yaml/
 - About operators: https://itnext.io/how-to-level-up-your-kubernetes-game-96f8f7ea50b9
+- https://vrukshalitorawane.medium.com/create-a-multi-cloud-setup-of-kubernetes-cluster-9e8fbde222d0
+- https://medium.com/free-code-camp/how-to-set-up-a-serious-kubernetes-terminal-dd07cab51cd4
+- https://loft-sh.medium.com/docker-compose-vs-kubernetes-development-tools-867e20e2bea5
+- https://hackernoon.com/how-to-automate-kubernetes-deployments-with-postman
+- http://macias.info/entry/202109081800_k8s_informers.md
 
 ## Blog series:
 
