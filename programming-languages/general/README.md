@@ -54,6 +54,7 @@
 - https://jesper.sikanda.be/blog.html
 - https://blog.acolyer.org/
 - The Programming Languages Weblog: http://lambda-the-ultimate.org/
+- Memory management models of various languages and frameworks: https://deepu.tech/memory-management-in-programming/
 
 ## Reddit threads and tweets:
 
@@ -79,6 +80,7 @@
 - Introduction to esoteric languages(includes good learning resources too): https://www.youtube.com/watch?v=cQ7bcCrJMHc
 - Integrating Usability into Programming Language Design: https://www.youtube.com/watch?v=38qBwZGUMMs
 - Undefined Behaviour, when is it bad and when not: https://youtu.be/yG1OZ69H_-o
+- Assembly Language Snow Day! Learn ASM Now!: https://www.youtube.com/watch?v=CfbciNZvg0o
 
 ## Lua:
 
@@ -139,6 +141,7 @@
 - Attempt by dropbox to use LLVM as compiler backend to make python much faster: https://blog.pyston.org/
 - https://github.com/jackfrued/Python-100-Days
 - https://github.com/TheAlgorithms/Python
+- https://github.com/gto76/python-cheatsheet
 
 ## Lisp:
 

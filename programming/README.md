@@ -44,6 +44,7 @@
 - Quality metadata badges for open source projects: https://shields.io/
 - Drawing beatiful diagrams for blogs: https://excalidraw.com/
 - https://code-reading.org/
+- Out of ideas for projects? Look here: http://nifty.stanford.edu/
 
 ## Blogs and Articles:
 
@@ -141,6 +142,9 @@
 - https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html
 - https://medium.com/edge-coders/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312
 - https://www.infoq.com/news/2021/12/reading-code/
+- Downloading large google drive files with wget: https://www.techfunia24.tk/2021/12/download-large-google-drive-files-with.html
+- https://dzone.com/articles/the-pull-request-paradox-merge-faster-by-promoting
+- https://floating-point-gui.de/
 
 ## Blog Series:
 
@@ -162,6 +166,7 @@
 - Learning latex: https://www.reddit.com/r/linux/comments/q5dnm7/i_wanted_to_learn_latex_so_i_made_a_zine_about/
 - Why FAANG doesn't contain microsoft: https://twitter.com/rakyll/status/1451585970441097219?t=WwcyNLrdRJeKsoSvn1cmPQ&s=08
 - How do computers remember?: https://www.reddit.com/r/programming/comments/qqhn00/how_do_computers_remember/
+- Rob Pikes rules of programming: https://www.reddit.com/r/computerscience/comments/rq60d4/rules_of_programming/
 
 ## Videos:
 
@@ -230,6 +235,8 @@
 - https://github.com/Xtremilicious/projectlearn-project-based-learning
 - https://github.com/dendibakh/perf-book
 - https://github.com/QianMo/Game-Programmer-Study-Notes
+- The world's most hated IT stickers: https://github.com/mkrl/misbrands
+- accumulator of different useful/productive resources about different Computer Science/Software Engineering Topics: https://github.com/nikasakandelidze/Single-Source-Of-Truth
 
 ## Extensions:
 
@@ -260,6 +267,7 @@
 - https://www.manning.com/books/the-programmers-brain
 - Software Engineering at Google: https://abseil.io/resources/swe_at_google.2.pdf
 - http://gchandbook.org/
+- Important books every dev should read according to their seniority: https://fampay.notion.site/fampay/Books-And-Links-b14ac9a1346a40648dfd7c2a32fd177c
 
 ## Tools:
 

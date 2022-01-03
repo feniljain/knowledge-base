@@ -203,6 +203,9 @@
 - 3 popular ways to implement circular referencing data structures in rust: https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/
 - https://depth-first.com/articles/2021/12/16/a-beginners-guide-to-parsing-in-rust/
 - https://blog.knoldus.com/getting-started-with-the-writing-of-operating-system-rust/
+- Building a WASM compiler in rust: https://www.bitfalter.com/blog
+- https://blog.turbo.fish/proc-macro-parsing/
+- Writing a minimal Lua implementation with a virtual machine from scratch in Rust: https://notes.eatonphil.com/lua-in-rust.html
 
 ### Language general:
 
@@ -254,6 +257,11 @@
 - https://stackoverflow.com/questions/25296195/why-are-recursive-struct-types-illegal-in-rust
 - https://www.unwoundstack.com/blog/rust-error-handling.html
 - Super good article on accurate mental model for rust's reference types: https://docs.rs/dtolnay/0.0.9/dtolnay/macro._02__reference_types.html
+- http://smallcultfollowing.com/babysteps/blog/2014/05/13/focusing-on-ownership/
+- https://kaylynn.gay/blog/post/rust_ranges_and_suffering
+- https://www.reddit.com/r/rust/comments/axf137/are_fat_pointers_and_smart_pointers_same_in_rust/
+- My negative views on rust: https://chrisdone.com/posts/rust/
+- Futuristic Rust: context emulation: https://haibane-tenshi.github.io/rust-contexts/
 
 ### Others:
 
@@ -371,6 +379,14 @@
 - https://jeffa.io/
 - https://estebank.github.io/
 - https://pkolaczk.github.io/
+- https://www.possiblerust.com/
+- https://tim.mcnamara.nz/
+- https://blog.yossarian.net/tags#rust
+- https://without.boats/blog/
+- https://blog.rust-embedded.org
+- https://nullderef.com
+- https://shnatsel.medium.com/
+- https://immunant.com/blog/
 
 ## Repos:
 
@@ -449,6 +465,8 @@
 - Rust persistent data structures: https://github.com/orium/rpds
 - Declarative binary reading and writing: bit-level, symmetric, serialization/deserialization: https://github.com/sharksforarms/deku
 - Everything about releasing a rust crate: https://github.com/crate-ci/cargo-release
+- A joke about learning to program in Rust: https://github.com/luser/keep-calm-and-call-clone
+- How to use Rust code in other languages: https://jakegoulding.com/rust-ffi-omnibus/
 
 ## Videos:
 
@@ -482,6 +500,7 @@
 - https://www.reddit.com/r/rust/comments/pxz7at/rustlinux_plumbers_conference_2021/
 - Type-Driven API Design in Rust: https://www.youtube.com/watch?v=bnnacleqg6k
 - Writing a programming language in rust: https://www.youtube.com/channel/UCYOQ9BD5apJ1nMmkFWp4Q5w
+- Debugging rust using GDB: https://www.youtube.com/watch?v=8D74GaBIYI4
 
 ## Newsletters:
 
@@ -527,6 +546,7 @@
 - https://www.reddit.com/r/rust/comments/q09828/best_free_rust_books/
 - https://ocamlpro.github.io/verification_for_dummies/
 - Writing interpreters in rust: https://rust-hosted-langs.github.io/book/
+- The little book of rust macros: https://veykril.github.io/tlborm/
 
 ## Interesting Projects:
 
@@ -625,6 +645,7 @@
 - Visualizing memory layout of rust-s data types: https://www.youtube.com/watch?v=rDoqT-a6UFg
 - https://lwn.net/Articles/871283/
 - Historical archive of rust pre-publication development: jhttps://github.com/graydon/rust-prehistory
+- https://www.bexxmodd.com/log/llvm-infrastrucutre-and-rust/7
 
 ## Rust and security
 
@@ -665,11 +686,13 @@
 - https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/
 - https://tourofrust.com/
 - https://ferrous-systems.github.io/teaching-material/
+- https://academy.zerotomastery.io/p/learn-rust
+- https://learning-rust.github.io/
 
 ### Blogs and articles:
 
+- Have completed the official rust book? What to do next: https://picklenerd.github.io/pngme_book/
 - https://towardsdatascience.com/you-want-to-learn-rust-but-you-dont-know-where-to-start-fc826402d5ba
-- https://learning-rust.github.io/
 - A lot of resources: https://github.com/ctjhoa/rust-learning
 - https://serokell.io/blog/rust-guide
 - https://www.notion.so/CCSS-Devclub-Rust-Workshop-dccad2c1119d4af7bf78f3d3b4797603
@@ -684,6 +707,7 @@
 - full-stack projects: https://github.com/steadylearner/Rust-Full-Stack
 - https://www.reddit.com/r/devops/comments/pr2urw/some_courses_up_for_grabs_hope_it_helps_someone/
 - https://dystroy.org/blog/how-not-to-learn-rust/
+- https://www.reddit.com/r/rust/comments/rr4npz/rust_course/
 
 ### Videos:
 
@@ -694,3 +718,5 @@
 ### Repos:
 
 - https://github.com/ferrous-systems/teaching-material
+- https://github.com/Dhghomon/easy_rust
+- https://github.com/kud1ing/awesome-rust

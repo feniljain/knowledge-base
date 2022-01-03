@@ -49,6 +49,7 @@
 - https://twitter.com/swyx/status/1385349095074656259
 - https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/
 - https://twitter.com/chrishlad/status/1436692553374388225
+- https://twitter.com/Codie_Sanchez/status/1475831210463092741
 
 ## Random quotes:
 
@@ -104,6 +105,23 @@
 - Carry out a random act of kindness, with no expectation of reward, safe in the knowledge that one day someone might do the same for you.
 - The only thing standing between you and your goal is the story you keep telling yourself as to why you can't achieve it.
 - Open your eyes, look within. Are you satisfied with the life you're living?
+- If reality is not what you want it to be, change it.
+- I'm not in this world to live up to your expectations and you're not in this world to live up to mine.
+- Do what you can, with what you have, where you are.
+- It is easier to act yourself into a new way of thinking, than it is to think yourself into a new way of acting.
+- Change your life today. Don't gamble on the future, act now, without delay
+- A foolish consistency is the hobgoblin of little minds.
+- Worrying does not take away tomorrow's troubles, it takes away today's peace.
+- Your life doesn’t get better by chance, it gets better by change.
+- If you tell yourself you can't, you won't.
+- The happiness of this life depends less on what befalls you than the way in which you take it.
+- It is our attitude at the beginning of a difficult task which, more than anything else, will affect its successful outcome.
+- In matters of style swim with the current. In matters of principle, stand like a rock.
+- What would life be if we had no courage to attempt anything.
+- If you cannot do great things, do small things in a great way.
+- Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements
+- To reach your greatest potential you'll have to fight your greatest fears.
+- Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.
 
 ## Books:
 

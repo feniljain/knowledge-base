@@ -81,6 +81,7 @@
 - https://engineering.linkedin.com/blog/2018/01/now-you-see-me--now-you-dont--linkedins-real-time-presence-platf
 - https://medium.com/@d.palmer101/system-design-must-haves-85953457b9d6
 - https://medium.com/interviewnoodle/dropbox-google-drive-system-architecture-a5cc7652a57c
+- https://medium.com/codex/designing-facebook-messenger-57152a668756
 
 ## Repos:
 
@@ -106,3 +107,4 @@
 - Scaling Instagram Interview: https://www.youtube.com/watch?v=hnpzNAPiC0E
 - Streaming a Million Likes/Second: Real-Time Interactions on Live Video: https://www.youtube.com/watch?v=yqc3PPmHvrA
 - Scaling Facebook Live Videos to a Billion Users: https://www.youtube.com/watch?v=IO4teCbHvZw
+- How TikTok short content is delivered through HTTP: https://www.youtube.com/watch?v=2df8PMfajDQ

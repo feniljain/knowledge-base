@@ -1,6 +1,6 @@
 <h2 align="center">Vim</h2>
 
-# FENIL REMEMBER THIS: https://matta9001.medium.com/a-warning-from-a-vim-user-a76ce08ce3c6 : & : https://navfromflyby.medium.com/dodging-the-rabbit-hole-that-vim-is-7c0ed6eff2f9
+# NOTE TO ME: REMEMBER THIS: https://matta9001.medium.com/a-warning-from-a-vim-user-a76ce08ce3c6 : & : https://navfromflyby.medium.com/dodging-the-rabbit-hole-that-vim-is-7c0ed6eff2f9
 
 ## Vim fun:
 
@@ -153,6 +153,7 @@
 - https://www.reddit.com/r/neovim/comments/r109yv/how_do_i_move_and_select_through_list_of/
 - https://www.reddit.com/r/vim/comments/rctvgk/a_lesser_known_built_in_feature_you_use_regularly/
 - https://www.reddit.com/r/vim/comments/rl8af9/plugin_to_draw_diagrams_in_vim/
+- Editing macros: https://twitter.com/VImTipsDaily/status/1438797931851796482
 
 ## Vimscript:
 
@@ -466,6 +467,7 @@
 - Debug adapter for neovim plugins: https://github.com/jbyuki/one-small-step-for-vimkind
 - https://github.com/AyeSpacey/Nvimfy
 - https://github.com/SmiteshP/nvim-gps
+- https://github.com/psliwka/termcolors.nvim
 
 ## -- $$ -- :
 

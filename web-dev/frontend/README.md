@@ -1,4 +1,4 @@
-<h2 align="center"> HTML and CSS </h2>
+<h2 align="center">Frontend</h2>
 
 ## Videos:
 
@@ -151,6 +151,8 @@
 - https://csswizardry.com/ct/
 - https://cleanup.pictures/
 - Component library for tailwind css: https://flowbite.com/
+- https://polypane.app/css-specificity-calculator/
+- https://www.projectwallace.com/analyze-css
 
 ## Blogs And Articles:
 
@@ -181,6 +183,9 @@
 - https://www.reddit.com/r/webdev/comments/qt15s4/the_css_rule_%F0%9D%98%A2%F0%9D%98%B4%F0%9D%98%B1%F0%9D%98%A6%F0%9D%98%A4%F0%9D%98%B5%F0%9D%98%B3%F0%9D%98%A2%F0%9D%98%B5%F0%9D%98%AA%F0%9D%98%B0_now_works_in_all_major/
 - https://calibreapp.com/blog/core-web-vitals
 - https://dev.to/daaahailey/sassscss-for-beginners-2aci
+- https://dev.to/quentindamianino/ifelse-in-css-45f5
+- https://www.smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/
+- https://web.dev/min-max-clamp/
 
 ## Extensions:
 

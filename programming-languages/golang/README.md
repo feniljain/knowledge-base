@@ -74,6 +74,7 @@
 - https://itnext.io/websocket-communication-between-two-go-programs-the-easy-way-d8c9cf40043f
 - https://pauldigian.hashnode.dev/advanced-go-avoiding-if-for-initialization-using-synconce-and-foot-guns-to-watch-out-for
 - https://blog.cskr.dev/posts/arena-allocation-in-go/
+- Reverse HTTP proxy over WebSocket in Go (Part 1): https://dev.to/hgsgtk/reverse-http-proxy-over-websocket-in-go-part-1-13n4
 
 ### Architecture:
 
@@ -230,6 +231,7 @@
 - https://www.amazon.com/Network-Programming-Go-Adam-Woodbeck/dp/1718500882/ref=pd_lpo_1
 - Writing compiler in Go: https://compilerbook.com/
 - Writing interpreter in Go: https://interpreterbook.com/
+- List of Golang books: https://github.com/dariubs/GoBooks
 
 ## Videos:
 

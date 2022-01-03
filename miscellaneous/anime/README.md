@@ -271,6 +271,7 @@
 - moetube.to
 - haho.moe
 - 9anime.at
+- animerush.tv
 
 ## General Websites:
 
@@ -389,6 +390,8 @@
 - Teasing master takagi-san 2
 - Blue Exorcist
 - Black Lagoon
+- Black Lagoon The Second Barrage
+- Madoka Magic
 
 ## Caught up Mangas:
 

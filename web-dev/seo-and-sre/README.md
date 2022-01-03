@@ -6,12 +6,13 @@
 - SEO Guide: https://www.reddit.com/r/SEO/comments/hqgden/seo_is_easy_the_exact_process_we_use_to_scale_our
 - https://itnext.io/seo-for-developers-in-2021-the-ultimate-guide-bc11fb4d826b
 - https://www.reddit.com/r/webdev/comments/onc6xd/seo_course_for_web_developers_a_customer_is/
-
-## Twitter accounts:
-
-- https://twitter.com/googlesre
+- https://hackernoon.com/how-to-fix-your-google-seo-ranking-and-free-your-site-from-algorithmic-constraints
 
 <h2 align="center">SRE</h2>
+
+## Websites:
+
+- https://sre.google/
 
 ## Blogs And Articles:
 
@@ -28,6 +29,7 @@
 - Observing and Understanding Failures: SRE Apprentices: https://www.infoq.com/presentations/sre-apprentices/
 - https://blog.relyabilit.ie/what-sre-is-not/
 - https://www.infoq.com/news/2021/12/remote-first-sre/
+- https://hackernoon.com/what-is-dwell-time-and-why-does-it-matter-for-an-seo-strategy
 
 ## Repos:
 
@@ -38,3 +40,7 @@
 
 - Difference between DevOps and SRE: https://www.youtube.com/watch?v=uTEL8Ff1Zvk
 - What is SRE: https://youtu.be/TVlQclvENrA
+
+## Twitter accounts:
+
+- https://twitter.com/googlesre

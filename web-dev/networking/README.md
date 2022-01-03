@@ -10,6 +10,7 @@
 - https://crt.sh/
 - https://howhttps.works/
 - https://www.distributed.net/Main_Page
+- https://quicwg.org/
 
 ## Blogs and Articles:
 
@@ -88,11 +89,13 @@
 
 ## Reddit and twitter threads:
 
+- Learning about networking(really good list of resources): https://www.reddit.com/r/devops/comments/rpspmu/how_did_you_guys_learn_networking/
 - https://www.reddit.com/r/sysadmin/comments/mm45e6/dns_should_www_cname_and_a_records_exist/
 - https://www.reddit.com/r/rust/comments/nsu1y0/quic_version_1_is_live_on_cloudflare/
 - https://www.reddit.com/r/linuxquestions/comments/om0dok/is_it_possible_to_create_an_ethernet_hotspot/
 - https://www.reddit.com/r/webdev/comments/pyjzho/dns_record_types/
 - Networking in layman terms: https://twitter.com/iximiuz/status/1450864740645941248
+- Free resource for receiving alerts about BGP events: https://twitter.com/bgpstream
 
 ## Videos:
 

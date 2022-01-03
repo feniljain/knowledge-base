@@ -37,6 +37,9 @@
 - https://itnext.io/design-pattern-federated-client-91fce307db9c
 - https://www.infoq.com/minibooks/architectures-you-wondered-about/
 - https://medium.com/geekculture/elevator-system-architecture-db3d82a6ff0d
+- https://medium.com/interviewnoodle/what-exactly-is-the-command-pattern-and-how-is-it-different-from-the-strategy-pattern-6fc432f94ba6
+- https://levelup.gitconnected.com/the-basic-premise-of-software-architecture-cfd6a69d3e16
+- https://www.hyrumslaw.com/
 
 ## Blogs Series:
 
@@ -45,6 +48,7 @@
 ## Tweets and reddit threads:
 
 - https://twitter.com/macerub/status/1371147795873288199
+- https://www.reddit.com/r/programming/comments/rsc6lt/with_a_sufficient_number_of_users_of_an_api_it/hqmf3lz/
 
 ## Books:
 

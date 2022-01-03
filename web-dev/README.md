@@ -101,3 +101,4 @@
 - https://github.com/hasura/graphql-engine
 - https://github.com/ulid/spec
 - https://github.com/pannous/wasp
+- A portable GUI format based on webassembly: https://github.com/lambertjamesd/onegui

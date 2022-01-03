@@ -36,7 +36,6 @@
 - https://www.reddit.com/r/Fuchsia/comments/mmbefx/dart_ui_ram_usage/
 - https://medium.com/litslink/flutter-desktop-application-tutorial-3493385e31f3
 - https://matejknopp.com/post/introducing-nativeshell/
-- https://www.reddit.com/r/FlutterDev/comments/phpbpj/is_there_a_database_like_firebase_which_can_be/
 
 ## Flutter internals:
 
@@ -71,7 +70,8 @@
 ## Reddit and Tweets:
 
 - ClojureDart, flutter in clojure: https://twitter.com/_eseidel/status/1350843738327707650
-- Editing macros: https://twitter.com/VImTipsDaily/status/1438797931851796482
+- https://www.reddit.com/r/FlutterDev/comments/phpbpj/is_there_a_database_like_firebase_which_can_be/
+- https://www.reddit.com/r/FlutterDev/comments/rrqfeb/can_someone_just_eli5_the_difference_between_and/
 
 ## Telegram:
 

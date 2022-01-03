@@ -15,12 +15,16 @@
 - https://tunein.com/radio/Chillhop-Radio---Lofi-Hiphop-Beats---Chillsky-s288329/
 - http://lofi.com/
 
-## Songs playlist:
+# Songs playlist:
 
 - Total banger collection: https://www.youtube.com/watch?v=5XHxe0s5DmY
 - Primes daily bangers playlist: https://www.youtube.com/playlist?list=PLpvrfXJz4_9F-ICZgwo4tPcbZQa5MPpQ2
 
-## Repos:
+# Repos:
 
 - Spotify adblock for linux: https://github.com/abba23/spotify-adblock
 - Spotify adblock for mac: https://github.com/simonmeusel/MuteSpotifyAds
+- Tool to download Netflix in 4k: https://github.com/widevinedump/Netflix-4K-Script
+- Tool To download Amazon 4k SDR HDR 1080, CDM IS Not Included: https://github.com/widevinedump/WV-AMZN-4K-RIPPER
+- Tool To Download from DSNP USA: https://github.com/widevinedump/DISNEY-4K-SCRIPT
+- Tool To download 4KHDR DV SDR from AppleTV: https://github.com/widevinedump/APPLE-TV-4K-Downloader

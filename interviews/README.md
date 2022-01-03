@@ -78,6 +78,7 @@
 
 - https://towardsdatascience.com/crack-data-science-interviews-advanced-sql-skills-in-2021-322fef819c6c
 - https://www.reddit.com/r/SQL/comments/nww7g0/best_way_to_cram_for_sql_interview_test/
+- https://www.reddit.com/r/SQL/comments/rtuq4t/how_to_approach_sql_questions_in_interview/
 
 ## Devops interviews:
 

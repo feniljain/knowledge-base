@@ -13,6 +13,15 @@
 
 ## Blogs and articles:
 
+### Tutorials:
+
+- Building a WASM compiler in rust: https://www.bitfalter.com/blog
+- Writing a C compiler: https://norasandler.com/2017/11/29/Write-a-Compiler.html
+- https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7
+- https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/
+
+### Others:
+
 - https://huonw.github.io/blog/2016/04/myths-and-legends-about-integer-overflow-in-rust/
 - https://blog.llvm.org/
 - https://en.wikipedia.org/wiki/Static_single_assignment_form
@@ -24,7 +33,6 @@
 - https://cfallin.org/blog/2020/09/18/cranelift-isel-1/
 - Yet another compiler visualizer: https://ashutoshbsathe.github.io/yacv/
 - https://towardsdatascience.com/understanding-compilers-for-humans-version-2-157f0edb02dd
-- Writing a C compiler: https://norasandler.com/2017/11/29/Write-a-Compiler.html
 - https://www.reddit.com/r/LLVM/comments/nfmalh/llvm_backend_for_custom_target/
 - https://medium.com/young-coder/how-i-wrote-a-lexer-39f4f79d2980
 - https://weliveindetail.github.io/blog/post/2021/05/28/debian-llvm-quick-install.html
@@ -33,14 +41,12 @@
 - https://en.wikipedia.org/wiki/Shunting-yard_algorithm
 - https://medium.datadriveninvestor.com/whats-llvm-4c0c3ed43a72
 - https://www.npopov.com/2021/06/02/Design-issues-in-LLVM-IR.html
-- https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7
 - List of passes for the SSA compiler step: https://github.com/golang/go/blob/6c1c055d1ea417d050503efe92c1eead0da68cef/src/cmd/compile/internal/ssa/compile.go#L431-L486
 - Generating better machine code with SSA in go compiler: https://www.youtube.com/watch?v=uTMvKVma5ms
 - https://stackoverflow.com/questions/1669/learning-to-write-a-compiler
 - https://joshvarty.com/2015/09/18/learn-roslyn-now-part-13-keeping-track-of-syntax-nodes-with-syntax-annotations/
 - https://blog.matthieud.me/2020/exploring-clang-llvm-optimization-on-programming-horror/
 - https://rust-analyzer.github.io/blog/2019/11/13/find-usages.html
-- https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/
 - https://bellmar.medium.com/learning-almost-nothing-about-llvm-e6aea9b243d9
 - LLVM no more has any fullform, its just LLVM lol: https://lists.llvm.org/pipermail/llvm-dev/2011-December/046445.html
 - https://tratt.net/laurie/blog/entries/which_parsing_approach.html
@@ -65,6 +71,12 @@
 - https://releases.llvm.org/3.0/docs/SegmentedStacks.html
 - https://gcc.gnu.org/wiki/SplitStacks
 - https://depth-first.com/articles/2021/12/16/a-beginners-guide-to-parsing-in-rust/
+- An incremental approach to compiler construction: http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf
+- https://slightknack.dev/passerine/type-inference/
+- https://www.quora.com/What-are-the-best-universities-in-the-world-for-pursuing-a-Masters-PhD-degree-in-Computer-Science-with-specialization-in-Compilers
+- https://www.bexxmodd.com/log/llvm-infrastrucutre-and-rust/7
+- https://www.geeksforgeeks.org/structure-member-alignment-padding-and-data-packing/
+- https://llvm.org/doxygen/classllvm_1_1Value.html
 
 ## Blog series/Articles collection:
 
@@ -104,6 +116,9 @@
 - https://github.com/TimelyDataflow/differential-dataflow
 - https://github.com/vmware/differential-datalog
 - https://github.com/softdevteam/grmtools
+- https://github.com/llvm/llvm-project
+- LLVM IR in natural Rust data structures: https://github.com/cdisselkoen/llvm-ir
+- All LLVM's analysis and transform passes: https://github.com/llvm/llvm-project/blob/main/llvm/docs/Passes.rst
 
 ## Tools:
 
@@ -116,6 +131,7 @@
   : https://www.youtube.com/watch?v=4HgShra-KnY
 - Chris Lattner: Compilers, LLVM, Swift, TPU, and ML Accelerators | Lex Fridman Podcast #21: https://www.youtube.com/watch?v=yCd3CzGSte8
 - CppCon 2019: Matt Godbolt “Compiler Explorer: Behind The Scenes”: https://www.youtube.com/watch?v=kIoZDUd5DKw&t=192s
+- Cliff Click is famous for writing the original hot-spot JIT compiler for the Java programming language. He is a compiler guru, and conducts a weekly compiler club that is open to anyone who wants to join. This is great opportunity to learn from someone who really knows a thing or two about compilers and how to implement them: https://www.youtube.com/channel/UCbutMk6cKrH8q4sJyQHGPVQ
 
 ## Courses:
 
