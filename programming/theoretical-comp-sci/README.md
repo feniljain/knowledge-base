@@ -12,3 +12,8 @@
 ## Repos:
 
 - accumulator of different useful/productive resources about different Computer Science/Software Engineering Topics: https://github.com/nikasakandelidze/Single-Source-Of-Truth
+
+## Reddit and twitter threads:
+
+- Is there a good online course on the basics of (software) verification?
+  Ideally covering things such as SMT solving, weakest preconditions, symbolic execution, (bounded) model checking, static analysis, etc.: https://twitter.com/rakamaric/status/1479191569504763904

@@ -69,6 +69,7 @@
 - https://www.dolthub.com/blog/2021-11-15-zsh-completions-with-subcommands/
 - https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html
 - https://stackoverflow.com/questions/614795/simulate-delayed-and-dropped-packets-on-linux
+- https://systemcrafters.net/craft-your-system-with-guix/5-reasons-to-try-guix/
 
 ### Linux working:
 
@@ -198,6 +199,7 @@
 - Managing shell commands: https://github.com/Nukesor/pueue
 - Useful sed scripts & patterns: https://github.com/adrianscheff/useful-sed
 - https://www.reddit.com/r/linux/comments/qzkhy3/virtual_surround_sound_headphone_setup_on_linux/
+- Run macos apps on linux: https://www.darlinghq.org/
 
 ### Others:
 

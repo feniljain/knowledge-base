@@ -85,6 +85,7 @@
 
 ## Comedy:
 
+- The Disastrous Life of Saiki K.
 - Tengen Toppa Gurren Lagann
 - Daily lives of Highschool boys
 - Shimoneta
@@ -218,6 +219,7 @@
 ## Repos:
 
 - https://github.com/holo-gfx/mangadex
+- Unofficial fork of Tachiyomi for anime: https://github.com/jmir1/aniyomi
 
 ## Anime Songs:
 
@@ -272,6 +274,19 @@
 - haho.moe
 - 9anime.at
 - animerush.tv
+- https://animedao.to/
+- zoro.to
+- https://animixplay.to/
+- https://animekisa.cc/
+- https://www.arrayanime.com/
+- https://animekisa.cc/
+- https://yugen.to/
+- https://w1.anime4up.com/
+- https://tubitv.com/category/anime
+- https://neko-sama.fr
+- https://www.animesaturn.it/
+- https://kayoanime.com/
+- https://anoboy.watch/
 
 ## General Websites:
 

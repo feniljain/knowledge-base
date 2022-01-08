@@ -26,20 +26,17 @@
 - https://blog.cloudflare.com/http-3-from-root-to-tip/
 - https://medium.com/100-days-of-linux/working-with-systemd-networkd-e461cfe80e6d
 - https://medium.com/100-days-of-linux/7-fundamental-use-cases-of-netcat-866364eb1742
-- https://blog.bitsrc.io/will-webtransport-replace-webrtc-in-near-future-436c4f7f3484
 - Awesome article, extreme networking optimizations: https://www.infinyon.com/blog/2021/05/ebpf-routing-rust/
 - https://blog.cloudflare.com/quic-version-1-is-live-on-cloudflare/
 - https://medium.com/swlh/zero-trust-networking-for-bare-metal-systems-using-rust-99c1552737bc
 - https://tailscale.com/blog/how-nat-traversal-works/
 - https://ably.com/topic/mqtt
 - https://berthub.eu/articles/posts/reed-solomon-for-programmers/
-- https://medium.com/swlh/webrtc-the-technology-that-powers-google-meet-hangout-facebook-messenger-and-discord-cb926973d786
 - If you could change one thing in internet what would you change it to: https://news.ycombinator.com/item?id=27663618
 - https://en.wikipedia.org/wiki/Fast_flux
 - https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/
 - https://www.comparitech.com/net-admin/webdav/
 - https://leshow.github.io/post/nailgun/
-- https://gafferongames.com/post/why_cant_i_send_udp_packets_from_a_browser/#what-about-webrtc
 - https://leshow.github.io/post/dhcproto/
 - http://www.tcpipguide.com/free/t_DHCPGeneralOperationandClientFiniteStateMachine.htm
 - Very good refresher: https://stackfull.dev/http-refresher-things-you-should-know-about-http
@@ -69,6 +66,8 @@
 - https://sookocheff.com/post/time/how-does-ntp-work/
 - https://guardianproject.info/2021/11/30/implementing-tls-encrypted-client-hello/
 - https://jvns.ca/blog/2021/12/15/mess-with-dns/
+- https://blog.bgpkit.com/introducing-bgpkit-broker-b734dac4661e
+- This is an informational site about video and how it works. Learn all about what it takes to Playback, Deliver, and Process video. Stay tuned for more about video Capture: https://howvideo.works/
 
 ## Blog Series/Articles collection:
 
@@ -106,7 +105,6 @@
 - Networking fundamentals: https://www.youtube.com/watch?v=9uebakqWlB0
 - Load balancing without load balancers(iptables): https://www.youtube.com/watch?v=-CraNvj48J0
 - Netflix Networking: Beating the Speed of Light with Intelligent Request Routing: https://www.infoq.com/presentations/intelligent-request-routing/
-- Kranky Geek WebRTC Conf Videos Playlist: https://www.youtube.com/watch?v=UDB5KkcRRb0&list=PL4_h-ulX5eNdNK_z3_rflsHuXM-6pvvK7
 
 ## Container Images:
 
@@ -115,3 +113,25 @@
 ## Research papers:
 
 - A pure http/3 alternatice to MQTT-over-QUIC in resource constrained IoT: https://arxiv.org/pdf/2106.12684.pdf
+
+## WebRTC:
+
+### Websites:
+
+- https://smarthome-webrtc-validator.withgoogle.com/
+
+### Blogs and articles
+
+- https://blog.swmansion.com/modular-rtc-engine-is-our-little-big-revolution-in-video-conferencing-cfde806c5beb
+- https://blog.bitsrc.io/will-webtransport-replace-webrtc-in-near-future-436c4f7f3484
+- https://medium.com/swlh/webrtc-the-technology-that-powers-google-meet-hangout-facebook-messenger-and-discord-cb926973d786
+- https://gafferongames.com/post/why_cant_i_send_udp_packets_from_a_browser/#what-about-webrtc
+- https://howvideo.works/
+
+### Videos:
+
+- Kranky Geek WebRTC Conf Videos Playlist: https://www.youtube.com/watch?v=UDB5KkcRRb0&list=PL4_h-ulX5eNdNK_z3_rflsHuXM-6pvvK7
+
+### Repos:
+
+- RingRTC is a middleware library providing Signal Messenger applications with video and voice calling services built on top of WebRTC: https://github.com/signalapp/ringrtc

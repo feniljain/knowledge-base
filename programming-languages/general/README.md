@@ -48,6 +48,8 @@
 - https://blog.sigplan.org/2019/10/17/what-type-soundness-theorem-do-you-really-want-to-prove/
 - Implementing Functional Languages: https://www.microsoft.com/en-us/research/wp-content/uploads/1992/01/student.pdf
 - https://en.wikipedia.org/wiki/Effect_system
+- https://stackoverflow.com/questions/1801216/what-is-the-difference-between-multiple-dispatch-and-method-overloading/1801230
+- https://joshbradley.me/understanding-the-power-of-lisp/
 
 ## Blog series/articles collection:
 
@@ -123,6 +125,7 @@
 - https://medium.com/free-code-camp/how-to-write-a-super-fast-link-shortener-with-elixir-phoenix-and-mnesia-70ffa1564b3c
 - https://mrjoelkemp.medium.com/jvm-struggles-and-the-beam-4d9c58547410
 - https://learnyousomeerlang.com/dialyzer
+- https://www.reddit.com/r/elixir/comments/rwzi9p/100_elixir_tips_book/
 
 ## Python:
 
@@ -162,6 +165,8 @@
 - https://www.reddit.com/r/ProgrammingLanguages/comments/qqtg0v/oilpan_gc_library_for_c_recently_exposed_in_v8/
 - https://v8.dev/blog/high-performance-cpp-gc
 - https://cpp.chat/
+- https://stackoverflow.com/questions/2748995/struct-memory-layout-in-c
+- So you think you know C?: https://wordsandbuttons.online/so_you_think_you_know_c.html
 
 ### Blogs and articles:
 

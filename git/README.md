@@ -49,6 +49,13 @@
 - https://dev.to/neshaz/how-to-git-stash-your-work-the-correct-way-cna
 - https://stevelosh.com/blog/2013/04/git-koans/
 - https://dev.to/martiliones/how-i-got-linus-torvalds-in-my-contributors-on-github-3k4g
+- https://codingsight.com/git-branching-naming-convention-best-practices/
+- You shouldn't ever lose your work if you're using Git: https://github.com/tkellogg/dura
+
+## Reddit and twitter threads:
+
+- https://twitter.com/siddharthkp/status/1478690695955116036
+- https://github.github.com/gfm/
 
 ## Interesting git configs:
 

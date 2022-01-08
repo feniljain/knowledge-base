@@ -122,6 +122,15 @@
 - Cherish your visions and your dreams as they are the children of your soul, the blueprints of your ultimate achievements
 - To reach your greatest potential you'll have to fight your greatest fears.
 - Patience and perseverance have a magical effect before which difficulties disappear and obstacles vanish.
+- Tomorrow becomes never. No matter how small the task, take the first step now.
+- You can’t get much done in life if you only work on the days when you feel good.
+- There is no small act of kindness. Every compassionate act makes large the world.
+- The primary cause of unhappiness is never the situation but your thoughts about it
+- A head full of fears has no space for dreams.
+- Tough times never last, but tough people do.
+- You live longer once you realize that any time spent being unhappy is wasted.
+- If you want something you've never had, you must be willing to do something you've never done.
+- All that is gold does not glitter, not all those who wander are lost; the old thatis strong does not wither, deep roots are not reached by the frost
 
 ## Books:
 

@@ -69,6 +69,7 @@
 - https://itnext.io/all-about-b-trees-and-databases-8c0697856189
 - https://jpmonteiro.substack.com/p/codds-dream
 - A prioritised micro-batch scheduler in rust: https://njk.onl/blog/gaffer.html
+- https://medium.com/cognite/postgres-can-do-that-f221a8046e
 
 ## Blog Series:
 

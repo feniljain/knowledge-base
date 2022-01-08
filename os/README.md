@@ -35,6 +35,7 @@
 - https://gregoire-monet.medium.com/from-physical-ram-to-virtual-memory-cbb4cc8f98d2
 - https://maskray.me/blog/2021-10-31-relative-relocations-and-relr
 - https://en.wikipedia.org/wiki/Thread_control_block
+- https://medium.com/@michealkeines/history-operating-systems-96b98b31411b
 
 ## Blog series/Articles collections:
 

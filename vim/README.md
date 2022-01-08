@@ -36,6 +36,7 @@
 - Neovim change highlight color: https://www.youtube.com/watch?v=twrNV_BZ2jU
 - Making plugins with lua: https://www.youtube.com/watch?v=wkxtHV1hzEY
 - Set up Vim as external code editor to Unity, Godot, or any applications: https://www.youtube.com/watch?v=6-ruUW8hiS0
+- Neovim | Config Structuring & Patterns: https://www.youtube.com/watch?v=TsjW37zWP7c
 
 ## Blogs, Articles and threads:
 
@@ -174,6 +175,7 @@
 - https://vimcolorschemes.com/
 - Vim statusline generator: https://tdaly.co.uk/projects/vim-statusline-generator/
 - https://nvim-awesome.vercel.app/
+- https://vi.stackexchange.com/
 
 ## Repos:
 

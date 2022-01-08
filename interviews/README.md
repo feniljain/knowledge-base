@@ -52,6 +52,7 @@
 - https://www.reddit.com/r/devops/comments/qpy6un/interview_questions_tough_questions_to_ask/
 - https://mlengineer.io/from-semiconductor-to-software-engineer-8c3126dde65b
 - https://dev.to/tim012432/do-not-put-skill-bars-on-your-resume-lh6
+- A free introductory textbook on Algorithmic Graph Theory: https://code.google.com/archive/p/graphbook/
 
 ## Videos:
 

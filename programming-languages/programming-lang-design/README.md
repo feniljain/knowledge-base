@@ -1,6 +1,6 @@
 <h2 align="center">Programming Language Design</h2>
 
-#
+# Websites:
 
 - https://www.functionalconf.com/
 
@@ -9,6 +9,11 @@
 - http://mlton.org/ValueRestriction
 - http://mlton.org/DefinitionOfStandardML
 - http://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html
+- https://github.com/sq/JSIL/wiki/Optimizing-dynamic-JavaScript-with-inline-caches
+- https://wiki.haskell.org/Existential_type
+- https://stackoverflow.com/questions/60921305/difference-between-type-variable-and-type-parameter-in-the-wild-fj-paper
+- https://stephenebly.medium.com/an-introduction-to-existential-types-25c130ba61a4
+- https://jrsinclair.com/articles/2019/algebraic-data-types-what-i-wish-someone-had-explained-about-functional-programming/
 
 # Lesser known langs but useful from design perspective:
 

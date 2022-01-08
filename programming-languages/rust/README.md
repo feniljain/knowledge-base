@@ -262,6 +262,10 @@
 - https://www.reddit.com/r/rust/comments/axf137/are_fat_pointers_and_smart_pointers_same_in_rust/
 - My negative views on rust: https://chrisdone.com/posts/rust/
 - Futuristic Rust: context emulation: https://haibane-tenshi.github.io/rust-contexts/
+- https://www.thecodedmessage.com/posts/async-colors/
+- https://morestina.net/blog/1686/rust-async-is-colored
+- Differnce between dyn trait and impl trait: https://internals.rust-lang.org/t/what-is-the-difference-between-impl-trait-and-dyn-trait/8823/3
+- https://varkor.github.io/blog/2018/07/03/existential-types-in-rust.html
 
 ### Others:
 

@@ -132,6 +132,7 @@
 - Chris Lattner: Compilers, LLVM, Swift, TPU, and ML Accelerators | Lex Fridman Podcast #21: https://www.youtube.com/watch?v=yCd3CzGSte8
 - CppCon 2019: Matt Godbolt “Compiler Explorer: Behind The Scenes”: https://www.youtube.com/watch?v=kIoZDUd5DKw&t=192s
 - Cliff Click is famous for writing the original hot-spot JIT compiler for the Java programming language. He is a compiler guru, and conducts a weekly compiler club that is open to anyone who wants to join. This is great opportunity to learn from someone who really knows a thing or two about compilers and how to implement them: https://www.youtube.com/channel/UCbutMk6cKrH8q4sJyQHGPVQ
+- https://www.snsystems.com/technology/tech-blog/improving-debug-variable-location-coverage-by-using-even-more-ssa
 
 ## Courses:
 

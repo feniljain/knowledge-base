@@ -33,6 +33,7 @@
 
 - https://github.com/trustwallet/assets
 - https://github.com/hyperledger/indy-sdk
+- Modern, opinionated, and gas optimized building blocks for smart contract development: https://github.com/Rari-Capital/solmate
 
 ## Videos:
 

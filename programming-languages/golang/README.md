@@ -255,6 +255,7 @@
 - https://medium.com/swlh/memory-optimizations-for-go-systems-48d95cf64a13
 - Bringing down allocations to zero: https://chris124567.github.io/2021-06-21-go-performance/
 - https://medium.com/twitch-news/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2
+- https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/
 
 ## Golang-nuts:
 
@@ -386,6 +387,7 @@
 - https://menno.io/posts/golang-register-calling/
 - Hacking Go compiler to add a new keyword: https://avi.im/blag/2021/rc-day-24/
 - How does go calculate len: https://tpaschalis.github.io/golang-len/
+- https://divan.dev/posts/go_concurrency_visualize/
 
 # Go Learning:
 

@@ -145,6 +145,8 @@
 - Downloading large google drive files with wget: https://www.techfunia24.tk/2021/12/download-large-google-drive-files-with.html
 - https://dzone.com/articles/the-pull-request-paradox-merge-faster-by-promoting
 - https://floating-point-gui.de/
+- https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/
+- https://aseemthakar.com/how-to-build-a-second-brain-as-a-software-developer/
 
 ## Blog Series:
 
@@ -237,6 +239,8 @@
 - https://github.com/QianMo/Game-Programmer-Study-Notes
 - The world's most hated IT stickers: https://github.com/mkrl/misbrands
 - accumulator of different useful/productive resources about different Computer Science/Software Engineering Topics: https://github.com/nikasakandelidze/Single-Source-Of-Truth
+- https://github.com/dwmkerr/hacker-laws
+- https://github.com/github/opensource.guide
 
 ## Extensions:
 

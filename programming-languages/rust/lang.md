@@ -27,3 +27,28 @@ The smart pointer has additional information compile-time, i e, the type of smar
 The fat pointer has additional information run-time, so it can e g check the length of a slice before accessing it, or invoke some method where the compiler cannot deduce which method it is, it has to be determined run-time.
 
 There are also thin pointers, where this additional information is run-time, but at the location pointed to rather than following the pointer itself. These are common in other languages but not so much in Rust (there are crates though).
+
+# Different colours of functions:
+
+- Blue: Ordinary functions
+- Red: async functions
+- Purple: Calling blocking features in async code
+- Green: Go type threads
+
+# Existential Tpes vs Universal Types:
+
+- In very simple terms (which are nonetheless sufficient for this usage):
+
+  - existential quantification means “there exists a type (that satisfies the given bound) and I’m returning it to you”
+
+  - universal quantification means “for all types (that satisfy the given bound), I will accept them”
+
+- Existential data types help in implementing abstract data types in a language, class is a abstract data type but with lot of other programming jargon, though languages like OCaml and ML have proper implementations for those, ref: https://stephenebly.medium.com/an-introduction-to-existential-types-25c130ba61a4
+
+- Algebaric data types are simple types which can hold other types, they are of two types:(ref: https://jrsinclair.com/articles/2019/algebraic-data-types-what-i-wish-someone-had-explained-about-functional-programming/)
+
+  - Product Types: Product types can hold any type under them, typical example would be Array, Object(Javascript one), you can store array in an object which may in turn contain arrays and so on till inifinity.
+
+  - Sum types: Sum types have a limited number of types under them, an eg. would be rust's enums, that's why pattern matching with enums is possible(though it being NP hard, but that's mainly due to constraint checks like (i32, i32) which can result in a lot of cases)
+
+- Generics are also known as parametric polymorphism(just a fun fact: it took 30 years for transitioning from academia to real world usage in programming languages)

@@ -16,6 +16,7 @@
 - Spider spawner: https://www.youtube.com/watch?v=JZxWMV0FZgY
 - 50 Projects for survival: https://www.youtube.com/watch?v=Agc4YLmxT88
 - Rays Works: 27 NEW Pro Cave Mining Strats for 1.18+ Minecraft!: https://www.youtube.com/watch?v=usb091Ximjc
+- The Ultimate Minecraft 1.18 Wood / Tree Farming Guide | 7+ Farms to Grow Trees and Farm Wood: https://www.youtube.com/watch?v=e974j9NMv4s
 
 ## Repos:
 
