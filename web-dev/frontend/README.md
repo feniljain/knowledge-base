@@ -153,6 +153,7 @@
 - Component library for tailwind css: https://flowbite.com/
 - https://polypane.app/css-specificity-calculator/
 - https://www.projectwallace.com/analyze-css
+- https://floating-ui.com/
 
 ## Blogs And Articles:
 
@@ -186,6 +187,7 @@
 - https://dev.to/quentindamianino/ifelse-in-css-45f5
 - https://www.smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/
 - https://web.dev/min-max-clamp/
+- https://blog.easterseals.com/emojis-and-accessibility-the-dos-and-donts-of-including-emojis-in-texts-and-emails/
 
 ## Extensions:
 
@@ -194,3 +196,7 @@
 ## Reddit and twitter threads:
 
 - https://www.reddit.com/r/webdev/comments/qmy2f7/would_you_ever_size_a_font_with_any_units_other/
+
+## Repos:
+
+- https://github.com/GoogleChromeLabs/container-query-polyfill

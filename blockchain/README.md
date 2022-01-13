@@ -17,6 +17,7 @@
 - https://hackernoon.com/5-solidity-code-smells-every-dev-should-know
 - https://blog.knoldus.com/why-solidity-is-used-to-develop-smart-contracts/
 - http://bitcoin-dev.blog/
+- https://tante.cc/2021/12/17/the-third-web/
 
 ### General:
 

@@ -510,6 +510,7 @@
 
 - https://rustinblockchain.org/
 - https://this-week-in-rust.org/
+- https://rust.thisweekin.io/
 
 ## Podcast:
 

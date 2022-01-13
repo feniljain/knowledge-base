@@ -40,6 +40,9 @@
 - https://medium.com/interviewnoodle/what-exactly-is-the-command-pattern-and-how-is-it-different-from-the-strategy-pattern-6fc432f94ba6
 - https://levelup.gitconnected.com/the-basic-premise-of-software-architecture-cfd6a69d3e16
 - https://www.hyrumslaw.com/
+- Prototype Design Pattern: http://gameprogrammingpatterns.com/prototype.html
+- https://branislavjenco.github.io/desired-state-systems/
+- https://betterprogramming.pub/design-patterns-a-complete-guide-b2699315961f
 
 ## Blogs Series:
 

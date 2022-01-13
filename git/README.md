@@ -51,6 +51,8 @@
 - https://dev.to/martiliones/how-i-got-linus-torvalds-in-my-contributors-on-github-3k4g
 - https://codingsight.com/git-branching-naming-convention-best-practices/
 - You shouldn't ever lose your work if you're using Git: https://github.com/tkellogg/dura
+- https://dzone.com/articles/the-pull-request-paradox-merge-faster-by-promoting
+- https://michaelheap.com/ultimate-guide-github-actions-authentication/
 
 ## Reddit and twitter threads:
 

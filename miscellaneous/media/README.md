@@ -28,3 +28,4 @@
 - Tool To download Amazon 4k SDR HDR 1080, CDM IS Not Included: https://github.com/widevinedump/WV-AMZN-4K-RIPPER
 - Tool To Download from DSNP USA: https://github.com/widevinedump/DISNEY-4K-SCRIPT
 - Tool To download 4KHDR DV SDR from AppleTV: https://github.com/widevinedump/APPLE-TV-4K-Downloader
+- https://github.com/Igglybuff/awesome-piracy

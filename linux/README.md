@@ -400,6 +400,7 @@
 - https://medium.com/nttlabs/bpf-and-async-rust-c1818f03aff7
 - https://lists.llvm.org/pipermail/cfe-dev/2021-December/069635.html
 - https://itnext.io/epbf-understanding-the-next-gen-networking-security-observability-for-cloud-native-workloads-1fe8ad87ee0f
+- https://www.infoq.com/news/2022/01/ebpf-wasm-service-mesh/
 
 ### Books:
 

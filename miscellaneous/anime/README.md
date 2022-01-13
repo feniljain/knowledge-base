@@ -257,7 +257,7 @@
 ## Watch Websites:
 
 - https://aniwatch.me/
-- animesuge.io
+- animesuge.to
 - animeowl.net
 - kissanimex.com
 - animeflix.io
@@ -287,10 +287,14 @@
 - https://www.animesaturn.it/
 - https://kayoanime.com/
 - https://anoboy.watch/
+- https://piracy.moe/
+- Alternative to kiss websites: https://www.reddit.com/r/KissCartoon/wiki/alternatives
 
 ## General Websites:
 
 - https://anichart.net/
+- High-Quality 10-bit Anime Encodes: https://hi10anime.com/
+- Up to 1080p DDL links, mostly Google Drive: https://animekaizoku.com
 
 ## Completed(I started maintaining this list very late may not have a lot of anime I have watched):
 

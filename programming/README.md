@@ -143,7 +143,6 @@
 - https://medium.com/edge-coders/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312
 - https://www.infoq.com/news/2021/12/reading-code/
 - Downloading large google drive files with wget: https://www.techfunia24.tk/2021/12/download-large-google-drive-files-with.html
-- https://dzone.com/articles/the-pull-request-paradox-merge-faster-by-promoting
 - https://floating-point-gui.de/
 - https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/
 - https://aseemthakar.com/how-to-build-a-second-brain-as-a-software-developer/

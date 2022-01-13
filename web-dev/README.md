@@ -91,6 +91,11 @@
 - https://thenewstack.io/rust-and-webassembly-serverless-functions-in-vercel/
 - Get WasmEdge swags: https://docs.google.com/forms/d/e/1FAIpQLSdLOa3kU6My-GP3j3HpgdKfkxVnUq3Ntj3l43v5twe3hliPeg/viewform
 - https://medium.com/codex/ebpf-and-webassembly-whose-vm-reigns-supreme-c2861ce08f89
+- https://www.infoq.com/news/2022/01/ebpf-wasm-service-mesh/
+
+### Books:
+
+- https://wasmedge.org/book/en/index.html
 
 ### Repos:
 

@@ -33,6 +33,7 @@
 
 ## Repos and tools:
 
+- https://github.com/Igglybuff/awesome-piracy
 - OSINT GHunt(get google acc. info from gmail account): https://github.com/mxrch/GHunt
 - OSINT: https://github.com/sherlock-project/sherlock
 - OSINT: https://github.com/qeeqbox/social-analyzer

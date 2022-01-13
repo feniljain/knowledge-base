@@ -38,6 +38,7 @@
 - https://betterhumans.pub/why-you-should-have-a-field-manual-for-your-life-4ee33700ef95
 - https://betterhumans.pub/how-to-master-intentional-dreaming-for-a-satisfying-life-af96b99179b7
 - https://forge.medium.com/show-your-boss-everything-you-actually-do-86c6dd8f9658
+- https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/
 
 ## Videos:
 
@@ -131,6 +132,16 @@
 - You live longer once you realize that any time spent being unhappy is wasted.
 - If you want something you've never had, you must be willing to do something you've never done.
 - All that is gold does not glitter, not all those who wander are lost; the old thatis strong does not wither, deep roots are not reached by the frost
+- Failure is success if we learn from it.
+- Let go of the thoughts that don't make you strong.
+- If opportunity doesn’t knock, build a door.
+- Incredible things can be done simply if we are committed to making them happen.
+- Lead with your strengths, not your weaknesses.
+- The best time to plant a tree was 20 years ago. The second best time is now.
+- People are smarter than you think. Give them a chance to prove themselves.
+- The longer we dwell on our misfortunes, the greater is their power to harm us.
+- Be weird, be transparent, be authentic, be yourself.
+- Your worst enemy cannot harm you as much as your own unguarded thoughts.
 
 ## Books:
 
@@ -144,5 +155,3 @@
 - The millionare fastlane
 - https://medium.com/mind-cafe/if-you-only-read-a-few-books-in-2020-read-these-1cbac424e4a9
 - https://www.calnewport.com/books/deep-work/
-
-Kmshahco1966

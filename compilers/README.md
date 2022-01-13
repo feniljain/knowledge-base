@@ -77,6 +77,7 @@
 - https://www.bexxmodd.com/log/llvm-infrastrucutre-and-rust/7
 - https://www.geeksforgeeks.org/structure-member-alignment-padding-and-data-packing/
 - https://llvm.org/doxygen/classllvm_1_1Value.html
+- https://medium.com/@vishwajit.patil19/compilers-for-distributed-systems-464e6651aa4d
 
 ## Blog series/Articles collection:
 

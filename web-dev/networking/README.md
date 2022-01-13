@@ -85,6 +85,7 @@
 - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet: https://github.com/fatedier/frp
 - A TCP proxy to simulate network and system conditions for chaos and resiliency testing: https://github.com/Shopify/toxiproxy
 - https://github.com/shopify/toxiproxy
+- https://github.com/alibaba/xquic
 
 ## Reddit and twitter threads:
 
@@ -118,15 +119,17 @@
 
 ### Websites:
 
+- https://webrtcforthecurious.com/
 - https://smarthome-webrtc-validator.withgoogle.com/
 
-### Blogs and articles
+### Blogs and articles:
 
 - https://blog.swmansion.com/modular-rtc-engine-is-our-little-big-revolution-in-video-conferencing-cfde806c5beb
 - https://blog.bitsrc.io/will-webtransport-replace-webrtc-in-near-future-436c4f7f3484
 - https://medium.com/swlh/webrtc-the-technology-that-powers-google-meet-hangout-facebook-messenger-and-discord-cb926973d786
 - https://gafferongames.com/post/why_cant_i_send_udp_packets_from_a_browser/#what-about-webrtc
 - https://howvideo.works/
+- https://dyte.notion.site/How-to-get-Started-on-WebRTC-28bb82fbb47a42d7af3b9f06e22ef237
 
 ### Videos:
 

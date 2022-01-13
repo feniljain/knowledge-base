@@ -82,6 +82,7 @@
 - https://medium.com/@d.palmer101/system-design-must-haves-85953457b9d6
 - https://medium.com/interviewnoodle/dropbox-google-drive-system-architecture-a5cc7652a57c
 - https://medium.com/codex/designing-facebook-messenger-57152a668756
+- https://levelup.gitconnected.com/how-google-computes-the-pagerank-for-the-whole-internet-efficiently-part-1-135ca6ef3247
 
 ## Repos:
 
