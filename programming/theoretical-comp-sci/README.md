@@ -8,6 +8,7 @@
 ## Blog series/Article collection:
 
 - Resources to learn dataflow analysis: https://reviews.llvm.org/D114231
+- https://cp4space.hatsya.com/2022/01/14/conway-conjecture-settled/
 
 ## Repos:
 

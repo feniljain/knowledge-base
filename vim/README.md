@@ -12,6 +12,7 @@
 - https://www.reddit.com/r/neovim/comments/lfvr3z/a_useful_vim_cheat_sheets/
 - https://vim.rtorr.com/
 - https://www.reddit.com/r/vim/comments/n0w3d7/an_animated_vim_cheatsheet_svg_version_is/
+- https://www.reddit.com/r/vim/comments/s7m9tr/the_most_complete_vim_cheatsheet/
 
 ## Videos:
 
@@ -108,6 +109,7 @@
 - https://sean-warman.medium.com/coolest-vim-features-3d840f87ae31
 - https://towardsdatascience.com/custom-vim-functions-to-format-your-text-b694295f7764
 - https://susamn.medium.com/its-time-to-edit-effectively-in-vim-a-visual-article-76f9d0b45938
+- https://www.chrisdeluca.me/article/diy-neovim-fzy-search/
 
 ## VimTricks:
 
@@ -389,6 +391,7 @@
 - https://github.com/junegunn/vim-slash/blob/master/README.md
 - https://github.com/github/copilot.vim
 - Plugins to draw diagarms easily in vim: https://github.com/willchao612/vim-diagon
+- Delete buffers (close files) without closing your windows or messing up your layout: https://github.com/moll/vim-bbye
 
 ## Lua/Nvim 0.5+ Exclusive plugins:
 
@@ -470,6 +473,7 @@
 - https://github.com/AyeSpacey/Nvimfy
 - https://github.com/SmiteshP/nvim-gps
 - https://github.com/psliwka/termcolors.nvim
+- https://github.com/elihunter173/dirbuf.nvim
 
 ## -- $$ -- :
 

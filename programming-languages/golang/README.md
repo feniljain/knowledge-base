@@ -75,6 +75,7 @@
 - https://pauldigian.hashnode.dev/advanced-go-avoiding-if-for-initialization-using-synconce-and-foot-guns-to-watch-out-for
 - https://blog.cskr.dev/posts/arena-allocation-in-go/
 - Reverse HTTP proxy over WebSocket in Go (Part 1): https://dev.to/hgsgtk/reverse-http-proxy-over-websocket-in-go-part-1-13n4
+- https://deathbykeystroke.com/articles/20220106-real-macros-in-go.html
 
 ### Architecture:
 

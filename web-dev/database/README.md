@@ -71,6 +71,8 @@
 - A prioritised micro-batch scheduler in rust: https://njk.onl/blog/gaffer.html
 - https://medium.com/cognite/postgres-can-do-that-f221a8046e
 - https://ajay-yadav.medium.com/database-storage-engines-de757b03bd44
+- https://zonito.medium.com/how-to-remove-duplicate-records-from-1-billion-records-without-any-index-in-mysql-44b15b2d0ec1
+- https://www.red-gate.com/simple-talk/databases/oracle-databases/transformations-by-the-oracle-optimizer/
 
 ## Blog Series:
 

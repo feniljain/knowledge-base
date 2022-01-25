@@ -34,6 +34,8 @@
 - https://www.reddit.com/r/MechanicalKeyboards/comments/qgbm31/keycaps_profile_pros_and_cons/
 - Split keyboards in india: https://www.reddit.com/r/mkindia/comments/lw3imi/split_keyboard_what_are_my_options/
 - DIY keyboard in India: https://www.reddit.com/r/mkindia/comments/kx5dz7/almost_complete_custom_split_handwired_outemu/
+- A guide on keyboard sizes: https://www.reddit.com/r/MechanicalKeyboards/comments/s5mrio/a_guide_i_made_on_keyboard_sizes_v2/
+- A guide on keyboard sizes: https://thegamingsetup.com/wp-content/uploads/Keyboard-Size-Guide-The-Gaming-Setup-scaled.jpg
 
 ## Videos:
 

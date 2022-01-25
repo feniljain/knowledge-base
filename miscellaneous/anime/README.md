@@ -235,6 +235,7 @@
 - Lost umbrella: https://www.youtube.com/watch?v=Yvs7gfWqNSE
 - MC Vrigin Trap anthem: https://www.youtube.com/watch?v=EeIfEVnmzUc
 - Lofi songs of jujutsu kaisen: https://www.youtube.com/watch?v=nSbs0EHf374
+- Iro Kousui: https://www.youtube.com/watch?v=7DpONAPM3Zw
 
 ## MAL accounts to lookout anime from(this is just a list of decent accounts I come across):
 
@@ -253,6 +254,7 @@
 - https://www.reddit.com/r/Animesuggest/comments/n9j6n5/bring_in_your_ultimate_romance_anime/
 - https://www.reddit.com/r/Animesuggest/comments/osegg2/need_new_romcomsslice_of_life/
 - https://www.reddit.com/r/anime/comments/a0ge2o/what_are_some_if_the_best_romance_anime_i_need/
+- https://www.reddit.com/r/Animesuggest/comments/s9yt6d/can_anyone_suggest_me_a_good_action_romance_anime/
 
 ## Watch Websites:
 
@@ -411,6 +413,8 @@
 - Black Lagoon
 - Black Lagoon The Second Barrage
 - Madoka Magic
+- Moriarty The Patriot
+- Moriarty The Patriot Season 2
 
 ## Caught up Mangas:
 

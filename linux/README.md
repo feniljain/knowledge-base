@@ -152,6 +152,7 @@
 - https://medium.com/100-days-of-linux/
 - http://brendangregg.com/blog/index.html
 - https://ojeda.dev/
+- Random bits from Greg Kroah-Hartman: http://www.kroah.com/log/
 
 ## Books:
 
@@ -333,6 +334,8 @@
 - https://www.reddit.com/r/linux4noobs/comments/q496kw/best_sites_to_learn_linux/
 - https://www.reddit.com/r/LLVM/comments/qly49y/how_to_build_a_compiler_with_llvm_and_mlir_12/
 - Alternatives to common windows tools: https://www.reddit.com/r/linux/comments/rqjnvw/i_tried_to_move_entirely_to_linux_supporting/
+- Collection of free software for linux: https://www.reddit.com/r/linux/comments/s6ieb1/update_after_reading_600_of_your_comments_here_is/
+- Linux kernel development trick: https://twitter.com/vegard_no/status/1483378883017814017
 
 ## Config Repos:
 
@@ -401,6 +404,9 @@
 - https://lists.llvm.org/pipermail/cfe-dev/2021-December/069635.html
 - https://itnext.io/epbf-understanding-the-next-gen-networking-security-observability-for-cloud-native-workloads-1fe8ad87ee0f
 - https://www.infoq.com/news/2022/01/ebpf-wasm-service-mesh/
+- https://ish-ar.io/ebpf-dive-into-the-verifier/
+- https://ish-ar.io/ebpf-my-first-2-days-with-it/
+- https://ish-ar.io/kprobes-in-a-nutshell/
 
 ### Books:
 

@@ -3,6 +3,7 @@
 ## Websites:
 
 - https://xsleaks.dev/
+- https://tryhackme.com/
 
 ## Blogs and articles:
 

@@ -88,6 +88,7 @@
 - Deploying kubernetes on bare metal: https://www.youtube.com/watch?v=t4H6hdvB9iQ
 - How spotify accidentally deleted all its kube clusters with no user impact: https://www.youtube.com/watch?v=ix0Tw8uinWs
 - Install kubernetes from scratch(better than upper one): https://www.youtube.com/watch?v=uUupRagM7m0&list=PL2We04F3Y_41jYdadX55fdJplDvgNGENo
+- Kubernetes: The Documentary: https://www.youtube.com/watch?v=BE77h7dmoQU
 
 ## Repos:
 

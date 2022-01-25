@@ -10,6 +10,8 @@
 - https://llvm.org/docs/GettingStartedTutorials.html
 - https://bertrandbev.github.io/dlox/#/
 - https://zerovector.space/poor-mans-compiler-explorer
+- Compiler Resources: https://theworld.com/~compres/crilogo.html
+- http://aosabook.org/en/llvm.html
 
 ## Blogs and articles:
 
@@ -19,6 +21,10 @@
 - Writing a C compiler: https://norasandler.com/2017/11/29/Write-a-Compiler.html
 - https://medium.com/trendyol-tech/contributing-the-go-compiler-adding-new-tilde-operator-f66d0c6cff7
 - https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/
+- How to write your own compiler: https://llvm.org/ProjectsWithLLVM/#compilerwrite
+- Brainfuck compiler: https://www.wilfred.me.uk/blog/2015/08/29/an-optimising-bf-compiler/
+- Brainfuck compiler: https://www.wilfred.me.uk/blog/2015/10/18/even-more-bf-optimisations/
+- Brainfuck compiler: https://www.wilfred.me.uk/blog/2016/02/07/an-industrial-grade-bf-compiler/
 
 ### Others:
 
@@ -78,6 +84,12 @@
 - https://www.geeksforgeeks.org/structure-member-alignment-padding-and-data-packing/
 - https://llvm.org/doxygen/classllvm_1_1Value.html
 - https://medium.com/@vishwajit.patil19/compilers-for-distributed-systems-464e6651aa4d
+- PGO: https://en.wikipedia.org/wiki/Profile-guided_optimization
+- https://wiki.mozilla.org/Abstract_Interpretation
+- https://en.wikipedia.org/wiki/Threaded_code
+- https://en.wikipedia.org/wiki/Branch_table
+- https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables
+- https://en.wikipedia.org/wiki/Register_allocation
 
 ## Blog series/Articles collection:
 
@@ -125,6 +137,7 @@
 
 - Generating scanners from regexs: http://dinosaur.compilertools.net/lex/
 - Generating scanners from regexs: https://github.com/westes/flex
+- https://llvm.org/docs/Bugpoint.html
 
 ## Videos:
 
@@ -134,6 +147,8 @@
 - CppCon 2019: Matt Godbolt “Compiler Explorer: Behind The Scenes”: https://www.youtube.com/watch?v=kIoZDUd5DKw&t=192s
 - Cliff Click is famous for writing the original hot-spot JIT compiler for the Java programming language. He is a compiler guru, and conducts a weekly compiler club that is open to anyone who wants to join. This is great opportunity to learn from someone who really knows a thing or two about compilers and how to implement them: https://www.youtube.com/channel/UCbutMk6cKrH8q4sJyQHGPVQ
 - https://www.snsystems.com/technology/tech-blog/improving-debug-variable-location-coverage-by-using-even-more-ssa
+- Ownership SSA: https://www.youtube.com/watch?v=qy3iZPHZ88o
+- What is bytecode?: https://www.youtube.com/watch?v=mgRXdgPcYc0
 
 ## Courses:
 

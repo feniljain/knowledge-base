@@ -53,6 +53,8 @@
 - https://mlengineer.io/from-semiconductor-to-software-engineer-8c3126dde65b
 - https://dev.to/tim012432/do-not-put-skill-bars-on-your-resume-lh6
 - A free introductory textbook on Algorithmic Graph Theory: https://code.google.com/archive/p/graphbook/
+- https://levelup.gitconnected.com/the-interview-answer-that-cost-me-314k-job-11634504db53
+- https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/
 
 ## Videos:
 

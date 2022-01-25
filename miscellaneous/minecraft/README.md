@@ -32,6 +32,7 @@
 - Redstone basics playlist from illmango: https://www.youtube.com/watch?v=nBMzgBkFXuo&list=PLnC1rWWvOq50atbadx9lsST9t_Ecfs6_N
 - Serial Transceiver: Send, Receive & Forward Data in a Single Device | Minecraft 1.13+: https://www.youtube.com/watch?v=Ehqyj8_pGdg
 - mattbatwings(has good redstone basic and logical videos, for eg. binary, hexadecimal, RAM, decoders, etc.): https://www.youtube.com/channel/UCz28y3fThmxHaIh7Zl-i6KA
+- The Wonderful world of wireless redstone(Amazing video explaning a lot of internals of redstone and corresponding gameplay and how these are used to transmit redstone signals wirelessly): https://www.youtube.com/watch?v=sBNuqZKa_Lw
 
 ### Reddit and twitter threads:
 
@@ -41,3 +42,7 @@
 - Multi Item sorting with world download: https://www.reddit.com/r/redstone/comments/qurwi7/new_silent_multi_item_sorting_design_world/
 - Beginner restoner asking for resources to learn: https://www.reddit.com/r/redstone/comments/r495ex/i_want_to_learn_how_to_use_redstone_is_there/
 - Difference between java and bedrock redstone: https://www.reddit.com/r/redstone/comments/robsw5/i_got_added_to_an_smp_that_is_cross_compatible/
+
+### Repos:
+
+- A multithreaded Minecraft server built for redstone: https://github.com/MCHPR/MCHPRS

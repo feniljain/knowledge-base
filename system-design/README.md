@@ -83,6 +83,8 @@
 - https://medium.com/interviewnoodle/dropbox-google-drive-system-architecture-a5cc7652a57c
 - https://medium.com/codex/designing-facebook-messenger-57152a668756
 - https://levelup.gitconnected.com/how-google-computes-the-pagerank-for-the-whole-internet-efficiently-part-1-135ca6ef3247
+- https://levelup.gitconnected.com/system-design-idea-cloud-load-balancer-basics-bc6af8dd8084
+- https://medium.com/interviewnoodle/system-design-for-failures-series-fd488072fa72
 
 ## Repos:
 

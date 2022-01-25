@@ -5,6 +5,7 @@
 - https://ipfs.io/
 - https://dzone.com/
 - https://opensource.zalando.com/restful-api-guidelines/
+- https://httpstatuses.com/
 
 ## Blogs And Articles:
 
@@ -78,6 +79,7 @@
 - https://en.wikipedia.org/wiki/Fan-out_(software)
 - https://www.infoq.com/articles/api-mocking-break-dependencies/
 - https://betterprogramming.pub/jwt-ultimate-how-to-guide-with-best-practices-in-javascript-f7ba4c48dfbd
+- https://leanpub.com/yourapiisbad/read
 
 ## Blog series/Articles collection:
 

@@ -19,6 +19,7 @@
 - https://www.joshwcomeau.com/shadow-palette/
 - https://fffuel.co/ffflux/
 - SVGcode: a PWA to convert raster images to SVG vector graphics: https://web.dev/svgcode/
+- https://ebooks.webflow.com/
 
 ## Blogs and articles:
 

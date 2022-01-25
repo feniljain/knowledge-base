@@ -50,6 +50,8 @@
 - https://en.wikipedia.org/wiki/Effect_system
 - https://stackoverflow.com/questions/1801216/what-is-the-difference-between-multiple-dispatch-and-method-overloading/1801230
 - https://joshbradley.me/understanding-the-power-of-lisp/
+- Debunking V languages false claims: https://christine.website/blog/v-vaporware-2019-06-23
+- https://blog.sigplan.org/2022/01/13/provably-space-efficient-parallel-functional-programming/
 
 ## Blog series/articles collection:
 
@@ -204,6 +206,9 @@
 - Why C has such odd syntax: https://softwareengineering.stackexchange.com/questions/117024/why-was-the-c-syntax-for-arrays-pointers-and-functions-designed-this-way
 - https://stackoverflow.com/questions/44325085/raii-vs-garbage-collector/44325607
 - https://developers.redhat.com/blog/2021/04/23/valgrind-memcheck-different-ways-to-lose-your-memory#
+- https://www.c-programming-simple-steps.com/static-keyword-in-c.html
+- https://www.programiz.com/c-programming/c-preprocessor-macros
+- https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables
 
 ### Repos:
 

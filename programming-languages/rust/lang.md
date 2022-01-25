@@ -52,3 +52,7 @@ There are also thin pointers, where this additional information is run-time, but
   - Sum types: Sum types have a limited number of types under them, an eg. would be rust's enums, that's why pattern matching with enums is possible(though it being NP hard, but that's mainly due to constraint checks like (i32, i32) which can result in a lot of cases)
 
 - Generics are also known as parametric polymorphism(just a fun fact: it took 30 years for transitioning from academia to real world usage in programming languages)
+
+# Rust type system:
+
+- The language is statically typed and the type system is algebraic, hence there is no special null type that can be used for any value.

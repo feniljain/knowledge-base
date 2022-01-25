@@ -45,6 +45,7 @@
 - Drawing beatiful diagrams for blogs: https://excalidraw.com/
 - https://code-reading.org/
 - Out of ideas for projects? Look here: http://nifty.stanford.edu/
+- ACM Software System Award: Institutions/individuals who developed software systems with lasting influence on computing: https://awards.acm.org/software-system/award-winners
 
 ## Blogs and Articles:
 
@@ -146,6 +147,7 @@
 - https://floating-point-gui.de/
 - https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/
 - https://aseemthakar.com/how-to-build-a-second-brain-as-a-software-developer/
+- https://en.wikipedia.org/wiki/T-shaped_skills
 
 ## Blog Series:
 
@@ -156,6 +158,10 @@
 - https://www.quastor.org/
 - https://abyteofcoding.com/
 - https://wasmweekly.news/
+
+## Podcasts:
+
+- Immigrant Computer Scientists: https://open.spotify.com/show/165S0iev1NbimrJ2FSsLes?si=2bb0af6919f54f13
 
 ## Reddit posts and tweets:
 
@@ -168,6 +174,7 @@
 - Why FAANG doesn't contain microsoft: https://twitter.com/rakyll/status/1451585970441097219?t=WwcyNLrdRJeKsoSvn1cmPQ&s=08
 - How do computers remember?: https://www.reddit.com/r/programming/comments/qqhn00/how_do_computers_remember/
 - Rob Pikes rules of programming: https://www.reddit.com/r/computerscience/comments/rq60d4/rules_of_programming/
+- No-code tools, the thread: https://twitter.com/heyeaslo/status/1482895458099884032
 
 ## Videos:
 
@@ -179,6 +186,7 @@
 - Parsing json quickly, story about simdjson: https://www.youtube.com/watch?v=wlvKAT7SZIQ
 - How to "Google It" like a Senior Software Engineer: https://www.youtube.com/watch?v=cEBkvm0-rg0
 - The forgotten art of structured programming: https://www.youtube.com/watch?v=SFv8Wm2HdNM
+- This is what happened to Aaron Swartz: https://www.youtube.com/watch?v=9vz06QO3UkQ
 
 ## Repos:
 

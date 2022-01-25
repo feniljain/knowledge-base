@@ -38,6 +38,7 @@
 - https://iximiuz.com/en/posts/containers-vs-pods/
 - https://www.section.io/engineering-education/lxc-vs-docker-what-is-the-difference-and-why-docker-is-better/
 - https://iximiuz.com/en/posts/containers-101-attach-vs-exec/
+- https://medium.com/@sproulelucas13/how-you-should-think-about-docker-containers-if-you-understand-linux-70587eb00fa5
 
 ## Interesting Images:
 

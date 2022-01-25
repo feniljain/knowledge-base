@@ -30,6 +30,7 @@
 - https://blog.relyabilit.ie/what-sre-is-not/
 - https://www.infoq.com/news/2021/12/remote-first-sre/
 - https://hackernoon.com/what-is-dwell-time-and-why-does-it-matter-for-an-seo-strategy
+- https://www.infoq.com/presentations/sre-apprentices/
 
 ## Repos:
 

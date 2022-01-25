@@ -68,6 +68,7 @@
 - https://jvns.ca/blog/2021/12/15/mess-with-dns/
 - https://blog.bgpkit.com/introducing-bgpkit-broker-b734dac4661e
 - This is an informational site about video and how it works. Learn all about what it takes to Playback, Deliver, and Process video. Stay tuned for more about video Capture: https://howvideo.works/
+- https://medium.com/@sanilkhurana7/exploring-video-streaming-1-345488fcf7e6
 
 ## Blog Series/Articles collection:
 

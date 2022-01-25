@@ -6,6 +6,11 @@
 - Download songs from various soures like gaana, itunes, etc.: https://ytmdl.deepjyoti30.dev/
 - Watch all english series online without ads: https://www3.watchserieshd.ru/
 - All in one audio/video editing: https://www.descript.com/#
+- Free alternative to spotify: https://spotfy.one/
+
+# Blogs and articles:
+
+- Complete(not quick) uninstall of spotify: https://community.spotify.com/t5/FAQs/How-can-I-perform-a-clean-reinstall-of-the-app/ta-p/4746485(Do not forget to check both Library folders, one global and another user level)
 
 # Online radios:
 
@@ -29,3 +34,7 @@
 - Tool To Download from DSNP USA: https://github.com/widevinedump/DISNEY-4K-SCRIPT
 - Tool To download 4KHDR DV SDR from AppleTV: https://github.com/widevinedump/APPLE-TV-4K-Downloader
 - https://github.com/Igglybuff/awesome-piracy
+
+# Reddit and twitter threads:
+
+- Getting rid of spotify ad banners and stuff: https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/

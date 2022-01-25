@@ -39,6 +39,7 @@
 - https://betterhumans.pub/how-to-master-intentional-dreaming-for-a-satisfying-life-af96b99179b7
 - https://forge.medium.com/show-your-boss-everything-you-actually-do-86c6dd8f9658
 - https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/
+- https://hackernoon.com/9-top-career-tips-from-a-google-director-of-engineering-making-$15-million
 
 ## Videos:
 
@@ -142,6 +143,34 @@
 - The longer we dwell on our misfortunes, the greater is their power to harm us.
 - Be weird, be transparent, be authentic, be yourself.
 - Your worst enemy cannot harm you as much as your own unguarded thoughts.
+- It’s easier to keep up than to catch up.
+- Feelings are just visitors. Let them come and go.
+- You are confined only by the walls you build yourself.
+- Don't underestimate the value of doing nothing, of just going along, listening to all the things you can't hear, and not bothering.
+- Obsessed is a word that the lazy use to describe the dedicated.
+- The journey is the reward.
+- Listen to your instinct, grab the opportunity when it presents itself and then give it your all.
+- Magicians protect their secrets not because the secrets are large and important, but because they are so small and trivial. The wonderful effects created on stage are often the result of a secret so absurd that the magician would be embarrassed to admit that that was how it was done.
+- It’s your road, and yours alone. Others may walk it with you, but no one can walk it for you.
+- If you accept the expectations of others, especially negative ones, then you never will change the outcome.
+- Think lightly of yourself and deeply of the world.
+- It’s not what you look at that matters, it’s what you see.
+- When you wake up in the morning you have two choices: go back to sleep, or wake up and chase those dreams.
+- Remember that failure is an event, not a person.
+- Use only that which works, and take it from any place you can find it.
+- Our greatest weapon against stress is our ability to choose one thought over another.
+- It takes courage to grow up and become who you really are.
+- The biggest mistake people make in life is not trying to make a living at doing what they most enjoy.
+- Success is achieved by developing our strengths, not by eliminating our weaknesses.
+- There is no small act of kindness. Every compassionate act makes large the world.
+- If you can dream it, you can do it.
+- Go beyond yourself rather than beyond others.
+- There is never enough time to do everything, but there is always enough time to do the most important thing
+- Do the best you can until you know better. Then when you know better, do better.
+- Destiny is not a matter of chance; it is a matter of choice. It is not a thing to be waited for, it is a thing to be achieved.
+- All of humanity’s problems stem from man’s inability to sit quietly in a room alone.
+- There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.
+- There are a whole lot of things in this world of ours you haven't even started wondering about yet.
 
 ## Books:
 

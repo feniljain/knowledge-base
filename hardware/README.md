@@ -13,6 +13,10 @@
 - https://zipcpu.com/blog/2021/10/26/clkgate.html
 - https://eli.thegreenplace.net/2011/02/04/where-the-top-of-the-stack-is-on-x86
 - https://www.downtowndougbrown.com/2021/12/upgrading-a-motherboards-bios-uefi-the-hard-way/
+- https://pcisig.com/blog/evolution-pci-express-specification-its-sixth-generation-third-decade-and-still-going-strong
+- https://en.wikipedia.org/wiki/Branch_predictor
+- https://en.wikipedia.org/wiki/Register_window
+- https://drewdevault.com/2022/01/15/2022-01-15-The-RISC-V-experience.html
 
 ## Repos:
 

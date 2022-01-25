@@ -105,6 +105,7 @@
 - https://www.thecodedmessage.com/posts/endian_polymorphism/
 - Higher Kinded Types in Rust: https://hugopeters.me/posts/14/
 - https://hurryabit.github.io/blog/stack-safety-for-free/
+- https://lucumr.pocoo.org/2012/10/18/such-a-little-thing/
 
 ### Tutorials:
 
@@ -266,6 +267,8 @@
 - https://morestina.net/blog/1686/rust-async-is-colored
 - Differnce between dyn trait and impl trait: https://internals.rust-lang.org/t/what-is-the-difference-between-impl-trait-and-dyn-trait/8823/3
 - https://varkor.github.io/blog/2018/07/03/existential-types-in-rust.html
+- https://lucumr.pocoo.org/2022/1/6/rust-extension-map/
+- https://lucumr.pocoo.org/2022/1/7/as-any-hack/
 
 ### Others:
 
@@ -391,6 +394,7 @@
 - https://nullderef.com
 - https://shnatsel.medium.com/
 - https://immunant.com/blog/
+- https://lucumr.pocoo.org/tags/rust/
 
 ## Repos:
 
@@ -651,6 +655,7 @@
 - https://lwn.net/Articles/871283/
 - Historical archive of rust pre-publication development: jhttps://github.com/graydon/rust-prehistory
 - https://www.bexxmodd.com/log/llvm-infrastrucutre-and-rust/7
+- https://frehberg.com/2022/01/rust-memory-layout-optimization/
 
 ## Rust and security
 
@@ -662,6 +667,7 @@
 - https://security.googleblog.com/2021/06/rustc-interop-in-android-platform.html
 - https://www.reddit.com/r/rust/comments/nyrsxj/a_few_thoughts_on_fuchsia_security/
 - https://www.reddit.com/r/rust/comments/o70k19/googles_unified_vulnerability_schema_for_open/
+- https://www.reddit.com/r/rust/comments/s74uik/rust_vs_c_how_are_vulnerabilities_different_an/
 
 ## Reddit threads and tweets:
 
@@ -693,6 +699,7 @@
 - https://ferrous-systems.github.io/teaching-material/
 - https://academy.zerotomastery.io/p/learn-rust
 - https://learning-rust.github.io/
+- Rust cheat sheet for begineers: https://quickref.me/rust
 
 ### Blogs and articles:
 

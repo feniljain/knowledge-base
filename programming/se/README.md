@@ -43,6 +43,7 @@
 - Prototype Design Pattern: http://gameprogrammingpatterns.com/prototype.html
 - https://branislavjenco.github.io/desired-state-systems/
 - https://betterprogramming.pub/design-patterns-a-complete-guide-b2699315961f
+- https://en.wikipedia.org/wiki/Side_effect_(computer_science)
 
 ## Blogs Series:
 

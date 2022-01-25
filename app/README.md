@@ -41,6 +41,10 @@
 
 - https://levelup.gitconnected.com/flutters-skia-engine-takes-cross-platform-app-development-to-a-new-level-85cc5f92ca9b
 
+## Newletters:
+
+- https://www.reddit.com/r/FlutterDev/comments/s639ab/the_flutter_biweekly_1_the_newsletter_focused_on/
+
 ## Videos:
 
 - Preparing app for release: https://www.youtube.com/watch?v=nGvPNG-f1-o&feature=youtu.be

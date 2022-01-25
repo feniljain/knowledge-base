@@ -75,6 +75,7 @@
 - Full Tutorial: Monitoring and Troubleshooting stack with Prometheus, Grafana, Loki and Komodor: https://anaisurl.com/full-tutorial-monitoring/
 - https://www.infoq.com/presentations/data-mesh-concepts/
 - https://cloud.google.com/architecture/devops/devops-tech-trunk-based-development
+- https://medium.com/@knoldus/kafka-producer-internals-34d416e6949c
 
 ## Blog Series/Blog collections:
 
@@ -97,7 +98,7 @@
 
 ## Books:
 
-- Great collection of books by mayank bhaiya on cloud native and devops: https://drive.google.com/drive/folders/1NThdt2djlvsb0x3gQ6qA_c4BfCEW3TnY
+- Collection of books realted to devops(collection by @mayankshah1607): https://drive.google.com/drive/folders/10Z7f6aOgRDVVeT1YyTpenFvZwmp1N1KL
 - https://www.redhat.com/rhdc/managed-files/cl-97-things-cloud-engineers-know-e-book-oreilly-f28602-202105-en.pdf
 - https://www.infoq.com/minibooks/distributed-systems/
 
