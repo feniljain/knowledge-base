@@ -25,6 +25,9 @@
 - https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity#type-level-logic-reified
 - How Kubernetes resolved the lack of generics with their own runtime typesystem: https://medium.com/@arschles/go-experience-report-generics-in-kubernetes-25da87430301
 - https://en.wikipedia.org/wiki/Continuation-passing_style
+- https://en.wikipedia.org/wiki/Compile-time_function_execution
+- https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity
+- https://en.wikipedia.org/wiki/Type_punning
 
 # Lesser known langs but useful from design perspective:
 
@@ -48,10 +51,13 @@
 - https://www.reddit.com/r/ProgrammingLanguages/comments/rsv88l/loop_expressions_and_what_they_evaluate_to/
 - A Wiki for programming language theory and development: https://www.reddit.com/r/ProgrammingLanguages/comments/s5rjo9/a_wiki_for_programming_language_theory_and/
 - Why Static Languages Suffer From Complexity: https://www.reddit.com/r/ProgrammingLanguages/comments/s7shox/why_static_languages_suffer_from_complexity/
+- ACM Transactions on Programming Languages and Systems (TOPLAS): all papers (since the 1979 beginning) now open access: https://www.reddit.com/r/ProgrammingLanguages/comments/se5e1j/acm_transactions_on_programming_languages_and/
 
 # Lesser known language collection:
 
+- https://en.wikipedia.org/wiki/Non-English-based_programming_languages
 - https://l42.is/
+- https://wy-lang.org/
 
 # Videos:
 

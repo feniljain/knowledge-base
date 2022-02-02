@@ -182,6 +182,7 @@
 - https://eli.thegreenplace.net/2021/rewriting-go-source-code-with-ast-tooling/
 - https://tailscale.com/blog/go-linker/
 - https://dev.to/aruna/abstract-syntax-trees-theyre-used-everywhere-but-what-are-they-jh6
+- Rant on golang: https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride
 
 ## Blog Series:
 

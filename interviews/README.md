@@ -11,6 +11,7 @@
 - Do go through this in any case: http://www.ardendertat.com/2012/01/09/programming-interview-questions/
 - http://www.nondot.org/sabre/Resume.html
 - https://www.bigocheatsheet.com/
+- Free and open source resume builder: https://rxresu.me/
 
 ## Blogs and Articles:
 
@@ -55,6 +56,8 @@
 - A free introductory textbook on Algorithmic Graph Theory: https://code.google.com/archive/p/graphbook/
 - https://levelup.gitconnected.com/the-interview-answer-that-cost-me-314k-job-11634504db53
 - https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/
+- Shitty Indian Companies: https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRA59z5PaRnwnmZylkYJXOFxL44KFZQ66EMBDeamMCxXxYVrv39gnKq5tOJ7nDzlAEDfApIKGWTGQjX/pubhtml?gid=1267003809&single=true
+- https://4dayweek.medium.com/the-stripe-interview-process-and-how-to-ace-it-b41df4f4e6b6
 
 ## Videos:
 

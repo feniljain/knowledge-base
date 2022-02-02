@@ -9,6 +9,7 @@
 
 - Resources to learn dataflow analysis: https://reviews.llvm.org/D114231
 - https://cp4space.hatsya.com/2022/01/14/conway-conjecture-settled/
+- https://en.wikipedia.org/wiki/Liskov_substitution_principle
 
 ## Repos:
 
@@ -18,3 +19,4 @@
 
 - Is there a good online course on the basics of (software) verification?
   Ideally covering things such as SMT solving, weakest preconditions, symbolic execution, (bounded) model checking, static analysis, etc.: https://twitter.com/rakamaric/status/1479191569504763904
+- Some old (ancient) handwritten notes on category theory, domain theory and concurrency: https://twitter.com/haskellhutt/status/1462171329344557064

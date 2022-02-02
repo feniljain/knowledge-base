@@ -79,7 +79,8 @@
 - https://en.wikipedia.org/wiki/Fan-out_(software)
 - https://www.infoq.com/articles/api-mocking-break-dependencies/
 - https://betterprogramming.pub/jwt-ultimate-how-to-guide-with-best-practices-in-javascript-f7ba4c48dfbd
-- https://leanpub.com/yourapiisbad/read
+- Your API is bad: https://leanpub.com/yourapiisbad/read
+- API Showdown REST vs GraphQL vs gRPC: https://www.infoq.com/podcasts/api-showdown-rest-graphql-grpc/
 
 ## Blog series/Articles collection:
 

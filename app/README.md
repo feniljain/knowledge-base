@@ -93,6 +93,7 @@
 - https://medium.com/easyread/how-to-simplify-your-android-view-binding-delegation-d07812b2a616
 - https://source.android.com/setup/build/rust/building-rust-modules/overview
 - https://hvg24.medium.com/how-to-use-an-android-device-for-development-wirelessly-7e6fc08c7438
+- https://medium.com/geekculture/the-following-are-examples-to-render-fractal-images-in-android-bitmap-with-rust-22a9fb5d648b
 
 ## Websites:
 

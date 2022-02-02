@@ -13,6 +13,7 @@
 - https://vim.rtorr.com/
 - https://www.reddit.com/r/vim/comments/n0w3d7/an_animated_vim_cheatsheet_svg_version_is/
 - https://www.reddit.com/r/vim/comments/s7m9tr/the_most_complete_vim_cheatsheet/
+- https://www.reddit.com/r/linux/comments/sfa6el/vim_cheat_sheet/
 
 ## Videos:
 
@@ -110,6 +111,7 @@
 - https://towardsdatascience.com/custom-vim-functions-to-format-your-text-b694295f7764
 - https://susamn.medium.com/its-time-to-edit-effectively-in-vim-a-visual-article-76f9d0b45938
 - https://www.chrisdeluca.me/article/diy-neovim-fzy-search/
+- https://linuxhint.com/diff-two-files-vim/
 
 ## VimTricks:
 
@@ -227,6 +229,7 @@
 - :dig -> use special characters
 - Performing calculations in vim: in insert mode type <C+r>= and do the calculation
 - Press o to get to the other end of selection
+- 20% Split: :20 vsplit path/to/file
 
 ## StatusLine:
 

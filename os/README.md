@@ -6,6 +6,7 @@
 - https://9p.io/plan9/
 - https://ebpf.io/
 - https://fuchsia.dev/fuchsia-src/reference/syscalls
+- The Yasm Modular Assembler Project: http://yasm.tortall.net/
 
 ## Blog and articles:
 
@@ -14,6 +15,7 @@
 - Write an OS: ttps://arriqaaq.medium.com/writing-an-operating-system-the-boot-process-part-1-52123401053f
 - https://blog.knoldus.com/getting-started-with-the-writing-of-operating-system-rust/
 - https://dev.to/tobychui/i-write-my-own-web-desktop-os-for-3-years-and-this-is-what-it-looks-like-now-2903
+- https://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language
 
 ### Others:
 
@@ -72,3 +74,7 @@
 ## Reddit and twitter threads:
 
 - https://www.reddit.com/r/kernel/comments/qf0dyo/resources_a_newbie_can_learn_from_regarding/
+
+## Repos:
+
+- A little bit about a linux kernel : https://github.com/0xAX/linux-insides

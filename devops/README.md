@@ -128,7 +128,7 @@
 
 - https://www.edx.org/course/introduction-to-devops-and-site-reliability-engineering
 
-## Reddit threads:
+## Reddit and twitter threads:
 
 - https://www.reddit.com/r/devops/comments/l1t4sf/how_cicd_tools_are_built/
 - https://www.reddit.com/r/devops/comments/mewcv5/eli5_container_ecosystem/
@@ -137,6 +137,7 @@
 - Free courses up for grabs: https://www.reddit.com/r/devops/comments/pr2urw/some_courses_up_for_grabs_hope_it_helps_someone/
 - https://www.reddit.com/r/devops/comments/qj2bgh/resources_for_learning_kafka/
 - https://www.reddit.com/r/devops/comments/qsg5eq/ideas_for_a_side_project_blog_tutorial_showcasing/
+- Top books for devsecops: https://twitter.com/furkanturkaI/status/1481226955739394052
 
 ## AWS:
 

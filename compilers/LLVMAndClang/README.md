@@ -4,6 +4,7 @@
 
 - https://eli.thegreenplace.net/2012/11/24/life-of-an-instruction-in-llvm
 - A Tourist’s Guide to the LLVM Source Code: https://blog.regehr.org/archives/1453
+- Phi Node explanation: https://stackoverflow.com/questions/11485531/what-exactly-phi-instruction-does-and-how-to-use-it-in-llvm
 
 ## Repos:
 

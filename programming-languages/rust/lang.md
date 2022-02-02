@@ -1,3 +1,7 @@
+# Language general:
+
+- Rust enums = tagged unions in C
+
 # Macros
 
 - Rust has two types of macros:

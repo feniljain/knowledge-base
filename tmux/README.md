@@ -36,11 +36,12 @@
 - https://blog.guilhermegarnier.com/2017/12/increasing-productivity-in-tmux-with-a-single-prefix-key/
 - https://chasewb.substack.com/p/automuxsh
 
-## Twitter and reddit:
+## Reddit and twitter threads:
 
 - Writing a yaml for preconfiguring tmux: https://twitter.com/n___vc/status/1438796516588756998
 - https://www.reddit.com/r/tmux/comments/olgte7/floating_popups_in_tmux/
 - https://www.reddit.com/r/tmux/comments/r0nhv9/conf_more_ways_to_resize_a_pane_in_tmux_32a/
+- https://www.reddit.com/r/tmux/comments/selrbe/what_is_your_favorites_plugins_themes_or/
 
 ## Tmux configs for reference:
 

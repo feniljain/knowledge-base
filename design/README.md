@@ -20,6 +20,7 @@
 - https://fffuel.co/ffflux/
 - SVGcode: a PWA to convert raster images to SVG vector graphics: https://web.dev/svgcode/
 - https://ebooks.webflow.com/
+- https://university.webflow.com/figma-to-webflow
 
 ## Blogs and articles:
 
@@ -30,6 +31,7 @@
 - https://animated-gradient-background-generator.netlify.app/
 - https://animatedbackgrounds.me/
 - https://www.telerik.com/blogs/figma-developers
+- https://university.webflow.com/figma-to-webflow
 
 ## Repos:
 

@@ -74,6 +74,7 @@
 - Id Invaded
 - Black bullet
 - Angels of Death
+- Sonny Boy
 
 ## Adventure and Magic(supernatural):
 
@@ -255,6 +256,7 @@
 - https://www.reddit.com/r/Animesuggest/comments/osegg2/need_new_romcomsslice_of_life/
 - https://www.reddit.com/r/anime/comments/a0ge2o/what_are_some_if_the_best_romance_anime_i_need/
 - https://www.reddit.com/r/Animesuggest/comments/s9yt6d/can_anyone_suggest_me_a_good_action_romance_anime/
+- Good Dark Anime: https://www.reddit.com/r/Animesuggest/comments/sg2ss9/good_dark_anime/
 
 ## Watch Websites:
 
@@ -291,6 +293,11 @@
 - https://anoboy.watch/
 - https://piracy.moe/
 - Alternative to kiss websites: https://www.reddit.com/r/KissCartoon/wiki/alternatives
+- https://kissanime.com.ru/
+- https://animeheaven.ru/
+- https://www.anime-planet.com/
+- https://wcostream.cc/
+- https://www.viz.com/
 
 ## General Websites:
 
@@ -415,6 +422,10 @@
 - Madoka Magic
 - Moriarty The Patriot
 - Moriarty The Patriot Season 2
+- Ghost Slayers Ayasaki
+- Link Click
+- To Your Eternity
+- Sonny Boy
 
 ## Caught up Mangas:
 
@@ -426,3 +437,4 @@
 - Slam dunk
 - Tokyo Ghoul
 - Promised Neverland
+- Horimiya

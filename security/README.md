@@ -31,6 +31,7 @@
 - https://hackernoon.com/what-is-url-masking-and-how-does-it-work
 - https://cooltechzone.com/research/how-hackers-scanning-whole-internet
 - https://www.infoq.com/news/2021/11/linux-dns-vulnerability/
+- https://www.ired.team/offensive-security/code-injection-process-injection/binary-exploitation/rop-chaining-return-oriented-programming
 
 ## Repos and tools:
 

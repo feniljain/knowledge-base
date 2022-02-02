@@ -38,6 +38,7 @@
 - https://www.quastor.org/p/the-architecture-of-web-browsers
 - https://www.reddit.com/r/ProgrammingLanguages/comments/qqtg0v/oilpan_gc_library_for_c_recently_exposed_in_v8/
 - https://trmidboe.medium.com/federated-applications-e-plurbus-unum-2cc7850250a0
+- https://developers.cloudflare.com/workers/learning/how-workers-works
 
 ## Videos:
 

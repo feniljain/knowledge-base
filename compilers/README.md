@@ -90,6 +90,11 @@
 - https://en.wikipedia.org/wiki/Branch_table
 - https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables
 - https://en.wikipedia.org/wiki/Register_allocation
+- Top Down Operator Precedence: http://crockford.com/javascript/tdop/tdop.html
+- Pratt parsing made easy: http://journal.stuffwithstuff.com/2011/03/19/pratt-parsers-expression-parsing-made-easy/
+- Criticisms on BNF and Pratt Parsing in rust(Using binding power concept which is different than mainstream single power assigning methods): https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html
+- CFGs: http://nlab-pages.s3.us-east-2.amazonaws.com/nlab/show/context-free+grammar
+- A Tour of Safe Tracing GC Designs in Rust: https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/
 
 ## Blog series/Articles collection:
 

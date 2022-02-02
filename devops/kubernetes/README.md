@@ -15,6 +15,7 @@
 - https://k8slens.dev/
 - https://operatorhub.io/
 - https://kind.sigs.k8s.io/
+- https://chaos-mesh.org/interactive-tutorial/
 
 ## Blogs and Articles:
 

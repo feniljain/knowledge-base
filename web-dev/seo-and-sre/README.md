@@ -31,6 +31,9 @@
 - https://www.infoq.com/news/2021/12/remote-first-sre/
 - https://hackernoon.com/what-is-dwell-time-and-why-does-it-matter-for-an-seo-strategy
 - https://www.infoq.com/presentations/sre-apprentices/
+- https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/
+- https://medium.com/@bruce_25864/the-road-to-sre-ad4c73df78b8
+- https://learnk8s.io/kubernetes-network-packets
 
 ## Repos:
 

@@ -53,6 +53,7 @@
 - You shouldn't ever lose your work if you're using Git: https://github.com/tkellogg/dura
 - https://dzone.com/articles/the-pull-request-paradox-merge-faster-by-promoting
 - https://michaelheap.com/ultimate-guide-github-actions-authentication/
+- Useful tricks to git log: https://gitbetter.substack.com/p/useful-tricks-you-might-not-know
 
 ## Reddit and twitter threads:
 
@@ -118,3 +119,21 @@
 - refactor: refactoring production code
 - test: adding tests, refactoring test; no production code change
 - chore: updating build tasks, package manager configs, etc; no production code change
+
+## Newsletters:
+
+- https://gitbetter.substack.com/
+
+## Git Facts:
+
+- Git pull takes place in two steps:
+  - Git fetch
+  - Git merge
+
+## Git Command Usage:
+
+- git fetch <> : git fetch is used to fetch updates from remote to local <remote-name-alias(eg. origin)>/branchName, for eg. you have a repo with main as the default branch, so git fetch will update the origin/main branch but not main branch(on which you may be working locally). Now you can just checkout the branch for understanding the updates by using: git checkout origin/main
+
+- git diff <> <>: Let's say you want to see different between two branches, for eg. origin/main and main, you just pass it onto git diff and it will give an overall diff between two branches
+
+- git log develop..origin/develop : This command will help you show all the commits from origin/develop but that are not present in the develop branch. In this way, you can know that how many new commits are added to the remote develop branch that is not present in the local branch. Swapping branch names gives vice-versa result

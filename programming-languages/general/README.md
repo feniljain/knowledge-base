@@ -8,6 +8,7 @@
 - Repository of academic computer science papers: https://paperswelove.org/
 - https://iris-project.org/
 - A book using [type-effect system](https://en.wikipedia.org/wiki/Effect_system): https://koka-lang.github.io/koka/doc/book.html
+- http://landoflisp.com/
 
 ## Blogs and Articles:
 
@@ -65,7 +66,7 @@
 - https://www.reddit.com/r/Compilers/comments/q5nsun/any_tutorials_on_type_systems/
 - https://www.reddit.com/r/programmingcirclejerk/comments/qneujj/nonturing_complete_languages_offer_a_great/
 - https://www.reddit.com/r/ProgrammingLanguages/comments/qn2gby/pattern_matching_where_did_this_approach_come_from/
-- Some old (ancient) handwritten notes on category theory, domain theory and concurrency: https://twitter.com/haskellhutt/status/1462171329344557064
+- Collection of good books: https://twitter.com/mollyfmielke/status/1487828197521518594
 
 ## Repos:
 

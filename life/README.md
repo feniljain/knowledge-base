@@ -40,6 +40,12 @@
 - https://forge.medium.com/show-your-boss-everything-you-actually-do-86c6dd8f9658
 - https://www.ribbonfarm.com/2009/10/07/the-gervais-principle-or-the-office-according-to-the-office/
 - https://hackernoon.com/9-top-career-tips-from-a-google-director-of-engineering-making-$15-million
+- How to ask questions the samrt way: http://www.catb.org/~esr/faqs/smart-questions.html#idm573
+- How to ask good questions: https://jvns.ca/blog/good-questions/
+- https://hackernoon.com/how-to-be-bored-the-right-way
+- If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.
+- Focus is the art of knowing what to ignore.
+- There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
 
 ## Videos:
 
@@ -171,6 +177,15 @@
 - All of humanity’s problems stem from man’s inability to sit quietly in a room alone.
 - There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them.
 - There are a whole lot of things in this world of ours you haven't even started wondering about yet.
+- Be an encourager, the world has enough critics already
+- Other people's opinion of you does not have to become your reality.
+- The only way you are going to have success is to have lots of failures first.
+- If you can be anything in this world, be kind.
+- If you find yourself constantly trying to prove your worth to someone, you have already forgotten your value.
+- Passion is energy. Feel the power that comes from focusing what excites you.
+- It's up to you how far you go. If you don't try, you'll never know!
+- You were not born a winner, and you were not born a loser. You are what you make yourself to be.
+- Things may come to those who wait, but only the things left by those who hustle.
 
 ## Books:
 

@@ -106,6 +106,7 @@
 - Higher Kinded Types in Rust: https://hugopeters.me/posts/14/
 - https://hurryabit.github.io/blog/stack-safety-for-free/
 - https://lucumr.pocoo.org/2012/10/18/such-a-little-thing/
+- https://patshaughnessy.net/2018/3/15/how-rust-implements-tagged-unions
 
 ### Tutorials:
 
@@ -269,6 +270,7 @@
 - https://varkor.github.io/blog/2018/07/03/existential-types-in-rust.html
 - https://lucumr.pocoo.org/2022/1/6/rust-extension-map/
 - https://lucumr.pocoo.org/2022/1/7/as-any-hack/
+- https://phazer99.blogspot.com/2022/02/a-deeper-dive-into-rust-type-system.html
 
 ### Others:
 
@@ -351,6 +353,7 @@
 - https://www.cvedetails.com/product/48677/Rust-lang-Rust.html?vendor_id=19029
 - https://quickwit.io/blog/search-a-sorted-block/
 - Writing trees in rust: https://gist.github.com/aidanhs/5ac9088ca0f6bdd4a370
+- Green threads explained in 200 lines of rust: https://cfsamson.gitbook.io/green-threads-explained-in-200-lines-of-rust/
 
 ## Blog Series/Collection of articles:
 
@@ -395,6 +398,8 @@
 - https://shnatsel.medium.com/
 - https://immunant.com/blog/
 - https://lucumr.pocoo.org/tags/rust/
+- https://phazer99.blogspot.com/
+- https://patshaughnessy.net/
 
 ## Repos:
 
@@ -617,6 +622,7 @@
 - Alternative to anyhow: https://crates.io/crates/eyre
 - Detects usage of unsafe Rust in a Rust crate and its dependencies: https://github.com/rust-secure-code/cargo-geiger
 - https://crates.io/crates/opencv/
+- you_can::turn_off_the_borrow_checker : https://docs.rs/you-can/latest/you_can/attr.turn_off_the_borrow_checker.html
 
 ## Rust Internals:
 
@@ -689,6 +695,7 @@
 - Idiomatic rust usage: https://www.reddit.com/r/rust/comments/q41cg9/is_there_a_rust_equivalent_to_the_c_standard/
 - Phantom types in rust: https://www.reddit.com/r/rust/comments/q5r9uy/phantom_types_in_rust/
 - https://www.reddit.com/r/rust/comments/r10pp1/will_rust_ever_have_a_futures_executor_in_std/
+- https://www.reddit.com/r/rust/comments/si0j6v/im_preparing_for_a_rust_interview/
 
 ## Rust Learning:
 

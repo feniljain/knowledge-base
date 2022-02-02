@@ -11,6 +11,7 @@
 - https://howhttps.works/
 - https://www.distributed.net/Main_Page
 - https://quicwg.org/
+- https://cloudflare-quic.com/
 
 ## Blogs and Articles:
 
@@ -69,6 +70,9 @@
 - https://blog.bgpkit.com/introducing-bgpkit-broker-b734dac4661e
 - This is an informational site about video and how it works. Learn all about what it takes to Playback, Deliver, and Process video. Stay tuned for more about video Capture: https://howvideo.works/
 - https://medium.com/@sanilkhurana7/exploring-video-streaming-1-345488fcf7e6
+- https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break/
+- Tutorial on implementing TCP/IP: https://datatracker.ietf.org/doc/html/rfc1180
+- https://en.wikipedia.org/wiki/Protocol_ossification
 
 ## Blog Series/Articles collection:
 
@@ -107,6 +111,7 @@
 - Networking fundamentals: https://www.youtube.com/watch?v=9uebakqWlB0
 - Load balancing without load balancers(iptables): https://www.youtube.com/watch?v=-CraNvj48J0
 - Netflix Networking: Beating the Speed of Light with Intelligent Request Routing: https://www.infoq.com/presentations/intelligent-request-routing/
+- Implementing TCP/IP in rust: https://www.youtube.com/watch?v=bzja9fQWzdA
 
 ## Container Images:
 
@@ -120,8 +125,13 @@
 
 ### Websites:
 
+- https://webrtc.org/
 - https://webrtcforthecurious.com/
 - https://smarthome-webrtc-validator.withgoogle.com/
+
+### GoogleGroups:
+
+- https://groups.google.com/g/discuss-webrtc/
 
 ### Blogs and articles:
 

@@ -23,7 +23,7 @@
 - https://stripcode.dev/
 - https://kinesis-ergo.com/explore-keyboards/
 - https://musicforprogramming.net/
-- https://dev.to/jameesy/how-to-get-out-of-tutorial-hell-be-more-like-tony-hawk-1md8
+- https://dev.to/bascodes/background-music-to-get-in-the-zone-1i0a
 - https://noyaml.com/
 - https://github.com/system76/launch
 - https://www.what-to-code.com/
@@ -148,6 +148,10 @@
 - https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/
 - https://aseemthakar.com/how-to-build-a-second-brain-as-a-software-developer/
 - https://en.wikipedia.org/wiki/T-shaped_skills
+- Leveraging the type system to avoid null mistakes(Not very complicated but still worth remembering): https://medium.com/@denman.tech/how-typed-software-languages-should-handle-null-nil-591eb58d94b2
+- https://www.tedinski.com/2018/01/30/the-one-ring-problem-abstraction-and-power.html
+- https://viralinstruction.com/posts/defense/
+- https://dev.to/jameesy/how-to-get-out-of-tutorial-hell-be-more-like-tony-hawk-1md8
 
 ## Blog Series:
 
