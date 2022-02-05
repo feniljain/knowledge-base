@@ -4,6 +4,7 @@
 
 - https://confused.ai/
 - https://ebpf.io/
+- eBPF Mailing List: http://vger.kernel.org/vger-lists.html#bpf
 
 ### Blogs and articles:
 
@@ -35,6 +36,7 @@
 - https://ish-ar.io/ebpf-dive-into-the-verifier/
 - https://ish-ar.io/ebpf-my-first-2-days-with-it/
 - https://ish-ar.io/kprobes-in-a-nutshell/
+- Good ref guide: BPF CO-RE(Code Once - Run Everywhere) reference guide: https://nakryiko.com/posts/bpf-core-reference-guide/
 
 ### Books:
 
@@ -43,6 +45,8 @@
 ### Repos:
 
 - https://github.com/zoidbergwill/awesome-ebpf
+- Tools for BPF-based Linux IO analysis, networking, monitoring, and more : https://github.com/iovisor/bcc
+- Automated upstream mirror for libbpf stand-alone build : https://github.com/libbpf/libbpf
 - https://github.com/alessandrod/bpf-linker
 - https://github.com/alessandrod/snuffy/blob/master/src/main.rs
 - https://github.com/jvns/rust-bcc/blob/f15d2983ddbe349aac3d2fcaeacf924a66db4be7/examples/strlen.rs
@@ -62,6 +66,7 @@
 - https://github.com/kentik/convis
 - https://github.com/fujita/libbpf-async
 - https://github.com/cilium/ebpf
+- https://github.com/solo-io/bumblebee
 
 ### Reddit and twitter threads:
 

@@ -95,6 +95,9 @@
 - Criticisms on BNF and Pratt Parsing in rust(Using binding power concept which is different than mainstream single power assigning methods): https://matklad.github.io/2020/04/13/simple-but-powerful-pratt-parsing.html
 - CFGs: http://nlab-pages.s3.us-east-2.amazonaws.com/nlab/show/context-free+grammar
 - A Tour of Safe Tracing GC Designs in Rust: https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/
+- Devirtualization in LLVM: https://dl.acm.org/doi/10.1145/3135932.3135947
+- When can the C++ compiler devirtualize a call? : https://quuxplusone.github.io/blog/2021/02/15/devirtualization/
+- The Power of devirtualization: https://marcofoco.com/the-power-of-devirtualization/
 
 ## Blog series/Articles collection:
 
@@ -137,6 +140,7 @@
 - https://github.com/llvm/llvm-project
 - LLVM IR in natural Rust data structures: https://github.com/cdisselkoen/llvm-ir
 - All LLVM's analysis and transform passes: https://github.com/llvm/llvm-project/blob/main/llvm/docs/Passes.rst
+- A massively parallel, optimal functional runtime in Rust : https://github.com/Kindelia/HVM
 
 ## Tools:
 

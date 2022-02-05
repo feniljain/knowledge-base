@@ -93,6 +93,8 @@
 - Get WasmEdge swags: https://docs.google.com/forms/d/e/1FAIpQLSdLOa3kU6My-GP3j3HpgdKfkxVnUq3Ntj3l43v5twe3hliPeg/viewform
 - https://medium.com/codex/ebpf-and-webassembly-whose-vm-reigns-supreme-c2861ce08f89
 - https://www.infoq.com/news/2022/01/ebpf-wasm-service-mesh/
+- https://medium.com/docler-engineering/manipulating-video-in-a-browser-5b37f8149d9b
+- https://medium.com/docler-engineering/video-manipulation-with-webassembly-3477a0c8524d
 
 ### Books:
 

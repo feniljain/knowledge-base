@@ -28,6 +28,7 @@
 - https://en.wikipedia.org/wiki/Compile-time_function_execution
 - https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity
 - https://en.wikipedia.org/wiki/Type_punning
+- https://en.wikipedia.org/wiki/Flexible_array_member
 
 # Lesser known langs but useful from design perspective:
 

@@ -390,6 +390,7 @@
 - Hacking Go compiler to add a new keyword: https://avi.im/blag/2021/rc-day-24/
 - How does go calculate len: https://tpaschalis.github.io/golang-len/
 - https://divan.dev/posts/go_concurrency_visualize/
+- Dumpster diving the Go garbage collector using eBPF: https://blog.px.dev/go-garbage-collector/
 
 # Go Learning:
 

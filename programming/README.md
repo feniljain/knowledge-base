@@ -152,6 +152,7 @@
 - https://www.tedinski.com/2018/01/30/the-one-ring-problem-abstraction-and-power.html
 - https://viralinstruction.com/posts/defense/
 - https://dev.to/jameesy/how-to-get-out-of-tutorial-hell-be-more-like-tony-hawk-1md8
+- https://jvns.ca/blog/brag-documents/
 
 ## Blog Series:
 

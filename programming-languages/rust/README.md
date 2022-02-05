@@ -561,6 +561,7 @@
 - https://ocamlpro.github.io/verification_for_dummies/
 - Writing interpreters in rust: https://rust-hosted-langs.github.io/book/
 - The little book of rust macros: https://veykril.github.io/tlborm/
+- https://github.com/QMHTMY/RustBook
 
 ## Interesting Projects:
 

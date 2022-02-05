@@ -157,6 +157,8 @@
 - https://modern-fluid-typography.vercel.app/
 - https://css-speedrun.netlify.app/
 - https://codeadrian.github.io/clay.css/
+- https://shottr.cc/
+- https://pika.rishimohan.me/
 
 ## Blogs And Articles:
 

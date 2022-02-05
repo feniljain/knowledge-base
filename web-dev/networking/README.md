@@ -15,6 +15,14 @@
 
 ## Blogs and Articles:
 
+### Tutorials:
+
+- Implementation of CIDR routing table in Rust: https://rtoch.com/posts/rust-cidr-routing/
+- https://guardianproject.info/2021/11/30/implementing-tls-encrypted-client-hello/
+- Tutorial on implementing TCP/IP: https://datatracker.ietf.org/doc/html/rfc1180
+
+### Others:
+
 - https://codeburst.io/mutual-tls-authentication-mtls-de-mystified-11fa2a52e9cf
 - https://iximiuz.com/en/posts/computer-networking-101/
 - https://iximiuz.com/en/posts/container-networking-is-simple/
@@ -65,14 +73,13 @@
 - https://www.reddit.com/r/programming/comments/r5j2lt/computer_networking_basics_for_developers/
 - https://www.infoq.com/news/2021/11/linux-dns-vulnerability/
 - https://sookocheff.com/post/time/how-does-ntp-work/
-- https://guardianproject.info/2021/11/30/implementing-tls-encrypted-client-hello/
 - https://jvns.ca/blog/2021/12/15/mess-with-dns/
 - https://blog.bgpkit.com/introducing-bgpkit-broker-b734dac4661e
 - This is an informational site about video and how it works. Learn all about what it takes to Playback, Deliver, and Process video. Stay tuned for more about video Capture: https://howvideo.works/
 - https://medium.com/@sanilkhurana7/exploring-video-streaming-1-345488fcf7e6
 - https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break/
-- Tutorial on implementing TCP/IP: https://datatracker.ietf.org/doc/html/rfc1180
 - https://en.wikipedia.org/wiki/Protocol_ossification
+- https://www.digitalocean.com/community/tutorials/http-1-1-vs-http-2-what-s-the-difference
 
 ## Blog Series/Articles collection:
 
@@ -112,6 +119,7 @@
 - Load balancing without load balancers(iptables): https://www.youtube.com/watch?v=-CraNvj48J0
 - Netflix Networking: Beating the Speed of Light with Intelligent Request Routing: https://www.infoq.com/presentations/intelligent-request-routing/
 - Implementing TCP/IP in rust: https://www.youtube.com/watch?v=bzja9fQWzdA
+- Limitations in HTTP2 which led to HTTP3: https://youtu.be/GriONb4EfPY
 
 ## Container Images:
 
@@ -128,6 +136,11 @@
 - https://webrtc.org/
 - https://webrtcforthecurious.com/
 - https://smarthome-webrtc-validator.withgoogle.com/
+- https://webrtcglossary.com/
+- WebRTC Reports: https://bloggeek.me/reports/
+- https://webrtchacks.com/
+- Course on webrtc: https://webrtccourse.com/developers/
+- https://bloggeek.me/webrtc-insights/
 
 ### GoogleGroups:
 
@@ -141,6 +154,8 @@
 - https://gafferongames.com/post/why_cant_i_send_udp_packets_from_a_browser/#what-about-webrtc
 - https://howvideo.works/
 - https://dyte.notion.site/How-to-get-Started-on-WebRTC-28bb82fbb47a42d7af3b9f06e22ef237
+- https://www.geeksforgeeks.org/interactive-connectivity-establishment-ice/
+- https://bloggeek.me/webrtc-trends-for-2022/
 
 ### Videos:
 

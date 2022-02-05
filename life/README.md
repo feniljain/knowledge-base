@@ -186,6 +186,9 @@
 - It's up to you how far you go. If you don't try, you'll never know!
 - You were not born a winner, and you were not born a loser. You are what you make yourself to be.
 - Things may come to those who wait, but only the things left by those who hustle.
+- At the end of the day, we can endure much more than we think we can.
+- As long as you're being a copycat, you will never be the best copycat.
+- Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day whispering, 'I will try again tomorrow.'
 
 ## Books:
 

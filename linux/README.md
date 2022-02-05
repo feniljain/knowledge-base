@@ -34,6 +34,7 @@
 - https://www.gamingonlinux.com/
 - https://wkz.github.io/ply/
 - Online operating system tester: https://distrotest.net/index.php
+- https://linuxreviews.org/
 
 ## Blogs and articles:
 
@@ -155,7 +156,8 @@
 - https://medium.com/100-days-of-linux/
 - http://brendangregg.com/blog/index.html
 - https://ojeda.dev/
-- Random bits from Greg Kroah-Hartman: http://www.kroah.com/log/
+- Greg Kroah-Hartman's blog: http://www.kroah.com/log/
+- http://www.gonehiking.org/ShuahLinuxBlogs/
 
 ## Books:
 
@@ -312,6 +314,7 @@
 ## Courses:
 
 - Linux Foundations Kernel Course: https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/
+- Corresponding discussion forum: https://forum.linuxfoundation.org/categories/lfd103-class-forum
 
 ## Reddit and twitter threads:
 

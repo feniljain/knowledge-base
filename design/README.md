@@ -21,6 +21,7 @@
 - SVGcode: a PWA to convert raster images to SVG vector graphics: https://web.dev/svgcode/
 - https://ebooks.webflow.com/
 - https://university.webflow.com/figma-to-webflow
+- https://www.framer.com/sites/
 
 ## Blogs and articles:
 

@@ -23,6 +23,7 @@
 - http://csrankings.org/#/index?all&us
 - https://www.tldraw.com/
 - Convert photo to passport size photo(3.5 X 4.5 usually preferred in India): https://www.123passportphoto.com/
+- https://writemyuserstory.com/
 
 ## Blogs and articles:
 
@@ -131,6 +132,7 @@
 - https://github.com/Xithrius/terminal-twitch-chat
 - https://github.com/LappleApple/awesome-leading-and-managing
 - https://trilarion.github.io/opensourcegames/
+- Allows you easily scan for and delete scam comments using several methods : https://github.com/ThioJoe/YT-Spammer-Purge
 
 ## Free Creds:
 

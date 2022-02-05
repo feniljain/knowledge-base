@@ -58,6 +58,7 @@
 - https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/
 - Shitty Indian Companies: https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRA59z5PaRnwnmZylkYJXOFxL44KFZQ66EMBDeamMCxXxYVrv39gnKq5tOJ7nDzlAEDfApIKGWTGQjX/pubhtml?gid=1267003809&single=true
 - https://4dayweek.medium.com/the-stripe-interview-process-and-how-to-ace-it-b41df4f4e6b6
+- https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556
 
 ## Videos:
 
