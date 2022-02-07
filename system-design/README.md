@@ -87,6 +87,7 @@
 - https://medium.com/interviewnoodle/system-design-for-failures-series-fd488072fa72
 - https://medium.com/geekculture/system-design-interview-for-mobile-engineers-ce712d6ac2c1
 - https://medium.com/interviewnoodle/atm-system-architecture-a6cc01531775
+- https://medium.com/@sivvio.piccolo/designing-a-code-deployment-system-question-from-algoexpert-c2b7cbd19690
 
 ## Repos:
 

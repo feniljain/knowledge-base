@@ -81,6 +81,10 @@
 - https://en.wikipedia.org/wiki/Protocol_ossification
 - https://www.digitalocean.com/community/tutorials/http-1-1-vs-http-2-what-s-the-difference
 
+## Books:
+
+- High Performance Browser Networking: https://hpbn.co/
+
 ## Blog Series/Articles collection:
 
 - https://iximiuz.com/en/
@@ -156,10 +160,13 @@
 - https://dyte.notion.site/How-to-get-Started-on-WebRTC-28bb82fbb47a42d7af3b9f06e22ef237
 - https://www.geeksforgeeks.org/interactive-connectivity-establishment-ice/
 - https://bloggeek.me/webrtc-trends-for-2022/
+- https://hpbn.co/webrtc/
 
 ### Videos:
 
 - Kranky Geek WebRTC Conf Videos Playlist: https://www.youtube.com/watch?v=UDB5KkcRRb0&list=PL4_h-ulX5eNdNK_z3_rflsHuXM-6pvvK7
+- WebRTC in 100 secs: https://www.youtube.com/watch?v=WmR9IMUD_CY
+- WebRTC Crash Course by Hussain Nasser: https://www.youtube.com/watch?v=FExZvpVvYxA
 
 ### Repos:
 

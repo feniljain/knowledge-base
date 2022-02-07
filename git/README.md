@@ -55,6 +55,7 @@
 - https://michaelheap.com/ultimate-guide-github-actions-authentication/
 - Useful tricks to git log: https://gitbetter.substack.com/p/useful-tricks-you-might-not-know
 - Short History of Git: https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git
+- https://chris.beams.io/posts/git-commit/
 
 ## Reddit and twitter threads:
 

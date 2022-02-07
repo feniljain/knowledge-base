@@ -189,6 +189,8 @@
 - At the end of the day, we can endure much more than we think we can.
 - As long as you're being a copycat, you will never be the best copycat.
 - Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day whispering, 'I will try again tomorrow.'
+- Never doubt that you are valuable and powerful and deserving of every chance in the world to pursue your dreams.
+- “What simple action could you take today to produce a new momentum toward success in your life?” Tony Robbins
 
 ## Books:
 
