@@ -7,6 +7,7 @@
 - Watch all english series online without ads: https://www3.watchserieshd.ru/
 - All in one audio/video editing: https://www.descript.com/#
 - Free alternative to spotify: https://spotfy.one/
+- Background video and image remover: backgroundremover.app
 
 # Blogs and articles:
 

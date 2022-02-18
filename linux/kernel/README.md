@@ -4,12 +4,27 @@
 
 - https://www.kernel.org/
 - https://kernelnewbies.org/KernelHacking
+- LFlive mentorship series: https://events.linuxfoundation.org/lf-live-mentorship-series/
+- https://pci-ids.ucw.cz/
+- https://pcilookup.com/
+- https://en.m.wikipedia.org/wiki/Ksplice
+- Kernel patches index: https://lwn.net/Kernel/Patches
+- https://kernelnewbies.org/LinuxChanges
 
 ## Blogs and articles:
 
 - https://en.pingcap.com/blog/linux-kernel-vs-memory-fragmentation-1/#a-brief-history-of-defragmentation
 - https://medium.com/geekculture/linux-kernel-vs-memory-fragmentation-part-ii-9eab96030b6d
 - Memory Compaction algorithm: https://lwn.net/Articles/368869/
+- Linux Kernel Oops: https://en.wikipedia.org/wiki/Linux_kernel_oops
+- System.map: https://en.wikipedia.org/wiki/System.map
+- https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234
+- Compiling Old Kernels Under Today’s GNU/Linux: https://circuitcellar.com/research-design-hub/design-solutions/compiling-old-kernels-under-todays-gnu-linux/
+- Installing kernel 5.7 in ubuntu: https://ubuntuhandbook.org/index.php/2020/06/install-kernel-5-7-ubuntu-linux-mint/
+- amd64 build of linux-5.7 5.7.0-15.16 in ubuntu groovy RELEASE: https://launchpad.net/~canonical-kernel-team/+archive/ubuntu/bootstrap/+build/19552707
+- Understanding Linux-stable, linux-stable-rc and release process in general: https://github.com/android-linux-stable/notes/blob/master/info/what-is-linux-stable.md
+- How kernel development process works: https://github.com/torvalds/linux/blob/master/Documentation/process/2.Process.rst
+- #1 Project for kernel beginners to work on: https://lwn.net/Articles/283982/
 
 ## Dev:
 
@@ -23,6 +38,20 @@
 - 0day build bot boot, performance and build issues: https://lists.01.org/hyperkitty/
 - Linux Kernel Functional Testing: https://qa-reports.linaro.org/lkft/
 - Build bot for the kernel: https://kerneltests.org/
+- Debugging kernel: https://sanjeev1sharma.wordpress.com/tag/debug-kernel-panics/
+- Understanding a Kernel Oops: https://www.opensourceforu.com/2011/01/understanding-a-kernel-oops/
+- decode_stacktrace: make stack dump output useful again: https://lwn.net/Articles/592724/
+- Event tracing: https://www.kernel.org/doc/html/latest/trace/events.html
+- Bug hunting guide: https://www.kernel.org/doc/html/latest/admin-guide/bug-hunting.html
+- Bisecting a bug: https://www.kernel.org/doc/html/latest/admin-guide/bug-bisect.html
+- Dynamic debugging: https://www.kernel.org/doc/html/latest/admin-guide/dynamic-debug-howto.html
+- Who made that change and when: Using cregit for debugging: http://www.gonehiking.org/ShuahLinuxBlogs/blog/2018/10/18/who-made-that-change-and-when-using-cregit-for-debugging/
+- https://syzkaller.appspot.com/upstream
+- https://www.linux.com/training-tutorials/how-rescue-non-booting-grub-2-linux/
+- Passing Command Line Arguments to a Module: https://tldp.org/LDP/lkmpg/2.6/html/x323.html
+- The Linux Documentation Project: https://tldp.org/
+- KASAN: https://www.kernel.org/doc/html/v4.14/dev-tools/kasan.html
+- Setting up email clients for kernel dev: https://github.com/torvalds/linux/blob/master/Documentation/process/email-clients.rst
 
 ## Kernel dev info:
 
@@ -32,3 +61,17 @@
 - Guide to kernel development process: https://www.kernel.org/doc/html/latest/process/development-process.html
 - First Kernel Patch: https://wiki.linuxfoundation.org/lkmp/lkmp_first_kernel_patch
 - How to do Linux Kernel Development: https://www.kernel.org/doc/html/latest/process/howto.html#
+
+## Reddit and twitter threads:
+
+- https://www.reddit.com/r/linux4noobs/comments/sr5fn8/what_do_linux_kernel_version_numbers_mean_nowadays/
+
+## Videos:
+
+- Linux Kernel Programming short series covering compiling, modules, drivers, busybox, etc.: https://www.youtube.com/watch?v=WiZ05pnHZqM&list=PLHh55M_Kq4OChzSZUHzjjSetgiaTLB0Nz
+- Why Linux maintainers are grumpy: https://www.youtube.com/watch?v=fMeH7wqOwXA
+- Linux Kernel Development By Greg: https://www.youtube.com/watch?v=vyenmLqJQjs
+
+## Books:
+
+- Linux Kernel in a nutshell: http://index-of.es/z0ro-Repository-2/Operating-Systems/Linux/O%27Reilly%20Linux%20Kernel%20in%20a%20Nutshell.pdf

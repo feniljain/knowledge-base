@@ -46,6 +46,7 @@
 - If you have good thoughts they will shine out of your face like sunbeams and you will always look lovely.
 - Focus is the art of knowing what to ignore.
 - There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
+- https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html
 
 ## Videos:
 
@@ -191,6 +192,14 @@
 - Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day whispering, 'I will try again tomorrow.'
 - Never doubt that you are valuable and powerful and deserving of every chance in the world to pursue your dreams.
 - “What simple action could you take today to produce a new momentum toward success in your life?” Tony Robbins
+- The important thing is not to stop questioning. Curiosity has its own reason for existence.
+- The past is done. The future has plenty of room for change.
+- It is never too late to be what you might have been.
+- Deciding what not to do is as important as deciding what to do.
+- When you have confidence, you can have a lot of fun. And when you have fun, you can do amazing things.
+- If most of us are ashamed of shabby clothes and shoddy furniture, let us be more ashamed of shabby ideas and shoddy philosophies. - Albert Einstein
+- All things are difficult before they are easy - Thomas Fuller
+- Wanting to be someone else is a waste of who you are.
 
 ## Books:
 

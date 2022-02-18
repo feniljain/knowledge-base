@@ -59,6 +59,8 @@
 - Shitty Indian Companies: https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRA59z5PaRnwnmZylkYJXOFxL44KFZQ66EMBDeamMCxXxYVrv39gnKq5tOJ7nDzlAEDfApIKGWTGQjX/pubhtml?gid=1267003809&single=true
 - https://4dayweek.medium.com/the-stripe-interview-process-and-how-to-ace-it-b41df4f4e6b6
 - https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556
+- https://dev.to/irsayvid/how-i-got-my-internship-at-google-the-interview-process-with-tips-and-resources-4d3n
+- https://www.wonsulting.com/resources?utm_campaign=SlooLetter&utm_medium=email&utm_source=Revue%20newsletter
 
 ## Videos:
 
@@ -132,3 +134,7 @@
 
 - https://github.com/QasimWani/LeetHub
 - https://github.com/cassidoo/getting-a-gig
+
+### Twitter and reddit threads:
+
+- Tips on attempting contests: https://twitter.com/Priyansh_31Dec/status/1492746603387506688

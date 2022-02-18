@@ -153,6 +153,8 @@
 - https://viralinstruction.com/posts/defense/
 - https://dev.to/jameesy/how-to-get-out-of-tutorial-hell-be-more-like-tony-hawk-1md8
 - https://jvns.ca/blog/brag-documents/
+- How to Write 3v1L, Untestable Code: https://testing.googleblog.com/2008/07/how-to-write-3v1l-untestable-code.html
+- https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/
 
 ## Blog Series:
 
@@ -163,6 +165,8 @@
 - https://www.quastor.org/
 - https://abyteofcoding.com/
 - https://wasmweekly.news/
+- https://tldr.tech/
+- https://newsletter.pragmaticengineer.com/
 
 ## Podcasts:
 
@@ -284,6 +288,16 @@
 - Software Engineering at Google: https://abseil.io/resources/swe_at_google.2.pdf
 - http://gchandbook.org/
 - Important books every dev should read according to their seniority: https://fampay.notion.site/fampay/Books-And-Links-b14ac9a1346a40648dfd7c2a32fd177c
+- Best books on managing software complexity:
+  - John K Ousterhout, A Philosophy of Software Design
+  - Titus Winter (et al), Software Engineering at Google
+  - Hanson and Sussman, Software Design for Flexibility
+  - Peter Naur, Programming as Theory Building
+  - Scott Wlaschin, Domain Modeling Made Functional
+  - Nick Tune, Patterns, Principles, and Practises of Domain Driven Design
+  - Robert L. Glass, Facts and Fallacies of Software Engineering
+  - Donald Reinertsen, The Principles of Product Development Flow
+  - Eric Normand, Grokking Simplicity
 
 ## Tools:
 

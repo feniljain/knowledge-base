@@ -54,6 +54,7 @@
 - https://www.makeuseof.com/javascript-set-methods-to-master/
 - Rust Is The Future of JavaScript Infrastructure: https://leerob.io/blog/rust
 - https://blog.bitsrc.io/5-express-middleware-libraries-every-developer-should-know-94e2728f7503
+- https://betterprogramming.pub/a-deep-dive-into-weak-memory-management-in-javascript-55ab240a09aa
 
 ### Tutorials:
 

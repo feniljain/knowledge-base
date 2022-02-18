@@ -73,6 +73,8 @@
 - https://ajay-yadav.medium.com/database-storage-engines-de757b03bd44
 - https://zonito.medium.com/how-to-remove-duplicate-records-from-1-billion-records-without-any-index-in-mysql-44b15b2d0ec1
 - https://www.red-gate.com/simple-talk/databases/oracle-databases/transformations-by-the-oracle-optimizer/
+- https://blog.bernd-ruecker.com/achieving-consistency-without-transaction-managers-7cb480bd08c
+- https://milvusio.medium.com/what-are-vector-databases-8100178c5774
 
 ## Blog Series:
 
@@ -84,6 +86,7 @@
 - Time Series Database Lecture Series: https://m.youtube.com/watch?v=2SUBRE6wGiA&list=RDQMqZDZkuhXSmc&start_radio=1
 - When are indexes useless: https://www.youtube.com/watch?v=oebtXK16WuU
 - How does PostgresSQL actually work: https://www.youtube.com/watch?v=OeKbL55OyL0
+- Scaling mongodb best practices for sharding, indexing and performance: https://youtu.be/ZcAErl9Ir6Q
 
 ## Tutorials:
 

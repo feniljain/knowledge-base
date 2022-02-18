@@ -7,6 +7,7 @@
 - https://learngitbranching.js.org/
 - http://ohmygit.org/
 - https://www.conventionalcommits.org/en/v1.0.0/
+- https://savannah.nongnu.org/projects/quilt/
 
 ## Blogs and Articles:
 
@@ -56,6 +57,7 @@
 - Useful tricks to git log: https://gitbetter.substack.com/p/useful-tricks-you-might-not-know
 - Short History of Git: https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git
 - https://chris.beams.io/posts/git-commit/
+- Using git send-email: https://burzalodowa.wordpress.com/2013/10/05/how-to-send-patches-with-git-send-email/
 
 ## Reddit and twitter threads:
 
@@ -107,6 +109,7 @@
 - https://github.com/readme/podcast
 - https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes
 - https://github.blog/changelog/2021-10-27-pull-request-merge-queue-limited-beta/
+- https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
 
 ## Interesting commands:
 
@@ -139,3 +142,7 @@
 - git diff <> <>: Let's say you want to see different between two branches, for eg. origin/main and main, you just pass it onto git diff and it will give an overall diff between two brancheh
 
 - git log develop..origin/develop : This command will help you show all the commits from origin/develop but that are not present in the develop branch. In this way, you can know that how many new commits are added to the remote develop branch that is not present in the local branch. Swapping branch names gives vice-versa result
+
+## Markdown:
+
+- Diagrams: https://gist.github.com/blackcater/1701e845a963216541591106c1bb9d3b

@@ -17,6 +17,8 @@
 - https://en.wikipedia.org/wiki/Branch_predictor
 - https://en.wikipedia.org/wiki/Register_window
 - https://drewdevault.com/2022/01/15/2022-01-15-The-RISC-V-experience.html
+- https://www.eetimes.com/a-big-week-for-risc-v/
+- https://preshing.com/20120930/weak-vs-strong-memory-models/
 
 ## Repos:
 

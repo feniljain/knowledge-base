@@ -53,6 +53,8 @@
 - https://joshbradley.me/understanding-the-power-of-lisp/
 - Debunking V languages false claims: https://christine.website/blog/v-vaporware-2019-06-23
 - https://blog.sigplan.org/2022/01/13/provably-space-efficient-parallel-functional-programming/
+- https://www.fluentcpp.com/2022/01/24/programming-paradigm-gives-expressive-code/
+- https://standards.mousepawmedia.com/en/latest/csi.html
 
 ## Blog series/articles collection:
 

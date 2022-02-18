@@ -39,6 +39,8 @@
 - https://www.reddit.com/r/ProgrammingLanguages/comments/qqtg0v/oilpan_gc_library_for_c_recently_exposed_in_v8/
 - https://trmidboe.medium.com/federated-applications-e-plurbus-unum-2cc7850250a0
 - https://developers.cloudflare.com/workers/learning/how-workers-works
+- How do browsers work: https://taligarsiel.com/Projects/howbrowserswork1.htm
+- How web browser works step by step — high-level architecture: https://cabulous.medium.com/how-browser-works-part-i-process-and-thread-f63a9111bae9
 
 ## Videos:
 
@@ -56,7 +58,7 @@
 - https://fingerprintjs.com/blog/audio-fingerprinting/
 - https://github.com/30-seconds/30-seconds-web
 
-## Web-assembly:
+## WebAssembly:
 
 ### Websites:
 
@@ -67,6 +69,7 @@
 - Gameboy emulator in wasm: https://madewithwebassembly.com/showcase/binjgb/
 - https://webassembly.cloud/
 - Newsletter for webassembly: https://wasmweekly.news/issue-161/
+- Full Libreoffice running in wasm: https://lab.allotropia.de/wasm/
 
 ### Videos:
 
@@ -95,6 +98,9 @@
 - https://www.infoq.com/news/2022/01/ebpf-wasm-service-mesh/
 - https://medium.com/docler-engineering/manipulating-video-in-a-browser-5b37f8149d9b
 - https://medium.com/docler-engineering/video-manipulation-with-webassembly-3477a0c8524d
+- https://www.infoq.com/presentations/wasi-system-interface/
+- https://blog.devgenius.io/part-2-how-to-read-wasm-1f7e34e70f59
+- WASM Internals: https://a-j.gitbook.io/wasm-experimentation/wasm-internals-1
 
 ### Books:
 

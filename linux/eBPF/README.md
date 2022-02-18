@@ -37,6 +37,9 @@
 - https://ish-ar.io/ebpf-my-first-2-days-with-it/
 - https://ish-ar.io/kprobes-in-a-nutshell/
 - Good ref guide: BPF CO-RE(Code Once - Run Everywhere) reference guide: https://nakryiko.com/posts/bpf-core-reference-guide/
+- https://www.infoq.com/podcasts/liz-rice-ebpf/
+- BPF Type Format: https://www.kernel.org/doc/html/latest/bpf/btf.html
+- A memory allocator for BPF code: https://lwn.net/Articles/883454/
 
 ### Books:
 
@@ -85,3 +88,4 @@
 - A moderate intro to writing BPF programs with Rust: https://www.youtube.com/watch?v=Pac083l2R34
 - https://www.infoq.com/presentations/ebpf-cloud-native/
 - eBPF and Go: https://changelog.com/gotime/201
+- LPC 2021: BPF And Networking Summit: https://www.youtube.com/watch?v=igJLKyP1lFk

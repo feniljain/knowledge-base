@@ -44,6 +44,8 @@
 - https://branislavjenco.github.io/desired-state-systems/
 - https://betterprogramming.pub/design-patterns-a-complete-guide-b2699315961f
 - https://en.wikipedia.org/wiki/Side_effect_(computer_science)
+- https://medium.com/@iamjwr/software-engineer-roadmap-via-books-a6aabdc2589c
+- https://dannorth.net/2022/02/10/cupid-for-joyful-coding/
 
 ## Blogs Series:
 

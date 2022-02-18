@@ -98,6 +98,9 @@
 - Devirtualization in LLVM: https://dl.acm.org/doi/10.1145/3135932.3135947
 - When can the C++ compiler devirtualize a call? : https://quuxplusone.github.io/blog/2021/02/15/devirtualization/
 - The Power of devirtualization: https://marcofoco.com/the-power-of-devirtualization/
+- EBNF: https://www.gimtec.io/articles/ebnf/
+- Stack Frames: https://stackoverflow.com/questions/10057443/explain-the-concept-of-a-stack-frame-in-a-nutshell
+- Chomsky hierarchy: https://www.geeksforgeeks.org/chomsky-hierarchy-in-theory-of-computation/
 
 ## Blog series/Articles collection:
 
@@ -158,6 +161,7 @@
 - https://www.snsystems.com/technology/tech-blog/improving-debug-variable-location-coverage-by-using-even-more-ssa
 - Ownership SSA: https://www.youtube.com/watch?v=qy3iZPHZ88o
 - What is bytecode?: https://www.youtube.com/watch?v=mgRXdgPcYc0
+- Challenges In Analyzing and Optimizing Parallel Programs: https://www.youtube.com/watch?v=UdxZ8YqJlBE
 
 ## Courses:
 

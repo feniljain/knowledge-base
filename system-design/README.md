@@ -88,6 +88,8 @@
 - https://medium.com/geekculture/system-design-interview-for-mobile-engineers-ce712d6ac2c1
 - https://medium.com/interviewnoodle/atm-system-architecture-a6cc01531775
 - https://medium.com/@sivvio.piccolo/designing-a-code-deployment-system-question-from-algoexpert-c2b7cbd19690
+- https://towardsdatascience.com/ace-the-system-design-interview-distributed-id-generator-c65c6b568027
+- https://mecha-mind.medium.com/system-design-backend-for-google-photos-e0abcd74dd36
 
 ## Repos:
 

@@ -676,7 +676,7 @@
 - https://www.reddit.com/r/rust/comments/o70k19/googles_unified_vulnerability_schema_for_open/
 - https://www.reddit.com/r/rust/comments/s74uik/rust_vs_c_how_are_vulnerabilities_different_an/
 
-## Reddit threads and tweets:
+## Reddit and twitter threads:
 
 - https://www.reddit.com/r/rust/comments/kxvz8q/a_pure_rust_implementation_of_webrtc_api/
 - Interesting discussions on ADT, F#, OCaml and other things: https://www.reddit.com/r/rust/comments/l594zl/everywhere_i_go_i_miss_rusts_enums/
@@ -697,6 +697,7 @@
 - Phantom types in rust: https://www.reddit.com/r/rust/comments/q5r9uy/phantom_types_in_rust/
 - https://www.reddit.com/r/rust/comments/r10pp1/will_rust_ever_have_a_futures_executor_in_std/
 - https://www.reddit.com/r/rust/comments/si0j6v/im_preparing_for_a_rust_interview/
+- Talks about early days of rust: https://twitter.com/graydon_pub/status/1492634815748739077
 
 ## Rust Learning:
 
@@ -728,6 +729,7 @@
 - https://www.reddit.com/r/devops/comments/pr2urw/some_courses_up_for_grabs_hope_it_helps_someone/
 - https://dystroy.org/blog/how-not-to-learn-rust/
 - https://www.reddit.com/r/rust/comments/rr4npz/rust_course/
+- https://itnext.io/gilded-rose-kata-in-rust-e00f51f1e8d8
 
 ### Videos:
 

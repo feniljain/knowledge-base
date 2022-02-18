@@ -71,6 +71,7 @@
 - https://blog.quarkslab.com/digging-into-linux-namespaces-part-1.html
 - https://stackoverflow.com/questions/614795/simulate-delayed-and-dropped-packets-on-linux
 - https://systemcrafters.net/craft-your-system-with-guix/5-reasons-to-try-guix/
+- https://www.internalpointers.com/post/build-binary-deb-package-practical-guide
 
 ### Linux working:
 
@@ -206,6 +207,9 @@
 - Useful sed scripts & patterns: https://github.com/adrianscheff/useful-sed
 - https://www.reddit.com/r/linux/comments/qzkhy3/virtual_surround_sound_headphone_setup_on_linux/
 - Run macos apps on linux: https://www.darlinghq.org/
+- collection of pure bash alternatives to external processes: https://github.com/dylanaraps/pure-bash-bible
+- Use your GPU for rendering low cpu using/usage video animated wallpaper
+  Topics: https://github.com/ghostlexly/gpu-video-wallpaper
 
 ### Others:
 
@@ -384,3 +388,7 @@
 - Using rust for kernel development: https://lwn.net/Articles/870555/
 - https://thenewstack.io/linus-torvalds-on-community-rust-and-linuxs-longevity
 - Introduction of rust to linx kernel, another RFC: https://lore.kernel.org/lkml/CANiq72khBa2GcB6-PHM3A44Y90d6vzYAS=BVpk3nT4B6u+NVDw@mail.gmail.com/T/#mb5e524dae9d5a5815c6e68eb36b9bde4e87c861d
+
+## IO-Uring:
+
+- Zero-copy network transmission with io_uring: https://lwn.net/Articles/879724/

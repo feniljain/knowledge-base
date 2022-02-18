@@ -33,6 +33,7 @@
 - Serial Transceiver: Send, Receive & Forward Data in a Single Device | Minecraft 1.13+: https://www.youtube.com/watch?v=Ehqyj8_pGdg
 - mattbatwings(has good redstone basic and logical videos, for eg. binary, hexadecimal, RAM, decoders, etc.): https://www.youtube.com/channel/UCz28y3fThmxHaIh7Zl-i6KA
 - The Wonderful world of wireless redstone(Amazing video explaning a lot of internals of redstone and corresponding gameplay and how these are used to transmit redstone signals wirelessly): https://www.youtube.com/watch?v=sBNuqZKa_Lw
+- Item Filters & Auto Sorted Storage!: https://www.youtube.com/watch?v=MNtMIyDoR7s
 
 ### Reddit and twitter threads:
 

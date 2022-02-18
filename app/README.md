@@ -94,6 +94,8 @@
 - https://source.android.com/setup/build/rust/building-rust-modules/overview
 - https://hvg24.medium.com/how-to-use-an-android-device-for-development-wirelessly-7e6fc08c7438
 - https://medium.com/geekculture/the-following-are-examples-to-render-fractal-images-in-android-bitmap-with-rust-22a9fb5d648b
+- https://blog.esper.io/android-13-deep-dive/
+- http://cnx-software.com/2022/02/14/android-13-virtualiza
 
 ## Websites:
 

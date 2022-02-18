@@ -39,6 +39,7 @@
 - Making plugins with lua: https://www.youtube.com/watch?v=wkxtHV1hzEY
 - Set up Vim as external code editor to Unity, Godot, or any applications: https://www.youtube.com/watch?v=6-ruUW8hiS0
 - Neovim | Config Structuring & Patterns: https://www.youtube.com/watch?v=TsjW37zWP7c
+- Introduction to LuaSnip: https://www.youtube.com/watch?v=Dn800rlPIho
 
 ## Blogs, Articles and threads:
 
@@ -112,6 +113,7 @@
 - https://susamn.medium.com/its-time-to-edit-effectively-in-vim-a-visual-article-76f9d0b45938
 - https://www.chrisdeluca.me/article/diy-neovim-fzy-search/
 - https://linuxhint.com/diff-two-files-vim/
+- http://vimcasts.org/episodes/writing-a-custom-fold-expression/
 
 ## VimTricks:
 

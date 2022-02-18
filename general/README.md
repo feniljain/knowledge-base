@@ -24,6 +24,7 @@
 - https://www.tldraw.com/
 - Convert photo to passport size photo(3.5 X 4.5 usually preferred in India): https://www.123passportphoto.com/
 - https://writemyuserstory.com/
+- https://uncyclopedia.com/wiki/Main_Page
 
 ## Blogs and articles:
 
@@ -68,6 +69,7 @@
 ## Videos:
 
 - 5 ways a person is sitting wrong at your desk: https://www.youtube.com/watch?v=Ree1CWifQTg
+- Inbox Zero Tutorial (Step-by-step Instructions): https://www.youtube.com/watch?v=9ql1CQfxWxQ
 
 ## Cheatsheets:
 

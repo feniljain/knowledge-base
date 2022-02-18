@@ -22,6 +22,7 @@
 - https://ebooks.webflow.com/
 - https://university.webflow.com/figma-to-webflow
 - https://www.framer.com/sites/
+- Accessbility checklist: https://www.a11yproject.com/checklist/
 
 ## Blogs and articles:
 
@@ -33,6 +34,11 @@
 - https://animatedbackgrounds.me/
 - https://www.telerik.com/blogs/figma-developers
 - https://university.webflow.com/figma-to-webflow
+- https://uxdesign.cc/why-do-we-round-corners-5145a90da6ed
+
+## Blog series/article collection:
+
+- https://goncalodiasmm.medium.com/
 
 ## Repos:
 

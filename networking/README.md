@@ -20,6 +20,7 @@
 - Implementation of CIDR routing table in Rust: https://rtoch.com/posts/rust-cidr-routing/
 - https://guardianproject.info/2021/11/30/implementing-tls-encrypted-client-hello/
 - Tutorial on implementing TCP/IP: https://datatracker.ietf.org/doc/html/rfc1180
+- A toy DNS Resolver: https://jvns.ca/blog/2022/02/01/a-dns-resolver-in-80-lines-of-go/
 
 ### Others:
 
@@ -80,6 +81,7 @@
 - https://jvns.ca/blog/2022/01/15/some-ways-dns-can-break/
 - https://en.wikipedia.org/wiki/Protocol_ossification
 - https://www.digitalocean.com/community/tutorials/http-1-1-vs-http-2-what-s-the-difference
+- https://www.ir.com/guides/what-is-network-jitter
 
 ## Books:
 
@@ -132,42 +134,3 @@
 ## Research papers:
 
 - A pure http/3 alternatice to MQTT-over-QUIC in resource constrained IoT: https://arxiv.org/pdf/2106.12684.pdf
-
-## WebRTC:
-
-### Websites:
-
-- https://webrtc.org/
-- https://webrtcforthecurious.com/
-- https://smarthome-webrtc-validator.withgoogle.com/
-- https://webrtcglossary.com/
-- WebRTC Reports: https://bloggeek.me/reports/
-- https://webrtchacks.com/
-- Course on webrtc: https://webrtccourse.com/developers/
-- https://bloggeek.me/webrtc-insights/
-
-### GoogleGroups:
-
-- https://groups.google.com/g/discuss-webrtc/
-
-### Blogs and articles:
-
-- https://blog.swmansion.com/modular-rtc-engine-is-our-little-big-revolution-in-video-conferencing-cfde806c5beb
-- https://blog.bitsrc.io/will-webtransport-replace-webrtc-in-near-future-436c4f7f3484
-- https://medium.com/swlh/webrtc-the-technology-that-powers-google-meet-hangout-facebook-messenger-and-discord-cb926973d786
-- https://gafferongames.com/post/why_cant_i_send_udp_packets_from_a_browser/#what-about-webrtc
-- https://howvideo.works/
-- https://dyte.notion.site/How-to-get-Started-on-WebRTC-28bb82fbb47a42d7af3b9f06e22ef237
-- https://www.geeksforgeeks.org/interactive-connectivity-establishment-ice/
-- https://bloggeek.me/webrtc-trends-for-2022/
-- https://hpbn.co/webrtc/
-
-### Videos:
-
-- Kranky Geek WebRTC Conf Videos Playlist: https://www.youtube.com/watch?v=UDB5KkcRRb0&list=PL4_h-ulX5eNdNK_z3_rflsHuXM-6pvvK7
-- WebRTC in 100 secs: https://www.youtube.com/watch?v=WmR9IMUD_CY
-- WebRTC Crash Course by Hussain Nasser: https://www.youtube.com/watch?v=FExZvpVvYxA
-
-### Repos:
-
-- RingRTC is a middleware library providing Signal Messenger applications with video and voice calling services built on top of WebRTC: https://github.com/signalapp/ringrtc

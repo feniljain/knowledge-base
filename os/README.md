@@ -7,6 +7,8 @@
 - https://ebpf.io/
 - https://fuchsia.dev/fuchsia-src/reference/syscalls
 - The Yasm Modular Assembler Project: http://yasm.tortall.net/
+- https://www.osdev.org/
+- http://www.lowlevel.eu/
 
 ## Blog and articles:
 
@@ -61,6 +63,7 @@
 
 - Write your own 64bit OS kernel: https://www.youtube.com/watch?v=FkrpUaGThTQ&list=WL&index=15
 - Making an OS(x86): https://www.youtube.com/watch?v=MwPjvJ9ulSc&list=PLm3B56ql_akNcvH8vvJRYOc7TbYhRs19M
+- Writing your own os(a series): https://www.youtube.com/watch?v=1rnA6wpF0o4&list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M
 
 <h2 align="center">Kernel</h2>
 

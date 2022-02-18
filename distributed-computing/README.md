@@ -9,3 +9,9 @@
 
 - https://martinfowler.com/articles/patterns-of-distributed-systems/replicated-log.html
 - https://www.quastor.org/p/how-distributed-databases-work
+- https://hongilkwon.medium.com/what-is-linearizability-in-distributed-system-db8bca3d432d
+- https://towardsdatascience.com/raft-algorithm-explained-a7c856529f40
+
+## Videos:
+
+- Clock synchronization in distributed systems: https://www.youtube.com/watch?v=mAyW-4LeXZo&list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB&index=10

@@ -70,6 +70,7 @@
 - https://loft-sh.medium.com/docker-compose-vs-kubernetes-development-tools-867e20e2bea5
 - https://hackernoon.com/how-to-automate-kubernetes-deployments-with-postman
 - http://macias.info/entry/202109081800_k8s_informers.md
+- Running webassembly in kubernetes with rust: https://developer.okta.com/blog/2022/01/28/webassembly-on-kubernetes-with-rust
 
 ## Blog series:
 
@@ -82,6 +83,7 @@
 
 - 47 things to become a kubernetes expert: https://twitter.com/bibryam/status/1373583176212299776
 - Security in kubernetes: https://twitter.com/kubesploit
+- CKA Study resources: https://samperrin.com/posts/kubernetes-cka-study-resources/
 
 ## Videos:
 
@@ -134,3 +136,7 @@
 - https://www.reddit.com/r/devops/comments/q5ml11/learning_kubernetes/
 - https://dev.to/pghildiyal/let-s-learn-kubernetes-basics-part-1-3of7
 - https://hackernoon.com/21-resources-and-tutorials-to-learn-kubernetes
+
+### Reddit and twitter threads:
+
+- If you had to learn Kubernetes from scratch, where would you start?: https://twitter.com/the_good_guym/status/1492205223108042752

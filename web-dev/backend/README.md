@@ -81,6 +81,8 @@
 - https://betterprogramming.pub/jwt-ultimate-how-to-guide-with-best-practices-in-javascript-f7ba4c48dfbd
 - Your API is bad: https://leanpub.com/yourapiisbad/read
 - API Showdown REST vs GraphQL vs gRPC: https://www.infoq.com/podcasts/api-showdown-rest-graphql-grpc/
+- A decade of major cache incidents at Twitter: https://danluu.com/cache-incidents/
+- How google docs live collaboration work: https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs.html
 
 ## Blog series/Articles collection:
 
