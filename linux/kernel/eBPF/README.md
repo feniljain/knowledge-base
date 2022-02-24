@@ -1,12 +1,13 @@
 <h2 align="center">eBPF</h2>
 
-### Websites:
+## Websites:
 
 - https://confused.ai/
 - https://ebpf.io/
 - eBPF Mailing List: http://vger.kernel.org/vger-lists.html#bpf
+- See all the ebpf patches together: https://patchwork.kernel.org/project/netdevbpf/list/
 
-### Blogs and articles:
+## Blogs and articles:
 
 - https://blog.redsift.com/labs/writing-bpf-code-in-rust/
 - https://jvns.ca/blog/2018/02/05/rust-bcc/
@@ -40,12 +41,20 @@
 - https://www.infoq.com/podcasts/liz-rice-ebpf/
 - BPF Type Format: https://www.kernel.org/doc/html/latest/bpf/btf.html
 - A memory allocator for BPF code: https://lwn.net/Articles/883454/
+- Fuzzing for eBPF JIT bugs in the Linux kernel: https://scannell.io/posts/ebpf-fuzzing/
+- https://research.nccgroup.com/2021/08/06/some-musings-on-common-ebpf-linux-tracing-bugs/
+- https://taras.glek.net/post/ebpf-mmap-page-fault-tracing/
 
-### Books:
+## Blog series/Article collection:
+
+- https://nakryiko.com/categories/bpf/
+- https://www.ferrisellis.com/tags/ebpf/
+
+## Books:
 
 - eBPF Book: http://www.brendangregg.com/bpf-performance-tools-book.html
 
-### Repos:
+## Repos:
 
 - https://github.com/zoidbergwill/awesome-ebpf
 - Tools for BPF-based Linux IO analysis, networking, monitoring, and more : https://github.com/iovisor/bcc
@@ -70,8 +79,9 @@
 - https://github.com/fujita/libbpf-async
 - https://github.com/cilium/ebpf
 - https://github.com/solo-io/bumblebee
+- Schedule bpftrace programs on your kubernetes cluster using the kubectl: https://github.com/iovisor/kubectl-trace
 
-### Reddit and twitter threads:
+## Reddit and twitter threads:
 
 - https://www.reddit.com/r/rust/comments/ojzc3z/implementation_of_an_ebpf_memory_profiler_has/
 - https://www.reddit.com/r/kernel/comments/oks79i/a_beginners_guide_to_ebpf_programming_with_go/
@@ -80,7 +90,7 @@
 - https://www.reddit.com/r/golang/comments/q5ptus/introducing_parca_open_source_infrastructurewide/
 - https://www.reddit.com/r/eBPF/comments/qmgo07/introducing_oxidebpf_a_linux_tool_for_rust_and/
 
-### Videos:
+## Videos:
 
 - eBPF superpowers from liz rice: https://www.youtube.com/watch?v=4SiWL5tULnQ
 - Using eBPF to measure the k8s cluster health: https://www.p99conf.io/session/using-ebpf-to-measure-the-k8s-cluster-health/

@@ -163,6 +163,7 @@
 ## Books:
 
 - The UNIX-HATERS Handbook: https://web.mit.edu/~simsong/www/ugh.pdf
+- Advanced Linux Programming: https://mentorembedded.github.io/advancedlinuxprogramming/alp-folder/advanced-linux-programming.pdf
 
 ## Bash and ZSH:
 

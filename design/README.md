@@ -35,6 +35,8 @@
 - https://www.telerik.com/blogs/figma-developers
 - https://university.webflow.com/figma-to-webflow
 - https://uxdesign.cc/why-do-we-round-corners-5145a90da6ed
+- https://discord.com/blog/building-open-source-design-tools-to-improve-discords-design-workflow
+- https://pimpmytype.com/wordle/
 
 ## Blog series/article collection:
 

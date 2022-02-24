@@ -10,6 +10,7 @@
 - https://en.m.wikipedia.org/wiki/Ksplice
 - Kernel patches index: https://lwn.net/Kernel/Patches
 - https://kernelnewbies.org/LinuxChanges
+- http://eudyptula-challenge.org/
 
 ## Blogs and articles:
 
@@ -25,6 +26,8 @@
 - Understanding Linux-stable, linux-stable-rc and release process in general: https://github.com/android-linux-stable/notes/blob/master/info/what-is-linux-stable.md
 - How kernel development process works: https://github.com/torvalds/linux/blob/master/Documentation/process/2.Process.rst
 - #1 Project for kernel beginners to work on: https://lwn.net/Articles/283982/
+- Linux tracing - kprobe, uprobe and tracepoint: https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2020/08/05/tracing-basic
+- Kernel Locking —Deep Dive into Spinlocks: https://deepdives.medium.com/kernel-locking-deep-dive-into-spinlocks-part-1-bcdc46ee8df6
 
 ## Dev:
 
@@ -52,9 +55,6 @@
 - The Linux Documentation Project: https://tldp.org/
 - KASAN: https://www.kernel.org/doc/html/v4.14/dev-tools/kasan.html
 - Setting up email clients for kernel dev: https://github.com/torvalds/linux/blob/master/Documentation/process/email-clients.rst
-
-## Kernel dev info:
-
 - https://www.kernel.org/doc/linux/MAINTAINERS
 - All mailing lists index: http://vger.kernel.org/vger-lists.html
 - Owners + last active periods: https://git.kernel.org/

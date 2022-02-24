@@ -12,6 +12,7 @@
 - https://zerovector.space/poor-mans-compiler-explorer
 - Compiler Resources: https://theworld.com/~compres/crilogo.html
 - http://aosabook.org/en/llvm.html
+- Book on everything GCs: http://gchandbook.org/
 
 ## Blogs and articles:
 
@@ -39,7 +40,6 @@
 - https://cfallin.org/blog/2020/09/18/cranelift-isel-1/
 - Yet another compiler visualizer: https://ashutoshbsathe.github.io/yacv/
 - https://towardsdatascience.com/understanding-compilers-for-humans-version-2-157f0edb02dd
-- https://www.reddit.com/r/LLVM/comments/nfmalh/llvm_backend_for_custom_target/
 - https://medium.com/young-coder/how-i-wrote-a-lexer-39f4f79d2980
 - https://weliveindetail.github.io/blog/post/2021/05/28/debian-llvm-quick-install.html
 - https://medium.com/@thelukaswils/understanding-compilers-for-humans-ba970e045877
@@ -61,7 +61,6 @@
 - https://www.javatpoint.com/compiler-passes
 - https://www.apollographql.com/blog/announcement/tooling/apollo-rs-graphql-tools-in-rust/
 - Pratt Parsing Index and Updates(Collection of blogs regarding pratt parsing): https://www.oilshell.org/blog/2017/03/31.html
-- https://www.reddit.com/r/ProgrammingLanguages/comments/qm41w2/anybody_have_tips_for_writing_a_recursive_descent/
 - https://stackfull.dev/trie-in-javascript-the-data-structure-behind-autocomplete
 - https://lowlevelbits.org/how-to-learn-compilers-llvm-edition/
 - https://blog.methodscript.com/2021/10/05/compiling-methodscript-to-llvm/
@@ -101,6 +100,8 @@
 - EBNF: https://www.gimtec.io/articles/ebnf/
 - Stack Frames: https://stackoverflow.com/questions/10057443/explain-the-concept-of-a-stack-frame-in-a-nutshell
 - Chomsky hierarchy: https://www.geeksforgeeks.org/chomsky-hierarchy-in-theory-of-computation/
+- Closure Conversion: https://matt.might.net/articles/closure-conversion/
+- Lambda Lifting: https://stackoverflow.com/questions/592584/what-is-lambda-lifting
 
 ## Blog series/Articles collection:
 
@@ -125,6 +126,9 @@
 - https://www.reddit.com/r/LLVM/comments/qly49y/how_to_build_a_compiler_with_llvm_and_mlir_12/
 - https://www.reddit.com/r/programming/comments/qn8qqb/how_to_learn_compilers_llvm_edition/
 - The web archive of the comp.compilers newsgroup, under the same management since 1986: https://twitter.com/compcompilers
+- https://www.reddit.com/r/ProgrammingLanguages/comments/qm41w2/anybody_have_tips_for_writing_a_recursive_descent/
+- https://www.reddit.com/r/LLVM/comments/nfmalh/llvm_backend_for_custom_target/
+- Good books to start writing compilers: https://www.reddit.com/r/Compilers/comments/sxgvxo/good_books_to_start_writing_compilers/
 
 ## Repos:
 

@@ -83,6 +83,7 @@
 - API Showdown REST vs GraphQL vs gRPC: https://www.infoq.com/podcasts/api-showdown-rest-graphql-grpc/
 - A decade of major cache incidents at Twitter: https://danluu.com/cache-incidents/
 - How google docs live collaboration work: https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs.html
+- https://netflixtechblog.com/rapid-event-notification-system-at-netflix-6deb1d2b57d1
 
 ## Blog series/Articles collection:
 

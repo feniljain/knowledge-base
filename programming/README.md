@@ -167,6 +167,7 @@
 - https://wasmweekly.news/
 - https://tldr.tech/
 - https://newsletter.pragmaticengineer.com/
+- https://soasis.org/newsletter/
 
 ## Podcasts:
 
@@ -257,6 +258,8 @@
 - accumulator of different useful/productive resources about different Computer Science/Software Engineering Topics: https://github.com/nikasakandelidze/Single-Source-Of-Truth
 - https://github.com/dwmkerr/hacker-laws
 - https://github.com/github/opensource.guide
+- A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups: https://github.com/kuchin/awesome-cto
+- All the required resources to build your own startup: https://github.com/KrishMunot/awesome-startup
 
 ## Extensions:
 

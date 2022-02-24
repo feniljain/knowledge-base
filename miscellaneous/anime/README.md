@@ -221,6 +221,7 @@
 
 - https://github.com/holo-gfx/mangadex
 - Unofficial fork of Tachiyomi for anime: https://github.com/jmir1/aniyomi
+- https://github.com/avacadox21/nhen-cli
 
 ## Anime Songs:
 

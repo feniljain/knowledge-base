@@ -172,6 +172,7 @@
 - https://cpp.chat/
 - https://stackoverflow.com/questions/2748995/struct-memory-layout-in-c
 - So you think you know C?: https://wordsandbuttons.online/so_you_think_you_know_c.html
+- https://itnext.io/the-114-standard-c-algorithms-introduction-2a75a2df4300
 
 ### Blogs and articles:
 
@@ -212,6 +213,7 @@
 - https://www.c-programming-simple-steps.com/static-keyword-in-c.html
 - https://www.programiz.com/c-programming/c-preprocessor-macros
 - https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables
+- https://osasazamegbe.medium.com/showing-building-an-http-server-from-scratch-in-c-2da7c0db6cb7
 
 ### Repos:
 

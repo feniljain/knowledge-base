@@ -480,6 +480,7 @@
 - Everything about releasing a rust crate: https://github.com/crate-ci/cargo-release
 - A joke about learning to program in Rust: https://github.com/luser/keep-calm-and-call-clone
 - How to use Rust code in other languages: https://jakegoulding.com/rust-ffi-omnibus/
+- Funktional generic type-level programming in Rust: HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid and friends: https://github.com/lloydmeta/frunk
 
 ## Videos:
 

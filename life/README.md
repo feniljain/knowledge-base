@@ -1,5 +1,8 @@
 <h2 align = "center">Life</h2>
 
+Is this KB just a result of this?: https://zettelkasten.de/posts/collectors-fallacy/
+Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
+
 ## Websites:
 
 - https://hbs1963.com/
@@ -51,7 +54,8 @@
 ## Videos:
 
 - Think Fast, Talk Smart: Communication Techniques: https://nofreakingspeaking.com/
-- Tips on How to Pose Men: https://www.youtube.com/watch?v=g7fIhkFY_jo
+- Tips on How to Pose(Men): https://www.youtube.com/watch?v=g7fIhkFY_jo
+- Everything about obisidian note taking app: https://www.youtube.com/channel/UC85D7ERwhke7wVqskV_DZUA/videos
 
 ## Reddit and twitter threds:
 
@@ -200,6 +204,9 @@
 - If most of us are ashamed of shabby clothes and shoddy furniture, let us be more ashamed of shabby ideas and shoddy philosophies. - Albert Einstein
 - All things are difficult before they are easy - Thomas Fuller
 - Wanting to be someone else is a waste of who you are.
+- Take criticism seriously, but not personally. If there is truth or merit in the criticism, try to learn from it. Otherwise, let it roll right off you. - Hillay Clinton
+- Forget all the reasons why it won't work and believe the one reason why it will.
+- If you want your life to be a magnificent story, then begin by realising that you are the author. - Mark Houlahan
 
 ## Books:
 

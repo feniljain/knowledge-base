@@ -82,6 +82,8 @@
 - https://en.wikipedia.org/wiki/Protocol_ossification
 - https://www.digitalocean.com/community/tutorials/http-1-1-vs-http-2-what-s-the-difference
 - https://www.ir.com/guides/what-is-network-jitter
+- https://aws.amazon.com/blogs/security/introducing-s2n-quic-open-source-protocol-rust/
+- https://blog.benjojo.co.uk/post/ip-address-squatting
 
 ## Books:
 

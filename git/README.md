@@ -79,6 +79,7 @@
 - A SQL type language for git: https://github.com/filhodanuvem/gitql
 - Query git repositories with SQL. Generate reports, perform status checks, analyze codebases: https://github.com/askgitdev/askgit
 - Changelog generator that follows conventional commit specifications: https://github.com/orhun/git-cliff
+- Stunning insights for your GitHub Repo: https://repobeats.axiom.co/
 
 ## Git Internals:
 

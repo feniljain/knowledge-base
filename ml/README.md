@@ -76,3 +76,4 @@
 - https://www.reddit.com/r/artificial/comments/qo5h44/gpt3_is_no_longer_the_only_game_in_town/
 - https://www.reddit.com/r/learnmachinelearning/comments/qonbqx/buying_a_laptop_for_ml_purposes/
 - https://www.reddit.com/r/artificial/comments/qooxb2/2021_a_year_full_of_amazing_ai_papers_a_review/
+- Machine Learning Algorithms Cheat Sheet: https://www.reddit.com/r/hackernews/comments/swuaix/machine_learning_algorithms_cheat_sheet/

@@ -60,7 +60,8 @@
 - https://4dayweek.medium.com/the-stripe-interview-process-and-how-to-ace-it-b41df4f4e6b6
 - https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556
 - https://dev.to/irsayvid/how-i-got-my-internship-at-google-the-interview-process-with-tips-and-resources-4d3n
-- https://www.wonsulting.com/resources?utm_campaign=SlooLetter&utm_medium=email&utm_source=Revue%20newsletter
+- https://www.wonsulting.com/resources
+- https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/
 
 ## Videos:
 

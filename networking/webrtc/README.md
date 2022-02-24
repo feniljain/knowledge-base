@@ -1,8 +1,6 @@
 <h2 align="center">WebRTC</h2>
 
-## WebRTC:
-
-### Websites:
+## Websites:
 
 - https://webrtc.org/
 - https://webrtcforthecurious.com/
@@ -17,11 +15,11 @@
 - chrome://webrtc-internals
 - General purpose WebRTC server: https://janus.conf.meetecho.com/
 
-### GoogleGroups:
+## GoogleGroups:
 
 - https://groups.google.com/g/discuss-webrtc/
 
-### Blogs and articles:
+## Blogs and articles:
 
 - https://blog.swmansion.com/modular-rtc-engine-is-our-little-big-revolution-in-video-conferencing-cfde806c5beb
 - https://blog.bitsrc.io/will-webtransport-replace-webrtc-in-near-future-436c4f7f3484
@@ -37,8 +35,11 @@
 - https://subspace.com/resources/turn-101-subspace
 - https://www.spearline.com/blog/testrtc-intro/
 - https://www.enablex.io/insights/the-most-comprehensive-guide-on-webrtc/
+- http://www.rtcbits.com/2022/01/back-pressure-in-rtc-services.html
+- https://thegradient.pub/one-voice-detector-to-rule-them-all/
+- Web video codec guide: https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs
 
-### Videos:
+## Videos:
 
 - Kranky Geek WebRTC Conf Videos Playlist: https://www.youtube.com/watch?v=UDB5KkcRRb0&list=PL4_h-ulX5eNdNK_z3_rflsHuXM-6pvvK7
 - WebRTC in 100 secs: https://www.youtube.com/watch?v=WmR9IMUD_CY
@@ -47,10 +48,14 @@
 - WebTransport and WebCodecs: https://www.youtube.com/watch?v=VD5GBLBiSxo
 - Real-time communication with WebRTC: Google I/O 2013: https://www.youtube.com/watch?v=p2HzZkd2A40
 
-### Repos:
+## Repos:
 
 - RingRTC is a middleware library providing Signal Messenger applications with video and voice calling services built on top of WebRTC: https://github.com/signalapp/ringrtc
 
-### Reddit and twitter threads:
+## Reddit and twitter threads:
 
 - What other SFUs are easy to integrate with existing node signaling besides mediasoup?: https://www.reddit.com/r/WebRTC/comments/sly8wy/what_other_sfus_are_easy_to_integrate_with/
+
+## Discuss-WebRTC google group discussions:
+
+- Error when cross-compiling WebRTC source: https://groups.google.com/g/discuss-webrtc/c/Hs7t0PsAobU

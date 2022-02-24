@@ -12,6 +12,10 @@
 - A collection of out-of-tree LLVM passes for teaching and learning: https://github.com/banach-space/llvm-tutor
 - A collection of out-of-tree Clang plugins for teaching and learning: https://github.com/banach-space/clang-tutor
 
+## Reddit and twitter threads:
+
+- Explore MLIR Development Process: https://www.reddit.com/r/Compilers/comments/szhw9a/explore_mlir_development_process/
+
 ## Gists:
 
 - Gold Mine: https://gist.github.com/MattPD/00573ee14bf85ccac6bed3c0678ddbef#llvm
