@@ -97,6 +97,7 @@
 - https://github.com/golang-standards/project-layout
 - https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example
 - https://levelup.gitconnected.com/practical-ddd-in-golang-repository-d308c9d79ba7
+- https://medium.com/sellerapp/golang-project-structuring-ben-johnson-way-2a11035f94bc
 
 ### Others:
 
@@ -183,6 +184,8 @@
 - https://tailscale.com/blog/go-linker/
 - https://dev.to/aruna/abstract-syntax-trees-theyre-used-everywhere-but-what-are-they-jh6
 - Rant on golang: https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride
+- https://golangbyexample.com/immediately-invoked-function-go/
+- Go: A Documentary: https://golang.design/history/
 
 ## Blog Series:
 

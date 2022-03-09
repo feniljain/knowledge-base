@@ -114,6 +114,7 @@
 - https://www.chrisdeluca.me/article/diy-neovim-fzy-search/
 - https://linuxhint.com/diff-two-files-vim/
 - http://vimcasts.org/episodes/writing-a-custom-fold-expression/
+- Move to window if specified buffer is opened: https://vi.stackexchange.com/questions/25046/move-to-window-if-specified-buffer-is-opened
 
 ## VimTricks:
 

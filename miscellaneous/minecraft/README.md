@@ -18,6 +18,7 @@
 - Rays Works: 27 NEW Pro Cave Mining Strats for 1.18+ Minecraft!: https://www.youtube.com/watch?v=usb091Ximjc
 - The Ultimate Minecraft 1.18 Wood / Tree Farming Guide | 7+ Farms to Grow Trees and Farm Wood: https://www.youtube.com/watch?v=e974j9NMv4s
 - In this video etho explains how to play custom music using noteblocks: https://www.youtube.com/watch?v=V3aVIMvlhUc
+- Minecraft 30 Rare Facts About Animals: https://www.youtube.com/watch?v=XhILXi4F-24
 
 ## Repos:
 

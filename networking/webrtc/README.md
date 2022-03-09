@@ -3,6 +3,7 @@
 ## Websites:
 
 - https://webrtc.org/
+- Official webrtc specification: https://www.w3.org/TR/webrtc/
 - https://webrtcforthecurious.com/
 - https://smarthome-webrtc-validator.withgoogle.com/
 - https://webrtcglossary.com/
@@ -14,6 +15,9 @@
 - TURN server: https://numb.viagenie.ca/
 - chrome://webrtc-internals
 - General purpose WebRTC server: https://janus.conf.meetecho.com/
+- Where WebRTC Standards Meet Reality: https://webrtcstandards.info/
+- https://ortc.org/
+- https://webrtc-security.github.io/
 
 ## GoogleGroups:
 
@@ -38,6 +42,17 @@
 - http://www.rtcbits.com/2022/01/back-pressure-in-rtc-services.html
 - https://thegradient.pub/one-voice-detector-to-rule-them-all/
 - Web video codec guide: https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Video_codecs
+- https://medium.com/@toshvelaga/the-addstream-and-onaddstream-methods-in-webrtc-are-deprecated-f735afa2c477
+- Optimizing WebRTC Power Consumption: https://webrtchacks.com/optimizing-webrtc-power-consumption-markus-handell/
+- https://thenewdialtone.com/ortc-webrtc/
+- ICE Lite: https://datatracker.ietf.org/doc/html/rfc5245#section-2.7
+- https://bloggeek.me/sctp-data-channel/
+- https://bloggeek.me/webrtc-data-channel-uses/
+- Negotiating Media Multiplexing Using the Session Description Protocol (SDP): https://www.rfc-editor.org/rfc/rfc9143.html
+- A General Mechanism for RTP Header Extensions: https://datatracker.ietf.org/doc/html/rfc5285
+- https://webrtchacks.com/red-improving-audio-quality-with-redundancy/
+- https://bloggeek.me/rtcscale-summary-and-insights/
+- Real time communication with WebRTC ( Code Lab ): https://codelabs.developers.google.com/codelabs/webrtc-web/#0
 
 ## Videos:
 
@@ -51,11 +66,24 @@
 ## Repos:
 
 - RingRTC is a middleware library providing Signal Messenger applications with video and voice calling services built on top of WebRTC: https://github.com/signalapp/ringrtc
+- https://github.com/sipsorcery/webrtc-echoes
+- https://github.com/webrtc-rs/webrtc
+- https://github.com/webrtc-security/webrtc-security.github.io
 
 ## Reddit and twitter threads:
 
 - What other SFUs are easy to integrate with existing node signaling besides mediasoup?: https://www.reddit.com/r/WebRTC/comments/sly8wy/what_other_sfus_are_easy_to_integrate_with/
+- Amazon Special Projects Team - building real-time video/audio communication application: https://www.reddit.com/r/WebRTC/comments/t9l98g/amazon_special_projects_team_building_realtime/
 
 ## Discuss-WebRTC google group discussions:
 
 - Error when cross-compiling WebRTC source: https://groups.google.com/g/discuss-webrtc/c/Hs7t0PsAobU
+- Is there a way to disable video resolution change in WebRTC?: https://groups.google.com/g/discuss-webrtc/c/9g2eXWJwijI
+- Low FPS for one of the simulcast encodings in Chrome: https://groups.google.com/g/discuss-webrtc/c/uqn40BPiTrE
+
+## Dev:
+
+- https://webrtc.googlesource.com/src/+/HEAD/g3doc/sitemap.md
+- Source code: https://webrtc.googlesource.com/src
+- Prerequisites: https://webrtc.googlesource.com/src/+/main/docs/native-code/development/prerequisite-sw/index.md
+- Dev instructions: https://webrtc.googlesource.com/src/+/main/docs/native-code/development/index.md

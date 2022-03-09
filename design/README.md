@@ -23,6 +23,7 @@
 - https://university.webflow.com/figma-to-webflow
 - https://www.framer.com/sites/
 - Accessbility checklist: https://www.a11yproject.com/checklist/
+- https://colors.lol/
 
 ## Blogs and articles:
 

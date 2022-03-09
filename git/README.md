@@ -8,6 +8,8 @@
 - http://ohmygit.org/
 - https://www.conventionalcommits.org/en/v1.0.0/
 - https://savannah.nongnu.org/projects/quilt/
+- https://gitready.com/
+- http://www-cs-students.stanford.edu/%7Eblynn/gitmagic/index.html
 
 ## Blogs and Articles:
 
@@ -58,6 +60,7 @@
 - Short History of Git: https://git-scm.com/book/en/v2/Getting-Started-A-Short-History-of-Git
 - https://chris.beams.io/posts/git-commit/
 - Using git send-email: https://burzalodowa.wordpress.com/2013/10/05/how-to-send-patches-with-git-send-email/
+- https://eagain.net/articles/git-for-computer-scientists/
 
 ## Reddit and twitter threads:
 

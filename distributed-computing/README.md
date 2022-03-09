@@ -11,6 +11,7 @@
 - https://www.quastor.org/p/how-distributed-databases-work
 - https://hongilkwon.medium.com/what-is-linearizability-in-distributed-system-db8bca3d432d
 - https://towardsdatascience.com/raft-algorithm-explained-a7c856529f40
+- https://medium.com/criteo-engineering/distributed-rate-limiting-algorithms-a35f7e24783
 
 ## Videos:
 

@@ -50,6 +50,11 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - Focus is the art of knowing what to ignore.
 - There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.
 - https://waitbutwhy.com/2013/11/life-is-picture-but-you-live-in-pixel.html
+- Courage isn't the absence of fear, but an urgent impulse to do something despite fear. - Grant Cardone
+- Great things are done by a series of small things brought together. - Vincent Van Gogh
+- We all need people who will give us feedback. That's how we improve. - Bill Gates
+- https://betterhumans.pub/read-less-but-read-better-1a5084211cc6
+- https://www.samjulien.com/shy-dev-networking
 
 ## Videos:
 
@@ -90,7 +95,6 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - It is our choices that show what we truly are, far more than our abilities.
 - The brain is like a muscle. When it is in use we feel very good. Understanding is joyous.
 - The greatest discovery of all time is that a person can change their future by merely changing their attitude.
-- Simplicity is the ultimate sophistication.
 - The world breaks everyone and afterward many are strong at the broken places.
 - If your heart is in your dream, no request is too extreme.
 - Mistakes are the portals of discovery.
@@ -207,6 +211,15 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - Take criticism seriously, but not personally. If there is truth or merit in the criticism, try to learn from it. Otherwise, let it roll right off you. - Hillay Clinton
 - Forget all the reasons why it won't work and believe the one reason why it will.
 - If you want your life to be a magnificent story, then begin by realising that you are the author. - Mark Houlahan
+- You don't always need a plan. Sometimes you just need to breathe, trust, let go, and see what happens. - Mandy Hale
+- The world breaks everyone and afterward many are strong at the broken places. - Ernest Hemingway
+- Every morning we are born again. What we do today is what matters most. - Buddha
+- Learn to love slow progress. Learn to forgive yourself for the inevitable backsliding. And of course, expect to be uncomfortable along the way. - Steven Kotler
+- Balance is not something you find, it's something you create. - Jana Kingsford
+- Simplicity is the ultimate sophistication - Leonardo Da Vinci
+- On your journey through life, make sure your biography has at least one extraordinary chapter.
+- Knowing what must be done does away with fear. - Rosa Parks
+- Do something today that your future self will thank you for.
 
 ## Books:
 

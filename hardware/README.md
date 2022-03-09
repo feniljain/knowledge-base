@@ -1,5 +1,9 @@
 <h2 align="center">Hardware</h2>
 
+## Websites:
+
+- Build you own PC guides: https://pcpartpicker.com/
+
 ## Blogs and articles:
 
 - https://medium.com/pcmag-access/the-first-snapdragon-888-benchmarks-are-out-and-theyre-confusing-142a9401a001

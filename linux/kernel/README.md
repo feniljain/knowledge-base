@@ -62,9 +62,14 @@
 - First Kernel Patch: https://wiki.linuxfoundation.org/lkmp/lkmp_first_kernel_patch
 - How to do Linux Kernel Development: https://www.kernel.org/doc/html/latest/process/howto.html#
 
+## Blog series/Article collection:
+
+- https://blog.freeark1.tv/
+
 ## Reddit and twitter threads:
 
 - https://www.reddit.com/r/linux4noobs/comments/sr5fn8/what_do_linux_kernel_version_numbers_mean_nowadays/
+- Setup Nvim for Linux kernel development(Check last comment): https://www.reddit.com/r/neovim/comments/i9j9m3/cannot_setup_nvim_for_linux_kernel_development/
 
 ## Videos:
 

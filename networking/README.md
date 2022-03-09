@@ -13,6 +13,10 @@
 - https://quicwg.org/
 - https://cloudflare-quic.com/
 
+## Diagrams:
+
+- OSI Layer along with TCP/IP and what datagrams are called(terminology wala called, not function one) at each level: https://miro.medium.com/max/1400/1*jPK1FCcN2RDl97lhgx7CoA.png
+
 ## Blogs and Articles:
 
 ### Tutorials:
@@ -84,6 +88,10 @@
 - https://www.ir.com/guides/what-is-network-jitter
 - https://aws.amazon.com/blogs/security/introducing-s2n-quic-open-source-protocol-rust/
 - https://blog.benjojo.co.uk/post/ip-address-squatting
+- Linux networking explained: https://www.slideshare.net/ThomasGraf5/linux-networking-explained
+- Linux Kernel Networking Walkthrough(Awesome resource for understanding how everything happens in kernel space): https://www.slideshare.net/ThomasGraf5/linuxcon-2015-linux-kernel-networking-walkthrough
+- Modern Telecom Network Tracing: https://oxio.com/blog/modern-telecom-network-tracing/
+- Weaponizing Middleboxes for TCP Reflected Amplification: https://geneva.cs.umd.edu/posts/usenix21-weaponizing-censors/
 
 ## Books:
 
@@ -116,6 +124,7 @@
 - https://www.reddit.com/r/webdev/comments/pyjzho/dns_record_types/
 - Networking in layman terms: https://twitter.com/iximiuz/status/1450864740645941248
 - Free resource for receiving alerts about BGP events: https://twitter.com/bgpstream
+- How CDNs work: https://twitter.com/alexxubyte/status/1496166227731181571
 
 ## Videos:
 
@@ -128,6 +137,7 @@
 - Netflix Networking: Beating the Speed of Light with Intelligent Request Routing: https://www.infoq.com/presentations/intelligent-request-routing/
 - Implementing TCP/IP in rust: https://www.youtube.com/watch?v=bzja9fQWzdA
 - Limitations in HTTP2 which led to HTTP3: https://youtu.be/GriONb4EfPY
+- The Many Ways of DDoS: https://www.youtube.com/watch?v=PwVzG-1LT9A
 
 ## Container Images:
 

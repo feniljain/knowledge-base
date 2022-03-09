@@ -109,3 +109,9 @@
 - https://github.com/google/accompanist
 - https://github.com/florinpop17/app-ideas
 - https://github.com/JetBrains/compose-jb
+
+# iOS
+
+## Blogs and articles:
+
+- https://bogo.wtf/arm64-to-sim.html

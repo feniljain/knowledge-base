@@ -214,10 +214,15 @@
 - https://www.programiz.com/c-programming/c-preprocessor-macros
 - https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables
 - https://osasazamegbe.medium.com/showing-building-an-http-server-from-scratch-in-c-2da7c0db6cb7
+- http://rachelbythebay.com/w/2022/02/26/include/
 
 ### Repos:
 
 - https://github.com/taichi-dev/taichi
+
+### Learning:
+
+- https://www.learncpp.com/
 
 ## Zig
 

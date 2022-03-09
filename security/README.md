@@ -4,6 +4,7 @@
 
 - https://xsleaks.dev/
 - https://tryhackme.com/
+- https://securityheaders.com/
 
 ## Blogs and articles:
 
@@ -55,3 +56,4 @@
 - Protect yourself from being tracked by AirTags and Find My accessories: https://github.com/seemoo-lab/AirGuard
 - Insecure web application: https://github.com/juice-shop/juice-shop
 - Security Scorecards: https://github.com/ossf/scorecard
+- https://github.com/veeral-patel/how-to-secure-anything

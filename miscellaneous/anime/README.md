@@ -74,20 +74,17 @@
 - Id Invaded
 - Black bullet
 - Angels of Death
-- Sonny Boy
 
 ## Adventure and Magic(supernatural):
 
 - Konosuba
 - The Hero is dead
 - Digimon
-- Angel Beats
 - Kyoukai ni kanata
 
 ## Comedy:
 
 - The Disastrous Life of Saiki K.
-- Tengen Toppa Gurren Lagann
 - Daily lives of Highschool boys
 - Shimoneta
 - Shakamoto desu ga
@@ -115,9 +112,9 @@
 
 ## Sad & Romance:
 
-- I want to your pancreas
+- I want to eat your pancreas
 - Grave of the fireflies
-- Ride your wave(Kimi to, Nami ni Noretara)
+- Ride your wave (Kimi to, Nami ni Noretara)
 - World end
 - Bakuman
 - Spice and wolf
@@ -427,6 +424,9 @@
 - Link Click
 - To Your Eternity
 - Sonny Boy
+- Gurren Lagann
+- Demon Slayer S2
+- Angel Beats
 
 ## Caught up Mangas:
 
@@ -438,4 +438,6 @@
 - Slam dunk
 - Tokyo Ghoul
 - Promised Neverland
+- Tengen Toppa Gurren Lagann
+- Tengen Toppa Gurren Lagann
 - Horimiya

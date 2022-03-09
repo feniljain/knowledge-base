@@ -159,6 +159,7 @@
 - https://codeadrian.github.io/clay.css/
 - https://shottr.cc/
 - https://pika.rishimohan.me/
+- https://fffuel.co/pppointed/
 
 ## Blogs And Articles:
 
@@ -193,6 +194,7 @@
 - https://www.smashingmagazine.com/2021/10/modern-css-solutions-for-common-problems/
 - https://web.dev/min-max-clamp/
 - https://blog.easterseals.com/emojis-and-accessibility-the-dos-and-donts-of-including-emojis-in-texts-and-emails/
+- https://scotthelme.co.uk/can-you-get-pwned-with-css/
 
 ## Extensions:
 
@@ -205,3 +207,4 @@
 ## Repos:
 
 - https://github.com/GoogleChromeLabs/container-query-polyfill
+- Use Tailwind CSS to design HTML emails: https://github.com/soheilpro/mailwind

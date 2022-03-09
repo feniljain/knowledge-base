@@ -62,6 +62,8 @@
 - https://dev.to/irsayvid/how-i-got-my-internship-at-google-the-interview-process-with-tips-and-resources-4d3n
 - https://www.wonsulting.com/resources
 - https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/
+- https://www.samjulien.com/shy-dev-networking
+- https://grokkinginterview.com/ace-googles-behavioral-interview-questions-and-tips-for-coders-203cc823aebf
 
 ## Videos:
 

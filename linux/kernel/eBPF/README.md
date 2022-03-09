@@ -44,11 +44,27 @@
 - Fuzzing for eBPF JIT bugs in the Linux kernel: https://scannell.io/posts/ebpf-fuzzing/
 - https://research.nccgroup.com/2021/08/06/some-musings-on-common-ebpf-linux-tracing-bugs/
 - https://taras.glek.net/post/ebpf-mmap-page-fault-tracing/
+- bpf: Populate bpffs with map and prog iterators: https://lwn.net/Articles/826389/
+- Lifetime Of BPF objects: https://facebookmicrosites.github.io/bpf/blog/2018/08/31/object-lifetime.html
+- Dive into BPF: a list of reading material: https://qmonnet.github.io/whirl-offload/2016/09/01/dive-into-bpf/
+- A thorough introduction to eBPF: https://lwn.net/Articles/740157/
+- BPF: the universal in-kernel virtual machine: https://lwn.net/Articles/599755/
+- BPF: In kernel virtual machine: https://www.slideshare.net/AlexeiStarovoitov/bpf-inkernel-virtual-machine
+- https://www.seekret.io/blog/handling-the-challenge-of-deploying-ebpf-into-the-wild/
+
+## Dev:
+
+- BPF kernel dev process, submitting patches and QA: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/bpf/bpf_devel_QA.rst
+- BPF API docs: https://github.com/iovisor/bpf-docs/blob/master/bpf_helpers.rst
+- BPF Office Hours: https://docs.google.com/spreadsheets/d/1LfrDXZ9-fdhvPEp_LHkxAMYyxxpwBXjywWa0AejEveU/edit#gid=0
 
 ## Blog series/Article collection:
 
 - https://nakryiko.com/categories/bpf/
 - https://www.ferrisellis.com/tags/ebpf/
+- https://facebookmicrosites.github.io/bpf/blog/
+- https://blog.cloudflare.com/tag/ebpf/
+- https://www.iovisor.org/resources/blog
 
 ## Books:
 
@@ -56,6 +72,7 @@
 
 ## Repos:
 
+- eBPF github org: https://github.com/ebpf-io
 - https://github.com/zoidbergwill/awesome-ebpf
 - Tools for BPF-based Linux IO analysis, networking, monitoring, and more : https://github.com/iovisor/bcc
 - Automated upstream mirror for libbpf stand-alone build : https://github.com/libbpf/libbpf
@@ -80,6 +97,8 @@
 - https://github.com/cilium/ebpf
 - https://github.com/solo-io/bumblebee
 - Schedule bpftrace programs on your kubernetes cluster using the kubectl: https://github.com/iovisor/kubectl-trace
+- Presentations and docs on BPF: https://github.com/iovisor/bpf-docs/
+- eBPF Steering Committee: https://github.com/ebpf-io/bsc
 
 ## Reddit and twitter threads:
 
@@ -99,3 +118,4 @@
 - https://www.infoq.com/presentations/ebpf-cloud-native/
 - eBPF and Go: https://changelog.com/gotime/201
 - LPC 2021: BPF And Networking Summit: https://www.youtube.com/watch?v=igJLKyP1lFk
+- Cilium - BPF & XDP for containers: https://archive.fosdem.org/2017/schedule/event/cilium/

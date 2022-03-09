@@ -46,6 +46,7 @@
 - https://code-reading.org/
 - Out of ideas for projects? Look here: http://nifty.stanford.edu/
 - ACM Software System Award: Institutions/individuals who developed software systems with lasting influence on computing: https://awards.acm.org/software-system/award-winners
+- https://virtualcoffee.io/
 
 ## Blogs and Articles:
 
@@ -155,10 +156,17 @@
 - https://jvns.ca/blog/brag-documents/
 - How to Write 3v1L, Untestable Code: https://testing.googleblog.com/2008/07/how-to-write-3v1l-untestable-code.html
 - https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/
+- How to review code as a junior developer: https://medium.com/pinterest-engineering/how-to-review-code-as-a-junior-developer-10ffb7846958
+- https://learn.samjulien.com/getting-started-in-developer-relations
+- Why are hyperlinks blue: https://blog.mozilla.org/en/internet-culture/why-are-hyperlinks-blue-revisited/
+- https://nadh.in/blog/fomo-yamo/
+- The Byte Order Fallacy: https://commandcenter.blogspot.com/2012/04/byte-order-fallacy.html
+- How do you create an Efficient Data Structure for Spatial Indexing?: https://medium.com/javarevisited/how-do-you-create-an-efficient-data-structure-for-spatial-indexing-3555455f6510
 
 ## Blog Series:
 
 - Damn good articles on general programming stuff: https://journal.stuffwithstuff.com/category/code/
+- https://www.samjulien.com/writing
 
 ## Newsletters;
 

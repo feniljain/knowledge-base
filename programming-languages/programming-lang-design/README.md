@@ -29,6 +29,7 @@
 - https://hirrolot.github.io/posts/why-static-languages-suffer-from-complexity
 - https://en.wikipedia.org/wiki/Type_punning
 - https://en.wikipedia.org/wiki/Flexible_array_member
+- The language strangeness budget: https://steveklabnik.com/writing/the-language-strangeness-budget
 
 # Lesser known langs but useful from design perspective:
 

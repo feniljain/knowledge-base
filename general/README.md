@@ -56,6 +56,8 @@
 - https://scattered-thoughts.net/writing/moving-faster/
 - https://dev.to/erikaheidi/how-to-use-obs-studio-to-record-or-stream-live-presentations-474j
 - How to learn maths fast: http://www.geometry.org/human/?i=/tex/conc/mathlearn.html
+- What makes writing more readable?: https://pudding.cool/2022/02/plain/
+- CERN's ipod: https://drive.google.com/file/d/1M8PVrZlRFeiA5dFnQ2R-oZ88nsTZ0Ajy/view
 
 ## Blog series/Articles collection:
 

@@ -271,6 +271,8 @@
 - https://lucumr.pocoo.org/2022/1/6/rust-extension-map/
 - https://lucumr.pocoo.org/2022/1/7/as-any-hack/
 - https://phazer99.blogspot.com/2022/02/a-deeper-dive-into-rust-type-system.html
+- Verifying Dynamic Trait Objects in Rust(research paper): https://www.cs.cornell.edu/~avh/dyn-trait-icse-seip-2022-preprint.pdf
+- Annotating a compile-time value to a rust struct: https://lukas-prokop.at/articles/2022-02-16-annotating-const-generic-to-struct
 
 ### Others:
 
@@ -710,6 +712,7 @@
 - https://academy.zerotomastery.io/p/learn-rust
 - https://learning-rust.github.io/
 - Rust cheat sheet for begineers: https://quickref.me/rust
+- Learn Rust by making projects: https://www.sotr.blog/
 
 ### Blogs and articles:
 
@@ -743,3 +746,8 @@
 - https://github.com/ferrous-systems/teaching-material
 - https://github.com/Dhghomon/easy_rust
 - https://github.com/kud1ing/awesome-rust
+- https://github.com/sunface/rust-by-practice
+
+### Reddit and twitter threads:
+
+- Beginner comprehensive resources on Rust: https://www.reddit.com/r/rust/comments/t2fnas/beginner_comprehensive_resources_on_rust/

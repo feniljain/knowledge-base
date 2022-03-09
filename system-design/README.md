@@ -90,6 +90,8 @@
 - https://medium.com/@sivvio.piccolo/designing-a-code-deployment-system-question-from-algoexpert-c2b7cbd19690
 - https://towardsdatascience.com/ace-the-system-design-interview-distributed-id-generator-c65c6b568027
 - https://mecha-mind.medium.com/system-design-backend-for-google-photos-e0abcd74dd36
+- https://fin-techology.medium.com/system-design-interview-prep-how-to-build-a-system-to-handle-long-running-job-dda46f68a2eb
+- https://mecha-mind.medium.com/system-design-nearby-places-recommender-system-7ac53e27c977
 
 ## Repos:
 

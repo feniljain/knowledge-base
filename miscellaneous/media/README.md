@@ -5,9 +5,11 @@
 - Get direct download and magnet links to english & hindi series: https://yts.rs/
 - Download songs from various soures like gaana, itunes, etc.: https://ytmdl.deepjyoti30.dev/
 - Watch all english series online without ads: https://www3.watchserieshd.ru/
+- Free online streaming: https://soap2day.rs/
 - All in one audio/video editing: https://www.descript.com/#
 - Free alternative to spotify: https://spotfy.one/
 - Background video and image remover: backgroundremover.app
+- https://rateyourmusic.com/
 
 # Blogs and articles:
 

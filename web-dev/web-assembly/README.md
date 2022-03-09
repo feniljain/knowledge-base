@@ -1,8 +1,6 @@
 <h2 align="center">Web Assembly</h2>
 
-# WebAssembly:
-
-## Websites:
+# Websites:
 
 - https://www.serverlesschats.com/93/
 - https://www.assemblyscript.org/
@@ -12,13 +10,14 @@
 - https://webassembly.cloud/
 - Newsletter for webassembly: https://wasmweekly.news/issue-161/
 - Full Libreoffice running in wasm: https://lab.allotropia.de/wasm/
+- Package manager for web assembly: https://wapm.io/
 
-## Videos:
+# Videos:
 
 - Bringing webassembly outside browser using wasi: https://www.youtube.com/watch?v=fh9WXPu0hw8
 - https://www.infoq.com/presentations/wasm-server-api/
 
-## Blogs and articles:
+# Blogs and articles:
 
 - https://www.figma.com/blog/webassembly-cut-figmas-load-time-by-3x/
 - http://www.jakubkonka.com/2020/04/28/rust-wasi-from-scratch.html
@@ -44,12 +43,13 @@
 - https://blog.devgenius.io/part-2-how-to-read-wasm-1f7e34e70f59
 - WASM Internals: https://a-j.gitbook.io/wasm-experimentation/wasm-internals-1
 - https://blog.devgenius.io/part-1-memory-management-in-wasm-52195f9b707f
+- Difference between Java bytecode and WASM bytecode: https://www.quora.com/How-does-Java-bytecode-compare-to-WASM-code
 
-## Books:
+# Books:
 
 - https://wasmedge.org/book/en/index.html
 
-## Repos:
+# Repos:
 
 - https://github.com/WebAssembly
 - A lot of good resources in lower side of README.md: https://github.com/topheman/webassembly-wasi-experiments
@@ -59,3 +59,4 @@
 - https://github.com/ulid/spec
 - https://github.com/pannous/wasp
 - A portable GUI format based on webassembly: https://github.com/lambertjamesd/onegui
+- https://github.com/wasmerio/wasmer
