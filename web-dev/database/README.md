@@ -75,6 +75,9 @@
 - https://www.red-gate.com/simple-talk/databases/oracle-databases/transformations-by-the-oracle-optimizer/
 - https://blog.bernd-ruecker.com/achieving-consistency-without-transaction-managers-7cb480bd08c
 - https://milvusio.medium.com/what-are-vector-databases-8100178c5774
+- https://www.geeksforgeeks.org/bitmap-indexing-in-dbms/
+- Why Sharding Gets Hard, and Why You Need Vitess: https://andrewjdawson2016.medium.com/why-sharding-gets-hard-and-why-you-need-vitess-3424fd6a35e3
+- https://slack.engineering/scaling-datastores-at-slack-with-vitess/
 
 ## Blog Series:
 
@@ -126,6 +129,7 @@
 - https://www.reddit.com/r/SQL/comments/pyr4q0/best_certificate_program_for_a_beginner_learning/
 - https://www.reddit.com/r/SQL/comments/pym9iv/any_good_site_where_you_can_get_updates_about_sql/
 - https://www.reddit.com/r/SQL/comments/q5hw3o/free_resources_to_learn_sql/
+- https://www.reddit.com/r/computerscience/comments/tdf4st/any_good_books_about_developing_efficient_data/
 
 ## Blogs and articles:
 

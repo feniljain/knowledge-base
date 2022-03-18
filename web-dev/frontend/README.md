@@ -1,5 +1,9 @@
 <h2 align="center">Frontend</h2>
 
+## Websites:
+
+- Interop 2022 Dashboard: These scores represent how browser engines are doing in 15 focus areas and 3 joint investigation efforts. : https://wpt.fyi/interop-2022
+
 ## Videos:
 
 - 1-line css: https://www.youtube.com/watch?v=qm0IfG1GyZU
@@ -160,6 +164,7 @@
 - https://shottr.cc/
 - https://pika.rishimohan.me/
 - https://fffuel.co/pppointed/
+- https://a11y-automation.dev/
 
 ## Blogs And Articles:
 
@@ -208,3 +213,4 @@
 
 - https://github.com/GoogleChromeLabs/container-query-polyfill
 - Use Tailwind CSS to design HTML emails: https://github.com/soheilpro/mailwind
+- Show Similar & Duplicated CSS Scripts with Diff in Seconds!: https://github.com/ruilisi/css-checker

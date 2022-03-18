@@ -57,3 +57,4 @@
 - Insecure web application: https://github.com/juice-shop/juice-shop
 - Security Scorecards: https://github.com/ossf/scorecard
 - https://github.com/veeral-patel/how-to-secure-anything
+- Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock: https://github.com/liamg/traitor

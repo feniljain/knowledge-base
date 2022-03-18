@@ -215,6 +215,11 @@
 - https://eli.thegreenplace.net/2012/07/12/computed-goto-for-efficient-dispatch-tables
 - https://osasazamegbe.medium.com/showing-building-an-http-server-from-scratch-in-c-2da7c0db6cb7
 - http://rachelbythebay.com/w/2022/02/26/include/
+- https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi
+
+### Blog series/articles collection:
+
+- https://thephd.dev/
 
 ### Repos:
 

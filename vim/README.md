@@ -162,6 +162,7 @@
 - https://www.reddit.com/r/vim/comments/rctvgk/a_lesser_known_built_in_feature_you_use_regularly/
 - https://www.reddit.com/r/vim/comments/rl8af9/plugin_to_draw_diagrams_in_vim/
 - Editing macros: https://twitter.com/VImTipsDaily/status/1438797931851796482
+- A workflow for effectively navigating huge projects in neovim (>32M LOC) using tags/grep/live_grep: https://www.reddit.com/r/neovim/comments/tgmg6j/a_workflow_for_effectively_navigating_huge/
 
 ## Vimscript:
 

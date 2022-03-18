@@ -67,6 +67,7 @@
 ## Reddit threads and tweets:
 
 - https://www.reddit.com/r/linuxquestions/comments/nz6cfm/i_completed_my_thesis_in_libreoffice_writer_ask/
+- ESOP FAQ for engineers: https://twitter.com/NirantK/status/1504538978158100491
 
 ## Videos:
 

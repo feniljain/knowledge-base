@@ -19,6 +19,10 @@
 - https://stackskb.com
 - https://www.genesispc.in/
 
+## Blogs and articles:
+
+- http://www.eldacur.com/~brons/NerdCorner/InverseT-History.html
+
 ## Repos:
 
 - https://github.com/diimdeep/awesome-split-keyboards

@@ -53,6 +53,19 @@
 - https://webrtchacks.com/red-improving-audio-quality-with-redundancy/
 - https://bloggeek.me/rtcscale-summary-and-insights/
 - Real time communication with WebRTC ( Code Lab ): https://codelabs.developers.google.com/codelabs/webrtc-web/#0
+- https://www.html5rocks.com/en/tutorials/webrtc/datachannels/
+- https://webrtcbydralex.com/
+- How do I keep `libwebrtc` up to date: https://cosmosoftware.io/how-do-i-keep-libwebrtc-up-to-date/
+- https://webrtchacks.com/chrome-vp9-svc/
+- https://www.callstats.io/blog/what-is-unified-plan-and-how-will-it-affect-your-webrtc-development
+- In-band chapter tracks: https://en.wikipedia.org/wiki/EIA-608
+- In-band chapter tracks: https://developer.mozilla.org/en-US/docs/Web/API/TextTrack/kind
+- Perfect Negotiation: https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Perfect_negotiation
+- JSEP: https://rtcweb-wg.github.io/jsep/
+- https://bloggeek.me/3-advantages-of-anycast-in-webrtc/
+- https://niccoloterreri.com/webrtc-with-transceivers
+- https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Connectivity
+- https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Signaling_and_video_calling
 
 ## Videos:
 
@@ -62,6 +75,7 @@
 - https://youtu.be/2Z2PDsqgJP8
 - WebTransport and WebCodecs: https://www.youtube.com/watch?v=VD5GBLBiSxo
 - Real-time communication with WebRTC: Google I/O 2013: https://www.youtube.com/watch?v=p2HzZkd2A40
+- WebRTC: Real-time Audio/Video and P2P in HTML5: https://www.youtube.com/watch?v=E8C8ouiXHHk&t=1350s
 
 ## Repos:
 
@@ -69,6 +83,11 @@
 - https://github.com/sipsorcery/webrtc-echoes
 - https://github.com/webrtc-rs/webrtc
 - https://github.com/webrtc-security/webrtc-security.github.io
+- https://github.com/medooze/sfu
+- webrtc c++ library for mediasoup with full sfu c++ demo: https://github.com/yanhua133/mediasoup-sfu-cpp
+- hhttps://gitlab.com/fastogt/flutter_webrtc_sdk
+- WebRTC Signaling Server Ayame: https://github.com/OpenAyame/ayame
+- RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording: https://github.com/muaz-khan/RecordRTC
 
 ## Reddit and twitter threads:
 
@@ -87,3 +106,7 @@
 - Source code: https://webrtc.googlesource.com/src
 - Prerequisites: https://webrtc.googlesource.com/src/+/main/docs/native-code/development/prerequisite-sw/index.md
 - Dev instructions: https://webrtc.googlesource.com/src/+/main/docs/native-code/development/index.md
+
+## Companies:
+
+- https://subspace.com/

@@ -208,6 +208,7 @@
 - Building a WASM compiler in rust: https://www.bitfalter.com/blog
 - https://blog.turbo.fish/proc-macro-parsing/
 - Writing a minimal Lua implementation with a virtual machine from scratch in Rust: https://notes.eatonphil.com/lua-in-rust.html
+- Implementing a size-bounded LRU cache with expiring entries for my DNS server: https://memo.barrucadu.co.uk/dns-cache.html
 
 ### Language general:
 

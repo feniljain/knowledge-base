@@ -43,6 +43,10 @@
 - How web browser works step by step — high-level architecture: https://cabulous.medium.com/how-browser-works-part-i-process-and-thread-f63a9111bae9
 - Browser Internals: https://developers.google.com/web/updates/2018/09/inside-browser-part1
 
+## Blog series/Articles collection:
+
+- https://hacks.mozilla.org/
+
 ## Videos:
 
 - Browser hacking: Let's get the "Canvas Cycle" JS demo running in our Browser!: https://www.youtube.com/watch?v=b3a5V45LLss

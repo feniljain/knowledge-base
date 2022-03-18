@@ -427,6 +427,8 @@
 - Gurren Lagann
 - Demon Slayer S2
 - Angel Beats
+- Tada never falls in love: Tada-kun wa Koi wo Shinai
+- JoJo's bizzare adventures
 
 ## Caught up Mangas:
 

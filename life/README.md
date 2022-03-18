@@ -220,6 +220,13 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - On your journey through life, make sure your biography has at least one extraordinary chapter.
 - Knowing what must be done does away with fear. - Rosa Parks
 - Do something today that your future self will thank you for.
+- Fear leads to self-doubt which is the worst enemy of creativity. - David Ogilvy
+- What you do every day matters more than what you do once in a while. - Gretchen Ruben
+- If you want to awaken all of humanity, awaken all of yourself. - Lao Tzu
+- No one can make you feel inferior without your consent. - Eleanor Roosevelt
+- Enjoy the little things, for one day you may look back and realize they were the big things. - Robert Brault
+- As long as you live, keep learning how to live. - Seneca
+- Take care of your thoughts when you’re alone. Take care of your words when you’re with people.
 
 ## Books:
 

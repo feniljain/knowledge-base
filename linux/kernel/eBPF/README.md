@@ -51,6 +51,12 @@
 - BPF: the universal in-kernel virtual machine: https://lwn.net/Articles/599755/
 - BPF: In kernel virtual machine: https://www.slideshare.net/AlexeiStarovoitov/bpf-inkernel-virtual-machine
 - https://www.seekret.io/blog/handling-the-challenge-of-deploying-ebpf-into-the-wild/
+- Every Boring Problem Found in eBPF: https://tmpout.sh/2/4.html
+- eBPF Kernel Image Lockdown and eBPF Flexibility: https://djalal.opendz.org/post/ebpf-kernel-image-lockdown-and-ebpf-flexibility/
+
+### Tutorials:
+
+- https://coroot.com/blog/building-a-service-map-using-ebpf
 
 ## Dev:
 
@@ -99,6 +105,7 @@
 - Schedule bpftrace programs on your kubernetes cluster using the kubectl: https://github.com/iovisor/kubectl-trace
 - Presentations and docs on BPF: https://github.com/iovisor/bpf-docs/
 - eBPF Steering Committee: https://github.com/ebpf-io/bsc
+- The Collector Project of Apache SkyWalking based on the eBPF: https://github.com/apache/skywalking-rover
 
 ## Reddit and twitter threads:
 

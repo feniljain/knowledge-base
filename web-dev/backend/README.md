@@ -85,6 +85,7 @@
 - How google docs live collaboration work: https://drive.googleblog.com/2010/09/whats-different-about-new-google-docs.html
 - https://netflixtechblog.com/rapid-event-notification-system-at-netflix-6deb1d2b57d1
 - https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01
+- https://r.bluethl.net/how-to-design-better-apis
 
 ## Blog series/Articles collection:
 
