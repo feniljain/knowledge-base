@@ -30,11 +30,13 @@
 - https://en.wikipedia.org/wiki/Type_punning
 - https://en.wikipedia.org/wiki/Flexible_array_member
 - The language strangeness budget: https://steveklabnik.com/writing/the-language-strangeness-budget
+- Abuse Of Some Sum Types In OO Languages: http://www.jerf.org/iri/post/2960
 
 # Lesser known langs but useful from design perspective:
 
 - Uses third type of OOPS implementation type: Multimethods: https://github.com/munificent/magpie
 - https://koka-lang.github.io/koka/doc/index.html
+- https://github.com/Pocco81/koy-lang
 
 # Repos:
 

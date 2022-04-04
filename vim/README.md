@@ -512,6 +512,7 @@
 - https://github.com/rmagatti/auto-session
 - https://github.com/theniceboy/nvim
 - https://github.com/rafi/vim-config/
+- vim9 config: https://github.com/arp242/dotfiles/blob/master/vim/vimrc
 
 ## LuaRCs for reference:
 

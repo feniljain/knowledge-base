@@ -5,6 +5,7 @@
 - https://xsleaks.dev/
 - https://tryhackme.com/
 - https://securityheaders.com/
+- the cryptopals crypto challenges: https://cryptopals.com/
 
 ## Blogs and articles:
 

@@ -17,3 +17,7 @@
 ## Reddit and twitter threads:
 
 - For everyone who's as confused as I am with maven terminologies, here's something to help: https://twitter.com/saketme/status/1357436828861759491
+
+## Kotlin internals:
+
+- Crash course on the Kotlin compiler | 1. Frontend: Parsing phase: https://hinchman-amanda.medium.com/crash-course-on-the-kotlin-compiler-1-frontend-parsing-phase-9898490d922b

@@ -68,6 +68,7 @@
 - https://github.com/python-engineer/ml-study-plan
 - https://github.com/bryandlee/animegan2-pytorch
 - https://github.com/dair-ai/ML-YouTube-Courses
+- Easy-to-use library to boost AI inference leveraging multiple DL compilers: https://github.com/nebuly-ai/nebullvm
 
 ## Reddit and twitter threads:
 

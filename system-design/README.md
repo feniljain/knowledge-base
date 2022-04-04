@@ -92,6 +92,8 @@
 - https://mecha-mind.medium.com/system-design-backend-for-google-photos-e0abcd74dd36
 - https://fin-techology.medium.com/system-design-interview-prep-how-to-build-a-system-to-handle-long-running-job-dda46f68a2eb
 - https://mecha-mind.medium.com/system-design-nearby-places-recommender-system-7ac53e27c977
+- https://medium.com/codex/delayed-queue-a-message-queue-with-delay-feature-268c8647c2fd
+- https://heyvivek.medium.com/mechanics-of-consistent-hashing-a1eeb335ecea
 
 ## Repos:
 

@@ -10,6 +10,8 @@
 - Free alternative to spotify: https://spotfy.one/
 - Background video and image remover: backgroundremover.app
 - https://rateyourmusic.com/
+- Remove unwanted things from images in seconds (free): https://www.magiceraser.io/
+- https://movieminions.to/
 
 # Blogs and articles:
 
@@ -41,3 +43,4 @@
 # Reddit and twitter threads:
 
 - Getting rid of spotify ad banners and stuff: https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/
+- MEGA-PIRACY-WIKI: https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/g37lwb/megapiracywiki/

@@ -85,6 +85,10 @@
 
 - Javascript repos: https://twitter.com/nirbhayvashisht/status/1348139619582238723
 
+## Newsletters:
+
+- https://javascriptweekly.com/
+
 ## Learning:
 
 - https://dev.to/worldindev/200-js-resources-to-master-programming-3aj6/

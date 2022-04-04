@@ -13,6 +13,7 @@
 ## Websites:
 
 - https://sre.google/
+- https://www.cloud-native-sre.wtf/
 
 ## Blogs And Articles:
 
@@ -34,6 +35,7 @@
 - https://iximiuz.com/en/posts/devops-sre-and-platform-engineering/
 - https://medium.com/@bruce_25864/the-road-to-sre-ad4c73df78b8
 - https://learnk8s.io/kubernetes-network-packets
+- SLA, SLO, SLI — A Primer: https://sherinthomas.medium.com/sla-slo-sli-a-primer-4f3d0f5dae9c
 
 ## Repos:
 

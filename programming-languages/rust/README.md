@@ -274,6 +274,7 @@
 - https://phazer99.blogspot.com/2022/02/a-deeper-dive-into-rust-type-system.html
 - Verifying Dynamic Trait Objects in Rust(research paper): https://www.cs.cornell.edu/~avh/dyn-trait-icse-seip-2022-preprint.pdf
 - Annotating a compile-time value to a rust struct: https://lukas-prokop.at/articles/2022-02-16-annotating-const-generic-to-struct
+- https://robinmoussu.gitlab.io/blog/post/2022-03-16_do_we_really_need_language_support_for_self_references/
 
 ### Others:
 
@@ -566,6 +567,7 @@
 - Writing interpreters in rust: https://rust-hosted-langs.github.io/book/
 - The little book of rust macros: https://veykril.github.io/tlborm/
 - https://github.com/QMHTMY/RustBook
+- A free systems software security book!: https://highassurance.rs/
 
 ## Interesting Projects:
 

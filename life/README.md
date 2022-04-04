@@ -55,6 +55,7 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - We all need people who will give us feedback. That's how we improve. - Bill Gates
 - https://betterhumans.pub/read-less-but-read-better-1a5084211cc6
 - https://www.samjulien.com/shy-dev-networking
+- https://thereader.mitpress.mit.edu/the-time-hack-everyone-should-know/
 
 ## Videos:
 
@@ -227,6 +228,25 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - Enjoy the little things, for one day you may look back and realize they were the big things. - Robert Brault
 - As long as you live, keep learning how to live. - Seneca
 - Take care of your thoughts when you’re alone. Take care of your words when you’re with people.
+- Give yourself permission to slow down. You can speed up by slowing down. - Gabby Bernstein
+- Everything you can imagine is real. - Pablo Picasso
+- It doesn’t matter where you are, you are nowhere compared to where you can go. - Bob Proctor
+- Practice the art of interpreting situations constructively.
+- Every day is a new beginning, take a deep breath and start again.
+- Outer order contributes to inner calm. - Gretchen Rubin
+- The cave you fear to enter holds the treasure that you seek. - Joseph Campbell
+- Life gives you lots of chances to screw up which means you have just as many chances to get it right. - Candace Bushnell
+- It is not the load that breaks you down. It's the way you carry it. - Lou Holtz
+- Change your thoughts and you change your world. - Norman Vincent Peale
+- A ship in harbor is safe — but that is not what ships are built for. - John A. Shedd
+- The struggles you endure today will be the ‘good old days’ you’ll laugh about tomorrow. - Aaron Lauritsen
+- We tend to consider too much the good luck of the early bird and not enough the bad luck of the early worm - Franklin Roosevelt
+- The universe reveals its secrets to those who dare to follow their hearts. - Ralph Smart
+- Perseverance is not a long race; it is many short races one after another. - Walter Elliott
+- Some of us think holding on makes us strong, but sometimes it is letting go. - Hermann Hesse
+- The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts. - B. Russell
+- Nothing will work unless you do. - Maya Angelou
+- Don’t go through life, grow through life. - Eric Butterworth
 
 ## Books:
 

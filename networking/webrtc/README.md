@@ -18,6 +18,7 @@
 - Where WebRTC Standards Meet Reality: https://webrtcstandards.info/
 - https://ortc.org/
 - https://webrtc-security.github.io/
+- WebRTC in go: https://pion.ly/
 
 ## GoogleGroups:
 
@@ -66,6 +67,14 @@
 - https://niccoloterreri.com/webrtc-with-transceivers
 - https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Connectivity
 - https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Signaling_and_video_calling
+- https://www.cloudbees.com/blog/webrtc-issues-and-how-to-debug-them
+- https://stackoverflow.com/questions/17530197/how-to-do-network-tracking-or-debugging-webrtc-peer-to-peer-connection
+- https://mediasoup.org/documentation/v2/mediasoup/debugging/
+- Canvas Capture as WebRTC media source: https://janus.conf.meetecho.com/canvas
+- `getStats()` documentation: https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-nominated
+- https://www.metered.ca/tools/openrelay/stun-servers-and-friends/
+- How do TURN servers work along with SFUs ( read comments too ): https://stackoverflow.com/questions/61287054/understanding-sfus-turn-servers-in-webrtc
+- https://www.gremwell.com/blog/dtls-srtp#traffic-interception-and-analysis
 
 ## Videos:
 
@@ -76,6 +85,7 @@
 - WebTransport and WebCodecs: https://www.youtube.com/watch?v=VD5GBLBiSxo
 - Real-time communication with WebRTC: Google I/O 2013: https://www.youtube.com/watch?v=p2HzZkd2A40
 - WebRTC: Real-time Audio/Video and P2P in HTML5: https://www.youtube.com/watch?v=E8C8ouiXHHk&t=1350s
+- Developing a cross-platform WebRTC API using Rust and WebAssembly: https://www.youtube.com/watch?v=E_sTmp5W_dM
 
 ## Repos:
 
@@ -88,6 +98,12 @@
 - hhttps://gitlab.com/fastogt/flutter_webrtc_sdk
 - WebRTC Signaling Server Ayame: https://github.com/OpenAyame/ayame
 - RecordRTC is WebRTC JavaScript library for audio/video as well as screen activity recording: https://github.com/muaz-khan/RecordRTC
+- A curated list of awesome Real Time Communications resources: https://github.com/rtckit/awesome-rtc
+- a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE: https://github.com/EnableSecurity/awesome-rtc-hacking
+- https://github.com/RemoteMonster
+- https://github.com/ant-media
+- https://github.com/codec-abc/Yew-WebRTC-Chat
+- https://github.com/miroslavpejic85/mirotalk
 
 ## Reddit and twitter threads:
 
@@ -110,3 +126,5 @@
 ## Companies:
 
 - https://subspace.com/
+- https://connectlive.kakaoi.ai/
+- https://antmedia.io/

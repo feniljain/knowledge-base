@@ -72,6 +72,7 @@
 - https://stackoverflow.com/questions/614795/simulate-delayed-and-dropped-packets-on-linux
 - https://systemcrafters.net/craft-your-system-with-guix/5-reasons-to-try-guix/
 - https://www.internalpointers.com/post/build-binary-deb-package-practical-guide
+- https://levelup.gitconnected.com/5-modern-bash-scripting-techniques-that-only-a-few-programmers-know-4abb58ddadad
 
 ### Linux working:
 
@@ -117,6 +118,7 @@
 - systemd by example: https://systemd-by-example.com/
 - Static, Shared Dynamic and Loadable Linux Libraries: http://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html
 - Beginner's guide to Linkers: https://www.lurklurk.org/linkers/linkers.html
+- Linux internals: Virtual Memory: https://sam4k.com/linternals-virtual-memory-part-1/
 
 ### Others:
 
@@ -151,6 +153,7 @@
 - UNIX administration horror story: https://www-uxsup.csx.cam.ac.uk/misc/horror.txt
 - A simple way to improve bash script debugging: https://johannes.truschnigg.info/writing/2021-12_colodebug/
 - Setting system wide c++ to llvm: https://stackoverflow.com/a/12843988
+- The Mirage Of Memory: https://dev.to/yugabyte/the-mirage-of-memory-3366
 
 ## Blog series:
 
@@ -159,6 +162,7 @@
 - https://ojeda.dev/
 - Greg Kroah-Hartman's blog: http://www.kroah.com/log/
 - http://www.gonehiking.org/ShuahLinuxBlogs/
+- Linux internals: https://sam4k.com/linternals-introduction/
 
 ## Books:
 
@@ -270,6 +274,8 @@
 - cmatrix
 - kondo
 - fd
+- difftastic
+- vgrep
 
 ### Rust Dev
 

@@ -6,6 +6,7 @@
 - https://ebpf.io/
 - eBPF Mailing List: http://vger.kernel.org/vger-lists.html#bpf
 - See all the ebpf patches together: https://patchwork.kernel.org/project/netdevbpf/list/
+- https://vbpf.github.io/
 
 ## Blogs and articles:
 
@@ -53,6 +54,8 @@
 - https://www.seekret.io/blog/handling-the-challenge-of-deploying-ebpf-into-the-wild/
 - Every Boring Problem Found in eBPF: https://tmpout.sh/2/4.html
 - eBPF Kernel Image Lockdown and eBPF Flexibility: https://djalal.opendz.org/post/ebpf-kernel-image-lockdown-and-ebpf-flexibility/
+- eBPF nuances on Minikube: https://www.seekret.io/blog/ebpf-nuances-on-minikube/
+- BPF Compiler Collection Tools (BCC Tools) | Ultimate Guide: https://www.containiq.com/post/bcc-tools
 
 ### Tutorials:
 
@@ -106,6 +109,11 @@
 - Presentations and docs on BPF: https://github.com/iovisor/bpf-docs/
 - eBPF Steering Committee: https://github.com/ebpf-io/bsc
 - The Collector Project of Apache SkyWalking based on the eBPF: https://github.com/apache/skywalking-rover
+- https://github.com/mikeroyal/eBPF-Guide
+- https://github.com/vbpf/ebpf-verifier
+- https://github.com/vbpf
+- https://github.com/vbpf/ebpf-samples
+- egrets monitors egress : https://github.com/ancat/egrets
 
 ## Reddit and twitter threads:
 

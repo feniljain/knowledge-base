@@ -25,6 +25,8 @@
 - https://guardianproject.info/2021/11/30/implementing-tls-encrypted-client-hello/
 - Tutorial on implementing TCP/IP: https://datatracker.ietf.org/doc/html/rfc1180
 - A toy DNS Resolver: https://jvns.ca/blog/2022/02/01/a-dns-resolver-in-80-lines-of-go/
+- Implementing a toy version of TLS 1.3: https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/
+- What happens if you write a TCP stack in Python?: https://jvns.ca/blog/2014/08/12/what-happens-if-you-write-a-tcp-stack-in-python/
 
 ### Others:
 
@@ -92,6 +94,10 @@
 - Linux Kernel Networking Walkthrough(Awesome resource for understanding how everything happens in kernel space): https://www.slideshare.net/ThomasGraf5/linuxcon-2015-linux-kernel-networking-walkthrough
 - Modern Telecom Network Tracing: https://oxio.com/blog/modern-telecom-network-tracing/
 - Weaponizing Middleboxes for TCP Reflected Amplification: https://geneva.cs.umd.edu/posts/usenix21-weaponizing-censors/
+- The New Illustrated TLS Connection: https://tls13.ulfheim.net/
+- https://engineering.salesforce.com/the-full-picture-on-http-2-and-hol-blocking-7f964b34d205
+- https://calendar.perfplanet.com/2020/head-of-line-blocking-in-quic-and-http-3-the-details/
+- https://en.m.wikipedia.org/wiki/Application-level_gateway
 
 ## Books:
 
@@ -114,6 +120,7 @@
 - A TCP proxy to simulate network and system conditions for chaos and resiliency testing: https://github.com/Shopify/toxiproxy
 - https://github.com/shopify/toxiproxy
 - https://github.com/alibaba/xquic
+- Delicately-TUICed high-performance proxy built on top of the QUIC protocol: https://github.com/EAimTY/tuic
 
 ## Reddit and twitter threads:
 

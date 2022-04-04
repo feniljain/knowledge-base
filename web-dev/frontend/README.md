@@ -32,6 +32,7 @@
 - https://dev.to/polgarj/a-short-guide-to-help-you-pick-the-correct-html-tag-56l9
 - https://devtrium.com/posts/how-to-use-react-usereducer-hook
 - https://javascript.info/debugging-chrome
+- Tailoring site themes based on light and dark mode preferences: https://ryanmulligan.dev/blog/themes-and-schemes/
 
 ### Others:
 
@@ -136,10 +137,16 @@
 
 - Templates: https://twitter.com/sunilc_/status/1347962741789626370
 - https://www.reddit.com/r/WebdevTutorials/comments/mwo69l/top_21_web_development_trends_to_look_out_for_in/
+- How do I debug React in Neovim with nvim-dap?: https://www.reddit.com/r/neovim/comments/tv7f7d/how_do_i_debug_react_in_neovim_with_nvimdap/
 
 ## Learning:
 
 - https://dev.to/adiatiayu/10-free-and-affordable-resources-to-learn-frontend-web-development-1ehb
+
+## Newsletters:
+
+- https://react.statuscode.com/
+- https://frontendfoc.us/
 
 # CSS:
 
@@ -165,6 +172,8 @@
 - https://pika.rishimohan.me/
 - https://fffuel.co/pppointed/
 - https://a11y-automation.dev/
+- https://www.projectwallace.com/
+- Create Tailwind CSS color families: https://uicolors.app/create
 
 ## Blogs And Articles:
 

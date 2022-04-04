@@ -18,6 +18,7 @@
 - https://blog.knoldus.com/getting-started-with-the-writing-of-operating-system-rust/
 - https://dev.to/tobychui/i-write-my-own-web-desktop-os-for-3-years-and-this-is-what-it-looks-like-now-2903
 - https://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language
+- Write a simpl operating system from scratch: https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
 
 ### Others:
 
@@ -40,6 +41,8 @@
 - https://maskray.me/blog/2021-10-31-relative-relocations-and-relr
 - https://en.wikipedia.org/wiki/Thread_control_block
 - https://medium.com/@michealkeines/history-operating-systems-96b98b31411b
+- https://en.wikipedia.org/wiki/Address_space_layout_randomization
+- https://en.wikipedia.org/wiki/Position-independent_code
 
 ## Blog series/Articles collections:
 

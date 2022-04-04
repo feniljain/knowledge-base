@@ -11,6 +11,7 @@
 - http://highscalability.com/
 - Ton of resource, like a lot(this is a all devops knowledge-base, including docker, kubernetes, etc.): https://redhatspain.com/
 - http://flaws.cloud/
+- Observability learning resources: https://o11y.love/learning-resources/#talks
 
 ## Blogs and Articles:
 

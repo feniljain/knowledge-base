@@ -86,6 +86,9 @@
 - https://netflixtechblog.com/rapid-event-notification-system-at-netflix-6deb1d2b57d1
 - https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01
 - https://r.bluethl.net/how-to-design-better-apis
+- An In-Depth Introduction To Idempotency: https://www.lpalmieri.com/posts/idempotency/
+- https://medium.com/clear-street/transactional-outboxes-4b7bc5d9bbca
+- https://itnext.io/solving-concurrency-in-event-driven-microservices-79bbc13b597c
 
 ## Blog series/Articles collection:
 
@@ -104,7 +107,6 @@
 
 - All best practices of node: https://github.com/goldbergyoni/nodebestpractices
 - https://github.com/typicode/json-server
-- WebRTC in go: https://pion.ly/
 - https://github.com/ipfs/go-ipfs
 - https://github.com/rails/kredis
 - Implementation of google's global, consistent authorization system, Zanzibar: https://github.com/ory/keto

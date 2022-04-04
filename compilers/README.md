@@ -104,6 +104,7 @@
 - Chomsky hierarchy: https://www.geeksforgeeks.org/chomsky-hierarchy-in-theory-of-computation/
 - Closure Conversion: https://matt.might.net/articles/closure-conversion/
 - Lambda Lifting: https://stackoverflow.com/questions/592584/what-is-lambda-lifting
+- Abstract vs Concrete Syntax Trees: https://eli.thegreenplace.net/2009/02/16/abstract-vs-concrete-syntax-trees/
 
 ## Blog series/Articles collection:
 
@@ -186,3 +187,7 @@
 ## Interesting rust-analyzer issues:
 
 - Investigate node tracking: https://github.com/rust-analyzer/rust-analyzer/issues/9649
+
+## Podcasts:
+
+- Cliff Click's podcast: https://player.fm/series/programming-and-performance-with-cliff-click-1549714

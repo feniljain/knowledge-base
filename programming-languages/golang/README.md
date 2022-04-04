@@ -76,6 +76,7 @@
 - https://blog.cskr.dev/posts/arena-allocation-in-go/
 - Reverse HTTP proxy over WebSocket in Go (Part 1): https://dev.to/hgsgtk/reverse-http-proxy-over-websocket-in-go-part-1-13n4
 - https://deathbykeystroke.com/articles/20220106-real-macros-in-go.html
+- https://gosamples.dev/tags/generics-intro/
 
 ### Architecture:
 
@@ -261,6 +262,7 @@
 - Bringing down allocations to zero: https://chris124567.github.io/2021-06-21-go-performance/
 - https://medium.com/twitch-news/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2
 - https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/
+- https://www.infoq.com/news/2022/03/uber-go-gc-tuner/
 
 ## Golang-nuts:
 
@@ -394,6 +396,7 @@
 - How does go calculate len: https://tpaschalis.github.io/golang-len/
 - https://divan.dev/posts/go_concurrency_visualize/
 - Dumpster diving the Go garbage collector using eBPF: https://blog.px.dev/go-garbage-collector/
+- Golang Generics Implementation Details: https://medium.com/@amirrezaask/golang-generics-implementation-details-88dc2649d3b0
 
 # Go Learning:
 

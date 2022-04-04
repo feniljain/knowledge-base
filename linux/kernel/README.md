@@ -28,6 +28,8 @@
 - #1 Project for kernel beginners to work on: https://lwn.net/Articles/283982/
 - Linux tracing - kprobe, uprobe and tracepoint: https://terenceli.github.io/%E6%8A%80%E6%9C%AF/2020/08/05/tracing-basic
 - Kernel Locking —Deep Dive into Spinlocks: https://deepdives.medium.com/kernel-locking-deep-dive-into-spinlocks-part-1-bcdc46ee8df6
+- Implementing virtual system calls: https://lwn.net/Articles/615809/
+- Linux and ASLR: kernel/randomize_va_space: https://linux-audit.com/linux-aslr-and-kernelrandomize_va_space-setting/
 
 ## Dev:
 
@@ -61,6 +63,7 @@
 - Guide to kernel development process: https://www.kernel.org/doc/html/latest/process/development-process.html
 - First Kernel Patch: https://wiki.linuxfoundation.org/lkmp/lkmp_first_kernel_patch
 - How to do Linux Kernel Development: https://www.kernel.org/doc/html/latest/process/howto.html#
+- Getting started with linux kernel development: https://gist.github.com/vegard/22200a9f91af138a99ae22a9b814a9a4
 
 ## Blog series/Article collection:
 
@@ -70,6 +73,7 @@
 
 - https://www.reddit.com/r/linux4noobs/comments/sr5fn8/what_do_linux_kernel_version_numbers_mean_nowadays/
 - Setup Nvim for Linux kernel development(Check last comment): https://www.reddit.com/r/neovim/comments/i9j9m3/cannot_setup_nvim_for_linux_kernel_development/
+- How to become a Kernel Developer?: https://www.reddit.com/r/kernel/comments/tniuhx/how_to_become_a_kernel_developer/
 
 ## Videos:
 

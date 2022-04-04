@@ -64,6 +64,7 @@
 - https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/
 - https://www.samjulien.com/shy-dev-networking
 - https://grokkinginterview.com/ace-googles-behavioral-interview-questions-and-tips-for-coders-203cc823aebf
+- 5 coding interview questions I hate: https://thoughtspile.github.io/2022/03/21/bad-tech-interview/
 
 ## Videos:
 

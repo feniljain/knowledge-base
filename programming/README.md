@@ -162,6 +162,7 @@
 - https://nadh.in/blog/fomo-yamo/
 - The Byte Order Fallacy: https://commandcenter.blogspot.com/2012/04/byte-order-fallacy.html
 - How do you create an Efficient Data Structure for Spatial Indexing?: https://medium.com/javarevisited/how-do-you-create-an-efficient-data-structure-for-spatial-indexing-3555455f6510
+- Contributing to Complex Projects: https://mitchellh.com/writing/contributing-to-complex-projects
 
 ## Blog Series:
 
@@ -176,6 +177,7 @@
 - https://tldr.tech/
 - https://newsletter.pragmaticengineer.com/
 - https://soasis.org/newsletter/
+- https://react.statuscode.com/
 
 ## Podcasts:
 

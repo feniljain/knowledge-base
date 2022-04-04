@@ -60,3 +60,4 @@
 - https://github.com/pannous/wasp
 - A portable GUI format based on webassembly: https://github.com/lambertjamesd/onegui
 - https://github.com/wasmerio/wasmer
+- https://github.com/mikeroyal/WebAssembly-Guide

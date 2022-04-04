@@ -109,6 +109,7 @@
 - Zombieland saga
 - Dagashi Kashi: ref: https://twitter.com/AshGandawa/status/1372070107808202752
 - Gakuen babysitters
+- Amagami SS
 
 ## Sad & Romance:
 
@@ -255,6 +256,7 @@
 - https://www.reddit.com/r/anime/comments/a0ge2o/what_are_some_if_the_best_romance_anime_i_need/
 - https://www.reddit.com/r/Animesuggest/comments/s9yt6d/can_anyone_suggest_me_a_good_action_romance_anime/
 - Good Dark Anime: https://www.reddit.com/r/Animesuggest/comments/sg2ss9/good_dark_anime/
+- Dark aesthetic animes?: https://www.reddit.com/r/Animesuggest/comments/tifohm/dark_aesthetic_animes/
 
 ## Watch Websites:
 
@@ -296,6 +298,7 @@
 - https://www.anime-planet.com/
 - https://wcostream.cc/
 - https://www.viz.com/
+- A list: https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_downloading
 
 ## General Websites:
 
@@ -429,6 +432,7 @@
 - Angel Beats
 - Tada never falls in love: Tada-kun wa Koi wo Shinai
 - JoJo's bizzare adventures
+- Helsing
 
 ## Caught up Mangas:
 

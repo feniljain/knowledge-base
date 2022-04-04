@@ -7,6 +7,7 @@
 - https://dbdb.io/
 - https://proxysql.com/
 - https://planetscale.com/
+- https://db-engines.com/
 
 ## Blogs And Articles:
 
@@ -102,10 +103,15 @@
 - https://github.com/RedisJSON/RedisJSON
 - https://github.com/pingcap/dumpling
 - OpenSource alternative to mongodb: https://github.com/MangoDB-io/MangoDB
+- Distributed open source platform for change data capture: https://github.com/debezium
 
 ## Reddit, twitter and ycombinator threads:
 
 - Do you self-host your database: https://news.ycombinator.com/item?id=27671376
+
+## Newsletters:
+
+- https://postgresweekly.com/
 
 <h2 align="center">SQL</h2>
 
@@ -134,3 +140,4 @@
 ## Blogs and articles:
 
 - https://dev.to/javinpaul/my-favorite-free-sql-courses-for-beginners-2d3j
+- https://jmarquesdatabeyond.medium.com/sql-like-a-pro-please-stop-using-distinct-31bdb6481256
