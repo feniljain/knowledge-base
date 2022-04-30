@@ -247,6 +247,21 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - The whole problem with the world is that fools and fanatics are always so certain of themselves, and wiser people so full of doubts. - B. Russell
 - Nothing will work unless you do. - Maya Angelou
 - Don’t go through life, grow through life. - Eric Butterworth
+- Times move slowly, but passes quickly - Alice Walker
+- If one dream should fall and break into a thousand pieces, never be afraid to pick one of those pieces up and begin again. - Flavia Weedn
+- Mystery creates wonder and wonder is the basis of our desire to understand. - Neil Armstrong
+- Whenever you are confronted with an opponent, conquer them with love. - Mahatma Gandhi
+- Pleasure in the job puts perfection in the work. - Aristotle
+- Let us make our future now, and let us make our dreams tomorrow's reality. - Malala Yousafzai
+- The smallest deed is better than the greatest intention. - John Burroughs
+- Until you cross the bridge of your insecurities, you can't begin to explore your possibilities. - Tim Fargo
+- If a little dreaming is dangerous, the cure for it is not to dream less but to dream more, to dream all the time. - Marcel Proust
+- Never overlook the power of simplicity. - Robin S. Sharma
+- What you get by achieving your goals is not as important as what you become by achieving your goals. - Harry David Thoreau
+- When you wake up in the morning you have two choices: go back to sleep, or wake up and chase those dreams.
+- Imagine how you want to feel at the end of the day. Start working towards that now. - Lin-Manuel Miranada
+- Don't let a bad day make you feel like you have a bad life.
+- Anyone who stops learning is old. - Henry Ford
 
 ## Books:
 

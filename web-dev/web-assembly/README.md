@@ -44,6 +44,7 @@
 - WASM Internals: https://a-j.gitbook.io/wasm-experimentation/wasm-internals-1
 - https://blog.devgenius.io/part-1-memory-management-in-wasm-52195f9b707f
 - Difference between Java bytecode and WASM bytecode: https://www.quora.com/How-does-Java-bytecode-compare-to-WASM-code
+- https://www.tweag.io/blog/2022-03-17-libffi-wasm32/
 
 # Books:
 
@@ -61,3 +62,4 @@
 - A portable GUI format based on webassembly: https://github.com/lambertjamesd/onegui
 - https://github.com/wasmerio/wasmer
 - https://github.com/mikeroyal/WebAssembly-Guide
+- https://github.com/bytecodealliance/wasm-micro-runtime

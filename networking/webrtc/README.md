@@ -19,6 +19,7 @@
 - https://ortc.org/
 - https://webrtc-security.github.io/
 - WebRTC in go: https://pion.ly/
+- Working group for webrtc standards: https://datatracker.ietf.org/wg/rtcweb/documents/
 
 ## GoogleGroups:
 
@@ -68,13 +69,23 @@
 - https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Connectivity
 - https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Signaling_and_video_calling
 - https://www.cloudbees.com/blog/webrtc-issues-and-how-to-debug-them
-- https://stackoverflow.com/questions/17530197/how-to-do-network-tracking-or-debugging-webrtc-peer-to-peer-connection
 - https://mediasoup.org/documentation/v2/mediasoup/debugging/
 - Canvas Capture as WebRTC media source: https://janus.conf.meetecho.com/canvas
 - `getStats()` documentation: https://www.w3.org/TR/webrtc-stats/#dom-rtcicecandidatepairstats-nominated
 - https://www.metered.ca/tools/openrelay/stun-servers-and-friends/
-- How do TURN servers work along with SFUs ( read comments too ): https://stackoverflow.com/questions/61287054/understanding-sfus-turn-servers-in-webrtc
 - https://www.gremwell.com/blog/dtls-srtp#traffic-interception-and-analysis
+- Trickle ICE Testing: https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice/
+- https://www.rtcsec.com/article/exploiting-cve-2022-0778-in-openssl-vs-webrtc-platforms/
+- https://webrtccourse.com/course/webrtc-codelab/module/fiddle-of-the-month/lesson/ice-restarts/
+- Path MTU Discovery: https://datatracker.ietf.org/doc/html/rfc1191
+- https://dev.to/api_video/delivering-live-video-hls-video-streaming-vs-webrtc-15m4
+- https://dev.to/sadmansamee/working-with-webrtc-on-android-ios-465c
+- https://ai.googleblog.com/2020/04/improving-audio-quality-in-duo-with.html
+- ICE Negotiation: https://subspace.com/resources/ice-negotiation
+
+## Blog series/articles collection:
+
+- http://www.rtcbits.com/
 
 ## Videos:
 
@@ -104,6 +115,17 @@
 - https://github.com/ant-media
 - https://github.com/codec-abc/Yew-WebRTC-Chat
 - https://github.com/miroslavpejic85/mirotalk
+- STUNTMAN is an open source implementation of the STUN protocol : http://www.stunprotocol.org/
+- https://github.com/jech/galene
+- A list of publicly available STUN servers, refreshed every hour: https://github.com/pradt2/always-online-stun
+
+## Useful SO questions:
+
+- https://stackoverflow.com/questions/17530197/how-to-do-network-tracking-or-debugging-webrtc-peer-to-peer-connection
+- How do TURN servers work along with SFUs ( read comments too ): https://stackoverflow.com/questions/61287054/understanding-sfus-turn-servers-in-webrtc
+- https://stackoverflow.com/questions/54622919/how-does-a-turn-server-send-data-to-peers-behind-a-nat
+- https://stackoverflow.com/questions/54796460/will-ice-negotiations-between-peers-behind-two-symmetric-nats-result-in-requiri
+- https://stackoverflow.com/questions/64710174/can-a-webrtc-turn-relayed-transport-address-be-shared-with-multiple-peers
 
 ## Reddit and twitter threads:
 

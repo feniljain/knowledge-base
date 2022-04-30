@@ -187,6 +187,7 @@
 - Rant on golang: https://fasterthanli.me/articles/i-want-off-mr-golangs-wild-ride
 - https://golangbyexample.com/immediately-invoked-function-go/
 - Go: A Documentary: https://golang.design/history/
+- Crimes with Go Generics: https://christine.website/blog/gonads-2022-04-24
 
 ## Blog Series:
 

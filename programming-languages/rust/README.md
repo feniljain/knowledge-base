@@ -40,6 +40,7 @@
 - https://rustacean-principles.netlify.app/
 - https://programming-idioms.org/cheatsheet/Cpp/Rust
 - https://letsgetrusty.com/wp-content/uploads/2021/10/LGR-Cheat-Sheet.pdf
+- Artworks for ferris: https://rustacean.net/
 
 ## Blogs and Articles:
 
@@ -275,6 +276,7 @@
 - Verifying Dynamic Trait Objects in Rust(research paper): https://www.cs.cornell.edu/~avh/dyn-trait-icse-seip-2022-preprint.pdf
 - Annotating a compile-time value to a rust struct: https://lukas-prokop.at/articles/2022-02-16-annotating-const-generic-to-struct
 - https://robinmoussu.gitlab.io/blog/post/2022-03-16_do_we_really_need_language_support_for_self_references/
+- Self Modifying Code:https://matklad.github.io//2022/03/26/self-modifying-code.html
 
 ### Others:
 
@@ -485,6 +487,8 @@
 - A joke about learning to program in Rust: https://github.com/luser/keep-calm-and-call-clone
 - How to use Rust code in other languages: https://jakegoulding.com/rust-ffi-omnibus/
 - Funktional generic type-level programming in Rust: HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid and friends: https://github.com/lloydmeta/frunk
+- A list of rust lang mentors tagged by topics of interest: https://github.com/RustBeginners/awesome-rust-mentors
+- The blazing fast build tool for Rust: https://github.com/dimensionhq/fleet
 
 ## Videos:
 

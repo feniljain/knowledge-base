@@ -30,6 +30,7 @@
 - Kernel Locking —Deep Dive into Spinlocks: https://deepdives.medium.com/kernel-locking-deep-dive-into-spinlocks-part-1-bcdc46ee8df6
 - Implementing virtual system calls: https://lwn.net/Articles/615809/
 - Linux and ASLR: kernel/randomize_va_space: https://linux-audit.com/linux-aslr-and-kernelrandomize_va_space-setting/
+- A security fix briefly breaks DMA: https://lwn.net/Articles/889593/
 
 ## Dev:
 
@@ -80,6 +81,7 @@
 - Linux Kernel Programming short series covering compiling, modules, drivers, busybox, etc.: https://www.youtube.com/watch?v=WiZ05pnHZqM&list=PLHh55M_Kq4OChzSZUHzjjSetgiaTLB0Nz
 - Why Linux maintainers are grumpy: https://www.youtube.com/watch?v=fMeH7wqOwXA
 - Linux Kernel Development By Greg: https://www.youtube.com/watch?v=vyenmLqJQjs
+- Mentorship Session: Kernel Validation With Kselftest: https://www.youtube.com/watch?v=mpO_iDEMqWQ
 
 ## Books:
 

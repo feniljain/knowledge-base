@@ -24,6 +24,7 @@
 - https://www.framer.com/sites/
 - Accessbility checklist: https://www.a11yproject.com/checklist/
 - https://colors.lol/
+- https://avvvatars.com/
 
 ## Blogs and articles:
 
@@ -38,6 +39,7 @@
 - https://uxdesign.cc/why-do-we-round-corners-5145a90da6ed
 - https://discord.com/blog/building-open-source-design-tools-to-improve-discords-design-workflow
 - https://pimpmytype.com/wordle/
+- https://uxplanet.org/how-to-improve-your-ui-skills-quickly-8a14631c1dfa
 
 ## Blog series/article collection:
 

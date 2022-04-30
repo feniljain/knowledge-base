@@ -13,6 +13,7 @@
 - https://github.com/touchlab/Kermit
 - https://github.com/ktorio/ktor
 - Kotlin Multiplatform Statemachine library with nice DSL based on Flow from Kotlin Coroutine's: https://github.com/freeletics/FlowRedux
+- KotlinX multiplatform date/time library : https://github.com/Kotlin/kotlinx-datetime
 
 ## Reddit and twitter threads:
 

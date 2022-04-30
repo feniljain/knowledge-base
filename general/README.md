@@ -139,6 +139,10 @@
 - https://trilarion.github.io/opensourcegames/
 - Allows you easily scan for and delete scam comments using several methods : https://github.com/ThioJoe/YT-Spammer-Purge
 
+## Newsletters:
+
+- The data-driven newsletter for the modern investor: https://specterhq.substack.com/
+
 ## Free Creds:
 
 - https://pastebin.com/u/X-Revan-AR/1

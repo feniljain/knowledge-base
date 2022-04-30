@@ -74,6 +74,7 @@
 - Id Invaded
 - Black bullet
 - Angels of Death
+- Summer Time Render
 
 ## Adventure and Magic(supernatural):
 
@@ -223,6 +224,7 @@
 
 ## Anime Songs:
 
+- Guide in Finding Japanese Music Today: https://www.youtube.com/watch?v=kFy36dQA0X0
 - Kamado Tanjirou no Uta: https://www.youtube.com/watch?v=P-uhgIzHYYo
 - Gurenge: https://www.youtube.com/watch?v=CkYoNINcruQ
 - Kamado Tanjirou no Uta cover by akano: https://www.youtube.com/watch?v=Y7YwcHbvysM

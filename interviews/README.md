@@ -65,6 +65,9 @@
 - https://www.samjulien.com/shy-dev-networking
 - https://grokkinginterview.com/ace-googles-behavioral-interview-questions-and-tips-for-coders-203cc823aebf
 - 5 coding interview questions I hate: https://thoughtspile.github.io/2022/03/21/bad-tech-interview/
+- https://medium.com/@aparna.rsjain/why-you-must-negotiate-your-big-tech-salary-seriously-81a929c8a887
+- https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/
+- https://dev.to/dragosnedelcu/10-inteview-mistakes-that-make-look-junior-and-leave-money-on-the-table-5e50
 
 ## Videos:
 

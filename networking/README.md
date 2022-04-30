@@ -27,6 +27,8 @@
 - A toy DNS Resolver: https://jvns.ca/blog/2022/02/01/a-dns-resolver-in-80-lines-of-go/
 - Implementing a toy version of TLS 1.3: https://jvns.ca/blog/2022/03/23/a-toy-version-of-tls/
 - What happens if you write a TCP stack in Python?: https://jvns.ca/blog/2014/08/12/what-happens-if-you-write-a-tcp-stack-in-python/
+- https://alexanderell.is/posts/toy-traceroute/
+- SMTP protocol basics from scratch in Go: receiving email from Gmail: https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html
 
 ### Others:
 
@@ -98,6 +100,10 @@
 - https://engineering.salesforce.com/the-full-picture-on-http-2-and-hol-blocking-7f964b34d205
 - https://calendar.perfplanet.com/2020/head-of-line-blocking-in-quic-and-http-3-the-details/
 - https://en.m.wikipedia.org/wiki/Application-level_gateway
+- The perils of the “real” client IP: https://adam-p.ca/blog/2022/03/x-forwarded-for/
+- Contains good image of laying down several protocols alongside OSI layers: https://community.fs.com/blog/tcpip-vs-osi-whats-the-difference-between-the-two-models.html
+- https://auth0.com/blog/url-uri-urn-differences/
+- The Illustrated QUIC Connection: https://quic.ulfheim.net/
 
 ## Books:
 
@@ -109,6 +115,7 @@
 - https://www.cloudflare.com/learning/
 - https://ably.com/topics/protocols
 - https://routingcraft.net/
+- https://www.nojitter.com/
 
 ## Repos:
 
@@ -122,7 +129,7 @@
 - https://github.com/alibaba/xquic
 - Delicately-TUICed high-performance proxy built on top of the QUIC protocol: https://github.com/EAimTY/tuic
 
-## Reddit and twitter threads:
+## Reddit, twitter and HN threads:
 
 - Learning about networking(really good list of resources): https://www.reddit.com/r/devops/comments/rpspmu/how_did_you_guys_learn_networking/
 - https://www.reddit.com/r/sysadmin/comments/mm45e6/dns_should_www_cname_and_a_records_exist/
@@ -132,6 +139,7 @@
 - Networking in layman terms: https://twitter.com/iximiuz/status/1450864740645941248
 - Free resource for receiving alerts about BGP events: https://twitter.com/bgpstream
 - How CDNs work: https://twitter.com/alexxubyte/status/1496166227731181571
+- Suggest some good sources to learn computer networking: https://news.ycombinator.com/item?id=30997392
 
 ## Videos:
 
@@ -145,6 +153,7 @@
 - Implementing TCP/IP in rust: https://www.youtube.com/watch?v=bzja9fQWzdA
 - Limitations in HTTP2 which led to HTTP3: https://youtu.be/GriONb4EfPY
 - The Many Ways of DDoS: https://www.youtube.com/watch?v=PwVzG-1LT9A
+- How DHCP Works // DHCP EXPLAINED(with wireshark): https://www.youtube.com/watch?v=Cy0M54GSpBg
 
 ## Container Images:
 

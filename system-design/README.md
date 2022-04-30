@@ -94,6 +94,8 @@
 - https://mecha-mind.medium.com/system-design-nearby-places-recommender-system-7ac53e27c977
 - https://medium.com/codex/delayed-queue-a-message-queue-with-delay-feature-268c8647c2fd
 - https://heyvivek.medium.com/mechanics-of-consistent-hashing-a1eeb335ecea
+- https://mecha-mind.medium.com/system-design-google-maps-c9dddca72df5
+- https://rahulsahay19.medium.com/hotstar-like-video-ingestion-f1824772b5a1
 
 ## Repos:
 
@@ -120,3 +122,4 @@
 - Streaming a Million Likes/Second: Real-Time Interactions on Live Video: https://www.youtube.com/watch?v=yqc3PPmHvrA
 - Scaling Facebook Live Videos to a Billion Users: https://www.youtube.com/watch?v=IO4teCbHvZw
 - How TikTok short content is delivered through HTTP: https://www.youtube.com/watch?v=2df8PMfajDQ
+- Caching is Hard: https://www.youtube.com/watch?v=jIA7z1gxuc8

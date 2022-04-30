@@ -114,6 +114,8 @@
 - https://github.com/vbpf
 - https://github.com/vbpf/ebpf-samples
 - egrets monitors egress : https://github.com/ancat/egrets
+- Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access: https://github.com/kris-nova/boopkit
+- capture SSL/TLS text content without CA cert using eBPF: https://github.com/ehids/ecapture
 
 ## Reddit and twitter threads:
 
@@ -123,6 +125,7 @@
 - What tools to use at what level(proficiency) in eBPF: https://twitter.com/brendangregg/status/1439361780010999810
 - https://www.reddit.com/r/golang/comments/q5ptus/introducing_parca_open_source_infrastructurewide/
 - https://www.reddit.com/r/eBPF/comments/qmgo07/introducing_oxidebpf_a_linux_tool_for_rust_and/
+- If a person were interested in getting started with eBPF, where should they go?: https://twitter.com/mttaggart/status/1519758390519545858
 
 ## Videos:
 

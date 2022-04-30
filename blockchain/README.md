@@ -25,6 +25,7 @@
 - https://medium.com/coinmonks/ethereum-foundation-announces-berlin-hardfork-603773bbc2aa
 - https://www.infoq.com/articles/enterprise-private-public-blockchains
 - https://hackernoon.com/introducing-any-language-smart-contracts
+- https://medium.com/@nick.5montana/blockchain-layers-l0-l1-l2-l3-in-a-diagram-569162398db
 
 ## Websites:
 

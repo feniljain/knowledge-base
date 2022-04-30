@@ -47,6 +47,7 @@
 - Out of ideas for projects? Look here: http://nifty.stanford.edu/
 - ACM Software System Award: Institutions/individuals who developed software systems with lasting influence on computing: https://awards.acm.org/software-system/award-winners
 - https://virtualcoffee.io/
+- Another Knowledge Base: https://confluence.jaytaala.com/display/TKB/Tech+Knowledge+Base
 
 ## Blogs and Articles:
 
@@ -163,6 +164,8 @@
 - The Byte Order Fallacy: https://commandcenter.blogspot.com/2012/04/byte-order-fallacy.html
 - How do you create an Efficient Data Structure for Spatial Indexing?: https://medium.com/javarevisited/how-do-you-create-an-efficient-data-structure-for-spatial-indexing-3555455f6510
 - Contributing to Complex Projects: https://mitchellh.com/writing/contributing-to-complex-projects
+- https://www.righto.com/2022/04/the-digital-ranging-system-that.html
+- https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/
 
 ## Blog Series:
 
@@ -177,13 +180,14 @@
 - https://tldr.tech/
 - https://newsletter.pragmaticengineer.com/
 - https://soasis.org/newsletter/
-- https://react.statuscode.com/
+- https://cassidoo.co/newsletter/confirmed.html
+- https://techemails.com/
 
 ## Podcasts:
 
 - Immigrant Computer Scientists: https://open.spotify.com/show/165S0iev1NbimrJ2FSsLes?si=2bb0af6919f54f13
 
-## Reddit posts and tweets:
+## Reddit posts/tweets and HN threads:
 
 - Correct posture to sit while programming: https://twitter.com/frontenddude/status/1346032968800854016
 - Mistakes not to make as a software engineer: https://twitter.com/bahdcoder/status/1351090302354927616
@@ -195,6 +199,7 @@
 - How do computers remember?: https://www.reddit.com/r/programming/comments/qqhn00/how_do_computers_remember/
 - Rob Pikes rules of programming: https://www.reddit.com/r/computerscience/comments/rq60d4/rules_of_programming/
 - No-code tools, the thread: https://twitter.com/heyeaslo/status/1482895458099884032
+- Ask HN: What bits of fundamental knowledge are productivity multipliers?: https://news.ycombinator.com/item?id=30853807
 
 ## Videos:
 
@@ -207,6 +212,7 @@
 - How to "Google It" like a Senior Software Engineer: https://www.youtube.com/watch?v=cEBkvm0-rg0
 - The forgotten art of structured programming: https://www.youtube.com/watch?v=SFv8Wm2HdNM
 - This is what happened to Aaron Swartz: https://www.youtube.com/watch?v=9vz06QO3UkQ
+- How PNG Works: Compromising Speed for Quality: https://www.youtube.com/watch?v=EFUYNoFRHQI
 
 ## Repos:
 

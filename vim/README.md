@@ -40,6 +40,7 @@
 - Set up Vim as external code editor to Unity, Godot, or any applications: https://www.youtube.com/watch?v=6-ruUW8hiS0
 - Neovim | Config Structuring & Patterns: https://www.youtube.com/watch?v=TsjW37zWP7c
 - Introduction to LuaSnip: https://www.youtube.com/watch?v=Dn800rlPIho
+- setting up C++ LSP (clangd) in neovim - native lsp: https://www.youtube.com/watch?v=BCuyEdDQ5iA
 
 ## Blogs, Articles and threads:
 
@@ -184,6 +185,7 @@
 - Vim statusline generator: https://tdaly.co.uk/projects/vim-statusline-generator/
 - https://nvim-awesome.vercel.app/
 - https://vi.stackexchange.com/
+- A game to learn vim: https://www.theviminator.com/
 
 ## Repos:
 
@@ -481,6 +483,8 @@
 - https://github.com/SmiteshP/nvim-gps
 - https://github.com/psliwka/termcolors.nvim
 - https://github.com/elihunter173/dirbuf.nvim
+- https://github.com/nvim-lsp/try.nvim
+- https://github.com/sindrets/diffview.nvim
 
 ## -- $$ -- :
 

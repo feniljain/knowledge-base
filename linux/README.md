@@ -154,6 +154,7 @@
 - A simple way to improve bash script debugging: https://johannes.truschnigg.info/writing/2021-12_colodebug/
 - Setting system wide c++ to llvm: https://stackoverflow.com/a/12843988
 - The Mirage Of Memory: https://dev.to/yugabyte/the-mirage-of-memory-3366
+- Interview Questions: Why can’t you create a file?: https://medium.com/geekculture/interview-questions-why-cant-you-create-a-file-e08f3486a92a
 
 ## Blog series:
 
@@ -215,6 +216,8 @@
 - collection of pure bash alternatives to external processes: https://github.com/dylanaraps/pure-bash-bible
 - Use your GPU for rendering low cpu using/usage video animated wallpaper
   Topics: https://github.com/ghostlexly/gpu-video-wallpaper
+- Manage multiple runtime versions with a single CLI tool: https://asdf-vm.com/
+- A list of new-ish command line tools(repo collections): https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/
 
 ### Others:
 

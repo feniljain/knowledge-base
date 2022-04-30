@@ -42,6 +42,7 @@
 - How do browsers work: https://taligarsiel.com/Projects/howbrowserswork1.htm
 - How web browser works step by step — high-level architecture: https://cabulous.medium.com/how-browser-works-part-i-process-and-thread-f63a9111bae9
 - Browser Internals: https://developers.google.com/web/updates/2018/09/inside-browser-part1
+- https://developer.chrome.com/blog/inside-browser-part1/
 
 ## Blog series/Articles collection:
 

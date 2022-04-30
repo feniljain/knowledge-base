@@ -3,6 +3,9 @@
 ## Websites:
 
 - Interop 2022 Dashboard: These scores represent how browser engines are doing in 15 focus areas and 3 joint investigation efforts. : https://wpt.fyi/interop-2022
+- The icon manager for web developer: https://icon-shelf.github.io/
+- A set of over 1700 free MIT-licensed high-quality SVG icons for you to use in your web projects: https://github.com/tabler/tabler-icons
+- https://webcolorisstillbroken.com/
 
 ## Videos:
 
@@ -105,6 +108,7 @@
 - https://www.infoq.com/news/2021/09/qwik-javascript-framework/
 - https://indepth.dev/posts/1482/an-in-depth-perspective-on-webpacks-bundling-process
 - https://dev.to/ben/what-are-the-coolest-coding-music-projects-out-there-3kno
+- https://css-tricks.com/send-an-http-request-on-page-exit/
 
 ## Websites:
 

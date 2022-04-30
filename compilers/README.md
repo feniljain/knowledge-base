@@ -14,7 +14,8 @@
 - http://aosabook.org/en/llvm.html
 - Book on everything GCs: http://gchandbook.org/
 - https://astexplorer.net/
-- https://webrtccourse.com/
+- https://papl.cs.brown.edu/
+- https://papl.cs.brown.edu/2020/index.html
 
 ## Blogs and articles:
 
@@ -105,6 +106,10 @@
 - Closure Conversion: https://matt.might.net/articles/closure-conversion/
 - Lambda Lifting: https://stackoverflow.com/questions/592584/what-is-lambda-lifting
 - Abstract vs Concrete Syntax Trees: https://eli.thegreenplace.net/2009/02/16/abstract-vs-concrete-syntax-trees/
+- Type Inference : https://papl.cs.brown.edu/2020/Type_Inference.html
+- Parametric Polymorphism: https://papl.cs.brown.edu/2020/para-poly.html
+- TypeScript / How the compiler compiles: https://www.huy.rocks/everyday/04-01-2022-typescript-how-the-compiler-compiles
+- https://towardsdev.com/rust-techniques-for-compiler-engineers-9a5368f7037b
 
 ## Blog series/Articles collection:
 
@@ -132,6 +137,8 @@
 - https://www.reddit.com/r/ProgrammingLanguages/comments/qm41w2/anybody_have_tips_for_writing_a_recursive_descent/
 - https://www.reddit.com/r/LLVM/comments/nfmalh/llvm_backend_for_custom_target/
 - Good books to start writing compilers: https://www.reddit.com/r/Compilers/comments/sxgvxo/good_books_to_start_writing_compilers/
+- Where can I learn how code formatters are written?: https://www.reddit.com/r/Compilers/comments/u6scwd/where_can_i_learn_how_code_formatters_are_written/
+- Min. requirements for a Self-Hosting Compilers: https://www.reddit.com/r/Compilers/comments/u8vzsy/selfhosting_compilers/
 
 ## Repos:
 

@@ -23,6 +23,8 @@
 - https://drewdevault.com/2022/01/15/2022-01-15-The-RISC-V-experience.html
 - https://www.eetimes.com/a-big-week-for-risc-v/
 - https://preshing.com/20120930/weak-vs-strong-memory-models/
+- https://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/
+- CHERI: https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/
 
 ## Repos:
 

@@ -12,10 +12,12 @@
 - https://rateyourmusic.com/
 - Remove unwanted things from images in seconds (free): https://www.magiceraser.io/
 - https://movieminions.to/
+- https://lookmovie2.to/
 
 # Blogs and articles:
 
 - Complete(not quick) uninstall of spotify: https://community.spotify.com/t5/FAQs/How-can-I-perform-a-clean-reinstall-of-the-app/ta-p/4746485(Do not forget to check both Library folders, one global and another user level)
+- Extracting WhatsApp messages from an iOS backup: https://yasoob.me/posts/extracting-whatsapp-messages-from-ios-backup/
 
 # Online radios:
 

@@ -72,6 +72,7 @@
 - The lazier way to manage everything docker: https://github.com/jesseduffield/lazydocker
 - https://gitlab.com/wyrcan/wyrcan/
 - https://github.com/krol3/container-security-checklist
+- https://github.com/docker-slim/docker-slim
 
 ## Learning
 

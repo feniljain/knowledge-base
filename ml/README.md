@@ -34,6 +34,7 @@
 - https://hackernoon.com/what-is-r-cnn-summarizing-regions-with-cnn-features
 - https://huggingface.co/blog/codeparrot
 - https://lorenzopieri.com/rl_transformers/
+- https://blog.nelhage.com/post/transformers-for-software-engineers/
 
 ## Blog series/Articles collection:
 

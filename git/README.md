@@ -61,6 +61,7 @@
 - https://chris.beams.io/posts/git-commit/
 - Using git send-email: https://burzalodowa.wordpress.com/2013/10/05/how-to-send-patches-with-git-send-email/
 - https://eagain.net/articles/git-for-computer-scientists/
+- https://thomaslevesque.com/2020/05/29/git-tip-how-to-fix-an-accidental-commit-on-the-wrong-branch/
 
 ## Reddit and twitter threads:
 
@@ -102,12 +103,13 @@
 - Git Bare repo: https://www.youtube.com/watch?v=8aZW9mYOxhc
 - Manage dotfiles with git bare repo: https://www.youtube.com/watch?v=tBoLDpTWVOM
 - Using git worktree(prime): https://www.youtube.com/watch?v=2uEqYw-N8uE
+- Git Rebase vs Merge Debate: https://www.youtube.com/watch?v=7gEbHsHXdn0
 
 ## Learning:
 
 - https://vickyikechukwu.hashnode.dev/introduction-to-git-in-16-minutes
 
-## Github Blogs:
+## Github Official Blogs/Related blogs:
 
 - https://github.blog/2021-03-30-github-advanced-security-security-overview-beta-secret-scanning-private-repos/
 - https://github.blog/2021-03-25-how-github-actions-renders-large-scale-logs/
@@ -115,6 +117,7 @@
 - https://docs.github.com/en/repositories/releasing-projects-on-github/automatically-generated-release-notes
 - https://github.blog/changelog/2021-10-27-pull-request-merge-queue-limited-beta/
 - https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/
+- https://blog.frankel.ch/beautify-github-repo/
 
 ## Interesting commands:
 

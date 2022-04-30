@@ -19,6 +19,7 @@
 - https://dev.to/tobychui/i-write-my-own-web-desktop-os-for-3-years-and-this-is-what-it-looks-like-now-2903
 - https://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language
 - Write a simpl operating system from scratch: https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
+- Writing My Own Operating System Series' Articles: https://dev.to/frosnerd/series/9585
 
 ### Others:
 

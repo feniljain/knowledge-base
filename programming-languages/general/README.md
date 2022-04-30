@@ -216,6 +216,7 @@
 - https://osasazamegbe.medium.com/showing-building-an-http-server-from-scratch-in-c-2da7c0db6cb7
 - http://rachelbythebay.com/w/2022/02/26/include/
 - https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi
+- https://stackoverflow.com/questions/655065/when-should-i-use-the-new-keyword-in-c
 
 ### Blog series/articles collection:
 
