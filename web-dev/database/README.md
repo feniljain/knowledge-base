@@ -96,6 +96,10 @@
 
 - Make your own simple database: https://cstack.github.io/db_tutorial/
 
+## Books:
+
+- https://www.databass.dev/
+
 ## Repos:
 
 - A list of learning materials to understand databases internals: https://github.com/pingcap/awesome-database-learning

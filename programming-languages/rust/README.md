@@ -210,6 +210,7 @@
 - https://blog.turbo.fish/proc-macro-parsing/
 - Writing a minimal Lua implementation with a virtual machine from scratch in Rust: https://notes.eatonphil.com/lua-in-rust.html
 - Implementing a size-bounded LRU cache with expiring entries for my DNS server: https://memo.barrucadu.co.uk/dns-cache.html
+- Parsing / Recursive Descent Parser: https://www.huy.rocks/everyday/05-08-2022-parsing-recursive-descent-parser
 
 ### Language general:
 
@@ -277,6 +278,8 @@
 - Annotating a compile-time value to a rust struct: https://lukas-prokop.at/articles/2022-02-16-annotating-const-generic-to-struct
 - https://robinmoussu.gitlab.io/blog/post/2022-03-16_do_we_really_need_language_support_for_self_references/
 - Self Modifying Code:https://matklad.github.io//2022/03/26/self-modifying-code.html
+- Difference between Rust Cell and RefCell: https://blog.iany.me/2019/02/rust-cell-and-refcell/
+- An O(1) Generic Blog Post About Rust: https://peterkos.me/rust-const-generics/
 
 ### Others:
 
@@ -360,6 +363,7 @@
 - https://quickwit.io/blog/search-a-sorted-block/
 - Writing trees in rust: https://gist.github.com/aidanhs/5ac9088ca0f6bdd4a370
 - Green threads explained in 200 lines of rust: https://cfsamson.gitbook.io/green-threads-explained-in-200-lines-of-rust/
+- http://blog.pnkfx.org/blog/2022/05/12/linking-rust-crates/
 
 ## Blog Series/Collection of articles:
 
@@ -406,6 +410,7 @@
 - https://lucumr.pocoo.org/tags/rust/
 - https://phazer99.blogspot.com/
 - https://patshaughnessy.net/
+- https://www.huy.rocks/everyday
 
 ## Repos:
 
@@ -523,6 +528,7 @@
 - Type-Driven API Design in Rust: https://www.youtube.com/watch?v=bnnacleqg6k
 - Writing a programming language in rust: https://www.youtube.com/channel/UCYOQ9BD5apJ1nMmkFWp4Q5w
 - Debugging rust using GDB: https://www.youtube.com/watch?v=8D74GaBIYI4
+- Rust Macros: https://www.youtube.com/watch?v=LYIn_Ewpq-E
 
 ## Newsletters:
 
@@ -673,6 +679,7 @@
 - Historical archive of rust pre-publication development: jhttps://github.com/graydon/rust-prehistory
 - https://www.bexxmodd.com/log/llvm-infrastrucutre-and-rust/7
 - https://frehberg.com/2022/01/rust-memory-layout-optimization/
+- Original Rust OCaml Compiler: https://github.com/rust-lang/rust/tree/ef75860a0a72f79f97216f8aaa5b388d98da6480/src/boot
 
 ## Rust and security
 
@@ -708,6 +715,7 @@
 - https://www.reddit.com/r/rust/comments/r10pp1/will_rust_ever_have_a_futures_executor_in_std/
 - https://www.reddit.com/r/rust/comments/si0j6v/im_preparing_for_a_rust_interview/
 - Talks about early days of rust: https://twitter.com/graydon_pub/status/1492634815748739077
+- Startups working in #rustlang: https://twitter.com/carllerche/status/1526683941180018688
 
 ## Rust Learning:
 

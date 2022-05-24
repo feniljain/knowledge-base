@@ -56,6 +56,9 @@
 - eBPF Kernel Image Lockdown and eBPF Flexibility: https://djalal.opendz.org/post/ebpf-kernel-image-lockdown-and-ebpf-flexibility/
 - eBPF nuances on Minikube: https://www.seekret.io/blog/ebpf-nuances-on-minikube/
 - BPF Compiler Collection Tools (BCC Tools) | Ultimate Guide: https://www.containiq.com/post/bcc-tools
+- Intro to BPF CO-RE: https://layalina.io/2022/04/23/intro-to-bpf-co-re.html
+- https://nakryiko.com/posts/libbpf-bootstrap/
+- http://vger.kernel.org/bpfconf2022.html
 
 ### Tutorials:
 
@@ -126,6 +129,7 @@
 - https://www.reddit.com/r/golang/comments/q5ptus/introducing_parca_open_source_infrastructurewide/
 - https://www.reddit.com/r/eBPF/comments/qmgo07/introducing_oxidebpf_a_linux_tool_for_rust_and/
 - If a person were interested in getting started with eBPF, where should they go?: https://twitter.com/mttaggart/status/1519758390519545858
+- I'm starting a series of tweets to help spread the awareness about how bpftool can help manage BPF objects: https://twitter.com/qeole/status/1101450782841466880
 
 ## Videos:
 

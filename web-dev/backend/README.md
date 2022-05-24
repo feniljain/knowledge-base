@@ -90,6 +90,7 @@
 - https://medium.com/clear-street/transactional-outboxes-4b7bc5d9bbca
 - https://itnext.io/solving-concurrency-in-event-driven-microservices-79bbc13b597c
 - https://stackoverflow.blog/2022/04/11/the-complete-guide-to-protecting-your-apis-with-oauth2/
+- https://slack.engineering/how-we-design-our-apis-at-slack/
 
 ## Blog series/Articles collection:
 

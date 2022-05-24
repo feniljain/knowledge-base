@@ -398,6 +398,7 @@
 - https://divan.dev/posts/go_concurrency_visualize/
 - Dumpster diving the Go garbage collector using eBPF: https://blog.px.dev/go-garbage-collector/
 - Golang Generics Implementation Details: https://medium.com/@amirrezaask/golang-generics-implementation-details-88dc2649d3b0
+- https://github.com/teh-cmc/go-internals
 
 # Go Learning:
 
@@ -437,3 +438,4 @@
 - https://github.com/Alikhll/golang-developer-roadmap
 - https://github.com/smileisak/go-training
 - Awesome collection of learning resources: https://github.com/inancgumus/learngo
+- https://github.com/PandaWhoCodes/awesome-go-in-education

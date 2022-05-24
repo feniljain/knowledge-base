@@ -16,6 +16,7 @@
 ## Specifically for India:
 
 - https://rectangles.store
+- https://www.meckeys.com/
 - https://stackskb.com
 - https://www.genesispc.in/
 

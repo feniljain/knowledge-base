@@ -12,6 +12,7 @@
 - http://www.nondot.org/sabre/Resume.html
 - https://www.bigocheatsheet.com/
 - Free and open source resume builder: https://rxresu.me/
+- http://layoffs.fyi/
 
 ## Blogs and Articles:
 
@@ -68,6 +69,7 @@
 - https://medium.com/@aparna.rsjain/why-you-must-negotiate-your-big-tech-salary-seriously-81a929c8a887
 - https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/
 - https://dev.to/dragosnedelcu/10-inteview-mistakes-that-make-look-junior-and-leave-money-on-the-table-5e50
+- https://zriyansh.medium.com/stop-ruining-your-r%C3%A9sum%C3%A9-c8ca15de5a98
 
 ## Videos:
 
@@ -117,6 +119,7 @@
 - https://twitter.com/rmcomplexity/status/1346494114309828608
 - https://twitter.com/coolpythoncodes/status/1374400847036051463
 - Only have a limited amount of time to prep for an interview?: https://twitter.com/RandallKanna/status/1440333760482873345
+- 10 GitHub repositories for interview preparation for Software Developers: https://twitter.com/sunilc_/status/1520423774260060161
 
 ## CC:
 
@@ -145,3 +148,7 @@
 ### Twitter and reddit threads:
 
 - Tips on attempting contests: https://twitter.com/Priyansh_31Dec/status/1492746603387506688
+
+### Books:
+
+- https://cses.fi/book/book.pdf

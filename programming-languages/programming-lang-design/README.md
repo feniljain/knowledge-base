@@ -56,12 +56,16 @@
 - A Wiki for programming language theory and development: https://www.reddit.com/r/ProgrammingLanguages/comments/s5rjo9/a_wiki_for_programming_language_theory_and/
 - Why Static Languages Suffer From Complexity: https://www.reddit.com/r/ProgrammingLanguages/comments/s7shox/why_static_languages_suffer_from_complexity/
 - ACM Transactions on Programming Languages and Systems (TOPLAS): all papers (since the 1979 beginning) now open access: https://www.reddit.com/r/ProgrammingLanguages/comments/se5e1j/acm_transactions_on_programming_languages_and/
+- Different languages to explore: https://www.reddit.com/r/ProgrammingLanguages/comments/uo5a7g/ideas_for_emerging_and_innovative_languages_and/
 
-# Lesser known language collection:
+# Language collection:
 
 - https://en.wikipedia.org/wiki/Non-English-based_programming_languages
 - https://l42.is/
 - https://wy-lang.org/
+- https://www.pickcode.io/
+- https://www.beeflang.org/
+- https://crystal-lang.org/
 
 # Videos:
 

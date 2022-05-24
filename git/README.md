@@ -62,6 +62,7 @@
 - Using git send-email: https://burzalodowa.wordpress.com/2013/10/05/how-to-send-patches-with-git-send-email/
 - https://eagain.net/articles/git-for-computer-scientists/
 - https://thomaslevesque.com/2020/05/29/git-tip-how-to-fix-an-accidental-commit-on-the-wrong-branch/
+- Handling messy pull-request diffstats: https://lwn.net/Articles/889760/
 
 ## Reddit and twitter threads:
 

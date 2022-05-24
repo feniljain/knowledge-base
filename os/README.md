@@ -20,6 +20,8 @@
 - https://patshaughnessy.net/2016/11/26/learning-to-read-x86-assembly-language
 - Write a simpl operating system from scratch: https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf
 - Writing My Own Operating System Series' Articles: https://dev.to/frosnerd/series/9585
+- Writing a basic kernel: https://computers-art.medium.com/writing-a-basic-kernel-6479a495b713
+- https://ops-class.org/
 
 ### Others:
 
@@ -45,7 +47,7 @@
 - https://en.wikipedia.org/wiki/Address_space_layout_randomization
 - https://en.wikipedia.org/wiki/Position-independent_code
 
-## Blog series/Articles collections:
+## Blog series/Articles collections:0
 
 ## Repos:
 
@@ -68,6 +70,7 @@
 - Write your own 64bit OS kernel: https://www.youtube.com/watch?v=FkrpUaGThTQ&list=WL&index=15
 - Making an OS(x86): https://www.youtube.com/watch?v=MwPjvJ9ulSc&list=PLm3B56ql_akNcvH8vvJRYOc7TbYhRs19M
 - Writing your own os(a series): https://www.youtube.com/watch?v=1rnA6wpF0o4&list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M
+- Tutorial: Building the Simplest Possible Linux System: https://www.youtube.com/watch?v=Sk9TatW9ino
 
 <h2 align="center">Kernel</h2>
 

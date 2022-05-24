@@ -48,6 +48,8 @@
 - ACM Software System Award: Institutions/individuals who developed software systems with lasting influence on computing: https://awards.acm.org/software-system/award-winners
 - https://virtualcoffee.io/
 - Another Knowledge Base: https://confluence.jaytaala.com/display/TKB/Tech+Knowledge+Base
+- https://www.json.org/json-en.html
+- https://opentabletdriver.net/
 
 ## Blogs and Articles:
 
@@ -166,11 +168,14 @@
 - Contributing to Complex Projects: https://mitchellh.com/writing/contributing-to-complex-projects
 - https://www.righto.com/2022/04/the-digital-ranging-system-that.html
 - https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/
+- https://www.shubhro.com/2022/01/30/hacks-engineering-estimates/
+- https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/
 
 ## Blog Series:
 
 - Damn good articles on general programming stuff: https://journal.stuffwithstuff.com/category/code/
 - https://www.samjulien.com/writing
+- https://www.huy.rocks/everyday
 
 ## Newsletters;
 
@@ -276,6 +281,7 @@
 - https://github.com/github/opensource.guide
 - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups: https://github.com/kuchin/awesome-cto
 - All the required resources to build your own startup: https://github.com/KrishMunot/awesome-startup
+- https://github.com/codecrafters-io/build-your-own-x
 
 ## Extensions:
 

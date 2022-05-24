@@ -20,6 +20,7 @@
 - https://webrtc-security.github.io/
 - WebRTC in go: https://pion.ly/
 - Working group for webrtc standards: https://datatracker.ietf.org/wg/rtcweb/documents/
+- https://webrtcwork.com/
 
 ## GoogleGroups:
 
@@ -82,6 +83,13 @@
 - https://dev.to/sadmansamee/working-with-webrtc-on-android-ios-465c
 - https://ai.googleblog.com/2020/04/improving-audio-quality-in-duo-with.html
 - ICE Negotiation: https://subspace.com/resources/ice-negotiation
+- https://www.liveswitch.io/blog/3-major-misconceptions-about-webrtc-in-broadcasting
+- https://www.sipwise.com/spce/blog/rtpengine-janus-mode/
+- Video Bitrate vs. Resolution: 4 Key Differences and Their Role in Video Streaming: https://antmedia.io/video-bitrate-vs-resolution-4-key-differences-and-their-role-in-video-streaming/
+
+### Tutorials:
+
+- https://www.youtube.com/watch?v=QsH8FL0952k
 
 ## Blog series/articles collection:
 
@@ -118,6 +126,11 @@
 - STUNTMAN is an open source implementation of the STUN protocol : http://www.stunprotocol.org/
 - https://github.com/jech/galene
 - A list of publicly available STUN servers, refreshed every hour: https://github.com/pradt2/always-online-stun
+- Powerful friendly WebRTC mock peer & proxy: https://github.com/httptoolkit/mockrtc
+- Overlay networks based on WebRTC: https://github.com/pojntfx/weron
+- Branches index for webrtc: https://chromiumdash.appspot.com/branches
+- https://github.com/pion/awesome-pion
+- A Kubernetes ingress gateway for WebRTC: https://github.com/l7mp/stunner
 
 ## Useful SO questions:
 
@@ -137,6 +150,7 @@
 - Error when cross-compiling WebRTC source: https://groups.google.com/g/discuss-webrtc/c/Hs7t0PsAobU
 - Is there a way to disable video resolution change in WebRTC?: https://groups.google.com/g/discuss-webrtc/c/9g2eXWJwijI
 - Low FPS for one of the simulcast encodings in Chrome: https://groups.google.com/g/discuss-webrtc/c/uqn40BPiTrE
+- Optimizing webrtc build size: https://groups.google.com/g/discuss-webrtc/c/idQV08n8hg8
 
 ## Dev:
 

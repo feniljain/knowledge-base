@@ -109,6 +109,7 @@
 - https://indepth.dev/posts/1482/an-in-depth-perspective-on-webpacks-bundling-process
 - https://dev.to/ben/what-are-the-coolest-coding-music-projects-out-there-3kno
 - https://css-tricks.com/send-an-http-request-on-page-exit/
+- https://thefullstackdev.net/resource/create-beautiful-website-while-sucking-at-design/
 
 ## Websites:
 
@@ -132,6 +133,7 @@
 - https://github.com/lirantal/is-website-vulnerable/
 - https://github.com/bradtraversy/50projects50days
 - https://github.com/KieSun/all-of-frontend
+- Build terminal styled websites in minutes!: https://github.com/Cveinnt/LiveTerm
 
 ## Packages:
 

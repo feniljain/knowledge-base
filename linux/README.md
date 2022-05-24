@@ -255,6 +255,7 @@
 - cheat allows you to create and view interactive cheatsheets on the command-line: https://github.com/cheat/cheat
 - Bringing ML to linux kernel: https://github.com/sbu-fsl/kernel-ml
 - Low level access to linux netlink sockets: https://github.com/mdlayher/netlink
+- https://github.com/trinib/Awesome-Ubuntu-Setup
 
 ## Terminal tools I use:
 

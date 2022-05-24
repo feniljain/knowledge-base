@@ -63,3 +63,4 @@
 - https://github.com/wasmerio/wasmer
 - https://github.com/mikeroyal/WebAssembly-Guide
 - https://github.com/bytecodealliance/wasm-micro-runtime
+- wazero: the zero dependency WebAssembly runtime for Go developers: https://github.com/tetratelabs/wazero

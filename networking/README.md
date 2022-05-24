@@ -12,6 +12,8 @@
 - https://www.distributed.net/Main_Page
 - https://quicwg.org/
 - https://cloudflare-quic.com/
+- https://some-ip.com/
+- https://publicsuffix.org/
 
 ## Diagrams:
 
@@ -104,10 +106,14 @@
 - Contains good image of laying down several protocols alongside OSI layers: https://community.fs.com/blog/tcpip-vs-osi-whats-the-difference-between-the-two-models.html
 - https://auth0.com/blog/url-uri-urn-differences/
 - The Illustrated QUIC Connection: https://quic.ulfheim.net/
+- What went wrong: SCTP: https://blog.ipspace.net/2009/08/what-went-wrong-sctp.html
+- Multihoming: http://www.tcpipguide.com/free/t_NumberofIPAddressesandMultihoming.htm
+- Multiplexing & Demultiplexing: Backbone Transport Services: https://www.alpharithms.com/multiplexing-demultiplexing-251217/
 
 ## Books:
 
 - High Performance Browser Networking: https://hpbn.co/
+- Computer Networks From Scratch : https://www.networksfromscratch.com/
 
 ## Blog Series/Articles collection:
 
@@ -128,6 +134,7 @@
 - https://github.com/shopify/toxiproxy
 - https://github.com/alibaba/xquic
 - Delicately-TUICed high-performance proxy built on top of the QUIC protocol: https://github.com/EAimTY/tuic
+- A special compilation of curl that makes it impersonate Chrome & Firefox : https://github.com/lwthiker/curl-impersonate
 
 ## Reddit, twitter and HN threads:
 
@@ -154,6 +161,7 @@
 - Limitations in HTTP2 which led to HTTP3: https://youtu.be/GriONb4EfPY
 - The Many Ways of DDoS: https://www.youtube.com/watch?v=PwVzG-1LT9A
 - How DHCP Works // DHCP EXPLAINED(with wireshark): https://www.youtube.com/watch?v=Cy0M54GSpBg
+- Beyond POSIX - Adventures in Alternative Networking APIs: https://www.infoq.com/presentations/posix-networking-api/
 
 ## Container Images:
 

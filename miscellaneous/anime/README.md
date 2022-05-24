@@ -22,7 +22,6 @@
 - Overlord
 - Akudama drive
 - Sword art online
-- Hellsing/Hellsing UT
 - Drifters
 - Toaru Majutsu no Index III
 - Brand new animal
@@ -301,6 +300,7 @@
 - https://wcostream.cc/
 - https://www.viz.com/
 - A list: https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_downloading
+- https://animension.to/
 
 ## General Websites:
 
@@ -434,7 +434,7 @@
 - Angel Beats
 - Tada never falls in love: Tada-kun wa Koi wo Shinai
 - JoJo's bizzare adventures
-- Helsing
+- Hellsing Ultimate
 
 ## Caught up Mangas:
 

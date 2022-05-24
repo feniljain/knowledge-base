@@ -16,6 +16,7 @@
 - https://astexplorer.net/
 - https://papl.cs.brown.edu/
 - https://papl.cs.brown.edu/2020/index.html
+- List of companies working on things realted to compiler: https://mgaudet.github.io/CompilerJobs/
 
 ## Blogs and articles:
 
@@ -29,6 +30,7 @@
 - Brainfuck compiler: https://www.wilfred.me.uk/blog/2015/08/29/an-optimising-bf-compiler/
 - Brainfuck compiler: https://www.wilfred.me.uk/blog/2015/10/18/even-more-bf-optimisations/
 - Brainfuck compiler: https://www.wilfred.me.uk/blog/2016/02/07/an-industrial-grade-bf-compiler/
+- https://luctielen.com/posts/how-to-lower-an-ir/
 
 ### Others:
 
@@ -110,6 +112,7 @@
 - Parametric Polymorphism: https://papl.cs.brown.edu/2020/para-poly.html
 - TypeScript / How the compiler compiles: https://www.huy.rocks/everyday/04-01-2022-typescript-how-the-compiler-compiles
 - https://towardsdev.com/rust-techniques-for-compiler-engineers-9a5368f7037b
+- https://sunfishcode.github.io/blog/2018/10/22/Canonicalization.html
 
 ## Blog series/Articles collection:
 
@@ -190,6 +193,9 @@
 - https://cglab.ca/~michiel/TheoryOfComputation/TheoryOfComputation.pdf
 - Writing compiler in Go: https://compilerbook.com/
 - Writing interpreter in Go: https://interpreterbook.com/
+- PRACTICAL COMPILER CONSTRUCTION: A No-nonsense Tour through a C Compiler: http://t3x.org/reload/
+- Lisp interpreter in Rust: https://vishpat.github.io/lisp-rs/
+- https://www3.nd.edu/~dthain/compilerbook/
 
 ## Interesting rust-analyzer issues:
 

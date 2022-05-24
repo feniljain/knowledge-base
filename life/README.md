@@ -262,6 +262,20 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - Imagine how you want to feel at the end of the day. Start working towards that now. - Lin-Manuel Miranada
 - Don't let a bad day make you feel like you have a bad life.
 - Anyone who stops learning is old. - Henry Ford
+- Anything's possible if you've got enough nerve. - J. K. Rowling
+- Make the most of the best and the least of the worst. - Robert Lewis Stevenson
+- Continuous improvement is better than delayed perfection. - Mark Twain
+- Trust yourself. Create the kind of self that you will be happy to live with all your life. - Golda Meir
+- A goal is not always meant to be reached, it often serves simply as something to aim at. - Bruce Lee
+- Fall seven times, stand up eight.
+- You cannot get a simple system by adding simplicity to a complex system. - Richard O’Keefe
+- Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time. - Thomas A Edison
+- There is only one person who could ever make you happy, and that person is you. - David Burns
+- If you spend too much time thinking about a thing, you'll never get it done. - Bruce Lee
+- Low self esteem is like driving through life with your handbrake on. - Maxwell Maltz
+- The fear of death follows from the fear of life. One who lives life fully is prepared to die at any time. - Edward Abbey
+- Nothing is so fatiguing as the eternal hanging on of an uncompleted task. - William James
+- The struggle ends when the gratitude begins. - Neale Donald Walsch
 
 ## Books:
 

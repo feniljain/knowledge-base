@@ -1,4 +1,4 @@
-<h2 align="center">WebRTC</h2>
+<h2 align="center">LiveStreaming</h2>
 
 ## Websites:
 
@@ -29,12 +29,25 @@
 - https://medium.com/tinder-engineering/taming-video-delivery-through-http-live-streaming-5a4d6e543c85
 - https://www.theoplayer.com/blog/optimizing-ll-hls-the-impacts-of-gop-size-on-viewing-experience
 - https://hlsbook.net/segmenting-video-with-ffmpeg/
+- https://www.nginx.com/success-stories/globo-com-delivers-live-video-streaming-to-500000-viewers-with-nginx/
+- https://www.theoplayer.com/blog/optimizing-ll-hls-4-recommendations
+- https://www.alibabacloud.com/help/en/apsaravideo-live/latest/reduce-live-streaming-latency
+- https://blog.zazu.berlin/internet-programmierung/mpeg-dash-and-hls-adaptive-bitrate-streaming-with-ffmpeg.html
+- https://bozhang-26963.medium.com/a-quick-latency-comparison-of-apple-ll-hls-and-the-community-driven-lhls-e3eb3e7447ee
+- https://bitmovin.com/live-low-latency-hls/
+- https://bitmovin.com/mpeg-dash-hls-segment-length/
+- https://eyevinntechnology.medium.com/proof-of-concept-of-an-open-and-standardized-webrtc-based-streaming-3896edb50d90
+- https://www.toptal.com/apple/introduction-to-http-live-streaming-hls
+- Google Cloud Introduces Media CDN for Content Delivery: https://www.infoq.com/news/2022/05/google-cloud-media-cdn/
 
 ## Blog series/articles collection:
 
 - https://ottverse.com/
 - Everything about HTTP Live Streaming(apple docs): https://developer.apple.com/streaming/
 - https://www.streamingmedia.com/Default.aspx
+- Using FFmpeg as a HLS streaming server ( An informative series ): https://www.martin-riedl.de/2020/04/17/using-ffmpeg-as-a-hls-streaming-server-overview/
+- https://bozhang-26963.medium.com/
+- https://streaminglearningcenter.com/
 
 ## Books:
 
@@ -51,7 +64,14 @@
 - Compute@Edge application for LL-HLS playlist manipulation: https://github.com/fastly/compute-ll-hls
 - https://github.com/videojs/http-streaming
 - Rust based libraries for misc media functionality: https://github.com/KallDrexx/rust-media-libs
+- A set of Docker containers with Streaming tools: https://github.com/Eyevinn/toolbox
+- https://github.com/theREDspace/video-onboarding
+- https://github.com/mekhti/awsome-live-streamin
+- https://github.com/liwf616/awesome-live-stream
 
 ## Videos:
 
 - Introducing Low-Latency HLS: https://developer.apple.com/videos/play/wwdc2019/502/
+- The challenges of deploying Apple's Low Latency HLS In Real Life: https://www.youtube.com/watch?v=GxFm4ikKiZc
+- Measuring the live video latency at scale: https://www.youtube.com/watch?v=D6I2zQa6Icw
+- LL-HLS, LHLS, DASH-LL: Challenges and Differences: https://www.youtube.com/watch?v=DVrPv-8PUm4

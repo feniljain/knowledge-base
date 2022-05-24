@@ -116,6 +116,7 @@
 - https://linuxhint.com/diff-two-files-vim/
 - http://vimcasts.org/episodes/writing-a-custom-fold-expression/
 - Move to window if specified buffer is opened: https://vi.stackexchange.com/questions/25046/move-to-window-if-specified-buffer-is-opened
+- https://dev.to/iggredible/vimgrep-tips-and-tricks-54pl
 
 ## VimTricks:
 
@@ -164,6 +165,7 @@
 - https://www.reddit.com/r/vim/comments/rl8af9/plugin_to_draw_diagrams_in_vim/
 - Editing macros: https://twitter.com/VImTipsDaily/status/1438797931851796482
 - A workflow for effectively navigating huge projects in neovim (>32M LOC) using tags/grep/live_grep: https://www.reddit.com/r/neovim/comments/tgmg6j/a_workflow_for_effectively_navigating_huge/
+- tmux in neovim: text reflow support: https://www.reddit.com/r/neovim/comments/umy4gb/tmux_in_neovim/
 
 ## Vimscript:
 
@@ -186,6 +188,7 @@
 - https://nvim-awesome.vercel.app/
 - https://vi.stackexchange.com/
 - A game to learn vim: https://www.theviminator.com/
+  -An interesting documentation tool to look up Vim keybindings and combinations: https://keycombiner.com/collections/vim/
 
 ## Repos:
 
@@ -252,6 +255,7 @@
 - set ignorecase (or) \c & \C can be used with the search pattern itself, where the former is for case insensitive and vice versa for latter.
 - After typing /, if you press C-F, it will show you the whole search history
 - For replacing globally using s, use %s
+- Vim allows you to use any regex delimiter in your pattern substitution. No need to use / at all, try # instead: :s#/usr/local/bin#/usr/sbin#g
 
 ## HORIZONTAL SPEED:
 

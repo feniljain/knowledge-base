@@ -25,6 +25,7 @@
 - Convert photo to passport size photo(3.5 X 4.5 usually preferred in India): https://www.123passportphoto.com/
 - https://writemyuserstory.com/
 - https://uncyclopedia.com/wiki/Main_Page
+- Self-hosted newsletter and mailing list manager(Free and open source): https://listmonk.app/
 
 ## Blogs and articles:
 
@@ -58,6 +59,7 @@
 - How to learn maths fast: http://www.geometry.org/human/?i=/tex/conc/mathlearn.html
 - What makes writing more readable?: https://pudding.cool/2022/02/plain/
 - CERN's ipod: https://drive.google.com/file/d/1M8PVrZlRFeiA5dFnQ2R-oZ88nsTZ0Ajy/view
+- As a developer, how to estimate the time for a task?: https://blog.peerlist.io/as-a-developer-how-to-estimate-the-time-for-a-task
 
 ## Blog series/Articles collection:
 
