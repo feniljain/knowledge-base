@@ -1,5 +1,9 @@
 <h2 align="center">Keyboards</h2>
 
+## Blogs and articles:
+
+- https://tonsky.me/blog/monitors/
+
 ## Reddit and twitter threads:
 
 - https://twitter.com/championswimmer/status/1455140094285791232?t=zfRStFC4dOFddrb2UCtGlw&s=19

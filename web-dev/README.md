@@ -5,6 +5,7 @@
 - Creates slow responses, which can be used to test and optimize the website: https://slowfil.es/
 - https://serverless.page/
 - https://module-federation.github.io/
+- https://web-dev-resources.com/
 
 ## Blogs And Articles:
 
@@ -43,6 +44,8 @@
 - How web browser works step by step — high-level architecture: https://cabulous.medium.com/how-browser-works-part-i-process-and-thread-f63a9111bae9
 - Browser Internals: https://developers.google.com/web/updates/2018/09/inside-browser-part1
 - https://developer.chrome.com/blog/inside-browser-part1/
+- Don't fight the browser preload scanner: https://web.dev/preload-scanner/
+- https://kerkour.com/http-security-headers
 
 ## Blog series/Articles collection:
 

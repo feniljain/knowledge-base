@@ -32,6 +32,7 @@
 - Myriad Colors Phantom World
 - Princess Mononoke(Movie)
 - Watamote
+- Megalox Box
 
 ## Mecha and Space:
 
@@ -74,6 +75,7 @@
 - Black bullet
 - Angels of Death
 - Summer Time Render
+- Tomodachi Game
 
 ## Adventure and Magic(supernatural):
 
@@ -110,6 +112,7 @@
 - Dagashi Kashi: ref: https://twitter.com/AshGandawa/status/1372070107808202752
 - Gakuen babysitters
 - Amagami SS
+- Nichijou
 
 ## Sad & Romance:
 
@@ -435,6 +438,8 @@
 - Tada never falls in love: Tada-kun wa Koi wo Shinai
 - JoJo's bizzare adventures
 - Hellsing Ultimate
+- Great Teacher Onizuka
+- Mind Game
 
 ## Caught up Mangas:
 

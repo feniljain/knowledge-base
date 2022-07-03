@@ -79,6 +79,12 @@
 - https://www.geeksforgeeks.org/bitmap-indexing-in-dbms/
 - Why Sharding Gets Hard, and Why You Need Vitess: https://andrewjdawson2016.medium.com/why-sharding-gets-hard-and-why-you-need-vitess-3424fd6a35e3
 - https://slack.engineering/scaling-datastores-at-slack-with-vitess/
+- http://coding-geek.com/how-databases-work/
+- https://distributedsystemsmadeeasy.medium.com/write-ahead-log-wal-c4c3327c6742
+- Hacking POSTGRES: http://www.neilconway.org/talks/hacking/
+- Inconsistent thoughts on database consistency: https://www.alexdebrie.com/posts/database-consistency/
+- Things You Should Know About Databases: https://architecturenotes.co/things-you-should-know-about-databases/
+- https://brooker.co.za/blog/2018/02/25/availability-liveness.html
 
 ## Blog Series:
 
@@ -91,6 +97,7 @@
 - When are indexes useless: https://www.youtube.com/watch?v=oebtXK16WuU
 - How does PostgresSQL actually work: https://www.youtube.com/watch?v=OeKbL55OyL0
 - Scaling mongodb best practices for sharding, indexing and performance: https://youtu.be/ZcAErl9Ir6Q
+- "Turning the database inside out with Apache Samza" by Martin Kleppmann: https://www.youtube.com/watch?v=fU9hR3kiOK0
 
 ## Tutorials:
 

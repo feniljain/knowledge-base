@@ -7,6 +7,8 @@
 - eBPF Mailing List: http://vger.kernel.org/vger-lists.html#bpf
 - See all the ebpf patches together: https://patchwork.kernel.org/project/netdevbpf/list/
 - https://vbpf.github.io/
+- https://bpfdeploy.io/
+- https://foniod.org/
 
 ## Blogs and articles:
 
@@ -59,6 +61,13 @@
 - Intro to BPF CO-RE: https://layalina.io/2022/04/23/intro-to-bpf-co-re.html
 - https://nakryiko.com/posts/libbpf-bootstrap/
 - http://vger.kernel.org/bpfconf2022.html
+- Overview of eBPF procfs kernel parameters: https://www.mdaverde.com/posts/ebpf-procfs-settings/
+- When eBPF meets TLS: https://github.com/quarkslab/conf-presentations/blob/master/CanSecWest-2022/When%20eBPF%20meets%20TLS.pdf
+- https://www.scylladb.com/2020/05/05/how-io_uring-and-ebpf-will-revolutionize-programming-in-linux/
+- https://buoyant.io/2022/06/07/ebpf-sidecars-and-the-future-of-the-service-mesh/
+- https://bmiguel-teixeira.medium.com/tracing-tls-traffic-ebpf-style-b588523133ab
+- https://www.grant.pizza/blog/bpf-concurrency/
+- Introduction to eBPF: https://blog.sofiane.cc/eBPFintroduction/
 
 ### Tutorials:
 
@@ -81,6 +90,7 @@
 ## Books:
 
 - eBPF Book: http://www.brendangregg.com/bpf-performance-tools-book.html
+- https://isovalent.com/data/liz-rice-what-is-ebpf.pdf
 
 ## Repos:
 
@@ -112,13 +122,17 @@
 - Presentations and docs on BPF: https://github.com/iovisor/bpf-docs/
 - eBPF Steering Committee: https://github.com/ebpf-io/bsc
 - The Collector Project of Apache SkyWalking based on the eBPF: https://github.com/apache/skywalking-rover
-- https://github.com/mikeroyal/eBPF-Guide
+- Learning eBPF resources: https://github.com/mikeroyal/eBPF-Guide
 - https://github.com/vbpf/ebpf-verifier
 - https://github.com/vbpf
 - https://github.com/vbpf/ebpf-samples
 - egrets monitors egress : https://github.com/ancat/egrets
 - Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access: https://github.com/kris-nova/boopkit
 - capture SSL/TLS text content without CA cert using eBPF: https://github.com/ehids/ecapture
+- https://github.com/bpfdeploy-io/bpf-rs
+- https://github.com/seek-ret/btfhub-online
+- Making containers more secure with eBPF and Linux Security Modules (LSM) : https://github.com/lockc-project/lockc
+- Shape your traffic the BPF way : https://github.com/leodido/traffico
 
 ## Reddit and twitter threads:
 
@@ -141,3 +155,5 @@
 - eBPF and Go: https://changelog.com/gotime/201
 - LPC 2021: BPF And Networking Summit: https://www.youtube.com/watch?v=igJLKyP1lFk
 - Cilium - BPF & XDP for containers: https://archive.fosdem.org/2017/schedule/event/cilium/
+- BBR-based congestion control for Kubernetes Pods: https://www.youtube.com/watch?v=iiMp3TrDcsc
+- BPTGen: https://www.youtube.com/watch?v=zdbCvGSdFiQ

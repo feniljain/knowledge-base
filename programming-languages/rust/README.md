@@ -41,6 +41,8 @@
 - https://programming-idioms.org/cheatsheet/Cpp/Rust
 - https://letsgetrusty.com/wp-content/uploads/2021/10/LGR-Cheat-Sheet.pdf
 - Artworks for ferris: https://rustacean.net/
+- https://rust-formal-methods.github.io/
+- Buttplug: Sex Toy Control Software implemented in Rust: https://buttplug.io/ ( :joy: )
 
 ## Blogs and Articles:
 
@@ -108,6 +110,8 @@
 - https://hurryabit.github.io/blog/stack-safety-for-free/
 - https://lucumr.pocoo.org/2012/10/18/such-a-little-thing/
 - https://patshaughnessy.net/2018/3/15/how-rust-implements-tagged-unions
+- https://matklad.github.io//2022/06/11/caches-in-rust.html
+- Explaining reborrows and lifetimes: https://haibane-tenshi.github.io/rust-reborrowing/
 
 ### Tutorials:
 
@@ -211,6 +215,8 @@
 - Writing a minimal Lua implementation with a virtual machine from scratch in Rust: https://notes.eatonphil.com/lua-in-rust.html
 - Implementing a size-bounded LRU cache with expiring entries for my DNS server: https://memo.barrucadu.co.uk/dns-cache.html
 - Parsing / Recursive Descent Parser: https://www.huy.rocks/everyday/05-08-2022-parsing-recursive-descent-parser
+- https://flakm.github.io/posts/heap_allocation/
+- Implementing strace in Rust: https://jakobwaibel.com/2022/06/06/ptrace/
 
 ### Language general:
 
@@ -280,6 +286,10 @@
 - Self Modifying Code:https://matklad.github.io//2022/03/26/self-modifying-code.html
 - Difference between Rust Cell and RefCell: https://blog.iany.me/2019/02/rust-cell-and-refcell/
 - An O(1) Generic Blog Post About Rust: https://peterkos.me/rust-const-generics/
+- https://fasterthanli.me/articles/working-with-strings-in-rust
+- https://www.thecodedmessage.com/posts/trivia-rust-types/
+- Stacked Futures and why they are impossible: https://conradludgate.com/posts/async-stack
+- https://smallcultfollowing.com/babysteps/blog/2022/06/15/what-it-feels-like-when-rust-saves-your-bacon/
 
 ### Others:
 
@@ -529,6 +539,7 @@
 - Writing a programming language in rust: https://www.youtube.com/channel/UCYOQ9BD5apJ1nMmkFWp4Q5w
 - Debugging rust using GDB: https://www.youtube.com/watch?v=8D74GaBIYI4
 - Rust Macros: https://www.youtube.com/watch?v=LYIn_Ewpq-E
+- Crust of Rust: Send, Sync, and their implementors: https://www.youtube.com/watch?v=yOezcP-XaIw
 
 ## Newsletters:
 
@@ -640,6 +651,7 @@
 - Detects usage of unsafe Rust in a Rust crate and its dependencies: https://github.com/rust-secure-code/cargo-geiger
 - https://crates.io/crates/opencv/
 - you_can::turn_off_the_borrow_checker : https://docs.rs/you-can/latest/you_can/attr.turn_off_the_borrow_checker.html
+- https://crates.io/crates/whichever-compiles
 
 ## Rust Internals:
 
@@ -716,6 +728,8 @@
 - https://www.reddit.com/r/rust/comments/si0j6v/im_preparing_for_a_rust_interview/
 - Talks about early days of rust: https://twitter.com/graydon_pub/status/1492634815748739077
 - Startups working in #rustlang: https://twitter.com/carllerche/status/1526683941180018688
+- https://www.reddit.com/r/WebRTC/comments/v6net1/so_what_is_a_webrtc_ip_leak_test/
+- Nuggets about each and every (strict) Rust keyword [Twitter thread]: https://www.reddit.com/r/rust/comments/vicx4r/nuggets_about_each_and_every_strict_rust_keyword/
 
 ## Rust Learning:
 
@@ -749,6 +763,7 @@
 - https://dystroy.org/blog/how-not-to-learn-rust/
 - https://www.reddit.com/r/rust/comments/rr4npz/rust_course/
 - https://itnext.io/gilded-rose-kata-in-rust-e00f51f1e8d8
+- https://fasterthanli.me/articles/the-curse-of-strong-typing
 
 ### Videos:
 

@@ -22,6 +22,7 @@
 - https://threedots.tech/post/safer-enums-in-go/
 - You can change space occupied by struct just by reordering the struct fields: https://play.golang.org/p/MBXg4UBOerp
 - https://rytisbiel.com/2021/03/06/darker-corners-of-go/
+- https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/
 
 ### Tutorials:
 

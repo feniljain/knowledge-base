@@ -10,6 +10,7 @@
 - Resources to learn dataflow analysis: https://reviews.llvm.org/D114231
 - https://cp4space.hatsya.com/2022/01/14/conway-conjecture-settled/
 - https://en.wikipedia.org/wiki/Liskov_substitution_principle
+- https://newsletter.papersyoumightlove.pl/archive/benchmarking-with-stabilizer-begone-eyeball/
 
 ## Repos:
 

@@ -31,6 +31,8 @@
 - Brainfuck compiler: https://www.wilfred.me.uk/blog/2015/10/18/even-more-bf-optimisations/
 - Brainfuck compiler: https://www.wilfred.me.uk/blog/2016/02/07/an-industrial-grade-bf-compiler/
 - https://luctielen.com/posts/how-to-lower-an-ir/
+- Building an interpreter in Rust: https://blog.subnetzero.io/post/building-language-vm-part-00/
+- https://mukulrathi.com/create-your-own-programming-language/intro-to-type-checking/
 
 ### Others:
 
@@ -113,6 +115,10 @@
 - TypeScript / How the compiler compiles: https://www.huy.rocks/everyday/04-01-2022-typescript-how-the-compiler-compiles
 - https://towardsdev.com/rust-techniques-for-compiler-engineers-9a5368f7037b
 - https://sunfishcode.github.io/blog/2018/10/22/Canonicalization.html
+- The First Lisp Compiler: https://texdraft.github.io/lisp-compiler/internals.html
+- Branch/cmove and compiler optimizations: https://kristerw.github.io/2022/05/24/branchless/
+- Cranelift, Part 4: A New Register Allocator: https://cfallin.org/blog/2022/06/09/cranelift-regalloc2/
+- Immix collection algorithm for GCs: https://wingolog.org/archives/2022/06/15/defragmentation
 
 ## Blog series/Articles collection:
 
@@ -142,6 +148,7 @@
 - Good books to start writing compilers: https://www.reddit.com/r/Compilers/comments/sxgvxo/good_books_to_start_writing_compilers/
 - Where can I learn how code formatters are written?: https://www.reddit.com/r/Compilers/comments/u6scwd/where_can_i_learn_how_code_formatters_are_written/
 - Min. requirements for a Self-Hosting Compilers: https://www.reddit.com/r/Compilers/comments/u8vzsy/selfhosting_compilers/
+- Resources for building a type-checker: https://www.reddit.com/r/ProgrammingLanguages/comments/v5zwlw/resources_for_building_a_typechecker/
 
 ## Repos:
 

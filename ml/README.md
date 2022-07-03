@@ -70,6 +70,8 @@
 - https://github.com/bryandlee/animegan2-pytorch
 - https://github.com/dair-ai/ML-YouTube-Courses
 - Easy-to-use library to boost AI inference leveraging multiple DL compilers: https://github.com/nebuly-ai/nebullvm
+- https://github.com/csteinmetz1/ai-audio-startups
+- https://github.com/dair-ai/MLOPs-Primer
 
 ## Reddit and twitter threads:
 

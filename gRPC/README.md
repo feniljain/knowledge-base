@@ -25,6 +25,8 @@
 - GRPC Internals Series: https://tech.trell.co/grpc-go-how-are-the-bytes-written-in-http-2-streams-48f1a7679a62
 - https://tech.trell.co/grpc-go-how-are-the-bytes-written-in-http-2-streams-48f1a7679a62
 - https://medium.com/devops-deepdive/load-balancing-for-grpc-8fe2d9b7c262
+- Google’s (gRPC-centric) API Style Guide: https://cloud.google.com/apis/design/resources
+- https://medium.com/@crossoverjie/ptg-a-gui-grpc-client-fcade3bfc902
 
 ## Repos:
 
@@ -34,3 +36,4 @@
 - https://github.com/twitchtv/twirp
 - https://github.com/protoconf/protoconf/
 - An interactive web UI for gRPC, along the lines of postman: https://github.com/fullstorydev/grpcui
+- GUI Client for GRPC services: https://github.com/bloomrpc/bloomrpc

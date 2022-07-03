@@ -31,6 +31,12 @@
 - https://en.wikipedia.org/wiki/Flexible_array_member
 - The language strangeness budget: https://steveklabnik.com/writing/the-language-strangeness-budget
 - Abuse Of Some Sum Types In OO Languages: http://www.jerf.org/iri/post/2960
+- Minimalism in Programming Language Design: https://pointersgonewild.com/2022/05/23/minimalism-in-programming-language-design/
+- https://en.wikipedia.org/wiki/Hindley%E2%80%93Milner_type_system
+- https://www.haskellforall.com/2022/06/the-appeal-of-bidirectional-type.html
+- https://en.wikipedia.org/wiki/Existential_quantification
+- https://en.wikipedia.org/wiki/Refinement_type
+- https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/
 
 # Lesser known langs but useful from design perspective:
 
@@ -57,6 +63,8 @@
 - Why Static Languages Suffer From Complexity: https://www.reddit.com/r/ProgrammingLanguages/comments/s7shox/why_static_languages_suffer_from_complexity/
 - ACM Transactions on Programming Languages and Systems (TOPLAS): all papers (since the 1979 beginning) now open access: https://www.reddit.com/r/ProgrammingLanguages/comments/se5e1j/acm_transactions_on_programming_languages_and/
 - Different languages to explore: https://www.reddit.com/r/ProgrammingLanguages/comments/uo5a7g/ideas_for_emerging_and_innovative_languages_and/
+- recommendation of a hands-on programming language course: https://www.reddit.com/r/ProgrammingLanguages/comments/uwpxv9/recommendation_of_a_handson_programming_language/
+- Difference between functional and imperative programming: https://twitter.com/GabriellaG439/status/1534727379112714260
 
 # Language collection:
 
@@ -66,6 +74,7 @@
 - https://www.pickcode.io/
 - https://www.beeflang.org/
 - https://crystal-lang.org/
+- http://www.ats-lang.org/
 
 # Videos:
 

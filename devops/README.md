@@ -12,6 +12,7 @@
 - Ton of resource, like a lot(this is a all devops knowledge-base, including docker, kubernetes, etc.): https://redhatspain.com/
 - http://flaws.cloud/
 - Observability learning resources: https://o11y.love/learning-resources/#talks
+- https://sysadminday.com/
 
 ## Blogs and Articles:
 
@@ -124,6 +125,7 @@
 - https://github.com/grafana/dskit
 - https://github.com/dreamhead/patterns-of-distributed-systems
 - https://github.com/cloud-hypervisor/cloud-hypervisor
+- https://github.com/dastergon/awesome-chaos-engineering
 
 ## Courses:
 

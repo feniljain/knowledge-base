@@ -2,6 +2,11 @@
 
 # NOTE TO ME: REMEMBER THIS: https://matta9001.medium.com/a-warning-from-a-vim-user-a76ce08ce3c6 : & : https://navfromflyby.medium.com/dodging-the-rabbit-hole-that-vim-is-7c0ed6eff2f9
 
+## Changes I want to make in my vim workflow ( for future, less busy me? ):
+
+- Hide the command space when there's no command: https://www.reddit.com/r/neovim/comments/vb8l3y/set_cmdheight0_merged_into_neovim_master/
+- set laststatus=3 : Unifying all statuslines
+
 ## Vim fun:
 
 - https://twitter.com/nixcraft/status/1363423983291428865

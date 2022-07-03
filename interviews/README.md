@@ -70,11 +70,15 @@
 - https://freakingrectangle.wordpress.com/2022/04/15/how-to-freaking-hire-great-developers/
 - https://dev.to/dragosnedelcu/10-inteview-mistakes-that-make-look-junior-and-leave-money-on-the-table-5e50
 - https://zriyansh.medium.com/stop-ruining-your-r%C3%A9sum%C3%A9-c8ca15de5a98
+- https://maryamtaheri.medium.com/why-i-start-all-my-1-1s-with-this-question-8d26781c4683
+- https://medium.com/@eliana.lopez/the-youtube-channel-that-made-me-comfortable-with-leetcode-fd28484d8cac
+- https://hypercontext.com/blog/management-skills/engineers-share-candid-feedback-one-on-ones
 
 ## Videos:
 
 - Gaurav Sen: https://www.youtube.com/watch?v=bBPHpH8aKjw
 - Why your resume gets auto-rejected: https://www.youtube.com/watch?v=Kpm8rEywBDQ
+- Rockstar Software Engineer Story: SW2 to Principal in 4 Years - How To Get Promoted FAST: https://www.youtube.com/watch?v=3_Ue0tweDkE
 
 ## Books:
 
@@ -106,6 +110,10 @@
 - https://www.guru99.com/docker-interview-questions.html
 - See last answer's diagram: https://stackoverflow.com/questions/60527336/what-is-the-difference-between-docker-daemon-and-docker-engine
 
+## Rust interviews:
+
+- https://flakm.github.io/posts/rust_interview_questions/
+
 ## Repos:
 
 - Awesome guide: https://github.com/jwasham/coding-interview-university
@@ -113,13 +121,14 @@
 - Curated interview preparation materials for busy engineers: https://github.com/yangshun/tech-interview-handbook
 - https://dev.to/olanetsoft/12-github-repositories-to-help-you-ace-your-job-interview-2a08
 
-## Tweets:
+## Tweets/HN Threads:
 
 - https://twitter.com/ravinwashere/status/1346725573343657987
 - https://twitter.com/rmcomplexity/status/1346494114309828608
 - https://twitter.com/coolpythoncodes/status/1374400847036051463
 - Only have a limited amount of time to prep for an interview?: https://twitter.com/RandallKanna/status/1440333760482873345
 - 10 GitHub repositories for interview preparation for Software Developers: https://twitter.com/sunilc_/status/1520423774260060161
+- "Who is hiring(June 2022)": https://news.ycombinator.com/item?id=31582796
 
 ## CC:
 

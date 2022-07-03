@@ -14,6 +14,7 @@
 - https://cloudflare-quic.com/
 - https://some-ip.com/
 - https://publicsuffix.org/
+- Useful utilities and services over DNS: https://www.dns.toys/
 
 ## Diagrams:
 
@@ -109,11 +110,17 @@
 - What went wrong: SCTP: https://blog.ipspace.net/2009/08/what-went-wrong-sctp.html
 - Multihoming: http://www.tcpipguide.com/free/t_NumberofIPAddressesandMultihoming.htm
 - Multiplexing & Demultiplexing: Backbone Transport Services: https://www.alpharithms.com/multiplexing-demultiplexing-251217/
+- https://thesoloadmin.com/no-its-not-always-dns/
+- https://queue.acm.org/detail.cfm?id=1647302
+- https://adam-p.ca/blog/2022/03/x-forwarded-for/
+- https://smallstep.com/blog/if-openssl-were-a-gui/
+- Matrix protocol notes: https://anarc.at/blog/2022-06-17-matrix-notes/
 
 ## Books:
 
 - High Performance Browser Networking: https://hpbn.co/
 - Computer Networks From Scratch : https://www.networksfromscratch.com/
+- https://www.computer-networking.info/
 
 ## Blog Series/Articles collection:
 
@@ -135,6 +142,7 @@
 - https://github.com/alibaba/xquic
 - Delicately-TUICed high-performance proxy built on top of the QUIC protocol: https://github.com/EAimTY/tuic
 - A special compilation of curl that makes it impersonate Chrome & Firefox : https://github.com/lwthiker/curl-impersonate
+- Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE: https://github.com/netbootxyz/netboot.xyz
 
 ## Reddit, twitter and HN threads:
 
@@ -147,6 +155,8 @@
 - Free resource for receiving alerts about BGP events: https://twitter.com/bgpstream
 - How CDNs work: https://twitter.com/alexxubyte/status/1496166227731181571
 - Suggest some good sources to learn computer networking: https://news.ycombinator.com/item?id=30997392
+- 50+ Linux networking commands and their explanation: https://twitter.com/xtremepentest/status/1529080517877972993
+- Detailed OSI model in a single picture: https://twitter.com/letsdefendio/status/1532737127552794624
 
 ## Videos:
 
@@ -162,6 +172,7 @@
 - The Many Ways of DDoS: https://www.youtube.com/watch?v=PwVzG-1LT9A
 - How DHCP Works // DHCP EXPLAINED(with wireshark): https://www.youtube.com/watch?v=Cy0M54GSpBg
 - Beyond POSIX - Adventures in Alternative Networking APIs: https://www.infoq.com/presentations/posix-networking-api/
+- UDP hole punching: https://www.youtube.com/watch?v=S7Ifw5XsypQ
 
 ## Container Images:
 

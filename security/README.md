@@ -34,6 +34,11 @@
 - https://cooltechzone.com/research/how-hackers-scanning-whole-internet
 - https://www.infoq.com/news/2021/11/linux-dns-vulnerability/
 - https://www.ired.team/offensive-security/code-injection-process-injection/binary-exploitation/rop-chaining-return-oriented-programming
+- Exploit Development: No Code Execution? No Problem! Living The Age of VBS, HVCI, and Kernel CFG: https://connormcgarr.github.io/hvci/
+
+## Blog/Article Collection:
+
+- https://kernal.eu/
 
 ## Repos and tools:
 
@@ -59,3 +64,4 @@
 - Security Scorecards: https://github.com/ossf/scorecard
 - https://github.com/veeral-patel/how-to-secure-anything
 - Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock: https://github.com/liamg/traitor
+- https://github.com/edoardottt/awesome-hacker-search-engines

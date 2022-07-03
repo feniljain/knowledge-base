@@ -110,6 +110,7 @@
 - https://dev.to/ben/what-are-the-coolest-coding-music-projects-out-there-3kno
 - https://css-tricks.com/send-an-http-request-on-page-exit/
 - https://thefullstackdev.net/resource/create-beautiful-website-while-sucking-at-design/
+- https://storybook.js.org/blog/component-encyclopedia/
 
 ## Websites:
 
@@ -180,6 +181,9 @@
 - https://a11y-automation.dev/
 - https://www.projectwallace.com/
 - Create Tailwind CSS color families: https://uicolors.app/create
+- Nice collection of CSS animations for your awesome web projects: https://xsgames.co/animatiss/
+- A simple hand drawn HTML/CSS theme: https://chr15m.github.io/DoodleCSS/
+- Paper Prototype CSS: https://edent.gitlab.io/paper-prototype-css/
 
 ## Blogs And Articles:
 

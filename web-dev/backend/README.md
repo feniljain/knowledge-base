@@ -91,6 +91,7 @@
 - https://itnext.io/solving-concurrency-in-event-driven-microservices-79bbc13b597c
 - https://stackoverflow.blog/2022/04/11/the-complete-guide-to-protecting-your-apis-with-oauth2/
 - https://slack.engineering/how-we-design-our-apis-at-slack/
+- CDNs in detail: https://web.dev/content-delivery-networks/
 
 ## Blog series/Articles collection:
 

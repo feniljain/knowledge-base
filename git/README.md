@@ -10,11 +10,13 @@
 - https://savannah.nongnu.org/projects/quilt/
 - https://gitready.com/
 - http://www-cs-students.stanford.edu/%7Eblynn/gitmagic/index.html
+- https://ohshitgit.com/
+- https://dangitgit.com/
+- https://www.git-tower.com/learn
 
 ## Blogs and Articles:
 
 - Rewriting Git History: https://www.atlassian.com/git/tutorials/rewriting-history
-- A very useful guide: https://dev.to/ravimengar/a-git-cheatsheet-of-commands-every-developer-should-use-38ma
 - How to use git hooks: https://dev.to/krzysztofkaczy9/do-you-really-need-husky-247b
 - Awesome method to keep commits standardized: https://dev.to/timmybytes/keeping-git-commit-messages-consistent-with-a-custom-template-1jkm
 - How to write good commit meassages with examples: https://www.conventionalcommits.org/en/v1.0.0-beta.2/
@@ -22,7 +24,6 @@
 - https://blog.plover.com/prog/git-prompt-hook-hack.html
 - https://codeburst.io/keep-calm-and-git-bisect-1610c6bced29
 - https://www.geeksforgeeks.org/how-to-write-good-commit-messages-in-github/
-- Very good cheatsheet: https://github.com/arslanbilal/git-cheat-sheet
 - https://fullstackmaster.medium.com/conventional-git-commit-messages-and-linting-76e1fbb9e14a
 - https://pythonawesome.com/communicate-important-updates-to-your-team-via-git-commit-messages/
 - https://www.freecodecamp.org/news/git-cheat-sheet/amp/
@@ -63,11 +64,18 @@
 - https://eagain.net/articles/git-for-computer-scientists/
 - https://thomaslevesque.com/2020/05/29/git-tip-how-to-fix-an-accidental-commit-on-the-wrong-branch/
 - Handling messy pull-request diffstats: https://lwn.net/Articles/889760/
+- https://tom.preston-werner.com/2009/05/19/the-git-parable.html
+
+## Cheatsheets:
+
+- A very useful guide: https://dev.to/ravimengar/a-git-cheatsheet-of-commands-every-developer-should-use-38ma
+- Very good cheatsheet: https://github.com/arslanbilal/git-cheat-sheet
 
 ## Reddit and twitter threads:
 
 - https://twitter.com/siddharthkp/status/1478690695955116036
 - https://github.github.com/gfm/
+- Bunch of learning resources: https://twitter.com/b0rk/status/1532741132437929987
 
 ## Interesting git configs:
 
@@ -94,6 +102,7 @@
 - https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/
 - https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/
 - Series on git internals: https://dev.to/calebsander/git-internals-part-2-packfiles-1jg8
+- https://git-scm.com/book/en/v2/Git-Internals-Git-Objects
 
 ## Github Enhancements:
 
@@ -109,6 +118,10 @@
 ## Learning:
 
 - https://vickyikechukwu.hashnode.dev/introduction-to-git-in-16-minutes
+- https://stevelosh.com/blog/2013/04/git-koans/
+- https://maryrosecook.com/blog/post/git-from-the-inside-out
+- https://missing.csail.mit.edu/2020/version-control/
+- https://learngitbranching.js.org/
 
 ## Github Official Blogs/Related blogs:
 

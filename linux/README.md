@@ -35,6 +35,7 @@
 - https://wkz.github.io/ply/
 - Online operating system tester: https://distrotest.net/index.php
 - https://linuxreviews.org/
+- https://puter.com/
 
 ## Blogs and articles:
 
@@ -73,6 +74,9 @@
 - https://systemcrafters.net/craft-your-system-with-guix/5-reasons-to-try-guix/
 - https://www.internalpointers.com/post/build-binary-deb-package-practical-guide
 - https://levelup.gitconnected.com/5-modern-bash-scripting-techniques-that-only-a-few-programmers-know-4abb58ddadad
+- https://evanhahn.com/a-decade-of-dotfiles/
+- The Comprehensive List of Window Managers for Unix: https://www.gilesorr.com/wm/table.html
+- https://medium.com/@Prinux/curl-command-explained-c1ecbed117d
 
 ### Linux working:
 
@@ -119,6 +123,9 @@
 - Static, Shared Dynamic and Loadable Linux Libraries: http://www.yolinux.com/TUTORIALS/LibraryArchives-StaticAndDynamic.html
 - Beginner's guide to Linkers: https://www.lurklurk.org/linkers/linkers.html
 - Linux internals: Virtual Memory: https://sam4k.com/linternals-virtual-memory-part-1/
+- Things to keep in mind when working with POSIX signals: https://pvs-studio.com/en/blog/posts/cpp/0950/
+- https://mazzo.li/posts/fast-pipes.html
+- The Linux Boot Process: https://medium.com/@ibshafique/the-linux-boot-process-180fb07af452
 
 ### Others:
 

@@ -217,6 +217,7 @@
 - http://rachelbythebay.com/w/2022/02/26/include/
 - https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi
 - https://stackoverflow.com/questions/655065/when-should-i-use-the-new-keyword-in-c
+- tolower() in bulk at speed: https://dotat.at/@/2022-06-27-tolower-swar.html
 
 ### Blog series/articles collection:
 

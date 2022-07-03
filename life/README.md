@@ -276,6 +276,38 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - The fear of death follows from the fear of life. One who lives life fully is prepared to die at any time. - Edward Abbey
 - Nothing is so fatiguing as the eternal hanging on of an uncompleted task. - William James
 - The struggle ends when the gratitude begins. - Neale Donald Walsch
+- Courage is like a muscle. We strengthen it by use. - Ruth Gordon
+- If I quit now, I will soon be back to where I started. And when I started I was desperately wishing to be where I am now.
+- A person who never made a mistake never tried anything new. - Albert Einstein
+- When you notice that you’re having negative thoughts about how all of this is going to pan out, you need to remind yourself that you are not a very good fortune teller. - Donna W. Hill
+- I've learned that you shouldn't go through life with a catcher's mitt on both hands; you need to be able to throw something back. - Maya Angelou
+- The only guarantee for failure is to stop trying. - John C Maxwell
+- It's up to you how far you go. If you don't try, you'll never know! - Merlin, "Sword in the stone"
+- First say to yourself what you would be; and then do what you have to do. - Epicetus
+- Overthinking ruins you. Ruins the situation, twists it around, makes you worry and just makes everything much worse than it actually is.
+- Tact is the art of making a point without making an enemy. - Howard W. Newton
+- Aim above morality. Be not simply good, be good for something. - Henry David Thoreau
+- The only person you are destined to become is the person you decide to be. - Ralph Waldo Emerson
+- Never underestimate the ability of a small group of dedicated people to change the world. Indeed, it is the only thing that ever has. - Margaret Mead
+- Never dull your shine for somebody else. - Tyra Banks
+- So many of our dreams at first seem impossible. Then they seem improbable. And then, when we summon the will, they soon become inevitable. - Cristopher Reeve
+- The greatest mistake you can make in life is to be continually fearing you will make one. - Elbert Hubbard
+- What are the most powerful words in the universe? The ones you use to talk to yourself. - Karen Salmansohn
+- To be wronged is nothing unless you continue to remember it. - Confucius
+- All great achievements require time. - Maya Angelou
+- Practice the art of interpreting situations constructively.
+- Your level of success will seldom exceed your level of personal development. - Jim Rohn
+- It takes a lot of hard work to remain positive, but positivity always pays off. - RuPaul
+- Mistakes are the portals of discovery. - James Joyce
+- It's not what happens to you, but how you react to it that matters. - Epictetus
+- Nobody ever got ready by waiting. You only get ready by starting. - John C. Maxwell
+- Children are wonderfully confident in their own imaginations. Most of us lose this confidence as we grow up. - Sir Ken Robinson
+- Keep your goals away from the trolls.
+- It's not the years in your life that count. It's the life in your years. - Edward J Stieglitz
+- When you talk, you are only repeating what you already know. But if you listen, you may learn something new. - Dalai Lama
+- Be kind whenever possible. It is always possible. - Dalai Lama
+- Today I will do what others won't, so tomorrow I can do what others can't. - Jerry Rice
+- Never look back unless you are planning to go that way. - Henry David Thoreau
 
 ## Books:
 

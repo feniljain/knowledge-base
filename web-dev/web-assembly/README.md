@@ -16,6 +16,7 @@
 
 - Bringing webassembly outside browser using wasi: https://www.youtube.com/watch?v=fh9WXPu0hw8
 - https://www.infoq.com/presentations/wasm-server-api/
+- WASI Networking: Towards a World Wide WebAssembly: https://www.youtube.com/watch?v=353mpfL8r3s
 
 # Blogs and articles:
 

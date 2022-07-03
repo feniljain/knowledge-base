@@ -50,8 +50,12 @@
 - Another Knowledge Base: https://confluence.jaytaala.com/display/TKB/Tech+Knowledge+Base
 - https://www.json.org/json-en.html
 - https://opentabletdriver.net/
+- A collection of code examples from prominent open-source projects: https://codecatalog.org/
+- Command Line Interface Guidelines: https://clig.dev/
 
 ## Blogs and Articles:
+
+### General:
 
 - https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html
 - http://www.righto.com/2014/02/bitcoins-hard-way-using-raw-bitcoin.html
@@ -170,6 +174,14 @@
 - https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/
 - https://www.shubhro.com/2022/01/30/hacks-engineering-estimates/
 - https://thorstenball.com/blog/2022/05/17/professional-programming-the-first-10-years/
+- How to do a code review: Google’s Engineering Practices documentation: https://google.github.io/eng-practices/review/reviewer/
+- How open source software powers modern filmmaking : https://github.com/readme/featured/open-source-filmmaking
+- https://leerob.io/blog/developer-experience-examples
+- Long Live Software Easter Eggs!: https://queue.acm.org/detail.cfm?id=3534857
+
+### Tutorials:
+
+- https://kean.blog/post/lets-build-regex
 
 ## Blog Series:
 
@@ -218,6 +230,7 @@
 - The forgotten art of structured programming: https://www.youtube.com/watch?v=SFv8Wm2HdNM
 - This is what happened to Aaron Swartz: https://www.youtube.com/watch?v=9vz06QO3UkQ
 - How PNG Works: Compromising Speed for Quality: https://www.youtube.com/watch?v=EFUYNoFRHQI
+- Introduction to Use-After-Free Vulnerabilities: https://www.youtube.com/watch?v=PKqMsaKGdlM
 
 ## Repos:
 
@@ -282,6 +295,9 @@
 - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups: https://github.com/kuchin/awesome-cto
 - All the required resources to build your own startup: https://github.com/KrishMunot/awesome-startup
 - https://github.com/codecrafters-io/build-your-own-x
+- A collection of Post-Mortems published by companies on why their systems went down: https://github.com/danluu/post-mortems
+- A Collection of GitHub Profiles with awesome readme: https://github.com/coderjojo/creative-profile-readme
+- For when people get too hyped up about things: https://github.com/hwayne/awesome-cold-showers
 
 ## Extensions:
 
@@ -326,7 +342,7 @@
 
 ## Tools:
 
-- A service better than ngrok, it provides wildcard domains too: http://xip.io/
+- A service better than ngrok, it provides wildcard domains too(Not functional anymore): http://xip.io/
 - https://md-preview.vercel.app/
 
 ## Tweets:

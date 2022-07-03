@@ -36,11 +36,16 @@
 - https://medium.com/@bruce_25864/the-road-to-sre-ad4c73df78b8
 - https://learnk8s.io/kubernetes-network-packets
 - SLA, SLO, SLI — A Primer: https://sherinthomas.medium.com/sla-slo-sli-a-primer-4f3d0f5dae9c
+- https://blog.relyabilit.ie/what-sre-could-be/
 
 ## Repos:
 
-- https://github.com/upgundecha/howtheysre
+- A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE): https://github.com/upgundecha/howtheysre
 - https://github.com/mxssl/sre-interview-prep-guide
+
+## Newsletters:
+
+- https://sreweekly.com/
 
 ## Videos:
 

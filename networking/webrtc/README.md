@@ -86,6 +86,18 @@
 - https://www.liveswitch.io/blog/3-major-misconceptions-about-webrtc-in-broadcasting
 - https://www.sipwise.com/spce/blog/rtpengine-janus-mode/
 - Video Bitrate vs. Resolution: 4 Key Differences and Their Role in Video Streaming: https://antmedia.io/video-bitrate-vs-resolution-4-key-differences-and-their-role-in-video-streaming/
+- https://webrtchacks.com/bad-lighting-fix-with-javascript-webcam-exposure/
+- https://antmedia.io/srt-streaming-the-secure-reliable-transport-protocol/
+- https://bloggeek.me/webrtc-leak-test/
+- https://bloggeek.me/psa-mdns-and-local-ice-candidates-are-coming/
+- https://bloggeek.me/webrtc-is-a-marathon-not-a-sprint/
+- https://webrtchacks.com/meet-vs-duo-2-faces-of-googles-webrtc/
+- https://medium.com/@BeingOttoman/simplest-webrtc-debugging-development-environment-for-linux-3d4e4aed54f3
+- New look at WebRTC usage in Google Meet: http://www.rtcbits.com/2022/06/webrtc-google-meet.html
+- Real-time H-265 video stream encoding with c++ and libavcodec: https://medium.com/@restlessladder/real-time-h-265-video-stream-encoding-with-c-and-libavcodec-77eafc20fa9e
+- https://eyevinntechnology.medium.com/whip-whpp-for-webrtc-based-broadcast-streaming-2cf469e95299
+- https://jitsi.org/blog/a-stepping-stone-towards-end-to-end-encryption-on-mobile/
+- https://millicast.medium.com/webrtc-the-future-for-encoders-8c08448c16e9
 
 ### Tutorials:
 
@@ -131,6 +143,9 @@
 - Branches index for webrtc: https://chromiumdash.appspot.com/branches
 - https://github.com/pion/awesome-pion
 - A Kubernetes ingress gateway for WebRTC: https://github.com/l7mp/stunner
+- A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation: https://github.com/adalkiran/webrtc-nuts-and-bolts
+- SFU to SFU is a PoC to demonstrate how to build a distributed SFU Agnostic conferencing system: https://github.com/Sean-Der/sfu-to-sfu
+- https://github.com/hetelek/webrtc-tester
 
 ## Useful SO questions:
 
@@ -151,6 +166,7 @@
 - Is there a way to disable video resolution change in WebRTC?: https://groups.google.com/g/discuss-webrtc/c/9g2eXWJwijI
 - Low FPS for one of the simulcast encodings in Chrome: https://groups.google.com/g/discuss-webrtc/c/uqn40BPiTrE
 - Optimizing webrtc build size: https://groups.google.com/g/discuss-webrtc/c/idQV08n8hg8
+- Help us test our new echo canceller: https://groups.google.com/g/discuss-webrtc/c/fYw3aNF7W78
 
 ## Dev:
 

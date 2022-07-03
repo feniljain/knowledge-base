@@ -65,10 +65,12 @@
 - First Kernel Patch: https://wiki.linuxfoundation.org/lkmp/lkmp_first_kernel_patch
 - How to do Linux Kernel Development: https://www.kernel.org/doc/html/latest/process/howto.html#
 - Getting started with linux kernel development: https://gist.github.com/vegard/22200a9f91af138a99ae22a9b814a9a4
+- Creating app pasword for continuing the use of `git send-email`: https://support.google.com/mail/answer/185833
 
 ## Blog series/Article collection:
 
 - https://blog.freeark1.tv/
+- https://xairy.io/
 
 ## Reddit and twitter threads:
 
@@ -86,3 +88,4 @@
 ## Books:
 
 - Linux Kernel in a nutshell: http://index-of.es/z0ro-Repository-2/Operating-Systems/Linux/O%27Reilly%20Linux%20Kernel%20in%20a%20Nutshell.pdf
+- Linux Device Drivers: https://www.xml.com/ldd/chapter/book/ch16.html

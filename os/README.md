@@ -22,6 +22,7 @@
 - Writing My Own Operating System Series' Articles: https://dev.to/frosnerd/series/9585
 - Writing a basic kernel: https://computers-art.medium.com/writing-a-basic-kernel-6479a495b713
 - https://ops-class.org/
+- Learn to write an embedded OS in Rust: https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
 
 ### Others:
 
