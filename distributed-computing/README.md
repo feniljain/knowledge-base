@@ -14,6 +14,7 @@
 - https://medium.com/criteo-engineering/distributed-rate-limiting-algorithms-a35f7e24783
 - https://haydenjames.io/the-two-generals-problem/
 - https://www.alexdebrie.com/posts/database-consistency/
+- Let’s take a crack at understanding distributed consensus: https://www.preethikasireddy.com/post/lets-take-a-crack-at-understanding-distributed-consensus
 
 ## Videos:
 

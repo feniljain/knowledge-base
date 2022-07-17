@@ -115,6 +115,7 @@
 - https://adam-p.ca/blog/2022/03/x-forwarded-for/
 - https://smallstep.com/blog/if-openssl-were-a-gui/
 - Matrix protocol notes: https://anarc.at/blog/2022-06-17-matrix-notes/
+- https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/
 
 ## Books:
 

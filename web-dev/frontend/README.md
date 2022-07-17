@@ -6,6 +6,7 @@
 - The icon manager for web developer: https://icon-shelf.github.io/
 - A set of over 1700 free MIT-licensed high-quality SVG icons for you to use in your web projects: https://github.com/tabler/tabler-icons
 - https://webcolorisstillbroken.com/
+- Free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React: https://www.patterns.dev/
 
 ## Videos:
 
@@ -111,6 +112,7 @@
 - https://css-tricks.com/send-an-http-request-on-page-exit/
 - https://thefullstackdev.net/resource/create-beautiful-website-while-sucking-at-design/
 - https://storybook.js.org/blog/component-encyclopedia/
+- A thread of my favorite clever CSS tricks: https://threadreaderapp.com/thread/1546657470604382208.html?s=20&t=s6ofZC9jfti56fnsjTMmPQ
 
 ## Websites:
 
@@ -184,6 +186,8 @@
 - Nice collection of CSS animations for your awesome web projects: https://xsgames.co/animatiss/
 - A simple hand drawn HTML/CSS theme: https://chr15m.github.io/DoodleCSS/
 - Paper Prototype CSS: https://edent.gitlab.io/paper-prototype-css/
+- https://www.color-morph.com/
+- HTML templates that shuffle themselves on render: https://dynamowaves.markzebley.com/
 
 ## Blogs And Articles:
 
@@ -219,6 +223,7 @@
 - https://web.dev/min-max-clamp/
 - https://blog.easterseals.com/emojis-and-accessibility-the-dos-and-donts-of-including-emojis-in-texts-and-emails/
 - https://scotthelme.co.uk/can-you-get-pwned-with-css/
+- Building Interoperable Web Components That Even Work With React: https://css-tricks.com/building-interoperable-web-components-react/
 
 ## Extensions:
 

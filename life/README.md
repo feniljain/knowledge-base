@@ -69,6 +69,7 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - https://www.reddit.com/r/ExperiencedDevs/comments/nmodyl/drunk_post_things_ive_learned_as_a_sr_engineer/
 - https://twitter.com/chrishlad/status/1436692553374388225
 - https://twitter.com/Codie_Sanchez/status/1475831210463092741
+- 10 newsletters that will teach you more than any $150,000 MBA: https://twitter.com/thealexbanks/status/1545438290790060035
 
 ## Random quotes:
 
@@ -308,6 +309,15 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - Be kind whenever possible. It is always possible. - Dalai Lama
 - Today I will do what others won't, so tomorrow I can do what others can't. - Jerry Rice
 - Never look back unless you are planning to go that way. - Henry David Thoreau
+- Striving for excellence motivates you; striving for perfection is demoralizing. - Harriet Braiker
+- One of the greatest discoveries a person makes is to find they can do what they were afraid they couldn't do. - Henry Ford
+- Be curious about everything. Never stop learning. Never stop growing. - Caley Alyssa
+- Know your limits but never stop trying to exceed them.
+- Nothing in life is to be feared, it is only to be understood. Now is the time to understand more, so that we may fear less. - Marie Curie
+- Use the talents you possess, for the woods would be very silent if no birds sang except the best. - Henry Van Dyke
+- Strength does not come from winning. Your struggles develop your strengths. - Arnold Schwarzenegger
+- Knowing is not enough, we must apply. Willing is not enough, we must do. - Johann Wolfgang von Goethe
+- The only real mistake is the one from which we learn nothing. - Henry Ford
 
 ## Books:
 

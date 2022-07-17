@@ -52,6 +52,9 @@
 - https://opentabletdriver.net/
 - A collection of code examples from prominent open-source projects: https://codecatalog.org/
 - Command Line Interface Guidelines: https://clig.dev/
+- Your how-not-to guide for developing software: https://thedailywtf.com/
+- How Developers Stop Learning: Rise of the Expert Beginner: https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
+- How Software Groups Rot: Legacy of the Expert Beginner: https://daedtech.com/how-software-groups-rot-legacy-of-the-expert-beginner/
 
 ## Blogs and Articles:
 
@@ -178,6 +181,7 @@
 - How open source software powers modern filmmaking : https://github.com/readme/featured/open-source-filmmaking
 - https://leerob.io/blog/developer-experience-examples
 - Long Live Software Easter Eggs!: https://queue.acm.org/detail.cfm?id=3534857
+- The Grug Brained Developer. A layman's guide to thinking like the self-aware smol brained: https://grugbrain.dev/
 
 ### Tutorials:
 
@@ -298,6 +302,7 @@
 - A collection of Post-Mortems published by companies on why their systems went down: https://github.com/danluu/post-mortems
 - A Collection of GitHub Profiles with awesome readme: https://github.com/coderjojo/creative-profile-readme
 - For when people get too hyped up about things: https://github.com/hwayne/awesome-cold-showers
+- Jargon from the functional programming world in simple terms: https://github.com/hemanth/functional-programming-jargon
 
 ## Extensions:
 

@@ -119,6 +119,7 @@
 - Branch/cmove and compiler optimizations: https://kristerw.github.io/2022/05/24/branchless/
 - Cranelift, Part 4: A New Register Allocator: https://cfallin.org/blog/2022/06/09/cranelift-regalloc2/
 - Immix collection algorithm for GCs: https://wingolog.org/archives/2022/06/15/defragmentation
+- https://wiki.nikiv.dev/compilers/
 
 ## Blog series/Articles collection:
 
@@ -168,6 +169,7 @@
 - LLVM IR in natural Rust data structures: https://github.com/cdisselkoen/llvm-ir
 - All LLVM's analysis and transform passes: https://github.com/llvm/llvm-project/blob/main/llvm/docs/Passes.rst
 - A massively parallel, optimal functional runtime in Rust : https://github.com/Kindelia/HVM
+- A parser library for humans with powerful error recovery: https://github.com/zesterer/chumsky
 
 ## Tools:
 

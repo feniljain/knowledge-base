@@ -263,6 +263,7 @@
 - Bringing ML to linux kernel: https://github.com/sbu-fsl/kernel-ml
 - Low level access to linux netlink sockets: https://github.com/mdlayher/netlink
 - https://github.com/trinib/Awesome-Ubuntu-Setup
+- Fedora/CentOS Stream/Red Hat Enterprise Linux Guide : https://github.com/mikeroyal/Fedora-Guide
 
 ## Terminal tools I use:
 
@@ -406,6 +407,10 @@
 - Using rust for kernel development: https://lwn.net/Articles/870555/
 - https://thenewstack.io/linus-torvalds-on-community-rust-and-linuxs-longevity
 - Introduction of rust to linx kernel, another RFC: https://lore.kernel.org/lkml/CANiq72khBa2GcB6-PHM3A44Y90d6vzYAS=BVpk3nT4B6u+NVDw@mail.gmail.com/T/#mb5e524dae9d5a5815c6e68eb36b9bde4e87c861d
+
+### Tutorials:
+
+- Rust for Linux: Writing Safe Abstractions & Drivers: https://linuxfoundation.org/webinars/rust-for-linux-writing-abstractions-and-drivers/
 
 ## IO-Uring:
 

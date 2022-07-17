@@ -68,6 +68,7 @@
 - https://bmiguel-teixeira.medium.com/tracing-tls-traffic-ebpf-style-b588523133ab
 - https://www.grant.pizza/blog/bpf-concurrency/
 - Introduction to eBPF: https://blog.sofiane.cc/eBPFintroduction/
+- Detecting Kernel Hooking using eBPF: https://blog.tofile.dev/2021/07/07/ebpf-hooks.html
 
 ### Tutorials:
 
@@ -94,6 +95,7 @@
 
 ## Repos:
 
+- The Beginner's Guide to eBPF: https://github.com/lizrice/ebpf-beginners
 - eBPF github org: https://github.com/ebpf-io
 - https://github.com/zoidbergwill/awesome-ebpf
 - Tools for BPF-based Linux IO analysis, networking, monitoring, and more : https://github.com/iovisor/bcc
@@ -133,6 +135,14 @@
 - https://github.com/seek-ret/btfhub-online
 - Making containers more secure with eBPF and Linux Security Modules (LSM) : https://github.com/lockc-project/lockc
 - Shape your traffic the BPF way : https://github.com/leodido/traffico
+- Dectect syscall hooking using eBPF: https://github.com/pathtofile/bpf-hookdetect
+- eBPF for dummies: https://www.linkedin.com/pulse/understanding-ebpf-complete-beginner-3-mins-sameeh-jubran/
+- nettrace is a eBPF-based tool to trace network packet and diagnose network problem: https://github.com/OpenCloudOS/nettrace
+- An eBPF detection program for CVE-2022-0847: https://github.com/airbus-cert/dirtypipe-ebpf_detection
+- Monitor network traffic per executable using BPF: https://github.com/elesiuta/picosnitch
+- Credentials Dumper for Linux using eBPF: https://github.com/citronneur/pamspy
+- A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities: https://github.com/h3xduck/TripleCross
+- The Good, Bad and Compromisable Aspects of Linux eBPF: https://www.pentera.io/blog/the-good-bad-and-compromisable-aspects-of-linux-ebpf/
 
 ## Reddit and twitter threads:
 
@@ -157,3 +167,9 @@
 - Cilium - BPF & XDP for containers: https://archive.fosdem.org/2017/schedule/event/cilium/
 - BBR-based congestion control for Kubernetes Pods: https://www.youtube.com/watch?v=iiMp3TrDcsc
 - BPTGen: https://www.youtube.com/watch?v=zdbCvGSdFiQ
+- A Beginners Guide to eBPF Programming for Networking: https://www.youtube.com/watch?v=l5l2EckwWME
+
+## Companies involved in space:
+
+- https://cilium.io/
+- https://www.parca.dev/

@@ -75,6 +75,7 @@
 - https://github.com/basarat/typescript-book
 - Automatically finds jQuery methods from existing projects and generates vanilla js alternatives: https://github.com/sachinchoolur/replace-jquery
 - https://github.com/uNetworking/uWebSockets.js
+-  JSON Schema Type Builder with Static Type Resolution for TypeScript: https://github.com/sinclairzx81/typebox
 
 ## APIs:
 
@@ -88,6 +89,7 @@
 ## Newsletters:
 
 - https://javascriptweekly.com/
+- https://allthingstypescript.dev/
 
 ## Learning:
 

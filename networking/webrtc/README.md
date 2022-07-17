@@ -98,6 +98,9 @@
 - https://eyevinntechnology.medium.com/whip-whpp-for-webrtc-based-broadcast-streaming-2cf469e95299
 - https://jitsi.org/blog/a-stepping-stone-towards-end-to-end-encryption-on-mobile/
 - https://millicast.medium.com/webrtc-the-future-for-encoders-8c08448c16e9
+- Understanding WebRTC Security Architecture: https://www.techtarget.com/searchunifiedcommunications/tip/Understanding-WebRTC-security-architecture
+- Cascading publishers across VideoRoom instances: https://www.meetecho.com/blog/sfu-cascading/
+- The WebRTC Architecture Landscape is Changing: https://webrtc.ventures/2022/04/webrtc-architecture-landscape/
 
 ### Tutorials:
 

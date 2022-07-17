@@ -92,6 +92,7 @@
 - https://stackoverflow.blog/2022/04/11/the-complete-guide-to-protecting-your-apis-with-oauth2/
 - https://slack.engineering/how-we-design-our-apis-at-slack/
 - CDNs in detail: https://web.dev/content-delivery-networks/
+- https://engineering.mixpanel.com/resharding-petabytes-of-data-to-improve-performance-for-our-largest-customers-1a3be4637778
 
 ## Blog series/Articles collection:
 

@@ -13,6 +13,7 @@
 - http://flaws.cloud/
 - Observability learning resources: https://o11y.love/learning-resources/#talks
 - https://sysadminday.com/
+- Hands on lab for devops stuff: https://prod.cloudyuga.guru/hands_on_lab/
 
 ## Blogs and Articles:
 
@@ -126,6 +127,7 @@
 - https://github.com/dreamhead/patterns-of-distributed-systems
 - https://github.com/cloud-hypervisor/cloud-hypervisor
 - https://github.com/dastergon/awesome-chaos-engineering
+- Nuke a whole AWS account and delete all its resources: https://github.com/rebuy-de/aws-nuke
 
 ## Courses:
 

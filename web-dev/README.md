@@ -46,6 +46,7 @@
 - https://developer.chrome.com/blog/inside-browser-part1/
 - Don't fight the browser preload scanner: https://web.dev/preload-scanner/
 - https://kerkour.com/http-security-headers
+- No really, why can't we have raw UDP in JavaScript?: https://www.computerenhance.com/p/no-really-why-cant-we-have-raw-udp
 
 ## Blog series/Articles collection:
 

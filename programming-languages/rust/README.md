@@ -112,6 +112,7 @@
 - https://patshaughnessy.net/2018/3/15/how-rust-implements-tagged-unions
 - https://matklad.github.io//2022/06/11/caches-in-rust.html
 - Explaining reborrows and lifetimes: https://haibane-tenshi.github.io/rust-reborrowing/
+- Procedural macros under the hood: Part II: https://blog.jetbrains.com/rust/2022/07/07/procedural-macros-under-the-hood-part-ii/
 
 ### Tutorials:
 
@@ -217,6 +218,7 @@
 - Parsing / Recursive Descent Parser: https://www.huy.rocks/everyday/05-08-2022-parsing-recursive-descent-parser
 - https://flakm.github.io/posts/heap_allocation/
 - Implementing strace in Rust: https://jakobwaibel.com/2022/06/06/ptrace/
+- Rust PNG writer from scratch: https://www.splinter.com.au/2022/07/12/rust-png-writer/
 
 ### Language general:
 
@@ -290,6 +292,7 @@
 - https://www.thecodedmessage.com/posts/trivia-rust-types/
 - Stacked Futures and why they are impossible: https://conradludgate.com/posts/async-stack
 - https://smallcultfollowing.com/babysteps/blog/2022/06/15/what-it-feels-like-when-rust-saves-your-bacon/
+- Nice read on internal boundaries from a compiler perspective: https://matklad.github.io/2022/07/10/almost-rules.html
 
 ### Others:
 
@@ -540,6 +543,7 @@
 - Debugging rust using GDB: https://www.youtube.com/watch?v=8D74GaBIYI4
 - Rust Macros: https://www.youtube.com/watch?v=LYIn_Ewpq-E
 - Crust of Rust: Send, Sync, and their implementors: https://www.youtube.com/watch?v=yOezcP-XaIw
+- Constant fun (const fn) with Rust: https://www.youtube.com/watch?v=Vw8BFScm0K0
 
 ## Newsletters:
 
@@ -692,6 +696,7 @@
 - https://www.bexxmodd.com/log/llvm-infrastrucutre-and-rust/7
 - https://frehberg.com/2022/01/rust-memory-layout-optimization/
 - Original Rust OCaml Compiler: https://github.com/rust-lang/rust/tree/ef75860a0a72f79f97216f8aaa5b388d98da6480/src/boot
+- The Rust Language Design Team: https://lang-team.rust-lang.org/
 
 ## Rust and security
 

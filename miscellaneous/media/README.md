@@ -13,6 +13,7 @@
 - Remove unwanted things from images in seconds (free): https://www.magiceraser.io/
 - https://movieminions.to/
 - https://lookmovie2.to/
+- https://myflixer.is/
 
 # Blogs and articles:
 

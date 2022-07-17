@@ -46,6 +46,7 @@
 - Neovim | Config Structuring & Patterns: https://www.youtube.com/watch?v=TsjW37zWP7c
 - Introduction to LuaSnip: https://www.youtube.com/watch?v=Dn800rlPIho
 - setting up C++ LSP (clangd) in neovim - native lsp: https://www.youtube.com/watch?v=BCuyEdDQ5iA
+- Neovim from scratch: https://www.youtube.com/playlist?list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ
 
 ## Blogs, Articles and threads:
 
@@ -122,6 +123,8 @@
 - http://vimcasts.org/episodes/writing-a-custom-fold-expression/
 - Move to window if specified buffer is opened: https://vi.stackexchange.com/questions/25046/move-to-window-if-specified-buffer-is-opened
 - https://dev.to/iggredible/vimgrep-tips-and-tricks-54pl
+- Configuring Neovim’s LSP client for TypeScript development: https://jose-elias-alvarez.medium.com/configuring-neovims-lsp-client-for-typescript-development-5789d58ea9c
+- Neovim LSP CodeLens for Rust: https://alpha2phi.medium.com/neovim-lsp-codelens-for-rust-44f6df52ead9
 
 ## VimTricks:
 
@@ -171,6 +174,10 @@
 - Editing macros: https://twitter.com/VImTipsDaily/status/1438797931851796482
 - A workflow for effectively navigating huge projects in neovim (>32M LOC) using tags/grep/live_grep: https://www.reddit.com/r/neovim/comments/tgmg6j/a_workflow_for_effectively_navigating_huge/
 - tmux in neovim: text reflow support: https://www.reddit.com/r/neovim/comments/umy4gb/tmux_in_neovim/
+- How to improve at using Neovim?: https://www.reddit.com/r/neovim/comments/vvy4ch/how_to_improve_at_using_neovim/
+- How to setup eslint to format on save with neovim: https://www.reddit.com/r/neovim/comments/ultmx0/how_to_setup_eslint_to_format_on_save_with_nvims/
+- How can I display 'lsp loading...' in my statusline when a language server is loading?
+: https://www.reddit.com/r/neovim/comments/uy3lnh/how_can_i_display_lsp_loading_in_my_statusline/
 
 ## Vimscript:
 
@@ -193,7 +200,8 @@
 - https://nvim-awesome.vercel.app/
 - https://vi.stackexchange.com/
 - A game to learn vim: https://www.theviminator.com/
-  -An interesting documentation tool to look up Vim keybindings and combinations: https://keycombiner.com/collections/vim/
+- An interesting documentation tool to look up Vim keybindings and combinations: https://keycombiner.com/collections/vim/
+- http://vimcaps.com/
 
 ## Repos:
 
@@ -211,6 +219,7 @@
 - https://github.com/rhysd/vim.wasm
 - Good golang config for nvim: https://github.com/jhchabran/nvim-config
 - https://github.com/hakluke/how-to-exit-vim
+-  Sample neovim and vim configurations for Rust development: https://github.com/sharksforarms/neovim-rust
 
 ## General:
 
@@ -411,7 +420,7 @@
 - Plugins to draw diagarms easily in vim: https://github.com/willchao612/vim-diagon
 - Delete buffers (close files) without closing your windows or messing up your layout: https://github.com/moll/vim-bbye
 
-## Lua/Nvim 0.5+ Exclusive plugins:
+## Lua/Nvim 0.5+ Exclusive plugins(Can be 0.7+ too):
 
 - Collection of neovim plugins: https://nvim-awesome.vercel.app/
 - https://github.com/p00f/nvim-ts-rainbow
@@ -422,7 +431,6 @@
 - https://github.com/phaazon/hop.nvim
 - https://github.com/folke/lsp-trouble.nvim
 - https://github.com/folke/lsp-colors.nvim
-- https://github.com/sindrets/diffview.nvim
 - https://github.com/glepnir/dashboard-nvim
 - https://github.com/nvim-treesitter/nvim-treesitter-refactor
 - https://github.com/mhartington/nvim-typescript
@@ -493,23 +501,31 @@
 - https://github.com/psliwka/termcolors.nvim
 - https://github.com/elihunter173/dirbuf.nvim
 - https://github.com/nvim-lsp/try.nvim
-- https://github.com/sindrets/diffview.nvim
-
-## -- $$ -- :
-
 - https://github.com/antoinemadec/FixCursorHold.nvim
 - https://github.com/tamago324/nlsp-settings.nvim
-- https://github.com/Pocco81/DAPInstall.nvim
 - https://github.com/nvim-telescope/telescope-hop.nvim
 - https://github.com/Murtaza-Udaipurwala/gruvqueen
 - https://github.com/norcalli/nvim-colorizer.lua
 - https://github.com/winston0410/commented.nvim
-- https://reposhub.com/linux/system-utilities/luukvbaal-stabilize-nvim.html
 - https://github.com/rcarriga/nvim-notify
-- https://github.com/ruifm/gitlinker.nvim
-- https://github.com/tpope/vim-rhubarb
 - https://github.com/rcarriga/vim-ultest
+- An extensible framework for interacting with tests within NeoVim: https://github.com/nvim-neotest/neotest
 - https://github.com/gelguy/wilder.nvim
+- A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.: https://github.com/Junnplus/nvim-lsp-setup
+- Neovim plugin to improve the default vim.ui interfaces: https://github.com/stevearc/dressing.nvim
+- A neovim lua plugin to help easily manage multiple terminal windows: https://github.com/akinsho/toggleterm.nvim
+
+## -- $$ -- :
+
+- https://github.com/Pocco81/DAPInstall.nvim
+- https://reposhub.com/linux/system-utilities/luukvbaal-stabilize-nvim.html
+- https://github.com/ruifm/gitlinker.nvim
+- https://github.com/jose-elias-alvarez/typescript.nvim
+- https://github.com/tpope/vim-rhubarb
+- https://github.com/rafamadriz/friendly-snippets
+- Watch environment variables with telescope: https://github.com/LinArcX/telescope-env.nvim
+- About Telescope extension wrapper around `:changes`: https://github.com/LinArcX/telescope-changes.nvim
+- https://github.com/sindrets/diffview.nvim
 
 ## VimRCs for reference:
 

@@ -37,6 +37,7 @@
 - https://en.wikipedia.org/wiki/Existential_quantification
 - https://en.wikipedia.org/wiki/Refinement_type
 - https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/
+- https://medium.com/leaningtech/fantastic-tail-calls-and-how-to-implement-them-8c6bd52fd271
 
 # Lesser known langs but useful from design perspective:
 

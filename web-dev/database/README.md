@@ -85,6 +85,8 @@
 - Inconsistent thoughts on database consistency: https://www.alexdebrie.com/posts/database-consistency/
 - Things You Should Know About Databases: https://architecturenotes.co/things-you-should-know-about-databases/
 - https://brooker.co.za/blog/2018/02/25/availability-liveness.html
+- http://www.benstopford.com/2015/02/14/log-structured-merge-trees/
+- B-Trees: More Than I Thought I'd Want to Know: https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/
 
 ## Blog Series:
 
@@ -98,6 +100,7 @@
 - How does PostgresSQL actually work: https://www.youtube.com/watch?v=OeKbL55OyL0
 - Scaling mongodb best practices for sharding, indexing and performance: https://youtu.be/ZcAErl9Ir6Q
 - "Turning the database inside out with Apache Samza" by Martin Kleppmann: https://www.youtube.com/watch?v=fU9hR3kiOK0
+- What Every Programmer Has to Know About Database Storage (Alex Petrov): https://www.youtube.com/watch?v=V667vJzDvt4
 
 ## Tutorials:
 

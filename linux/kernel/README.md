@@ -31,6 +31,7 @@
 - Implementing virtual system calls: https://lwn.net/Articles/615809/
 - Linux and ASLR: kernel/randomize_va_space: https://linux-audit.com/linux-aslr-and-kernelrandomize_va_space-setting/
 - A security fix briefly breaks DMA: https://lwn.net/Articles/889593/
+- Writing a kernel driver in rust: https://medium.com/@not-matthias/writing-a-kernel-driver-with-rust-deba1ebef368
 
 ## Dev:
 
