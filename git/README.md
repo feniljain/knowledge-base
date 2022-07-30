@@ -136,6 +136,7 @@
 ## Interesting commands:
 
 - git log --oneline --decorate --graph --all
+- Add changes hunk wise: git add -p
 
 ## Commit type:
 

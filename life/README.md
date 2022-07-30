@@ -318,6 +318,17 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - Strength does not come from winning. Your struggles develop your strengths. - Arnold Schwarzenegger
 - Knowing is not enough, we must apply. Willing is not enough, we must do. - Johann Wolfgang von Goethe
 - The only real mistake is the one from which we learn nothing. - Henry Ford
+- Your capacity to say ‘No’ determines your capacity to say ‘Yes’ to greater things. - E Stanley Jones
+- When something is important enough, you do it even if the odds are not in your favor. - Elon Musk
+- Worrying does not take away tomorrow's troubles, it takes away today's peace.
+- Kindness is the sunshine in which virtue grows.  - Robert Green Ingersoll
+- Being aware of a single shortcoming within yourself is far more useful than being aware of a thousand in someone else. - Dalai Lama
+- The best teachers are those who show you where to look, but don't tell you what to see. - Alexandra K. Trenfor
+- Don't let perfection become procrastination. Do it now. - Danielle LaPorte
+- Deal with the big while it is still small. - Lao Tzu
+- We first make our habits, and then our habits make us. - John Dryden
+- Always do your best. What you plant now, you will harvest later. - Og Mandino
+- there’s no value in wasting time estimating something that you know is going to change, and making long-term plans based on those estimates is foolhardy - Allen Holub
 
 ## Books:
 
@@ -331,3 +342,8 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - The millionare fastlane
 - https://medium.com/mind-cafe/if-you-only-read-a-few-books-in-2020-read-these-1cbac424e4a9
 - https://www.calnewport.com/books/deep-work/
+
+## Knowledge base tools to explore:
+
+- https://tiddlywiki.com/
+- Obisidian

@@ -218,6 +218,7 @@
 - https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi
 - https://stackoverflow.com/questions/655065/when-should-i-use-the-new-keyword-in-c
 - tolower() in bulk at speed: https://dotat.at/@/2022-06-27-tolower-swar.html
+- The different ways to handle errors in C: https://mccue.dev/pages/7-27-22-c-errors
 
 ### Blog series/articles collection:
 
@@ -241,8 +242,8 @@
 
 - https://medium.com/swlh/zig-the-introduction-dcd173a86975
 
-## Kotlin:
+## Carbon:
 
 ### Blogs and articles:
 
-- https://gelopfalcon.medium.com/from-junior-to-master-in-kotlin-1-basic-syntax-7b77e012b47f
+- Carbon’s most exciting feature is its calling convention: https://www.foonathan.net/2022/07/carbon-calling-convention/

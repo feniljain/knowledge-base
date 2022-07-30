@@ -69,11 +69,15 @@
 - https://www.grant.pizza/blog/bpf-concurrency/
 - Introduction to eBPF: https://blog.sofiane.cc/eBPFintroduction/
 - Detecting Kernel Hooking using eBPF: https://blog.tofile.dev/2021/07/07/ebpf-hooks.html
+- Detecting and Capturing Kernel Modules with Tracee and eBPF: https://blog.aquasec.com/linux-security-with-tracee-and-ebpf
+-  How to forward eBPF output to any destination: https://calyptia.com/2022/07/21/using-ebpf-with-fluent-bit-and-tracee/
+- Aya: your tRusty eBPF companion: https://deepfence.io/aya-your-trusty-ebpf-companion/
+- Leveraging eBPF for Runtime Security: https://www.spyderbat.com/all-posts/leveraging-ebpf-for-runtime-security/
 
 ### Tutorials:
 
 - https://coroot.com/blog/building-a-service-map-using-ebpf
-
+- Tracing a packet journey using Linux tracepoints, perf and eBPF: https://blog.yadutaf.fr/2017/07/28/tracing-a-packet-journey-using-linux-tracepoints-perf-ebpf/
 ## Dev:
 
 - BPF kernel dev process, submitting patches and QA: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/bpf/bpf_devel_QA.rst
@@ -143,7 +147,11 @@
 - Credentials Dumper for Linux using eBPF: https://github.com/citronneur/pamspy
 - A Linux eBPF rootkit with a backdoor, C2, library injection, execution hijacking, persistence and stealth capabilities: https://github.com/h3xduck/TripleCross
 - The Good, Bad and Compromisable Aspects of Linux eBPF: https://www.pentera.io/blog/the-good-bad-and-compromisable-aspects-of-linux-ebpf/
-
+- XRP: In-Kernel Storage Functions with eBPF: https://github.com/xrp-project/XRP
+- A highly modular and blazing fast runtime security framework for the IoT, powered by eBPF: https://github.com/Exein-io/pulsar
+- Disable SSL certificate verification for all binaries that use libssl: https://github.com/citronneur/blindssl
+- An eBPF playground: https://github.com/quarkslab/peetch
+- Use this as skeleton for your eBPF golang application: https://github.com/rafaeldtinoco/drafts
 ## Reddit and twitter threads:
 
 - https://www.reddit.com/r/rust/comments/ojzc3z/implementation_of_an_ebpf_memory_profiler_has/

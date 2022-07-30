@@ -55,6 +55,7 @@
 - Rust Is The Future of JavaScript Infrastructure: https://leerob.io/blog/rust
 - https://blog.bitsrc.io/5-express-middleware-libraries-every-developer-should-know-94e2728f7503
 - https://betterprogramming.pub/a-deep-dive-into-weak-memory-management-in-javascript-55ab240a09aa
+- JSON Creator Douglas Crockford Interview: https://evrone.com/douglas-crockford-interview
 
 ### Tutorials:
 
@@ -62,6 +63,7 @@
 - https://dev.to/laurieontech/a-guide-to-eslint-4mj7
 - https://javascript.info/debugging-chrome
 - https://phrase.com/blog/posts/step-step-guide-javascript-localization/
+- Write your own javascript runtime: https://deno.com/blog/roll-your-own-javascript-runtime
 
 ## Libraries and packages and repos:
 

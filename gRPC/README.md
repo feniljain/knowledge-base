@@ -27,6 +27,7 @@
 - https://medium.com/devops-deepdive/load-balancing-for-grpc-8fe2d9b7c262
 - Google’s (gRPC-centric) API Style Guide: https://cloud.google.com/apis/design/resources
 - https://medium.com/@crossoverjie/ptg-a-gui-grpc-client-fcade3bfc902
+- Buf Studio: Interact with gRPC and Protobuf APIs directly from your browser: https://buf.build/blog/buf-studio
 
 ## Repos:
 

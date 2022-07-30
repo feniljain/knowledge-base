@@ -116,6 +116,10 @@
 - https://smallstep.com/blog/if-openssl-were-a-gui/
 - Matrix protocol notes: https://anarc.at/blog/2022-06-17-matrix-notes/
 - https://talawah.io/blog/linux-kernel-vs-dpdk-http-performance-showdown/
+- Meet Gain— the New Fastest Go TCP Framework: https://betterprogramming.pub/gain-the-new-fastest-go-tcp-framework-40ec111d40e6
+- What they don't teach you about sockets (these are network sockets, not websockets): https://macoy.me/blog/programming/Sockets
+- When the window is not fully open, your TCP stack is doing more than you think: https://blog.cloudflare.com/when-the-window-is-not-fully-open-your-tcp-stack-is-doing-more-than-you-think/
+- Thoughts on going down the network stack: https://fasterthanli.me/articles/thoughts-on-going-down-the-network-stack
 
 ## Books:
 
@@ -144,6 +148,7 @@
 - Delicately-TUICed high-performance proxy built on top of the QUIC protocol: https://github.com/EAimTY/tuic
 - A special compilation of curl that makes it impersonate Chrome & Firefox : https://github.com/lwthiker/curl-impersonate
 - Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE: https://github.com/netbootxyz/netboot.xyz
+- Simulating shitty network connections so you can build better systems: https://github.com/tylertreat/comcast
 
 ## Reddit, twitter and HN threads:
 
@@ -174,6 +179,7 @@
 - How DHCP Works // DHCP EXPLAINED(with wireshark): https://www.youtube.com/watch?v=Cy0M54GSpBg
 - Beyond POSIX - Adventures in Alternative Networking APIs: https://www.infoq.com/presentations/posix-networking-api/
 - UDP hole punching: https://www.youtube.com/watch?v=S7Ifw5XsypQ
+- Virtual IP Address: https://www.youtube.com/watch?v=85XY7H2JPbs
 
 ## Container Images:
 

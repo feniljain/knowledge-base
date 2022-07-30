@@ -37,6 +37,7 @@
 - https://devtrium.com/posts/how-to-use-react-usereducer-hook
 - https://javascript.info/debugging-chrome
 - Tailoring site themes based on light and dark mode preferences: https://ryanmulligan.dev/blog/themes-and-schemes/
+- Building tabs in web components: https://darn.es/building-tabs-in-web-components/
 
 ### Others:
 
@@ -188,6 +189,7 @@
 - Paper Prototype CSS: https://edent.gitlab.io/paper-prototype-css/
 - https://www.color-morph.com/
 - HTML templates that shuffle themselves on render: https://dynamowaves.markzebley.com/
+- Curated collection of beautiful premade gradients: https://hypercolor.dev/#gradients
 
 ## Blogs And Articles:
 

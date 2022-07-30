@@ -72,6 +72,7 @@
 - https://hackernoon.com/how-to-automate-kubernetes-deployments-with-postman
 - http://macias.info/entry/202109081800_k8s_informers.md
 - Running webassembly in kubernetes with rust: https://developer.okta.com/blog/2022/01/28/webassembly-on-kubernetes-with-rust
+- The Kubernetes Network Model: https://www.tkng.io/arch/
 
 ## Blog series:
 

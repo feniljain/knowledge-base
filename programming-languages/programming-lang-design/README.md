@@ -11,6 +11,8 @@
 
 # Blogs and articles:
 
+### Others:
+
 - http://mlton.org/ValueRestriction
 - http://mlton.org/DefinitionOfStandardML
 - http://richardartoul.github.io/jekyll/update/2015/04/26/hidden-classes.html
@@ -38,6 +40,12 @@
 - https://en.wikipedia.org/wiki/Refinement_type
 - https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/
 - https://medium.com/leaningtech/fantastic-tail-calls-and-how-to-implement-them-8c6bd52fd271
+- Benefits provided by trailing returns: https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/fang-lu2/2020/03/24/introduction-to-the-c11-feature-trailing-return-types
+
+### Tutorials:
+
+- An accessible introduction to type theory and implementing a type-checker: https://mukulrathi.com/create-your-own-programming-language/intro-to-type-checking/
+- Creating the Bolt Compiler: https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/
 
 # Lesser known langs but useful from design perspective:
 
@@ -50,10 +58,15 @@
 - A fast functional language based on two level type theory: https://github.com/eashanhatti/konna
 - Language development libraries for Rust: https://github.com/Kixiron/rust-langdev#lexers
 - MLton is a whole-program optimizing compiler for the Standard ML programming language: https://github.com/MLton/mlton
+- Pattern matching and exhaustiveness checking algorithms implemented in Rust: https://gitlab.com/yorickpeterse/pattern-matching-in-rust
 
 # Gists:
 
 - Program Analysis Resources: https://gist.github.com/MattPD/00573ee14bf85ccac6bed3c0678ddbef#program-analysis-resources
+
+# Books:
+
+- The Implementation of Functional Programming Languages: https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages/
 
 # Reddit and twitter threads:
 
@@ -81,3 +94,4 @@
 
 - Programming with Effect Handlers and FBIP in Koka: https://www.youtube.com/watch?v=6OFhD_mHtKA
 - Type Theory for the working Rustacean: https://www.youtube.com/watch?v=BdXWlQsd7RI
+- Pure Type Systems: Dependents when you need them:https://www.youtube.com/watch?v=ZGqKsalJi4s

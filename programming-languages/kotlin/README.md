@@ -7,6 +7,7 @@
 - https://dev.to/kotlin/how-to-build-and-publish-a-kotlin-multiplatform-library-creating-your-first-library-1bp8
 - https://kotlinlang.org/docs/multiplatform-publish-lib.html
 - https://www.adsbynimbus.com/tech-blog/kotlin-multiplatform-and-github-actions
+- https://gelopfalcon.medium.com/from-junior-to-master-in-kotlin-1-basic-syntax-7b77e012b47f
 
 ## Repos:
 

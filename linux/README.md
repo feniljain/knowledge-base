@@ -10,7 +10,6 @@
 - Awesome curation of free alternatives to porprietary softwares
 - Everything about curl from daniel himself: https://everything.curl.dev/
 - https://themouseless.dev/
-- Merge pdfs from terminal: https://pdftk.en.softonic.com/
 - Early unix pdp11 emulator: http://pdp11.aiju.de/
 - Unix community forum like users.rust-lang.org: https://community.unix.com/
 - http://www.linuxfromscratch.org/lfs/
@@ -19,7 +18,6 @@
 - https://linuxjourney.com/
 - http://linuxcommand.org/
 - https://linuxsurvival.com/linux-tutorial-introduction/
-- https://help.ubuntu.com/community/UsingTheTerminal
 - https://lym.readthedocs.io/en/latest/
 - https://ryanstutorials.net/linuxtutorial/
 - http://swift.siphos.be/linux_sea/index.html
@@ -39,22 +37,19 @@
 
 ## Blogs and articles:
 
-### Linux tools:
+### Linux:
 
 - https://ostechnix.com/use-pushd-popd-dirs-commands-faster-cli-navigation/
 - https://opensource.com/article/21/2/emoji-linux
-- Differences between terminal, console and shell: https://miguelravila.hashnode.dev/terminalconsoleshell
 - https://stackabuse.com/get-total-size-of-a-directory-in-linux/
 - https://pythonawesome.com/a-windows-task-manager-lookalike-for-linux/
-- Showing image and video content on terminal: https://saitoha.github.io/libsixel/
 - https://blogs.gnome.org/tbernard/2021/03/22/drawing-mockups/
 - https://www.phoronix.com/scan.php?page=news_item&px=Arch-Linux-Does-Archinstall
-- https://betterprogramming.pub/4-linux-monitoring-tools-you-should-use-38a136e68639
+- https://betterprogramming.pub/4-linux-monitoring--you-should-use-38a136e68639
 - Using awk: https://dane-bulat.medium.com/the-awk-programming-language-an-introduction-7035d343cd30
 - https://medium.com/100-days-of-linux/chroot-a-linux-wonder-fc36ed08087e
 - How to use netcat and dd: https://levelup.gitconnected.com/two-overlooked-commands-for-unix-ninjas-55b8bfc4dc84
-- https://levelup.gitconnected.com/navigate-your-unix-shell-history-like-a-boss-5722ef45689f
-- https://medium.com/james-reads-public-cloud-technology-blog/linux-tools-that-i-learned-10-years-ago-which-i-still-use-every-day-9289f952f169
+- https://medium.com/james-reads-public-cloud-technology-blog/linux--that-i-learned-10-years-ago-which-i-still-use-every-day-9289f952f169
 - https://alpha2phi.medium.com/command-line-tools-for-faster-file-system-navigation-fc02c3a3eb0e
 - https://ata.wiki.kernel.org/index.php/ATA_Secure_Erase
 - https://betterprogramming.pub/how-to-use-the-linux-xargs-command-to-create-powerful-pipelines-a5d5d7067703
@@ -64,8 +59,6 @@
 - https://daniel.haxx.se/docs/curl-vs-wget.html
 - 50 ways to isolate traffic using tcpdump command: https://danielmiessler.com/study/tcpdump/
 - https://earthly.dev/blog/command-line-tools/
-- https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal/
-- https://fasterthanli.me/articles/a-terminal-case-of-linux
 - https://earthly.dev/blog/awk-examples/
 - https://towardsdatascience.com/3-tools-to-monitor-and-optimize-your-linux-system-c8a46c18d692
 - https://www.dolthub.com/blog/2021-11-15-zsh-completions-with-subcommands/
@@ -115,7 +108,6 @@
 - https://squidarth.com/networking/systems/rc/2018/05/28/using-raw-sockets.html
 - https://man7.org/linux/man-pages/man7/capabilities.7.html
 - http://www.andy-pearce.com/blog/posts/2013/Mar/file-capabilities-in-linux/
-- https://www.poor.dev/blog/terminal-anatomy/
 - A very good linux kernel modules explanation and exercise: https://www.muppetlabs.com/~breadbox/txt/mopb.html
 - https://hackernoon.com/whats-the-big-deal-with-linux-capabilities
 - https://jvns.ca/blog/2017/06/03/async-io-on-linux--select--poll--and-epoll/
@@ -145,10 +137,9 @@
 - https://medium.com/swlh/dual-boot-arch-linux-and-windows-the-right-way-7f59969f7525
 - https://github.com/AkihiroSuda/lima/tree/master
 - SSH into remote linux using ngrok: https://medium.com/@byteshiva/ssh-into-remote-linux-by-using-ngrok-b8c49b8dc3ca
-- https://alpha2phi.medium.com/ligature-fonts-for-terminal-vs-code-neovim-and-emacs-1187c6987491
 - https://github.blog/2021-06-10-privilege-escalation-polkit-root-on-linux-with-bug/
 - https://ejpcmac.net/blog/about-using-nix-in-my-development-workflow/
-- https://wiki.gnome.org/Projects/GnomeShell/CheatSheet
+- https://wiki.gnome.org/Projects/GnomeSmell/CheatSheet
 - Optimizations for void linux: https://gist.github.com/themagicalmammal/e443d3c5440d566f8206e5b957ab1493
 - How to set benchmarking properly: https://easyperf.net/blog/2019/08/02/Perf-measurement-environment-on-Linux
 - https://www.tag1consulting.com/blog/interview-linus-torvalds-linux-and-git
@@ -162,6 +153,8 @@
 - Setting system wide c++ to llvm: https://stackoverflow.com/a/12843988
 - The Mirage Of Memory: https://dev.to/yugabyte/the-mirage-of-memory-3366
 - Interview Questions: Why can’t you create a file?: https://medium.com/geekculture/interview-questions-why-cant-you-create-a-file-e08f3486a92a
+- A Little Story About the `yes` Unix Command: https://endler.dev/2017/yes
+- Readline VI Editing Mode Cheat Sheet Default Keyboard Shortcuts for Bash: https://catonmat.net/ftp/bash-vi-editing-mode-cheat-sheet.pdf
 
 ## Blog series:
 
@@ -177,33 +170,6 @@
 - The UNIX-HATERS Handbook: https://web.mit.edu/~simsong/www/ugh.pdf
 - Advanced Linux Programming: https://mentorembedded.github.io/advancedlinuxprogramming/alp-folder/advanced-linux-programming.pdf
 
-## Bash and ZSH:
-
-- https://devmount.medium.com/9-evil-bash-commands-explained-709412e92bd7
-- https://betterprogramming.pub/15-essential-linux-command-line-tips-and-tricks-95e2bfa2890f
-- https://opensource.com/article/21/3/input-output-bash
-- https://opensource.com/article/21/3/sed-cheat-sheet
-- 7 bash tutorials to enhance bash skills: https://opensource.com/article/21/1/bash
-- https://dev.to/mauro_codes/linux-terminal-the-ultimate-cheat-sheet-2g5b , https://dev.to/mauro_codes/linux-terminal-the-ultimate-cheat-sheet-part-2-11ge
-- Using cURL: https://www.tecmint.com/linux-curl-command-examples/
-- Using xargs: https://www.tecmint.com/xargs-command-examples/
-- https://www.howtogeek.com/562941/how-to-use-the-awk-command-on-linux/
-- https://towardsdatascience.com/linux-shell-commands-can-be-your-time-saver-eabee76914b
-- ZSH Cheatsheet: https://dev.to/twilio/zsh-tricks-to-blow-your-mind-291f
-- https://betterprogramming.pub/the-most-productive-shell-commands-and-command-line-tricks-ec1415283259
-- https://levelup.gitconnected.com/5-super-handy-linux-commands-that-everyone-should-be-aware-of-a70b08d2c635
-- Nice collection of commands: https://www.ubuntupit.com/best-linux-commands-to-run-in-the-terminal/
-- Bash General-Purpose Yes/No Prompt Function ("ask"): https://gist.github.com/davejamesmiller/1965569
-- Bash scripting resources: https://www.reddit.com/r/linux4noobs/comments/pizkkq/any_good_resources_for_bash_scripting_for_this_new/
-- Color manager for terminal, super easy to use, just run a curl command, it will show a long list of commands and theme is set: https://github.com/Mayccoll/Gogh
-
-## Cheatsheets:
-
-- https://opensource.com/article/21/3/grep-cheat-sheet
-- https://www.avaitla16.com/basics-of-curl
-- https://opensource.com/downloads/sed-cheat-sheet
-- https://www.gnu.org/software/bash/manual/bash.html#index-_0024_003f
-
 ## Repos:
 
 ### Fun tools:
@@ -215,8 +181,6 @@
 - https://gitlab.com/corectrl/corectrl
 - https://github.com/vifm/vifm-colors
 - https://tmate.io/
-- Terminal on browser: https://github.com/skanehira/rtty
-- Managing shell commands: https://github.com/Nukesor/pueue
 - Useful sed scripts & patterns: https://github.com/adrianscheff/useful-sed
 - https://www.reddit.com/r/linux/comments/qzkhy3/virtual_surround_sound_headphone_setup_on_linux/
 - Run macos apps on linux: https://www.darlinghq.org/
@@ -225,6 +189,9 @@
   Topics: https://github.com/ghostlexly/gpu-video-wallpaper
 - Manage multiple runtime versions with a single CLI tool: https://asdf-vm.com/
 - A list of new-ish command line tools(repo collections): https://jvns.ca/blog/2022/04/12/a-list-of-new-ish--command-line-tools/
+- https://github.com/yaxollum/diagonator
+- Collection of decent GRUB Community themes. Contributions welcome!: https://github.com/jacksaur/Gorgeous-GRUB
+- Universal FOSS Cross-Platform Archive Manager: https://github.com/peazip/PeaZip
 
 ### Others:
 
@@ -232,14 +199,12 @@
 - https://github.com/KittyKatt/screenFetch
 - Interactive CLI tool for HTTP inspection: https://github.com/asciimoo/wuzz
 - https://github.com/dvorka/hstr
-- Discord in terminal: https://github.com/atlx/discord-term , https://gitlab.com/diamondburned/6cord
 - https://github.com/frankligy/Linux_HandBook_Bioinformatics
 - https://github.com/iGio90/Dwarf
 - Cheatsheet but uses web scraping completely: https://github.com/Bugswriter/tuxi
 - https://github.com/ohmybash/oh-my-bash
 - https://github.com/unixorn/awesome-zsh-plugins
 - https://github.com/ohmyzsh/ohmyzsh/wiki/Cheatsheet
-- Terminal markdown viewer: https://github.com/d0c-s4vage/lookatme
 - https://github.com/sharkdp/bat
 - The earliest versions of the very first known c compiler: https://github.com/mortdeus/legacy-cc
 - https://github.com/vi/websocat
@@ -250,7 +215,6 @@
 - Create a bootable usb drive with multiple os at same time, it gives a intutive ui to choose between which to boot: https://github.com/ventoy/Ventoy
 - https://github.com/phw/peek
 - https://github.com/akavel/up
-- Terminal image viewer: https://github.com/atanunq/viu
 - General live reload tool: https://github.com/cortesi/modd
 - https://github.com/pbatard/rufus
 - https://github.com/trimstray/test-your-sysadmin-skills
@@ -265,52 +229,6 @@
 - https://github.com/trinib/Awesome-Ubuntu-Setup
 - Fedora/CentOS Stream/Red Hat Enterprise Linux Guide : https://github.com/mikeroyal/Fedora-Guide
 
-## Terminal tools I use:
-
-- lookatme: Terminal markdown renderer in python
-- glow: Terminal markdown renderer in golang
-- vifm: File manager
-- fresh: Go live reload
-- mpsyt
-- tmux
-- bat
-- w3m
-- cht.sh
-- gotop
-- htop
-- spotify-tui
-- wuzz
-- flameshot
-- Terminal audio visualizer: cava
-- tldr
-- cmatrix
-- kondo
-- fd
-- difftastic
-- vgrep
-
-### Rust Dev
-
-- bacon: rust
-- cargo-watch
-- rusty-man
-
-## Terminal tools to checkout:
-
-- Linux client for shazam(written in rust): https://github.com/marin-m/SongRec
-- Terminal recorder: https://github.com/sassman/t-rec-rs
-- Terminal interface for stack overflow: https://github.com/samtay/so
-- Linux kernel manager and activity monitor: https://github.com/orhun/kmon
-- Switch between kubernetes contexts: https://github.com/onatm/kx
-- Minimap generator: https://github.com/wfxr/code-minimap
-- Implementation of tldr in rust: https://github.com/dbrgn/tealdeer
-- Bandwith utilization tool: https://github.com/imsnif/bandwhich
-- Load testing of a web application with a tui: https://github.com/hatoo/oha
-- Run a given command everytime a file is modified: https://github.com/watchexec/watchexec
-- Preview github markdown offline: https://github.com/grapegrip/wool
-- Creating beautiful image of code(exactly like carbon, but offline): https://github.com/Aloxaf/silicon
-- Counting number of lines of each programming language: https://github.com/XAMPPRocky/tokei/
-- A viewer for git and diff output: https://github.com/dandavison/delta
 
 ## Wallpapers collection:
 
@@ -333,6 +251,7 @@
 - Why are app developers porting to Apple Silicon and not to Linux?: https://www.youtube.com/watch?v=TaX5Se8bV90
 - https://www.reddit.com/r/rust/comments/pxz7at/rustlinux_plumbers_conference_2021/
 - Automate ANYTHING on Linux (using xdotool): https://www.youtube.com/watch?v=feLbkm5aV_0
+- Before Main: How Executables Work on Linux: https://www.youtube.com/watch?v=jR2hUhjcAXI
 
 ## Courses:
 
@@ -362,7 +281,7 @@
 - https://www.reddit.com/r/linuxquestions/comments/pz0u47/what_are_some_good_resources_to_learn_about_the/
 - https://www.reddit.com/r/linux4noobs/comments/q496kw/best_sites_to_learn_linux/
 - https://www.reddit.com/r/LLVM/comments/qly49y/how_to_build_a_compiler_with_llvm_and_mlir_12/
-- Alternatives to common windows tools: https://www.reddit.com/r/linux/comments/rqjnvw/i_tried_to_move_entirely_to_linux_supporting/
+- Alternatives to common windows: https://www.reddit.com/r/linux/comments/rqjnvw/i_tried_to_move_entirely_to_linux_supporting/
 - Collection of free software for linux: https://www.reddit.com/r/linux/comments/s6ieb1/update_after_reading_600_of_your_comments_here_is/
 - Linux kernel development trick: https://twitter.com/vegard_no/status/1483378883017814017
 

@@ -67,6 +67,7 @@
 - How to do Linux Kernel Development: https://www.kernel.org/doc/html/latest/process/howto.html#
 - Getting started with linux kernel development: https://gist.github.com/vegard/22200a9f91af138a99ae22a9b814a9a4
 - Creating app pasword for continuing the use of `git send-email`: https://support.google.com/mail/answer/185833
+- Coding Style PPT by Greg: http://www.kroah.com/linux/talks/ols_2002_kernel_codingstyle_talk/html/index.html
 
 ## Blog series/Article collection:
 

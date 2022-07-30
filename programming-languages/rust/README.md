@@ -293,6 +293,7 @@
 - Stacked Futures and why they are impossible: https://conradludgate.com/posts/async-stack
 - https://smallcultfollowing.com/babysteps/blog/2022/06/15/what-it-feels-like-when-rust-saves-your-bacon/
 - Nice read on internal boundaries from a compiler perspective: https://matklad.github.io/2022/07/10/almost-rules.html
+- Patterns with Rust types: https://www.shuttle.rs/blog/2022/07/28/patterns-with-rust-types
 
 ### Others:
 
@@ -507,6 +508,7 @@
 - Funktional generic type-level programming in Rust: HList, Coproduct, Generic, LabelledGeneric, Validated, Monoid and friends: https://github.com/lloydmeta/frunk
 - A list of rust lang mentors tagged by topics of interest: https://github.com/RustBeginners/awesome-rust-mentors
 - The blazing fast build tool for Rust: https://github.com/dimensionhq/fleet
+- List size of types in a Rust crate: https://github.com/davidrusu/cargo-typesize
 
 ## Videos:
 
@@ -544,6 +546,7 @@
 - Rust Macros: https://www.youtube.com/watch?v=LYIn_Ewpq-E
 - Crust of Rust: Send, Sync, and their implementors: https://www.youtube.com/watch?v=yOezcP-XaIw
 - Constant fun (const fn) with Rust: https://www.youtube.com/watch?v=Vw8BFScm0K0
+- Is It Time to Rewrite the Operating System in Rust?: https://www.youtube.com/watch?v=HgtRAbE1nBM
 
 ## Newsletters:
 
@@ -735,6 +738,7 @@
 - Startups working in #rustlang: https://twitter.com/carllerche/status/1526683941180018688
 - https://www.reddit.com/r/WebRTC/comments/v6net1/so_what_is_a_webrtc_ip_leak_test/
 - Nuggets about each and every (strict) Rust keyword [Twitter thread]: https://www.reddit.com/r/rust/comments/vicx4r/nuggets_about_each_and_every_strict_rust_keyword/
+- Why Rust is named "Rust": https://www.reddit.com/r/rust/comments/27jvdt/internet_archaeology_the_definitive_endall_source/
 
 ## Rust Learning:
 

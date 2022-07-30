@@ -101,6 +101,8 @@
 - Understanding WebRTC Security Architecture: https://www.techtarget.com/searchunifiedcommunications/tip/Understanding-WebRTC-security-architecture
 - Cascading publishers across VideoRoom instances: https://www.meetecho.com/blog/sfu-cascading/
 - The WebRTC Architecture Landscape is Changing: https://webrtc.ventures/2022/04/webrtc-architecture-landscape/
+- Film grain synthesis in AV1: https://norkin.org/research/film_grain/index.html
+- SVT-AV1: open-source AV1 encoder and decoder: https://netflixtechblog.com/svt-av1-an-open-source-av1-encoder-and-decoder-ad295d9b5ca2
 
 ### Tutorials:
 
@@ -149,6 +151,8 @@
 - A holistic way of understanding how WebRTC and its protocols run in practice, with code and detailed documentation: https://github.com/adalkiran/webrtc-nuts-and-bolts
 - SFU to SFU is a PoC to demonstrate how to build a distributed SFU Agnostic conferencing system: https://github.com/Sean-Der/sfu-to-sfu
 - https://github.com/hetelek/webrtc-tester
+- WebRTC based Scalable, High Performance, Open source web conferencing system using Livekit: https://github.com/mynaparrot/plugNmeet-server
+- Custom elements for working with media in the browser that Just Work: https://github.com/muxinc/elements/
 
 ## Useful SO questions:
 

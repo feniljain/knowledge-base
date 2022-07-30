@@ -93,6 +93,7 @@
 - https://slack.engineering/how-we-design-our-apis-at-slack/
 - CDNs in detail: https://web.dev/content-delivery-networks/
 - https://engineering.mixpanel.com/resharding-petabytes-of-data-to-improve-performance-for-our-largest-customers-1a3be4637778
+- Avoid N+1 Problem In Graphql Federation With GO (Part 2): https://medium.com/@louisaldorio/avoid-n-1-problem-in-graphql-federation-with-go-part-2-891b200292d9
 
 ## Blog series/Articles collection:
 

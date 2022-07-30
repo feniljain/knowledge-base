@@ -47,6 +47,7 @@
 - Introduction to LuaSnip: https://www.youtube.com/watch?v=Dn800rlPIho
 - setting up C++ LSP (clangd) in neovim - native lsp: https://www.youtube.com/watch?v=BCuyEdDQ5iA
 - Neovim from scratch: https://www.youtube.com/playlist?list=PLhoH5vyxr6Qq41NFL4GvhFp-WLd5xzIzZ
+- Automatically Execute Anything in Neovim: https://www.youtube.com/watch?v=9gUatBHuXE0
 
 ## Blogs, Articles and threads:
 
@@ -125,10 +126,14 @@
 - https://dev.to/iggredible/vimgrep-tips-and-tricks-54pl
 - Configuring Neovim’s LSP client for TypeScript development: https://jose-elias-alvarez.medium.com/configuring-neovims-lsp-client-for-typescript-development-5789d58ea9c
 - Neovim LSP CodeLens for Rust: https://alpha2phi.medium.com/neovim-lsp-codelens-for-rust-44f6df52ead9
+- Understanding list chars: https://medium.com/usevim/understanding-listchars-acb9e5a90854
+- Running command line tasks in Neovim: https://www.jackfranklin.co.uk/blog/executing-tasks-in-neovim/
+- Pasting Into Command-line Mode: https://medium.com/usevim/vim-101-pasting-into-command-line-mode-db5946a1e8a7
 
 ## VimTricks:
 
 - https://vimtricks.com/p/open-splits-more-naturally/
+- Display hidden characters: https://vimtricks.com/p/display-hidden-characters/
 
 ## Blog series:
 
@@ -178,6 +183,7 @@
 - How to setup eslint to format on save with neovim: https://www.reddit.com/r/neovim/comments/ultmx0/how_to_setup_eslint_to_format_on_save_with_nvims/
 - How can I display 'lsp loading...' in my statusline when a language server is loading?
 : https://www.reddit.com/r/neovim/comments/uy3lnh/how_can_i_display_lsp_loading_in_my_statusline/
+- https://twitter.com/VImTipsDaily/status/1548600967775621122
 
 ## Vimscript:
 
@@ -419,6 +425,7 @@
 - https://github.com/github/copilot.vim
 - Plugins to draw diagarms easily in vim: https://github.com/willchao612/vim-diagon
 - Delete buffers (close files) without closing your windows or messing up your layout: https://github.com/moll/vim-bbye
+- Live Server for hot reloading html/css, etc. for vim/neovim: https://github.com/manzeloth/live-server
 
 ## Lua/Nvim 0.5+ Exclusive plugins(Can be 0.7+ too):
 
@@ -526,6 +533,8 @@
 - Watch environment variables with telescope: https://github.com/LinArcX/telescope-env.nvim
 - About Telescope extension wrapper around `:changes`: https://github.com/LinArcX/telescope-changes.nvim
 - https://github.com/sindrets/diffview.nvim
+- https://github.com/Maan2003/lsp_lines.nvim, check due to this: https://www.reddit.com/r/neovim/comments/w5h9tl/lsp_linesnvim_v2_is_out/
+- https://github.com/williamboman/mason.nvim
 
 ## VimRCs for reference:
 

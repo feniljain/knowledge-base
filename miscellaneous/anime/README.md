@@ -310,6 +310,7 @@
 - https://anichart.net/
 - High-Quality 10-bit Anime Encodes: https://hi10anime.com/
 - Up to 1080p DDL links, mostly Google Drive: https://animekaizoku.com
+- https://simplyaweeb.to/
 
 ## Completed(I started maintaining this list very late may not have a lot of anime I have watched):
 

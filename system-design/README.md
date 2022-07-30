@@ -96,6 +96,7 @@
 - https://heyvivek.medium.com/mechanics-of-consistent-hashing-a1eeb335ecea
 - https://mecha-mind.medium.com/system-design-google-maps-c9dddca72df5
 - https://rahulsahay19.medium.com/hotstar-like-video-ingestion-f1824772b5a1
+- An Overview of Distributed Caching: https://learncsdesign.medium.com/an-overview-of-distributed-caching-e426781d1ff0
 
 ## Repos:
 

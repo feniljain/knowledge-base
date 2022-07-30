@@ -55,6 +55,7 @@
 - Your how-not-to guide for developing software: https://thedailywtf.com/
 - How Developers Stop Learning: Rise of the Expert Beginner: https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
 - How Software Groups Rot: Legacy of the Expert Beginner: https://daedtech.com/how-software-groups-rot-legacy-of-the-expert-beginner/
+- Epigrams on Programming: http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html
 
 ## Blogs and Articles:
 
@@ -164,7 +165,6 @@
 - https://viralinstruction.com/posts/defense/
 - https://dev.to/jameesy/how-to-get-out-of-tutorial-hell-be-more-like-tony-hawk-1md8
 - https://jvns.ca/blog/brag-documents/
-- How to Write 3v1L, Untestable Code: https://testing.googleblog.com/2008/07/how-to-write-3v1l-untestable-code.html
 - https://blog.pragmaticengineer.com/becoming-a-better-writer-in-tech/
 - How to review code as a junior developer: https://medium.com/pinterest-engineering/how-to-review-code-as-a-junior-developer-10ffb7846958
 - https://learn.samjulien.com/getting-started-in-developer-relations
@@ -182,6 +182,7 @@
 - https://leerob.io/blog/developer-experience-examples
 - Long Live Software Easter Eggs!: https://queue.acm.org/detail.cfm?id=3534857
 - The Grug Brained Developer. A layman's guide to thinking like the self-aware smol brained: https://grugbrain.dev/
+- How to Make Your Code Reviewer Fall in Love with You: https://mtlynch.io/code-review-love/
 
 ### Tutorials:
 
@@ -303,6 +304,7 @@
 - A Collection of GitHub Profiles with awesome readme: https://github.com/coderjojo/creative-profile-readme
 - For when people get too hyped up about things: https://github.com/hwayne/awesome-cold-showers
 - Jargon from the functional programming world in simple terms: https://github.com/hemanth/functional-programming-jargon
+- https://github.com/jorgef/engineeringladders
 
 ## Extensions:
 
