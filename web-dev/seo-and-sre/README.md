@@ -37,6 +37,7 @@
 - https://learnk8s.io/kubernetes-network-packets
 - SLA, SLO, SLI — A Primer: https://sherinthomas.medium.com/sla-slo-sli-a-primer-4f3d0f5dae9c
 - https://blog.relyabilit.ie/what-sre-could-be/
+- https://www.infoq.com/articles/scalable-SRE-standardization-feedback/
 
 ## Repos:
 

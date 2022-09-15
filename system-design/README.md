@@ -97,6 +97,10 @@
 - https://mecha-mind.medium.com/system-design-google-maps-c9dddca72df5
 - https://rahulsahay19.medium.com/hotstar-like-video-ingestion-f1824772b5a1
 - An Overview of Distributed Caching: https://learncsdesign.medium.com/an-overview-of-distributed-caching-e426781d1ff0
+- Algorithms you should know before you take system design interviews: https://blog.bytebytego.com/p/algorithms-you-should-know-before
+- Four Strategies to Handle Backpressure: https://www.infoq.com/news/2019/10/reactiveconf-2019-backpressure/
+- Design Patterns and Principles That Support Large Scale Systems: https://medium.com/everything-full-stack/design-patterns-and-principles-that-support-large-scale-systems-f3c9adf89ad
+- Computing Live stream viewers count in real time at High Scale: https://engg.glance.com/computing-live-stream-viewers-count-in-real-time-at-high-scale-ef813bc1b9cb
 
 ## Repos:
 
@@ -104,6 +108,7 @@
 - https://github.com/mehdihadeli/awesome-software-architecture
 - https://github.com/mhadidg/software-architecture-books
 - https://github.com/tobiashochguertel/c4-draw.io
+-  A curated list of software and architecture related design patterns: https://github.com/DovAmir/awesome-design-patterns
 
 ## Blog series:
 
@@ -124,3 +129,4 @@
 - Scaling Facebook Live Videos to a Billion Users: https://www.youtube.com/watch?v=IO4teCbHvZw
 - How TikTok short content is delivered through HTTP: https://www.youtube.com/watch?v=2df8PMfajDQ
 - Caching is Hard: https://www.youtube.com/watch?v=jIA7z1gxuc8
+- Consistent Hashing: https://www.youtube.com/watch?v=p6wwj0ozifw

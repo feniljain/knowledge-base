@@ -1,0 +1,200 @@
+<h2 align="center">Plugins</h2>
+
+## Vimscript Plugins:
+
+- https://github.com/glacambre/firenvim
+- https://github.com/tree-sitter/tree-sitter
+- https://github.com/alexaandru/nvim-lspupdate
+- https://github.com/andrmuel/vim-curl
+- https://github.com/diepm/vim-rest-console
+- https://github.com/alexaandru/nvim-lspupdate
+- https://github.com/kkoomen/vim-doge
+- https://github.com/skywind3000/asyncrun.extra
+- https://github.com/kosayoda/nvim-lightbulb
+- Merge branches and tags with fzf: https://github.com/stsewd/fzf-checkout.vim
+- https://github.com/vimwiki/vimwiki
+- https://github.com/ap/vim-buftabline
+- https://github.com/mhinz/vim-signify
+- VSCode like pictograms with lsp: https://github.com/onsails/lspkind-nvim
+- https://github.com/glepnir/galaxyline.nvim
+- https://github.com/chrisbra/Colorizer
+- https://github.com/vifm/vifm-colors
+- https://philo.top/2021/02/14/golangvimdev/
+- Universal code formatter: https://github.com/google/vim-codefmt
+- Colorscheme for vim: https://github.com/srcery-colors
+- https://github.com/rcarriga/vim-ultest
+- Language packs for a lot of common formats: https://github.com/sheerun/vim-polyglot(Good collection)
+- Distraction free writing in vim: https://github.com/junegunn/goyo.vim
+- https://github.com/glepnir/spaceline.vim
+- https://github.com/ghifarit53/tokyonight-vim
+- https://github.com/ruanyl/vim-gh-line
+- https://github.com/JoosepAlviste/nvim-ts-context-commentstring
+- https://github.com/beauwilliams/statusline.lua
+- https://github.com/romgrk/barbar.nvim
+- https://github.com/lervag/vimtex
+- https://github.com/martini97/project-config.nvim
+- Bringing native unix commands to vim commands, like :Unlink, Chmod +x: https://github.com/tpope/vim-eunuch
+- https://github.com/editorconfig/editorconfig-vim
+- https://www.reddit.com/r/neovim/comments/mhy2p8/nlspsettings_a_plugin_for_setting_neovim_lsp_with/
+- https://github.com/DougBeney/vim-reddit
+- https://github.com/twitvim/twitvim
+- https://github.com/vim-test/vim-test
+- Plug 'josa42/vim-lightline-coc'
+- https://github.com/chrisbra/csv.vim
+- https://github.com/tpope/vim-capslock
+- https://github.com/tpope/vim-dadbod
+- https://github.com/lambdalisue/suda.vim
+- https://github.com/mg979/vim-visual-multi
+- https://github.com/simnalamburt/vim-mundo
+- https://github.com/tpope/vim-obsession
+- https://github.com/airblade/vim-rooter
+- https://github.com/junegunn/vim-easy-align
+- https://github.com/cometsong/CommentFrame.vim
+- https://github.com/sebdah/vim-delve
+- https://github.com/jupyter-vim/jupyter-vim
+- Measuring startup times of various aspects of vim: https://github.com/tweekmonster/startuptime.vim
+- https://github.com/preservim/nerdcommenter
+- https://github.com/tiagofumo/vim-nerdtree-syntax-highlight
+- https://github.com/brooth/far.vim
+- An automatic configuration program for vim: https://github.com/chxuan/vimplus
+- Audio visualizer in vim: https://github.com/been-jamming/Visterm
+- Making presentations in vim: https://github.com/sotte/presenting.vim
+- Folding support for various languages: https://github.com/Konfekt/FastFold
+- https://github.com/gelguy/wilder.nvim
+- https://awesomeopensource.com/project/wellle/context.vim
+- https://github.com/axlebedev/footprints
+- https://github.com/metakirby5/codi.vim
+- https://github.com/wakatime/vim-wakatime
+- https://github.com/t9md/vim-choosewin
+- https://github.com/alvan/vim-closetag
+- https://github.com/junegunn/vim-slash/blob/master/README.md
+- https://github.com/github/copilot.vim
+- Plugins to draw diagarms easily in vim: https://github.com/willchao612/vim-diagon
+- Delete buffers (close files) without closing your windows or messing up your layout: https://github.com/moll/vim-bbye
+- Live Server for hot reloading html/css, etc. for vim/neovim: https://github.com/manzeloth/live-server
+
+## Lua/Nvim 0.5+ Exclusive plugins(Can be 0.7+ too):
+
+- Collection of neovim plugins: https://nvim-awesome.vercel.app/
+- https://github.com/p00f/nvim-ts-rainbow
+- https://github.com/kyazdani42/nvim-tree.lua
+- https://github.com/nvim-telescope/telescope-arecibo.nvim
+- https://github.com/lewis6991/gitsigns.nvim
+- https://github.com/b3nj5m1n/kommentary
+- https://github.com/phaazon/hop.nvim
+- https://github.com/folke/lsp-trouble.nvim
+- https://github.com/folke/lsp-colors.nvim
+- https://github.com/glepnir/dashboard-nvim
+- https://github.com/nvim-treesitter/nvim-treesitter-refactor
+- https://github.com/mhartington/nvim-typescript
+- https://github.com/wbthomason/packer.nvim
+- https://github.com/romgrk/barbar.nvim
+- https://github.com/mfussenegger/nvim-dap
+- https://github.com/phaazon/hop.nvim
+- https://github.com/lewis6991/spellsitter.nvim
+- https://github.com/jose-elias-alvarez/nvim-lsp-ts-utils
+- https://github.com/Vhyrro/neorg
+- Must needed for flutter dev: https://github.com/akinsho/flutter-tools.nvim
+- https://github.com/TimUntersberger/neogit
+- https://github.com/pwntester/octo.nvim
+- https://github.com/svermeulen/vimpeccable
+- https://github.com/RRethy/nvim-treesitter-textsubjects
+- Blazing fast finder for neovim: https://github.com/camspiers/snap
+- https://github.com/kevinhwang91/nvim-hlslens
+- https://github.com/ggandor/lightspeed.nvim
+- https://github.com/karb94/neoscroll.nvim
+- https://github.com/kristijanhusak/orgmode.nvim
+- https://github.com/camgraff/telescope-tmux.nvim
+- https://github.com/Pocco81/AutoSave.nvim
+- https://github.com/AckslD/nvim-anywise-reg.lua
+- https://github.com/nvim-lua/lsp_extensions.nvim
+- https://github.com/nikvdp/neomux
+- https://github.com/NTBBloodbath/color-converter.nvim
+- Neovim http client written in lua: https://github.com/NTBBloodbath/rest.nvim
+- https://github.com/abecodes/tabout.nvim
+- https://github.com/nvim-telescope/telescope-github.nvim
+- https://github.com/xiyaowong/telescope-emoji.nvim
+- https://github.com/henriquehbr/nvim-startup.lua
+- https://github.com/romgrk/nvim-treesitter-context
+- https://github.com/lewis6991/spellsitter.nvim
+- https://github.com/tami5/sql.nvim
+- https://awesomeopensource.com/project/hkupty/nvimux
+- https://github.com/ray-x/navigator.lua
+- https://awesomeopensource.com/project/ojroques/nvim-lspfuzzy
+- https://awesomeopensource.com/project/folke/twilight.nvim
+- https://github.com/jbyuki/instant.nvim
+- https://github.com/onsails/vimway-lsp-diag.nvim
+- https://github.com/blackCauldron7/surround.nvim
+- https://github.com/kristijanhusak/orgmode.nvim
+- https://github.com/code-biscuits/nvim-biscuits
+- https://github.com/yamatsum/nvim-nonicons
+- https://github.com/edluffy/specs.nvim
+- https://github.com/Pocco81/HighStr.nvim
+- https://github.com/rcarriga/vim-ultest
+- https://github.com/jamestthompson3/nvim-remote-containers
+- Convert vscode themes into neovim colorschemes: https://github.com/arcticlimer/djanho
+- https://github.com/nvim-telescope/telescope-frecency.nvim
+- https://github.com/GustavoKatel/sidebar.nvim
+- https://github.com/sindrets/winshift.nvim
+- https://github.com/weilbith/nvim-code-action-menu
+- https://github.com/windwp/windline.nvim
+- Plugin that helps managing crates.io dependencies: https://github.com/Saecki/crates.nvim
+- https://github.com/vuki656/package-info.nvim
+- https://github.com/danymat/neogen
+- Autoclosing and renaming html tags using treesitter: https://github.com/windwp/nvim-ts-autotag
+- Previewing swagger in real time like livemarkdown: https://github.com/shuntaka9576/preview-swagger.nvim
+- Plugin that creates missing folders on save: https://github.com/jghauser/mkdir.nvim
+- https://github.com/Xuyuanp/scrollbar.nvim
+- https://github.com/hkupty/nvimux
+- https://github.com/windwp/nvim-projectconfig
+- https://github.com/tanvirtin/vgit.nvim
+- Debug adapter for neovim plugins: https://github.com/jbyuki/one-small-step-for-vimkind
+- https://github.com/AyeSpacey/Nvimfy
+- https://github.com/SmiteshP/nvim-gps
+- https://github.com/psliwka/termcolors.nvim
+- https://github.com/elihunter173/dirbuf.nvim
+- https://github.com/nvim-lsp/try.nvim
+- https://github.com/antoinemadec/FixCursorHold.nvim
+- https://github.com/tamago324/nlsp-settings.nvim
+- https://github.com/nvim-telescope/telescope-hop.nvim
+- https://github.com/Murtaza-Udaipurwala/gruvqueen
+- https://github.com/norcalli/nvim-colorizer.lua
+- https://github.com/winston0410/commented.nvim
+- https://github.com/rcarriga/nvim-notify
+- https://github.com/rcarriga/vim-ultest
+- An extensible framework for interacting with tests within NeoVim: https://github.com/nvim-neotest/neotest
+- https://github.com/gelguy/wilder.nvim
+- A simple wrapper for nvim-lspconfig and nvim-lsp-installer to easily setup LSP servers.: https://github.com/Junnplus/nvim-lsp-setup
+- Neovim plugin to improve the default vim.ui interfaces: https://github.com/stevearc/dressing.nvim
+- A neovim lua plugin to help easily manage multiple terminal windows: https://github.com/akinsho/toggleterm.nvim
+- A starting point to setup some lsp related features in neovim: https://github.com/VonHeikemen/lsp-zero.nvim
+- Docker management right inside Neovim!: https://github.com/dgrbrady/nvim-docker
+- Google docs integration for vim/neovim: https://github.com/aadv1k/gdoc.vim
+
+## Some plugins/things I wanna checkout:
+
+- https://github.com/Pocco81/DAPInstall.nvim
+- https://reposhub.com/linux/system-utilities/luukvbaal-stabilize-nvim.html
+- https://github.com/ruifm/gitlinker.nvim
+- https://github.com/jose-elias-alvarez/typescript.nvim
+- https://github.com/tpope/vim-rhubarb
+- https://github.com/rafamadriz/friendly-snippets
+- Watch environment variables with telescope: https://github.com/LinArcX/telescope-env.nvim
+- About Telescope extension wrapper around `:changes`: https://github.com/LinArcX/telescope-changes.nvim
+- https://github.com/sindrets/diffview.nvim ( This now has completely vscode type merge tools, check here: https://www.reddit.com/r/neovim/comments/x7iw4m/update_diffviewnvim_now_has_a_merge_tool/ )
+- https://github.com/Maan2003/lsp_lines.nvim, check due to this: https://www.reddit.com/r/neovim/comments/w5h9tl/lsp_linesnvim_v2_is_out/
+- https://github.com/williamboman/mason.nvim
+- A Neovim plugin to copy text through SSH with OSC52: https://github.com/ojroques/nvim-osc52
+- Neovim plugin to automatic change normal string to template string in JS like languages: https://github.com/axelvc/template-string.nvim
+- Pomodoro for neovim: https://github.com/dbinagi/nomodoro
+- Better comments helps you to organize your comments with highlights and virtual text: https://github.com/Djancyp/better-comments.nvim
+- Vscode type themes/colorschemes/syntax highlighting: https://github.com/icedman/nvim-textmate
+- Image Viewer as ASCII Art: https://github.com/samodostal/image.nvim
+- https://github.com/gaoDean/autolist.nvim
+- https://github.com/Djancyp/better-comments.nvim
+- SpellSitter natively in neovim: https://www.reddit.com/r/neovim/comments/x7k7r7/spellsitter_merged_to_neovim_core/
+- https://github.com/ptethng/telescope-makefile
+- Start using default lua/viml and C treesitter parsers:  https://this-week-in-neovim.org/2022/Sep/12
+- https://github.com/David-Kunz/markid
+- Isn't this available by default in new version now?: https://github.com/smjonas/inc-rename.nvim
+- https://github.com/lewis6991/gitsigns.nvim *( recommended too much here: https://www.reddit.com/r/neovim/comments/xd57hd/diffviewnvim_vs_fugitive/ )

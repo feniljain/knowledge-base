@@ -15,6 +15,8 @@
 - https://haydenjames.io/the-two-generals-problem/
 - https://www.alexdebrie.com/posts/database-consistency/
 - Let’s take a crack at understanding distributed consensus: https://www.preethikasireddy.com/post/lets-take-a-crack-at-understanding-distributed-consensus
+- Fixed Partitions: https://martinfowler.com/articles/patterns-of-distributed-systems/fixed-partitions.html
+- Emergent Leader: https://martinfowler.com/articles/patterns-of-distributed-systems/emergent-leader.html
 
 ## Videos:
 
@@ -24,3 +26,7 @@
 ## Newsletters:
 
 - http://distributedsystems.substack.com/
+
+## Repos:
+
+- Circuit breaker library: https://github.com/Netflix/Hystrix

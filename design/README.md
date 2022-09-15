@@ -40,6 +40,7 @@
 - https://discord.com/blog/building-open-source-design-tools-to-improve-discords-design-workflow
 - https://pimpmytype.com/wordle/
 - https://uxplanet.org/how-to-improve-your-ui-skills-quickly-8a14631c1dfa
+- Learn the logic of great typography: https://www.learnui.design/tools/typography-tutorial.html
 
 ## Blog series/article collection:
 
@@ -48,6 +49,7 @@
 ## Repos:
 
 - https://github.com/bradtraversy/design-resources-for-developers/
+- https://github.com/goabstract/Awesome-Design-Tools
 
 ## Tools:
 

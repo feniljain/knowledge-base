@@ -32,6 +32,7 @@
 - Linux and ASLR: kernel/randomize_va_space: https://linux-audit.com/linux-aslr-and-kernelrandomize_va_space-setting/
 - A security fix briefly breaks DMA: https://lwn.net/Articles/889593/
 - Writing a kernel driver in rust: https://medium.com/@not-matthias/writing-a-kernel-driver-with-rust-deba1ebef368
+- Writing a kernel driver in rust: https://not-matthias.github.io/posts/kernel-driver-with-rust-2022/
 
 ## Dev:
 
@@ -91,3 +92,4 @@
 
 - Linux Kernel in a nutshell: http://index-of.es/z0ro-Repository-2/Operating-Systems/Linux/O%27Reilly%20Linux%20Kernel%20in%20a%20Nutshell.pdf
 - Linux Device Drivers: https://www.xml.com/ldd/chapter/book/ch16.html
+- The Linux Kernel Module Programming Guide: https://sysprog21.github.io/lkmpg/

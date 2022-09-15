@@ -46,6 +46,7 @@
 - https://blog.devgenius.io/part-1-memory-management-in-wasm-52195f9b707f
 - Difference between Java bytecode and WASM bytecode: https://www.quora.com/How-does-Java-bytecode-compare-to-WASM-code
 - https://www.tweag.io/blog/2022-03-17-libffi-wasm32/
+- just-in-time code generation within webassembly: https://wingolog.org/archives/2022/08/18/just-in-time-code-generation-within-webassembly
 
 # Books:
 

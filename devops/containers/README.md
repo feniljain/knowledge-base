@@ -42,6 +42,7 @@
 - https://medium.com/@sproulelucas13/how-you-should-think-about-docker-containers-if-you-understand-linux-70587eb00fa5
 - https://blog.aquasec.com/a-brief-history-of-containers-from-1970s-chroot-to-docker-2016
 - Bringing Seccomp Notify to Runc and Kubernetes: https://kinvolk.io/blog/2022/03/bringing-seccomp-notify-to-runc-and-kubernetes/
+- What's Inside Of a Distroless Image - Taking a Deeper Look: https://iximiuz.com/en/posts/containers-distroless-images/
 
 ## Interesting Images:
 
@@ -56,6 +57,10 @@
 ## Blog Series:
 
 - https://iximiuz.com/en/
+
+## Videos:
+
+- Docker networking: https://www.youtube.com/watch?v=bKFMS5C4CG0
 
 ## Tools and repos:
 

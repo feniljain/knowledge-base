@@ -9,6 +9,8 @@
 - https://vbpf.github.io/
 - https://bpfdeploy.io/
 - https://foniod.org/
+- https://www.kernel.org/doc/html/latest/bpf/
+- https://prototype-kernel.readthedocs.io/en/latest/bpf/index.html
 
 ## Blogs and articles:
 
@@ -70,14 +72,22 @@
 - Introduction to eBPF: https://blog.sofiane.cc/eBPFintroduction/
 - Detecting Kernel Hooking using eBPF: https://blog.tofile.dev/2021/07/07/ebpf-hooks.html
 - Detecting and Capturing Kernel Modules with Tracee and eBPF: https://blog.aquasec.com/linux-security-with-tracee-and-ebpf
--  How to forward eBPF output to any destination: https://calyptia.com/2022/07/21/using-ebpf-with-fluent-bit-and-tracee/
+- How to forward eBPF output to any destination: https://calyptia.com/2022/07/21/using-ebpf-with-fluent-bit-and-tracee/
 - Aya: your tRusty eBPF companion: https://deepfence.io/aya-your-trusty-ebpf-companion/
 - Leveraging eBPF for Runtime Security: https://www.spyderbat.com/all-posts/leveraging-ebpf-for-runtime-security/
+- https://www.graplsecurity.com/post/kernel-pwning-with-ebpf-a-love-story
+- Resiliency Superpowers with eBPF: https://qconlondon.com/london2022/presentation/resiliency-superpowers-with-ebpf
+- BTFGen: One Step Closer to Truly Portable eBPF Programs: https://kinvolk.io/blog/2022/03/btfgen-one-step-closer-to-truly-portable-ebpf-programs/
+- How the Hive Came to Bee: A Technical Deep Dive of eBPF: https://isovalent.com/how-the-hive-came-to-bee-ebpf-a-technical-deep-dive-webinar/
+- Long-lived kernel pointers in BPF: https://www.bytelab.codes/long-lived-kernel-pointers-in-bpf/
 
 ### Tutorials:
 
 - https://coroot.com/blog/building-a-service-map-using-ebpf
 - Tracing a packet journey using Linux tracepoints, perf and eBPF: https://blog.yadutaf.fr/2017/07/28/tracing-a-packet-journey-using-linux-tracepoints-perf-ebpf/
+- eBPF XDP: The Basics and a Quick Tutorial: https://www.tigera.io/learn/guides/ebpf/ebpf-xdp/
+- Great slide deck (almost 200 slides 🤯) diving into the code of the verifier and how it works: https://docs.google.com/presentation/d/1abYBW7L8kAupgG9YkFPRGayZSXm9hGv_Dvp7ADBkfyg/edit?_hsmi=222229515&_hsenc=p2ANqtz--Mezgv_HpDcGHycEWNE2-JaCkv7bvGchuax6KuCx_6aMvjY62ti2rwJPCbwwRK1Cw5b8K58iSrdr8e-2GqQxn2LFjwFw#slide=id.p1
+
 ## Dev:
 
 - BPF kernel dev process, submitting patches and QA: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/bpf/bpf_devel_QA.rst
@@ -152,6 +162,9 @@
 - Disable SSL certificate verification for all binaries that use libssl: https://github.com/citronneur/blindssl
 - An eBPF playground: https://github.com/quarkslab/peetch
 - Use this as skeleton for your eBPF golang application: https://github.com/rafaeldtinoco/drafts
+- a prototype networking bpf loader: https://github.com/redhat-et/bpfd
+- Journey to libbpf 1.0: https://nakryiko.com/posts/libbpf-v1/
+
 ## Reddit and twitter threads:
 
 - https://www.reddit.com/r/rust/comments/ojzc3z/implementation_of_an_ebpf_memory_profiler_has/

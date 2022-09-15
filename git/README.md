@@ -65,6 +65,8 @@
 - https://thomaslevesque.com/2020/05/29/git-tip-how-to-fix-an-accidental-commit-on-the-wrong-branch/
 - Handling messy pull-request diffstats: https://lwn.net/Articles/889760/
 - https://tom.preston-werner.com/2009/05/19/the-git-parable.html
+- Setting up git in a new environment, nice article: https://dev.to/snaka/10-things-i-always-setup-in-git-when-i-prepare-a-new-environment-d99
+- Rebase Considered Harmful: https://www.fossil-scm.org/home/doc/trunk/www/rebaseharm.md
 
 ## Cheatsheets:
 
@@ -103,6 +105,8 @@
 - https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/
 - Series on git internals: https://dev.to/calebsander/git-internals-part-2-packfiles-1jg8
 - https://git-scm.com/book/en/v2/Git-Internals-Git-Objects
+- Git’s database internals I: packed object store: https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/
+- Scaling Git's Garbage Collection: https://github.blog/2022-09-13-scaling-gits-garbage-collection/
 
 ## Github Enhancements:
 

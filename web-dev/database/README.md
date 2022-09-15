@@ -87,6 +87,10 @@
 - https://brooker.co.za/blog/2018/02/25/availability-liveness.html
 - http://www.benstopford.com/2015/02/14/log-structured-merge-trees/
 - B-Trees: More Than I Thought I'd Want to Know: https://benjamincongdon.me/blog/2021/08/17/B-Trees-More-Than-I-Thought-Id-Want-to-Know/
+- SQLite Internals: Pages & B-trees: https://fly.io/blog/sqlite-internals-btree/
+- How SQLite Scales Read Concurrency: https://fly.io/blog/sqlite-internals-wal/
+- Redis Explained: https://architecturenotes.co/redis/
+- Write-ahead logging and the ARIES crash recovery algorithm: https://sookocheff.com/post/databases/write-ahead-logging/
 
 ## Blog Series:
 
@@ -155,3 +159,6 @@
 
 - https://dev.to/javinpaul/my-favorite-free-sql-courses-for-beginners-2d3j
 - https://jmarquesdatabeyond.medium.com/sql-like-a-pro-please-stop-using-distinct-31bdb6481256
+- Writing a SQL Parser: https://tomassetti.me/parsing-sql/
+- https://www.crunchydata.com/blog/rise-of-the-anti-join
+- A Critique of SQL, 40 Years Later: https://carlineng.com/?postid=sql-critique#blog

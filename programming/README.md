@@ -183,6 +183,11 @@
 - Long Live Software Easter Eggs!: https://queue.acm.org/detail.cfm?id=3534857
 - The Grug Brained Developer. A layman's guide to thinking like the self-aware smol brained: https://grugbrain.dev/
 - How to Make Your Code Reviewer Fall in Love with You: https://mtlynch.io/code-review-love/
+- Explain quantam computer's shor algo which can be used to break RSA: https://scottaaronson.blog/?p=208
+- The many flavors of hashing: https://notes.volution.ro/v1/2022/07/notes/1290a79c/
+- The quick and practical "MSI" hash table: https://nullprogram.com/blog/2022/08/08/
+- How to Ask for Programming Help: https://codingkilledthecat.wordpress.com/2012/06/26/how-to-ask-for-programming-help/
+- Software Engineering Research Questions: https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html
 
 ### Tutorials:
 
@@ -204,10 +209,17 @@
 - https://soasis.org/newsletter/
 - https://cassidoo.co/newsletter/confirmed.html
 - https://techemails.com/
+- https://asianometry.substack.com/
+- https://architecturenotes.co/
+- https://www.gimtec.io/
 
 ## Podcasts:
 
 - Immigrant Computer Scientists: https://open.spotify.com/show/165S0iev1NbimrJ2FSsLes?si=2bb0af6919f54f13
+
+## Course:
+
+- CS 168: The Modern Algorithmic Toolbox: https://web.stanford.edu/class/cs168/index.html
 
 ## Reddit posts/tweets and HN threads:
 
@@ -222,6 +234,7 @@
 - Rob Pikes rules of programming: https://www.reddit.com/r/computerscience/comments/rq60d4/rules_of_programming/
 - No-code tools, the thread: https://twitter.com/heyeaslo/status/1482895458099884032
 - Ask HN: What bits of fundamental knowledge are productivity multipliers?: https://news.ycombinator.com/item?id=30853807
+- How to properly implement undo/redo: https://twitter.com/steveruizok/status/1566142910546038784
 
 ## Videos:
 
@@ -236,6 +249,10 @@
 - This is what happened to Aaron Swartz: https://www.youtube.com/watch?v=9vz06QO3UkQ
 - How PNG Works: Compromising Speed for Quality: https://www.youtube.com/watch?v=EFUYNoFRHQI
 - Introduction to Use-After-Free Vulnerabilities: https://www.youtube.com/watch?v=PKqMsaKGdlM
+
+## Funny Videos:
+
+- Leadership Sync: https://www.youtube.com/watch?v=1RAMRukKqQg
 
 ## Repos:
 
@@ -305,6 +322,7 @@
 - For when people get too hyped up about things: https://github.com/hwayne/awesome-cold-showers
 - Jargon from the functional programming world in simple terms: https://github.com/hemanth/functional-programming-jargon
 - https://github.com/jorgef/engineeringladders
+- Pointers to useful, well-written, and otherwise beautiful documentation: https://github.com/matheusfelipeog/beautiful-docs
 
 ## Extensions:
 
@@ -346,6 +364,7 @@
   - Robert L. Glass, Facts and Fallacies of Software Engineering
   - Donald Reinertsen, The Principles of Product Development Flow
   - Eric Normand, Grokking Simplicity
+- Quirky Programming Books: https://github.com/fogus/thunks/blob/main/reading/quirkeys.org
 
 ## Tools:
 

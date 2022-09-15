@@ -1,4 +1,4 @@
-<h2 align="center">Javascipt</h2>
+<h2 align="center">Javascipt/Typescript</h2>
 
 ## Websites:
 
@@ -37,7 +37,6 @@
 - https://www.lambdatest.com/blog/nodejs-best-practices/
 - https://dev.to/sanspanic/pure-vs-impure-functions-50aj
 - https://javascript.whenprogramming.com/17-great-articles-about-javascript-7c2a5f062ea3
-- https://dev.to/evansibok/introduction-to-typescript-and-its-basic-types-47i0
 - https://dev.to/sumaiyaasif/async-and-await-and-what-is-it-actually-doing-34l
 - https://dev.to/garvitmotwani/10-new-javascript-features-in-es2020-that-you-should-know-3ohf
 - https://dev.to/garvitmotwani/8-javascript-tips-tricks-that-no-one-teaches-24g1
@@ -46,7 +45,6 @@
 - https://cmsinstallation.blogspot.com/2021/05/new-features-of-javascript-2021.html
 - https://dev.to/gurshehzadsingh/10-npm-commands-that-every-developer-must-know-4gmn
 - https://dev.to/djamaile/how-i-structure-my-react-ts-applications-2021-145j
-- https://medium.com/@warkiringoda/typescript-best-practices-2021-a58aee199661
 - https://www.reddit.com/r/javascript/comments/pqr8ox/askjs_how_to_you_structure_your_projects_to_avoid/
 - https://blog.risingstack.com/javascript-clean-coding-best-practices-node-js-at-scale/
 - https://careerfoundry.com/en/blog/web-development/7-essential-tools-for-front-end-development/
@@ -56,6 +54,9 @@
 - https://blog.bitsrc.io/5-express-middleware-libraries-every-developer-should-know-94e2728f7503
 - https://betterprogramming.pub/a-deep-dive-into-weak-memory-management-in-javascript-55ab240a09aa
 - JSON Creator Douglas Crockford Interview: https://evrone.com/douglas-crockford-interview
+- Understanding Garbage Collection in JavaScriptCore From Scratch: https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch/
+- JavaScript Visualized: Event Loop : https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif
+- An overview of Node.js: architecture, APIs, event loop, concurrency: https://2ality.com/2022/09/nodejs-overview.html
 
 ### Tutorials:
 
@@ -74,15 +75,18 @@
 - Complete js library for whatsapp: https://github.com/orkestral/venom
 - https://www.c-sharpcorner.com/uploadfile/e70b61/how-to-create-thumbnails-of-images-stored-in-database/
 - https://github.com/30-seconds/30-seconds-of-code
-- https://github.com/basarat/typescript-book
 - Automatically finds jQuery methods from existing projects and generates vanilla js alternatives: https://github.com/sachinchoolur/replace-jquery
 - https://github.com/uNetworking/uWebSockets.js
--  JSON Schema Type Builder with Static Type Resolution for TypeScript: https://github.com/sinclairzx81/typebox
+-  Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more: https://github.com/blitz-js/superjson
 
 ## APIs:
 
 - https://dev.to/hb/10-fun-apis-to-use-for-your-next-project-2lco
 - https://api.nasa.gov/
+
+## APIs:
+
+- Why not to use javascript ( wat, watman talk ): https://www.destroyallsoftware.com/talks/wat
 
 ## Tweets:
 
@@ -91,7 +95,7 @@
 ## Newsletters:
 
 - https://javascriptweekly.com/
-- https://allthingstypescript.dev/
+- http://esnextnews.com/
 
 ## Learning:
 
@@ -106,3 +110,20 @@
 ## Blogs and articles:
 
 - https://blog.devgenius.io/how-to-use-the-keyof-type-operator-in-typescript-6d5e0ea6740f
+- https://dev.to/evansibok/introduction-to-typescript-and-its-basic-types-47i0
+- https://medium.com/@warkiringoda/typescript-best-practices-2021-a58aee199661
+- https://javascript.plainenglish.io/using-typescript-mapped-types-like-a-pro-be10aef5511a
+
+## Videos:
+
+- How the TypeScript Compiler Compiles - understanding the compiler internal: https://www.youtube.com/watch?v=X8k_4tZ16qU
+
+## Repos:
+
+-  Collection of TypeScript type challenges with online judge: https://github.com/type-challenges/type-challenges
+-  JSON Schema Type Builder with Static Type Resolution for TypeScript: https://github.com/sinclairzx81/typebox
+- https://github.com/basarat/typescript-book
+
+## Newsletters:
+
+- https://allthingstypescript.dev/

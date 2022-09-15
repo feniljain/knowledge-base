@@ -189,6 +189,7 @@
 - https://golangbyexample.com/immediately-invoked-function-go/
 - Go: A Documentary: https://golang.design/history/
 - Crimes with Go Generics: https://christine.website/blog/gonads-2022-04-24
+- https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html
 
 ## Blog Series:
 

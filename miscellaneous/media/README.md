@@ -19,6 +19,7 @@
 
 - Complete(not quick) uninstall of spotify: https://community.spotify.com/t5/FAQs/How-can-I-perform-a-clean-reinstall-of-the-app/ta-p/4746485(Do not forget to check both Library folders, one global and another user level)
 - Extracting WhatsApp messages from an iOS backup: https://yasoob.me/posts/extracting-whatsapp-messages-from-ios-backup/
+- Collection of best documentaries people have seen 2022 edition: https://news.ycombinator.com/item?id=32799789
 
 # Online radios:
 
@@ -37,6 +38,7 @@
 
 - Spotify adblock for linux: https://github.com/abba23/spotify-adblock
 - Spotify adblock for mac: https://github.com/simonmeusel/MuteSpotifyAds
+- Search for "macos spotify ads" on github to get more tools for ad blocking spotify
 - Tool to download Netflix in 4k: https://github.com/widevinedump/Netflix-4K-Script
 - Tool To download Amazon 4k SDR HDR 1080, CDM IS Not Included: https://github.com/widevinedump/WV-AMZN-4K-RIPPER
 - Tool To Download from DSNP USA: https://github.com/widevinedump/DISNEY-4K-SCRIPT
@@ -47,3 +49,4 @@
 
 - Getting rid of spotify ad banners and stuff: https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/
 - MEGA-PIRACY-WIKI: https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/g37lwb/megapiracywiki/
+- Reddit's Favorite Products in One Place: https://looria.com/reddit/overview

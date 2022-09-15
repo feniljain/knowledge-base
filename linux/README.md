@@ -70,6 +70,7 @@
 - https://evanhahn.com/a-decade-of-dotfiles/
 - The Comprehensive List of Window Managers for Unix: https://www.gilesorr.com/wm/table.html
 - https://medium.com/@Prinux/curl-command-explained-c1ecbed117d
+- What's the Most Portable Way to Include Binary Blobs in an Executable?: https://tratt.net/laurie/blog/2022/whats_the_most_portable_way_to_include_binary_blobs_in_an_executable.html
 
 ### Linux working:
 
@@ -153,8 +154,6 @@
 - Setting system wide c++ to llvm: https://stackoverflow.com/a/12843988
 - The Mirage Of Memory: https://dev.to/yugabyte/the-mirage-of-memory-3366
 - Interview Questions: Why can’t you create a file?: https://medium.com/geekculture/interview-questions-why-cant-you-create-a-file-e08f3486a92a
-- A Little Story About the `yes` Unix Command: https://endler.dev/2017/yes
-- Readline VI Editing Mode Cheat Sheet Default Keyboard Shortcuts for Bash: https://catonmat.net/ftp/bash-vi-editing-mode-cheat-sheet.pdf
 
 ## Blog series:
 
@@ -228,6 +227,7 @@
 - Low level access to linux netlink sockets: https://github.com/mdlayher/netlink
 - https://github.com/trinib/Awesome-Ubuntu-Setup
 - Fedora/CentOS Stream/Red Hat Enterprise Linux Guide : https://github.com/mikeroyal/Fedora-Guide
+- A completely statically linked system: https://github.com/oasislinux/oasis
 
 
 ## Wallpapers collection:
@@ -252,6 +252,7 @@
 - https://www.reddit.com/r/rust/comments/pxz7at/rustlinux_plumbers_conference_2021/
 - Automate ANYTHING on Linux (using xdotool): https://www.youtube.com/watch?v=feLbkm5aV_0
 - Before Main: How Executables Work on Linux: https://www.youtube.com/watch?v=jR2hUhjcAXI
+- Hidden tips, tricks, and shortcuts to make GNOME even better: https://www.youtube.com/watch?v=dLsj8plxBn0
 
 ## Courses:
 
@@ -284,6 +285,7 @@
 - Alternatives to common windows: https://www.reddit.com/r/linux/comments/rqjnvw/i_tried_to_move_entirely_to_linux_supporting/
 - Collection of free software for linux: https://www.reddit.com/r/linux/comments/s6ieb1/update_after_reading_600_of_your_comments_here_is/
 - Linux kernel development trick: https://twitter.com/vegard_no/status/1483378883017814017
+- How filesystems work in linux, a diagram and discussion: https://www.reddit.com/r/linux/comments/we0rky/filesystem_roadmap/
 
 ## Config Repos:
 

@@ -9,9 +9,6 @@
 - https://www.stopstalk.com/
 - https://www.bigocheatsheet.com/
 - Do go through this in any case: http://www.ardendertat.com/2012/01/09/programming-interview-questions/
-- http://www.nondot.org/sabre/Resume.html
-- https://www.bigocheatsheet.com/
-- Free and open source resume builder: https://rxresu.me/
 - http://layoffs.fyi/
 
 ## Blogs and Articles:
@@ -132,6 +129,10 @@
 
 ## CC:
 
+### Websites:
+
+- https://cp-algorithms.com/
+
 ### Blogs and articles:
 
 - https://ajisatriomaulana.medium.com/dynamic-programming-solve-amazon-coding-interview-using-memoization-with-code-example-2d449ce80b59
@@ -153,6 +154,7 @@
 
 - https://github.com/QasimWani/LeetHub
 - https://github.com/cassidoo/getting-a-gig
+- https://github.com/lnishan/awesome-competitive-programming
 
 ### Twitter and reddit threads:
 

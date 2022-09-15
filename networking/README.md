@@ -32,6 +32,8 @@
 - What happens if you write a TCP stack in Python?: https://jvns.ca/blog/2014/08/12/what-happens-if-you-write-a-tcp-stack-in-python/
 - https://alexanderell.is/posts/toy-traceroute/
 - SMTP protocol basics from scratch in Go: receiving email from Gmail: https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html
+- Let's code a TCP/IP stack: http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/
+- How to send raw network packets in Python with tun/tap: https://jvns.ca/blog/2022/09/06/send-network-packets-python-tun-tap/
 
 ### Others:
 
@@ -120,6 +122,11 @@
 - What they don't teach you about sockets (these are network sockets, not websockets): https://macoy.me/blog/programming/Sockets
 - When the window is not fully open, your TCP stack is doing more than you think: https://blog.cloudflare.com/when-the-window-is-not-fully-open-your-tcp-stack-is-doing-more-than-you-think/
 - Thoughts on going down the network stack: https://fasterthanli.me/articles/thoughts-on-going-down-the-network-stack
+- Monitoring and Tuning the Linux Networking Stack: Sending Data ( From NIC, to kernel, to userland ): https://blog.packagecloud.io/monitoring-tuning-linux-networking-stack-sending-data/
+- Monitoring and Tuning the Linux Networking Stack: Receiving Data ( From NIC, to kernel, to userland ): https://blog.packagecloud.io/monitoring-tuning-linux-networking-stack-receiving-data/
+- Engineer distributes resume via IPv6 traceroute: https://news.ycombinator.com/item?id=3260958
+- Detection of Half-Open (Dropped) Connections: https://blog.stephencleary.com/2009/05/detection-of-half-open-dropped.html
+- TCP/IP Resources: https://blog.stephencleary.com/2009/05/tcpip-resources.html
 
 ## Books:
 
@@ -163,6 +170,7 @@
 - Suggest some good sources to learn computer networking: https://news.ycombinator.com/item?id=30997392
 - 50+ Linux networking commands and their explanation: https://twitter.com/xtremepentest/status/1529080517877972993
 - Detailed OSI model in a single picture: https://twitter.com/letsdefendio/status/1532737127552794624
+-Stupid pet tricks with TCP, ping, and IP addresses:  https://www.reddit.com/r/linux/comments/wesq5i/stupid_pet_tricks_with_tcp_ping_and_ip_addresses/
 
 ## Videos:
 
@@ -180,6 +188,7 @@
 - Beyond POSIX - Adventures in Alternative Networking APIs: https://www.infoq.com/presentations/posix-networking-api/
 - UDP hole punching: https://www.youtube.com/watch?v=S7Ifw5XsypQ
 - Virtual IP Address: https://www.youtube.com/watch?v=85XY7H2JPbs
+- Slow Start vs Congestion Avoidance in TCP: https://www.youtube.com/watch?v=r9kbjAN2788
 
 ## Container Images:
 

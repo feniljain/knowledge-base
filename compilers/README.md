@@ -120,6 +120,11 @@
 - Cranelift, Part 4: A New Register Allocator: https://cfallin.org/blog/2022/06/09/cranelift-regalloc2/
 - Immix collection algorithm for GCs: https://wingolog.org/archives/2022/06/15/defragmentation
 - https://wiki.nikiv.dev/compilers/
+- Compiler Adventures, part 1: No-op Instructions: https://medium.com/@predrag.gruevski/compiler-adventures-part-1-no-op-instructions-c084358c7864
+- Rambles around computer science: https://www.humprog.org/~stephen/blog/2022/08/03/#elf-symbol-wrapping-via-replacement
+- Parent links in Go ASTs: https://eli.thegreenplace.net/2022/parent-links-in-go-asts/
+- Dora: Implementing a JIT-compiler with Rust: https://dinfuehr.github.io/blog/dora-implementing-a-jit-compiler-with-rust/
+- Tracing JIT: https://en.wikipedia.org/wiki/Tracing_just-in-time_compilation
 
 ## Blog series/Articles collection:
 
@@ -171,6 +176,10 @@
 - A massively parallel, optimal functional runtime in Rust : https://github.com/Kindelia/HVM
 - A parser library for humans with powerful error recovery: https://github.com/zesterer/chumsky
 
+## Grammars:
+
+- http://marvin.cs.uidaho.edu/Teaching/CS445/c-Grammar.pdf
+
 ## Tools:
 
 - Generating scanners from regexs: http://dinosaur.compilertools.net/lex/
@@ -188,6 +197,11 @@
 - Ownership SSA: https://www.youtube.com/watch?v=qy3iZPHZ88o
 - What is bytecode?: https://www.youtube.com/watch?v=mgRXdgPcYc0
 - Challenges In Analyzing and Optimizing Parallel Programs: https://www.youtube.com/watch?v=UdxZ8YqJlBE
+
+## Videos collection:
+
+- Tim Morgan's yt channel: https://www.youtube.com/c/TimMorgan/videos
+- Video resources to learn about writing compilers/interpreters: https://www.reddit.com/r/Compilers/comments/wlm23e/video_resources_to_help_learn/
 
 ## Courses:
 

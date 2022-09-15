@@ -6,6 +6,7 @@
 - https://serverless.page/
 - https://module-federation.github.io/
 - https://web-dev-resources.com/
+- https://www.browsers.fyi/
 
 ## Blogs And Articles:
 

@@ -35,6 +35,11 @@
 - Bash General-Purpose Yes/No Prompt Function ("ask"): https://gist.github.com/davejamesmiller/1965569
 - Bash scripting resources: https://www.reddit.com/r/linux4noobs/comments/pizkkq/any_good_resources_for_bash_scripting_for_this_new/
 - Color manager for terminal, super easy to use, just run a curl command, it will show a long list of commands and theme is set: https://github.com/Mayccoll/Gogh
+- 7 things I've learned building a modern TUI framework: https://www.textualize.io/blog/posts/7-things-about-terminals
+- Readline VI Editing Mode Cheat Sheet Default Keyboard Shortcuts for Bash: https://catonmat.net/ftp/bash-vi-editing-mode-cheat-sheet.pdf
+- A Little Story About the `yes` Unix Command: https://endler.dev/2017/yes
+- https://opensource.com/article/21/8/ncdu-check-free-disk-space-linux
+- Terminal escape codes are awesome, here’s why: https://medium.com/everything-full-stack/terminal-escape-codes-are-awesome-heres-why-c8eb938b1a1c
 
 ## Tips:
 
@@ -59,6 +64,11 @@
 - Terminal image viewer: https://github.com/atanunq/viu
 - Managing shell commands: https://github.com/Nukesor/pueue
 - A tool for glamorous shell scripts: https://github.com/charmbracelet/gum
+- Intercept any risky patterns (default or defined by you) and prompt you a small challenge for double verification: https://github.com/kaplanelad/shellfirm
+- Converts jpg images to ASCII: https://github.com/cslarsen/jp2a
+- A terminal workspace with batteries included: https://github.com/zellij-org/zellij
+- It is designed to find space hogs on a remote server where you don’t have an entire graphical setup available: https://dev.yorhel.nl/ncdu
+- A prompt theme engine for any shell: https://ohmyposh.dev/
 
 ## Terminal tools I use:
 
@@ -107,3 +117,5 @@
 - Counting number of lines of each programming language: https://github.com/XAMPPRocky/tokei/
 - A viewer for git and diff output: https://github.com/dandavison/delta
 - A structural diff that understands syntax: https://github.com/Wilfred/difftastic
+- The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell: https://github.com/leo-arch/clifm
+- https://github.com/wez/wezterm ( Pretty famous in discussion here: https://www.reddit.com/r/neovim/comments/wmr9bs/what_terminal_emulator_do_you_use/?sort=top)

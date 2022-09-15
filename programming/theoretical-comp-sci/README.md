@@ -21,3 +21,9 @@
 - Is there a good online course on the basics of (software) verification?
   Ideally covering things such as SMT solving, weakest preconditions, symbolic execution, (bounded) model checking, static analysis, etc.: https://twitter.com/rakamaric/status/1479191569504763904
 - Some old (ancient) handwritten notes on category theory, domain theory and concurrency: https://twitter.com/haskellhutt/status/1462171329344557064
+
+## Videos:
+
+- The most intriguing discovery of Computer Science: the Y combinator demystified: https://www.youtube.com/watch?v=QuXJ3kXUCiU
+- Lambda Calculus: https://www.youtube.com/watch?v=eis11j_iGMs
+- Essentials: Functional Programming's Y Combinator: https://www.youtube.com/watch?v=9T8A89jgeTI

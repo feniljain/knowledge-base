@@ -6,6 +6,7 @@
 - https://dzone.com/
 - https://opensource.zalando.com/restful-api-guidelines/
 - https://httpstatuses.com/
+- https://webhooks.fyi/
 
 ## Blogs And Articles:
 
@@ -94,6 +95,7 @@
 - CDNs in detail: https://web.dev/content-delivery-networks/
 - https://engineering.mixpanel.com/resharding-petabytes-of-data-to-improve-performance-for-our-largest-customers-1a3be4637778
 - Avoid N+1 Problem In Graphql Federation With GO (Part 2): https://medium.com/@louisaldorio/avoid-n-1-problem-in-graphql-federation-with-go-part-2-891b200292d9
+- Use One Big Server(Very nice comparison): https://specbranch.com/posts/one-big-server/
 
 ## Blog series/Articles collection:
 

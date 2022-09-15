@@ -13,6 +13,7 @@
 - 1-line css: https://www.youtube.com/watch?v=qm0IfG1GyZU
 - UI design for coders: https://www.youtube.com/watch?v=0JCUH5daCCE
 - https://locomotivemtl.github.io/locomotive-scroll/
+- Thinking on ways to solve CAROUSELS: https://www.youtube.com/watch?v=CXJv6zM003M
 
 ## Blogs and Articles:
 
@@ -38,7 +39,6 @@
 - https://javascript.info/debugging-chrome
 - Tailoring site themes based on light and dark mode preferences: https://ryanmulligan.dev/blog/themes-and-schemes/
 - Building tabs in web components: https://darn.es/building-tabs-in-web-components/
-
 ### Others:
 
 - Logging in frontend: https://dev.to/ackshaey/level-up-your-javascript-browser-logs-with-these-console-log-tips-55o2
@@ -113,7 +113,6 @@
 - https://css-tricks.com/send-an-http-request-on-page-exit/
 - https://thefullstackdev.net/resource/create-beautiful-website-while-sucking-at-design/
 - https://storybook.js.org/blog/component-encyclopedia/
-- A thread of my favorite clever CSS tricks: https://threadreaderapp.com/thread/1546657470604382208.html?s=20&t=s6ofZC9jfti56fnsjTMmPQ
 
 ## Websites:
 
@@ -226,6 +225,8 @@
 - https://blog.easterseals.com/emojis-and-accessibility-the-dos-and-donts-of-including-emojis-in-texts-and-emails/
 - https://scotthelme.co.uk/can-you-get-pwned-with-css/
 - Building Interoperable Web Components That Even Work With React: https://css-tricks.com/building-interoperable-web-components-react/
+- A thread of my favorite clever CSS tricks: https://threadreaderapp.com/thread/1546657470604382208.html?s=20&t=s6ofZC9jfti56fnsjTMmPQ
+- Help pick a syntax for CSS nesting: https://developer.chrome.com/blog/help-css-nesting/
 
 ## Extensions:
 

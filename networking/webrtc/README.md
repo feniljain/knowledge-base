@@ -103,10 +103,20 @@
 - The WebRTC Architecture Landscape is Changing: https://webrtc.ventures/2022/04/webrtc-architecture-landscape/
 - Film grain synthesis in AV1: https://norkin.org/research/film_grain/index.html
 - SVT-AV1: open-source AV1 encoder and decoder: https://netflixtechblog.com/svt-av1-an-open-source-av1-encoder-and-decoder-ad295d9b5ca2
+- SRTP and You: A Deep Dive into Encrypted VoIP Communications: https://www.twilio.com/blog/srtp-deep-dive
+- Recording WebRTC-Enabled Sessions: Server-side or Client-side?: https://www.enablex.io/insights/server-side-or-client-side-recording/
+- WISH, WHIP and Janus: Part II: https://www.meetecho.com/blog/whip-janus-part-ii/
+- We TURNed to see a STUNning view of the ICE: https://bloggeek.me/we-turned-to-see-a-stunning-view-of-the-ice/
+- Screensharing content detection: http://www.rtcbits.com/2022/08/screensharing-content-detection.html
+- Be very clear to yourself why you manage your own TURN servers: https://bloggeek.me/why-manage-your-own-turn-servers/
+- ICE connected or not: https://blog.mozilla.org/webrtc/ice-disconnected-not/
+- State of Open Source WebRTC Projects Aug 2022: https://bloggeek.me/state-of-webrtc-open-source-projects/
+- Did I choose the right WebRTC stack?: https://webrtc-developers.com/did-i-choose-the-right-webrtc-stack/
 
 ### Tutorials:
 
 - https://www.youtube.com/watch?v=QsH8FL0952k
+- How To Analyze and Interpret Network Data for Real-Time Video: https://www.liveswitch.io/blog/how-to-analyze-and-interpret-network-data-for-real-time-video
 
 ## Blog series/articles collection:
 
@@ -153,6 +163,7 @@
 - https://github.com/hetelek/webrtc-tester
 - WebRTC based Scalable, High Performance, Open source web conferencing system using Livekit: https://github.com/mynaparrot/plugNmeet-server
 - Custom elements for working with media in the browser that Just Work: https://github.com/muxinc/elements/
+- Simple useful interoperability tests for WebRTC libraries: https://github.com/sipsorcery/webrtc-echoes
 
 ## Useful SO questions:
 

@@ -219,6 +219,7 @@
 - https://stackoverflow.com/questions/655065/when-should-i-use-the-new-keyword-in-c
 - tolower() in bulk at speed: https://dotat.at/@/2022-06-27-tolower-swar.html
 - The different ways to handle errors in C: https://mccue.dev/pages/7-27-22-c-errors
+- malloc() and free() are a bad API: https://www.foonathan.net/2022/08/malloc-interface/
 
 ### Blog series/articles collection:
 

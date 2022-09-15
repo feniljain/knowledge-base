@@ -9,6 +9,7 @@
 - The Yasm Modular Assembler Project: http://yasm.tortall.net/
 - https://www.osdev.org/
 - http://www.lowlevel.eu/
+- Real Time Operation System: https://www.rtems.org/
 
 ## Blog and articles:
 

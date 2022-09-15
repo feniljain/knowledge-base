@@ -113,6 +113,7 @@
 - https://matklad.github.io//2022/06/11/caches-in-rust.html
 - Explaining reborrows and lifetimes: https://haibane-tenshi.github.io/rust-reborrowing/
 - Procedural macros under the hood: Part II: https://blog.jetbrains.com/rust/2022/07/07/procedural-macros-under-the-hood-part-ii/
+- https://www.philipdaniels.com/blog/2021/rust-fn-traits/
 
 ### Tutorials:
 
@@ -181,7 +182,6 @@
 - https://popcornpaws.medium.com/creating-an-npm-package-written-in-rust-ce02f7c55458
 - https://medium.com/geekculture/chat-system-by-rust-and-grpc-web-2425104ec2a0
 - https://github.com/imbolc/rust-derive-macro-guide
-- https://rust-unofficial.github.io/too-many-lists/first-layout.html
 - Live Coding Reverse Proxy in Rust: https://www.snoyman.com/blog/2020/12/live-coding-rust-reverse-proxy/
 - https://robert.kra.hn/posts/2021-02-01_cross-compile-rust/
 - VCS in Rust: https://initialcommit.com/blog/pijul-version-control-system/#
@@ -219,6 +219,8 @@
 - https://flakm.github.io/posts/heap_allocation/
 - Implementing strace in Rust: https://jakobwaibel.com/2022/06/06/ptrace/
 - Rust PNG writer from scratch: https://www.splinter.com.au/2022/07/12/rust-png-writer/
+- Writing a kernel module in rust: https://www.jackos.io/rust-kernel/rust-for-linux.html
+- Writing a container in Rust: https://litchipi.github.io/series/container_in_rust
 
 ### Language general:
 
@@ -294,6 +296,9 @@
 - https://smallcultfollowing.com/babysteps/blog/2022/06/15/what-it-feels-like-when-rust-saves-your-bacon/
 - Nice read on internal boundaries from a compiler perspective: https://matklad.github.io/2022/07/10/almost-rules.html
 - Patterns with Rust types: https://www.shuttle.rs/blog/2022/07/28/patterns-with-rust-types
+- Zero-Copy Deseralizations in rust: https://manishearth.github.io/blog/2022/08/03/zero-copy-1-not-a-yoking-matter/
+-  More Enum Types: https://blog.yoshuawuyts.com/more-enum-types/
+- Pattern Matching and Backwards Compatibility: https://seanmonstar.com/post/693574545047683072/pattern-matching-and-backwards-compatibility
 
 ### Others:
 
@@ -378,6 +383,8 @@
 - Writing trees in rust: https://gist.github.com/aidanhs/5ac9088ca0f6bdd4a370
 - Green threads explained in 200 lines of rust: https://cfsamson.gitbook.io/green-threads-explained-in-200-lines-of-rust/
 - http://blog.pnkfx.org/blog/2022/05/12/linking-rust-crates/
+- Static streams for faster async proxies: https://blog.adamchalmers.com/streaming-proxy/
+- A byte string library for Rust: https://blog.burntsushi.net/bstr/
 
 ## Blog Series/Collection of articles:
 
@@ -547,6 +554,7 @@
 - Crust of Rust: Send, Sync, and their implementors: https://www.youtube.com/watch?v=yOezcP-XaIw
 - Constant fun (const fn) with Rust: https://www.youtube.com/watch?v=Vw8BFScm0K0
 - Is It Time to Rewrite the Operating System in Rust?: https://www.youtube.com/watch?v=HgtRAbE1nBM
+-Mocking Rust and Testing:  https://www.youtube.com/watch?v=8XaVlL3lObQ
 
 ## Newsletters:
 
@@ -596,6 +604,8 @@
 - The little book of rust macros: https://veykril.github.io/tlborm/
 - https://github.com/QMHTMY/RustBook
 - A free systems software security book!: https://highassurance.rs/
+- https://rust-unofficial.github.io/too-many-lists/
+- https://www.manning.com/livevideo/rust-in-motion
 
 ## Interesting Projects:
 
@@ -773,6 +783,7 @@
 - https://www.reddit.com/r/rust/comments/rr4npz/rust_course/
 - https://itnext.io/gilded-rose-kata-in-rust-e00f51f1e8d8
 - https://fasterthanli.me/articles/the-curse-of-strong-typing
+- Practice Rust with challenging examples, exercises and projects: https://practice.rs/why-exercise.html
 
 ### Videos:
 
@@ -786,6 +797,7 @@
 - https://github.com/Dhghomon/easy_rust
 - https://github.com/kud1ing/awesome-rust
 - https://github.com/sunface/rust-by-practice
+- https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust
 
 ### Reddit and twitter threads:
 

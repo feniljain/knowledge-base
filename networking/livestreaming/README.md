@@ -7,6 +7,7 @@
 ### Tutorials:
 
 - https://fschuindt.github.io/blog/2020/12/31/streaming-video-and-audio-of-an-usb-webcam-to-multiple-users-of-a-website-with-ssl-basic-authentication-and-invideo-timestamps-ffmpeg-rtmp-nginx-hls-mpeg-dash.html
+- HLS and Fragmented MP4: https://hlsbook.net/hls-fragmented-mp4/
 
 ### Others:
 
@@ -39,6 +40,9 @@
 - https://eyevinntechnology.medium.com/proof-of-concept-of-an-open-and-standardized-webrtc-based-streaming-3896edb50d90
 - https://www.toptal.com/apple/introduction-to-http-live-streaming-hls
 - Google Cloud Introduces Media CDN for Content Delivery: https://www.infoq.com/news/2022/05/google-cloud-media-cdn/
+- Ingesting Live Video Streams at Global Scale
+: https://blog.twitch.tv/en/2022/04/26/ingesting-live-video-streams-at-global-scale/
+- https://blog.quastor.org/p/twitch-processes-millions-video-streams
 
 ## Blog series/articles collection:
 
@@ -75,3 +79,6 @@
 - The challenges of deploying Apple's Low Latency HLS In Real Life: https://www.youtube.com/watch?v=GxFm4ikKiZc
 - Measuring the live video latency at scale: https://www.youtube.com/watch?v=D6I2zQa6Icw
 - LL-HLS, LHLS, DASH-LL: Challenges and Differences: https://www.youtube.com/watch?v=DVrPv-8PUm4
+## Videos:
+
+- FFmpeg for Adaptive Bitrate Production: https://www.udemy.com/course/ffmpeg-for-adaptive-bitrate-production/

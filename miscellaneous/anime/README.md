@@ -33,6 +33,9 @@
 - Princess Mononoke(Movie)
 - Watamote
 - Megalox Box
+- Rage of Bahamut
+- Lupin the Third
+- Lycoris Recoil
 
 ## Mecha and Space:
 
@@ -76,6 +79,38 @@
 - Angels of Death
 - Summer Time Render
 - Tomodachi Game
+- Happy Sugar Life
+- Babylon
+- Flowers of Evil
+- Shadow Star Narutaru
+- Joker
+- Blue Literature series
+- Btooom!
+- Casshern Sins
+- Texhnolyze
+- Girls’ Last Tour
+- Now and Then, Here and There
+- The Skull Man
+- Speed Grapher
+- Scum’s Wish
+- The King of Pigs
+- The Fake
+- One Outs
+- Kaiji: Ultimate Survivor
+- Battle Game in Five Seconds
+- Die Now
+- Dusk Maiden of Amnesia
+- Electromagnetic Girlfriend
+- Angel’s Egg
+- Deadman wonderland
+- Angel heart
+- Mermaid Forest
+- Yukikaze
+- Rokka no Yuusha
+- Munou na Nana
+- Deatte 5-byou de Battle
+- Platinum End
+- Mononoke
 
 ## Adventure and Magic(supernatural):
 
@@ -114,7 +149,7 @@
 - Amagami SS
 - Nichijou
 
-## Sad & Romance:
+## Sad & Romance & SOL:
 
 - I want to eat your pancreas
 - Grave of the fireflies
@@ -179,6 +214,9 @@
 - Higehiro: after being rejected, I shaved and took in a highschool runaway
 - Ballroom e Youkoso(Welcome to the ballroom)
 - One Week Friends
+- Call of the night
+- Rent a Girlfriend
+- Beastars
 
 ## Sports:
 
@@ -203,10 +241,12 @@
 - The day I became a god
 - Natsume Yuujinchou
 
-## Hentai:
+## Ecchi:
 
 - Euphoria
 - Mankitsu
+
+## Yet to be classified:
 
 ## Manga To Read:
 
@@ -241,6 +281,11 @@
 - Lofi songs of jujutsu kaisen: https://www.youtube.com/watch?v=nSbs0EHf374
 - Iro Kousui: https://www.youtube.com/watch?v=7DpONAPM3Zw
 
+## Anime OSTs:
+
+- All Sonny Boy OSTs
+- One Piece: To the Grand Line
+
 ## MAL accounts to lookout anime from(this is just a list of decent accounts I come across):
 
 - https://myanimelist.net/profile/G_Spark233
@@ -261,6 +306,7 @@
 - https://www.reddit.com/r/Animesuggest/comments/s9yt6d/can_anyone_suggest_me_a_good_action_romance_anime/
 - Good Dark Anime: https://www.reddit.com/r/Animesuggest/comments/sg2ss9/good_dark_anime/
 - Dark aesthetic animes?: https://www.reddit.com/r/Animesuggest/comments/tifohm/dark_aesthetic_animes/
+- List of dark animes: https://www.reddit.com/r/Animesuggest/comments/wppqcg/dark_anime/
 
 ## Watch Websites:
 
@@ -441,6 +487,7 @@
 - Hellsing Ultimate
 - Great Teacher Onizuka
 - Mind Game
+- One Piece
 
 ## Caught up Mangas:
 

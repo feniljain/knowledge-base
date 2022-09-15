@@ -41,6 +41,9 @@
 - https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/
 - https://medium.com/leaningtech/fantastic-tail-calls-and-how-to-implement-them-8c6bd52fd271
 - Benefits provided by trailing returns: https://community.ibm.com/community/user/ibmz-and-linuxone/blogs/fang-lu2/2020/03/24/introduction-to-the-c11-feature-trailing-return-types
+- How to write a code formatter ( Not Tutorial ): https://beza1e1.tuxen.de/articles/formatting_code.html
+- What is type ascription?:https://stackoverflow.com/questions/36389974/what-is-type-ascription
+- Native memory leak detector using mark-and-sweep GC in android: https://android.googlesource.com/platform/system/memory/libmemunreachable/+/master/README.md
 
 ### Tutorials:
 
@@ -79,6 +82,7 @@
 - Different languages to explore: https://www.reddit.com/r/ProgrammingLanguages/comments/uo5a7g/ideas_for_emerging_and_innovative_languages_and/
 - recommendation of a hands-on programming language course: https://www.reddit.com/r/ProgrammingLanguages/comments/uwpxv9/recommendation_of_a_handson_programming_language/
 - Difference between functional and imperative programming: https://twitter.com/GabriellaG439/status/1534727379112714260
+- Difference between Weak and Strong Typing: https://www.reddit.com/r/ProgrammingLanguages/comments/weywuw/what_does_strong_and_weak_typing_mean_to_you/
 
 # Language collection:
 

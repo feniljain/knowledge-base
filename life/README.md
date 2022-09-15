@@ -56,6 +56,9 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - https://betterhumans.pub/read-less-but-read-better-1a5084211cc6
 - https://www.samjulien.com/shy-dev-networking
 - https://thereader.mitpress.mit.edu/the-time-hack-everyone-should-know/
+- How To Judge People Thoughtfully: https://barry-davret.medium.com/how-to-judge-people-thoughtfully-c4d701fcc224
+- 8 Tips from a Former Cop on How to Read People: https://medium.com/illumination/8-tips-from-a-former-cop-on-how-to-read-people-5c252f140bdc
+- 7 Simple Habits That Save Me Time: https://parkerklein.medium.com/7-simple-habits-that-save-me-time-68deaff36855
 
 ## Videos:
 
@@ -70,6 +73,7 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - https://twitter.com/chrishlad/status/1436692553374388225
 - https://twitter.com/Codie_Sanchez/status/1475831210463092741
 - 10 newsletters that will teach you more than any $150,000 MBA: https://twitter.com/thealexbanks/status/1545438290790060035
+- On Being Efficient With Busy People: https://threadreaderapp.com/thread/1562510420644343810.html
 
 ## Random quotes:
 
@@ -328,7 +332,35 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - Deal with the big while it is still small. - Lao Tzu
 - We first make our habits, and then our habits make us. - John Dryden
 - Always do your best. What you plant now, you will harvest later. - Og Mandino
-- there’s no value in wasting time estimating something that you know is going to change, and making long-term plans based on those estimates is foolhardy - Allen Holub
+- There’s no value in wasting time estimating something that you know is going to change, and making long-term plans based on those estimates is foolhardy - Allen Holub
+- In matters of style swim with the current. In matters of principle, stand like a rock.
+- Science is not a boy's game, it's not a girl's game, it's everyone's game. - Nicehlle Nichols
+- Doing what you love is the cornerstone of having abundance in your life. - Wayne Dyer
+- Experience is simply the name we give our mistakes. - Oscar Wilde
+- Do what you love, not what you think you're supposed to do.
+- We either make ourselves miserable, or we make ourselves strong. The amount of work is the same. - Carlos Castaneda
+- Accept life as it is. Then work to make it the way you want it to be. - Cindy Francis
+- Magic is believing in yourself, if you can do that, you can make anything happen. - Johann Wolfgang Von Goethe
+- Wherever you go, no matter what the weather, always bring your own sunshine. - Anthony J. D'Angelo
+- As you think, so shall you become. - Bruce Lee
+- To accomplish great things, we must not only act, but also dream, not only plan, but also believe. - Anatole France
+- Kindness is the sunshine in which virtue grows. - Robert Green Ingersoll
+- Love the life you live. Live the life you love. - Bob Marley
+- The mind, once stretched by a new idea, never regains its original dimensions - Oliver Wendel Holmes
+- To choose doubt as a philosophy of life is akin to choosing immobility as a means of transportation. - Yann Martel
+- The path to wisdom is paved with humility - Tim Fargo
+- Without new experiences, something inside of us sleeps. The sleeper must awaken. - Frank Herbert
+- Whatever you hold in your mind on a consistent basis is exactly what you will experience in your life. - Tony Robbins
+- A goal should scare you a little, and excite you a lot. - Joe Vitale
+- Today is the most important day of our lives. - Thich Nhat Hanh
+- The greatest education in the world is watching the masters at work. - Michael Jackson
+- Dream big dreams. Small dreams have no magic. - Dottie Boreyko
+- Simplicity is the ultimate sophistication. - Leonardo Da Vinci
+- Life shrinks or expands in proportion to one's courage. -  Anaïs Nin
+- Don't let someone who gave up on their dreams talk you out of going after yours. - Zig Ziglair
+- Within you is a stillness and a sanctuary to which you can retreat at any time and be yourself. - Hermann Hesse
+- Do not go where the path may lead, go instead where there is no path and leave a trail - Ralph Waldo Emerson
+- If I quit now, I will soon be back to where I started. And when I started I was desperately wishing to be where I am now.
 
 ## Books:
 
@@ -347,3 +379,7 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 
 - https://tiddlywiki.com/
 - Obisidian
+
+## Games I wanna play one more time:
+
+- Counter Strike Condition Zero
