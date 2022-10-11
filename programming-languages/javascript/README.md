@@ -92,6 +92,10 @@
 
 - Javascript repos: https://twitter.com/nirbhayvashisht/status/1348139619582238723
 
+## Videos:
+
+- Use npm query and jq to dig into your dependencies: https://www.youtube.com/watch?v=h_ZpixOgKDY
+
 ## Newsletters:
 
 - https://javascriptweekly.com/
@@ -103,9 +107,20 @@
 
 # Typescript
 
+## Websites:
+
+- https://www.useinterface.dev/
+- https://www.totaltypescript.com/
+
 ## Learning:
 
 - https://www.freecodecamp.org/news/learn-typescript-with-this-crash-course/
+- Online course to take your TypeScript skills from intermediate to advanced: https://type-level-typescript.com/
+
+## Help in setting up formatting and linting:
+
+- https://prettier.io/docs/en/integrating-with-linters.html
+- Setup a Node.js project with Typescript, ESLint, Prettier, Husky: https://gist.github.com/silver-xu/1dcceaa14c4f0253d9637d4811948437
 
 ## Blogs and articles:
 
@@ -113,6 +128,7 @@
 - https://dev.to/evansibok/introduction-to-typescript-and-its-basic-types-47i0
 - https://medium.com/@warkiringoda/typescript-best-practices-2021-a58aee199661
 - https://javascript.plainenglish.io/using-typescript-mapped-types-like-a-pro-be10aef5511a
+- https://prettier.io/docs/en/integrating-with-linters.html
 
 ## Videos:
 
@@ -127,3 +143,7 @@
 ## Newsletters:
 
 - https://allthingstypescript.dev/
+
+## Reddit and twitter threads:
+
+- Beginner's TypeScript tutorial from one of the active and good community member of typescript: https://twitter.com/mattpocockuk/status/1575811782220054534

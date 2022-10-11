@@ -25,6 +25,7 @@
 - Accessbility checklist: https://www.a11yproject.com/checklist/
 - https://colors.lol/
 - https://avvvatars.com/
+- https://penpot.app/
 
 ## Blogs and articles:
 
@@ -41,6 +42,8 @@
 - https://pimpmytype.com/wordle/
 - https://uxplanet.org/how-to-improve-your-ui-skills-quickly-8a14631c1dfa
 - Learn the logic of great typography: https://www.learnui.design/tools/typography-tutorial.html
+- The self-taught UI/UX designer roadmap: https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb
+- https://vanschneider.com/blog/young-designers/junior-designers-vs-senior-designers/
 
 ## Blog series/article collection:
 

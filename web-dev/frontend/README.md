@@ -39,6 +39,7 @@
 - https://javascript.info/debugging-chrome
 - Tailoring site themes based on light and dark mode preferences: https://ryanmulligan.dev/blog/themes-and-schemes/
 - Building tabs in web components: https://darn.es/building-tabs-in-web-components/
+
 ### Others:
 
 - Logging in frontend: https://dev.to/ackshaey/level-up-your-javascript-browser-logs-with-these-console-log-tips-55o2
@@ -113,6 +114,8 @@
 - https://css-tricks.com/send-an-http-request-on-page-exit/
 - https://thefullstackdev.net/resource/create-beautiful-website-while-sucking-at-design/
 - https://storybook.js.org/blog/component-encyclopedia/
+- The Ultimate Metaphor for SSR, CSR and Pre-Rendering: https://www.gimtec.io/articles/ssr-csr-pre-rendering/
+- A (Mostly) Complete Guide to React Rendering Behavior: https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/
 
 ## Websites:
 
@@ -227,6 +230,7 @@
 - Building Interoperable Web Components That Even Work With React: https://css-tricks.com/building-interoperable-web-components-react/
 - A thread of my favorite clever CSS tricks: https://threadreaderapp.com/thread/1546657470604382208.html?s=20&t=s6ofZC9jfti56fnsjTMmPQ
 - Help pick a syntax for CSS nesting: https://developer.chrome.com/blog/help-css-nesting/
+- 58 bytes of CSS to make websites look great nearly everywhere: https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41
 
 ## Extensions:
 

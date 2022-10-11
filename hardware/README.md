@@ -25,6 +25,7 @@
 - https://preshing.com/20120930/weak-vs-strong-memory-models/
 - https://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/
 - CHERI: https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/
+- A history of ARM, part 1: Building the first chip: https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/
 
 ## Repos:
 

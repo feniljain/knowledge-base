@@ -36,6 +36,7 @@
     :changes – Show position of last 100 changes
     g; – Vim jumps to the last change you made
     g, – Vim jumps forward through the change list
+- Use Ctrl-t to jump back from a go-to-definition, jumplist get's polluted so using this is very helpful
 
 ## StatusLine:
 

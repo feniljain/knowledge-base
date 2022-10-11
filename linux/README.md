@@ -119,6 +119,8 @@
 - Things to keep in mind when working with POSIX signals: https://pvs-studio.com/en/blog/posts/cpp/0950/
 - https://mazzo.li/posts/fast-pipes.html
 - The Linux Boot Process: https://medium.com/@ibshafique/the-linux-boot-process-180fb07af452
+- GNU ld Discards Section Containing Code – Section Flags are Important for ELF Files: https://phip1611.de/blog/gnu-ld-discards-section-containing-code/
+- https://medium.com/@omchakane/memory-management-in-linux-3b6228aa2de4
 
 ### Others:
 

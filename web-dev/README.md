@@ -68,3 +68,4 @@
 - Clones of various websites: https://github.com/GorvGoyl/Clone-Wars
 - https://fingerprintjs.com/blog/audio-fingerprinting/
 - https://github.com/30-seconds/30-seconds-web
+- A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development: ttps://github.com/dexteryy/spellbook-of-modern-webdev

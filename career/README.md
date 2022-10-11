@@ -19,6 +19,9 @@
 - How To Present Backend Demos: https://rxhl.notion.site/How-To-Present-Backend-Demos-861303c09e3e48fcb33a2a6999260e59
 - Expand Your Scope (Without Losing Your Soul) - A Staff Engineer's Guide to Career Development: https://www.g9labs.com/2021/11/25/expand-your-scope-without-losing-your-soul-a-staff-engineer-s-guide-to-career-development/
 - Senior Engineers are Living in the Future: https://www.zerobanana.com/essays/living-in-the-future/
+- 11 Laws of Software Estimation for Complex Work: https://mdalmijn.com/11-laws-of-software-estimation-for-complex-work/
+- Quiet Quitting is About Loyalty: https://dev.to/codenameone/quiet-quitting-is-about-loyalty-1d6m
+- How to Balance your Engineering Investment: https://refactoring.fm/p/engineering-investments
 
 ## Videos:
 
@@ -28,3 +31,8 @@
 ## Books:
 
 - "What a Good Developer Resume Looks Like" Book : https://thetechresume.com/ ( this can be availed for free too, source: https://blog.pragmaticengineer.com/advice-for-junior-software-engineers/, you just need to email the author of pragmaticengineer )
+
+## Reddit/HN threads and tweets:
+
+- ESOP FAQ for engineers: https://twitter.com/NirantK/status/1504538978158100491
+- Free resume builders: https://twitter.com/hasantoxr/status/1571465364898459648

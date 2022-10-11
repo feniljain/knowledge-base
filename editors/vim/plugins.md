@@ -170,6 +170,9 @@
 - A starting point to setup some lsp related features in neovim: https://github.com/VonHeikemen/lsp-zero.nvim
 - Docker management right inside Neovim!: https://github.com/dgrbrady/nvim-docker
 - Google docs integration for vim/neovim: https://github.com/aadv1k/gdoc.vim
+-  Live grep with args: https://github.com/nvim-telescope/telescope-live-grep-args.nvim
+- It sets vim.ui.select to telescope. That means for example that neovim core stuff can fill the telescope picker: https://github.com/nvim-telescope/telescope-ui-select.nvim
+- https://github.com/ggandor/leap.nvim
 
 ## Some plugins/things I wanna checkout:
 
@@ -198,3 +201,13 @@
 - https://github.com/David-Kunz/markid
 - Isn't this available by default in new version now?: https://github.com/smjonas/inc-rename.nvim
 - https://github.com/lewis6991/gitsigns.nvim *( recommended too much here: https://www.reddit.com/r/neovim/comments/xd57hd/diffviewnvim_vs_fugitive/ )
+- https://www.reddit.com/r/neovim/comments/xg48k9/what_is_the_coolest_unknownish_plugin_that_youre/
+- https://www.youtube.com/watch?v=uL9oOZStezw: Improve usage of `a`, usage of `=ap`, search and replace in select mode
+- https://github.com/AckslD/nvim-neoclip.lua (Checkout the corresponding telescope plugin too)
+- https://github.com/LinArcX/telescope-env.nvim
+- Making cmdheight=0
+- If treesitter fails in nvim 0.8.0: https://www.reddit.com/r/neovim/comments/xw2vjy/treesitter_no_longer_works_after_upgraded_to/
+- https://github.com/folke/noice.nvim: It's from folke, and seems super interesting
+- https://jdhao.github.io/2022/10/05/nvim-v08-release/
+- Simple winbar/statusline plugin that shows your current code context ( Like vscode ) : https://github.com/SmiteshP/nvim-navic
+- What are you going to put into your Winbar: https://www.reddit.com/r/neovim/comments/xxssix/what_are_you_going_to_put_into_your_winbar/

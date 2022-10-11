@@ -131,6 +131,7 @@
 - Running command line tasks in Neovim: https://www.jackfranklin.co.uk/blog/executing-tasks-in-neovim/
 - Pasting Into Command-line Mode: https://medium.com/usevim/vim-101-pasting-into-command-line-mode-db5946a1e8a7
 - Why VIM: https://www.jakeworth.com/why-vim/
+- Avoid option for autoformatting using multiple LSPs dialog: https://neovim.discourse.group/t/autoformat-using-first-option-disable-formatting-on-tsserver/2500
 
 ## VimTricks:
 
@@ -186,6 +187,8 @@
 - How can I display 'lsp loading...' in my statusline when a language server is loading?
 : https://www.reddit.com/r/neovim/comments/uy3lnh/how_can_i_display_lsp_loading_in_my_statusline/
 - https://twitter.com/VImTipsDaily/status/1548600967775621122
+- Courses on NeoVim Configuration/Lua (for neovim): https://www.reddit.com/r/neovim/comments/xhk8sz/courses_on_neovim_configurationlua_for_neovim/
+- Make neovim automatically pick up include paths from Makefile: https://www.reddit.com/r/neovim/comments/xylcvz/search_makefile_for_include_paths/
 
 ## Vimscript:
 

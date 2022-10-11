@@ -8,13 +8,11 @@
 - Repository of academic computer science papers: https://paperswelove.org/
 - https://iris-project.org/
 - A book using [type-effect system](https://en.wikipedia.org/wiki/Effect_system): https://koka-lang.github.io/koka/doc/book.html
-- http://landoflisp.com/
 
 ## Blogs and Articles:
 
 - typedef affect on type system safety garauntees as a whole: https://lexi-lambda.github.io/blog/2020/11/01/names-are-not-type-safety/
 - Const Generics: https://without.boats/blog/shipping-const-generics/
-- https://medium.com/better-programming/why-i-still-lisp-and-you-should-too-18a2ae36bd8
 - https://medium.com/swlh/the-dependency-jungle-841bd1c7bce0
 - https://dlorenc.medium.com/zombie-dependencies-77c34740a7a8
 - https://levelup.gitconnected.com/the-decorator-pattern-in-go-66ed951b0f7c
@@ -40,7 +38,6 @@
 - https://blog.sunfishcode.online/broken-encapsulation/
 - https://www.cbui.dev/how-to-rapidly-improve-at-any-programming-language/
 - https://medium.com/deutsche-telekom-gurgaon/hexagonal-code-architecture-clean-architecture-14ffddf4b9a9
-- http://blog.rongarret.info/2015/05/why-lisp.html
 - https://javascript.plainenglish.io/the-most-common-programming-misconception-interpreted-vs-compiled-languages-5d38e1904c8d
 - https://www.cs.yale.edu/homes/aspnes/pinewiki/AbstractDataTypes.html
 - The history of standard ML: https://smlfamily.github.io/history/
@@ -50,7 +47,6 @@
 - Implementing Functional Languages: https://www.microsoft.com/en-us/research/wp-content/uploads/1992/01/student.pdf
 - https://en.wikipedia.org/wiki/Effect_system
 - https://stackoverflow.com/questions/1801216/what-is-the-difference-between-multiple-dispatch-and-method-overloading/1801230
-- https://joshbradley.me/understanding-the-power-of-lisp/
 - Debunking V languages false claims: https://christine.website/blog/v-vaporware-2019-06-23
 - https://blog.sigplan.org/2022/01/13/provably-space-efficient-parallel-functional-programming/
 - https://www.fluentcpp.com/2022/01/24/programming-paradigm-gives-expressive-code/
@@ -153,9 +149,22 @@
 
 ## Lisp:
 
+### Websites:
+
+- http://landoflisp.com/
+
 ### Reddit and twitter thrads:
 
 - LISP Learning resources: https://www.reddit.com/r/lisp/comments/bavxir/what_are_good_resources_to_start_learning_lisp/
+- The First Lisp Compiler: https://texdraft.github.io/lisp-compiler/internals.html
+- Lisp interpreter in Rust: https://vishpat.github.io/lisp-rs/
+- https://medium.com/better-programming/why-i-still-lisp-and-you-should-too-18a2ae36bd8
+- https://joshbradley.me/understanding-the-power-of-lisp/
+- http://blog.rongarret.info/2015/05/why-lisp.html
+
+### Repos:
+
+- https://github.com/susam/mathb
 
 ## C and CPP
 

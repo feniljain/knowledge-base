@@ -91,6 +91,8 @@
 - How SQLite Scales Read Concurrency: https://fly.io/blog/sqlite-internals-wal/
 - Redis Explained: https://architecturenotes.co/redis/
 - Write-ahead logging and the ARIES crash recovery algorithm: https://sookocheff.com/post/databases/write-ahead-logging/
+-  How Unique Index Works in postgres: https://www.highgo.ca/2022/09/30/how-unique-index-works-in-pg/
+- http://blog.cleverelephant.ca/2022/10/postgresql-links.html
 
 ## Blog Series:
 
@@ -109,6 +111,9 @@
 ## Tutorials:
 
 - Make your own simple database: https://cstack.github.io/db_tutorial/
+- Build a NoSQL Database From Scratch in 1000 Lines of Code: https://betterprogramming.pub/build-a-nosql-database-from-the-scratch-in-1000-lines-of-code-8ed1c15ed924
+- Subreddit dedicated sepcifically to database development: https://www.reddit.com/r/databasedevelopment/comments/unj8d1/getting_started_with_database_development/
+- Writing your own PostgreSQL driver: https://medium.com/scum-gazeta/writing-your-own-postgresql-driver-ebd5fd6d187d
 
 ## Books:
 
@@ -122,6 +127,7 @@
 - https://github.com/pingcap/dumpling
 - OpenSource alternative to mongodb: https://github.com/MangoDB-io/MangoDB
 - Distributed open source platform for change data capture: https://github.com/debezium
+- Awesome materials about database development: https://github.com/huachaohuang/awesome-dbdev
 
 ## Reddit, twitter and ycombinator threads:
 

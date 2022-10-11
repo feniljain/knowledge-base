@@ -48,6 +48,7 @@
 - https://medium.com/@michealkeines/history-operating-systems-96b98b31411b
 - https://en.wikipedia.org/wiki/Address_space_layout_randomization
 - https://en.wikipedia.org/wiki/Position-independent_code
+- What is memory? Part 3: Registers, stacks, and threads: https://www.bytelab.codes/what-is-memory-part-3-registers-stacks-and-threads/
 
 ## Blog series/Articles collections:0
 

@@ -127,6 +127,9 @@
 - Engineer distributes resume via IPv6 traceroute: https://news.ycombinator.com/item?id=3260958
 - Detection of Half-Open (Dropped) Connections: https://blog.stephencleary.com/2009/05/detection-of-half-open-dropped.html
 - TCP/IP Resources: https://blog.stephencleary.com/2009/05/tcpip-resources.html
+- https://jvns.ca/blog/2022/09/12/why-do-domain-names-end-with-a-dot-/
+- Network Troubleshooting, No, It's Not Always DNS: https://thesoloadmin.com/no-its-not-always-dns/
+- How wireless frames are delivered: https://medium.com/@hnasr/mac-addresses-in-wireless-5ed9b83714d0
 
 ## Books:
 

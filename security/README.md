@@ -6,6 +6,7 @@
 - https://tryhackme.com/
 - https://securityheaders.com/
 - the cryptopals crypto challenges: https://cryptopals.com/
+- https://h4ck1ng.google/
 
 ## Blogs and articles:
 

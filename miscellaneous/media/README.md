@@ -14,6 +14,7 @@
 - https://movieminions.to/
 - https://lookmovie2.to/
 - https://myflixer.is/
+- Spotify Playlist Lookup can be used to find Spotify playlists by songs that they contain: https://playlists.dags.dev/
 
 # Blogs and articles:
 

@@ -43,6 +43,7 @@
 - Ingesting Live Video Streams at Global Scale
 : https://blog.twitch.tv/en/2022/04/26/ingesting-live-video-streams-at-global-scale/
 - https://blog.quastor.org/p/twitch-processes-millions-video-streams
+- https://www.liveswitch.io/blog/webrtc-as-good-as-http-live-streaming
 
 ## Blog series/articles collection:
 

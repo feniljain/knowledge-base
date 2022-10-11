@@ -56,6 +56,9 @@
 - How Developers Stop Learning: Rise of the Expert Beginner: https://daedtech.com/how-developers-stop-learning-rise-of-the-expert-beginner/
 - How Software Groups Rot: Legacy of the Expert Beginner: https://daedtech.com/how-software-groups-rot-legacy-of-the-expert-beginner/
 - Epigrams on Programming: http://pu.inf.uni-tuebingen.de/users/klaeren/epigrams.html
+- Short time file uploader: https://temp.sh/
+- https://devdocs.io/
+- Offline documentation browser for software developers: https://zealdocs.org/
 
 ## Blogs and Articles:
 
@@ -188,6 +191,10 @@
 - The quick and practical "MSI" hash table: https://nullprogram.com/blog/2022/08/08/
 - How to Ask for Programming Help: https://codingkilledthecat.wordpress.com/2012/06/26/how-to-ask-for-programming-help/
 - Software Engineering Research Questions: https://neverworkintheory.org/2022/08/30/software-engineering-research-questions.html
+- DRY Considered Harmful: https://matt-rickard.com/dry-considered-harmful
+- The Steffen Boarding Method( Algorithms behind boarding ): https://matt-rickard.ghost.io/the-steffen-boarding-method/
+- What’s the best lossless image format? Comparing PNG, WebP, AVIF, and JPEG XL: https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl
+- Software engineering practices: https://simonwillison.net/2022/Oct/1/software-engineering-practices/
 
 ### Tutorials:
 
@@ -198,6 +205,7 @@
 - Damn good articles on general programming stuff: https://journal.stuffwithstuff.com/category/code/
 - https://www.samjulien.com/writing
 - https://www.huy.rocks/everyday
+- https://vikramoberoi.com/
 
 ## Newsletters;
 
@@ -249,6 +257,7 @@
 - This is what happened to Aaron Swartz: https://www.youtube.com/watch?v=9vz06QO3UkQ
 - How PNG Works: Compromising Speed for Quality: https://www.youtube.com/watch?v=EFUYNoFRHQI
 - Introduction to Use-After-Free Vulnerabilities: https://www.youtube.com/watch?v=PKqMsaKGdlM
+- Everything about video technology: https://www.youtube.com/watch?v=ztYNir9BDoY
 
 ## Funny Videos:
 
@@ -323,6 +332,10 @@
 - Jargon from the functional programming world in simple terms: https://github.com/hemanth/functional-programming-jargon
 - https://github.com/jorgef/engineeringladders
 - Pointers to useful, well-written, and otherwise beautiful documentation: https://github.com/matheusfelipeog/beautiful-docs
+- Curated list of project-based tutorials: https://github.com/practical-tutorials/project-based-learning
+- A curated collection of diagramming tools used by software engineering teams: https://github.com/shubhamgrg04/awesome-diagramming
+- Facts about state machines: https://github.com/cpressey/Facts-about-State-Machines
+- When Bloom filters don't bloom: https://blog.cloudflare.com/when-bloom-filters-dont-bloom/
 
 ## Extensions:
 
@@ -349,7 +362,6 @@
 - Alex Petrov's Database Internals
 - https://medium.com/pragmatic-programmers/directory-of-pragmatic-programmer-books-on-medium-6a5cbadbd4b4
 - https://dev.to/jordienr/4-books-that-are-not-about-computers-that-made-me-a-good-software-developer-2hac
-- Learning type theory: https://www.reddit.com/r/math/comments/k41lla/category_and_type_theory_which_should_i_learn/
 - https://www.manning.com/books/the-programmers-brain
 - Software Engineering at Google: https://abseil.io/resources/swe_at_google.2.pdf
 - http://gchandbook.org/
@@ -365,6 +377,8 @@
   - Donald Reinertsen, The Principles of Product Development Flow
   - Eric Normand, Grokking Simplicity
 - Quirky Programming Books: https://github.com/fogus/thunks/blob/main/reading/quirkeys.org
+- The Guide for Growing as a Software Engineer: https://www.engguidebook.com/
+- Fundamentals of Control Theory: https://engineeringmedia.com/books
 
 ## Tools:
 

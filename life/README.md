@@ -59,6 +59,7 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - How To Judge People Thoughtfully: https://barry-davret.medium.com/how-to-judge-people-thoughtfully-c4d701fcc224
 - 8 Tips from a Former Cop on How to Read People: https://medium.com/illumination/8-tips-from-a-former-cop-on-how-to-read-people-5c252f140bdc
 - 7 Simple Habits That Save Me Time: https://parkerklein.medium.com/7-simple-habits-that-save-me-time-68deaff36855
+- Emotions Aren’t the Enemy of Good Decision-Making: https://hbr.org/2022/09/emotions-arent-the-enemy-of-good-decision-making
 
 ## Videos:
 
@@ -361,6 +362,17 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - Within you is a stillness and a sanctuary to which you can retreat at any time and be yourself. - Hermann Hesse
 - Do not go where the path may lead, go instead where there is no path and leave a trail - Ralph Waldo Emerson
 - If I quit now, I will soon be back to where I started. And when I started I was desperately wishing to be where I am now.
+- You can't climb the ladder of success with your hands in your pockets. - Arnold Schwarzenegger
+- Everything is possible. The impossible just takes longer. - Dan Brown
+- This is the real secret to life—to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play. - Alan Watts
+- Your mind is for having ideas, not holding them. — David Allen
+- As you start to walk out on the way, the way appears. - Rumi
+- A positive attitude causes a chain reaction of positive thoughts, events, and outcomes. - Wade Boggs
+- Try to be a rainbow in someone's cloud. - Mary Angelou
+- We won't be distracted by comparison if we are captivated with purpose. - Bob Goff
+- Why fit in when you were born to stand out? - Dr. Seuss
+- Inside of every problem lies an opportunity. - Robert Kiyosaki
+- Change is the essence of life; be willing to surrender what you are for what you could become. - Reinhold Niebuhr
 
 ## Books:
 

@@ -43,6 +43,7 @@
 - https://blog.aquasec.com/a-brief-history-of-containers-from-1970s-chroot-to-docker-2016
 - Bringing Seccomp Notify to Runc and Kubernetes: https://kinvolk.io/blog/2022/03/bringing-seccomp-notify-to-runc-and-kubernetes/
 - What's Inside Of a Distroless Image - Taking a Deeper Look: https://iximiuz.com/en/posts/containers-distroless-images/
+- https://www.zdnet.com/google-amp/article/chainguard-releases-wolfi-a-linux-undistribution/
 
 ## Interesting Images:
 
@@ -80,6 +81,7 @@
 - https://gitlab.com/wyrcan/wyrcan/
 - https://github.com/krol3/container-security-checklist
 - https://github.com/docker-slim/docker-slim
+- https://github.com/iximiuz/awesome-container-tinkering
 
 ## Learning
 

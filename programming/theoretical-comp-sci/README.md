@@ -11,6 +11,7 @@
 - https://cp4space.hatsya.com/2022/01/14/conway-conjecture-settled/
 - https://en.wikipedia.org/wiki/Liskov_substitution_principle
 - https://newsletter.papersyoumightlove.pl/archive/benchmarking-with-stabilizer-begone-eyeball/
+- Category Theory for Programmers: The Preface: https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
 
 ## Repos:
 

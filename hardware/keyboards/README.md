@@ -12,6 +12,7 @@
 - https://drop.com/
 - Electronics amazon for india: https://robu.in/
 - https://www.wasdkeyboards.com/
+- https://learn.dvorak.nl/
 
 ## Specifically for India:
 

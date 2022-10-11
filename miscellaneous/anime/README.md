@@ -36,6 +36,8 @@
 - Rage of Bahamut
 - Lupin the Third
 - Lycoris Recoil
+- Cyberpunk: Edgerunners
+- C Danchi: Horror ( check how it is before starting tho )
 
 ## Mecha and Space:
 
@@ -111,6 +113,7 @@
 - Deatte 5-byou de Battle
 - Platinum End
 - Mononoke
+- Toilet-bound Hanako-kun
 
 ## Adventure and Magic(supernatural):
 
@@ -227,6 +230,7 @@
 - Keijo
 - 2.43
 - sk8 the infinity
+- Blue Lock ( recommendation from here: https://www.youtube.com/watch?v=NH4DwFLlbHU )
 
 ## Isekai:
 
@@ -293,6 +297,7 @@
 ## Videos:
 
 - 101 animes you must watch: https://www.youtube.com/watch?v=2ABUikD2-AY
+- The Horror Anime & Manga Iceberg Explained: https://www.youtube.com/watch?v=VNQaWeChKZQ
 
 ## Reddit:
 

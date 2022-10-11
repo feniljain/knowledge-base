@@ -59,21 +59,24 @@
 - As a developer, how to estimate the time for a task?: https://blog.peerlist.io/as-a-developer-how-to-estimate-the-time-for-a-task
 - Growing a Junior-Heavy Team: https://newsletter.pragmaticengineer.com/p/growing-a-junior-team
 - Shortest URLs on the Internet: https://jameswillia.ms/posts/shortest-urls.html
+- https://www.swarmia.com/blog/daily-stand-ups/
 
 ## Blog series/Articles collection:
 
 - https://forge.medium.com/how-to-write-anything/home
 - https://www.netmeister.org/blog/
 
-## Reddit threads and tweets:
+## Reddit/HN threads and tweets:
 
 - https://www.reddit.com/r/linuxquestions/comments/nz6cfm/i_completed_my_thesis_in_libreoffice_writer_ask/
-- ESOP FAQ for engineers: https://twitter.com/NirantK/status/1504538978158100491
+- How do you find the weird parts of the web?: https://news.ycombinator.com/item?id=32804832
 
 ## Videos:
 
 - 5 ways a person is sitting wrong at your desk: https://www.youtube.com/watch?v=Ree1CWifQTg
 - Inbox Zero Tutorial (Step-by-step Instructions): https://www.youtube.com/watch?v=9ql1CQfxWxQ
+- How To Use Anki: https://www.youtube.com/watch?v=WmPx333n5UQ
+- The art of asking the right questions: https://www.youtube.com/watch?v=tYnGiWlwcj4
 
 ## Cheatsheets:
 
@@ -139,10 +142,12 @@
 - https://github.com/LappleApple/awesome-leading-and-managing
 - https://trilarion.github.io/opensourcegames/
 - Allows you easily scan for and delete scam comments using several methods : https://github.com/ThioJoe/YT-Spammer-Purge
+- Flashcard app in your terminal ( has support for Anki too ): https://github.com/TBS1996/speki
 
 ## Newsletters:
 
 - The data-driven newsletter for the modern investor: https://specterhq.substack.com/
+- https://refind.com/
 
 ## Free Creds:
 

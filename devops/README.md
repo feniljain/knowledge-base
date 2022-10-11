@@ -14,6 +14,8 @@
 - Observability learning resources: https://o11y.love/learning-resources/#talks
 - https://sysadminday.com/
 - Hands on lab for devops stuff: https://prod.cloudyuga.guru/hands_on_lab/
+- Visualize your cloud architecture like a pro. Create smart AWS diagrams: https://www.cloudcraft.co/
+- Visualize your cloud architecture: https://www.cloudskew.com/
 
 ## Blogs and Articles:
 
@@ -115,7 +117,6 @@
 - https://github.com/salesforce/cloudsplaining
 - https://github.com/nats-io
 - https://github.com/haad/proxychains
-- https://github.com/binhnguyennus/awesome-scalability/
 - https://github.com/actions/virtual-environments
 - https://github.com/bregman-arie/howtheydevops
 - https://github.com/graviraja/MLOps-Basics
@@ -145,6 +146,12 @@
 - Top books for devsecops: https://twitter.com/furkanturkaI/status/1481226955739394052
 
 ## AWS:
+
+## Websites:
+
+- Amazon EC2 instance comparison tool: https://instances.vantage.sh/
+
+## Blogs and articles:
 
 - https://medium.com/nerd-for-tech/system-design-choosing-between-aws-kinesis-and-aws-sqs-2586c814be8d
 - AWS related blogs: https://awsteele.com/

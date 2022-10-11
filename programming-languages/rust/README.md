@@ -43,6 +43,9 @@
 - Artworks for ferris: https://rustacean.net/
 - https://rust-formal-methods.github.io/
 - Buttplug: Sex Toy Control Software implemented in Rust: https://buttplug.io/ ( :joy: )
+- https://www.whatrustisit.com/
+- https://caniuse.rs/
+- https://releases.rs/
 
 ## Blogs and Articles:
 
@@ -299,6 +302,8 @@
 - Zero-Copy Deseralizations in rust: https://manishearth.github.io/blog/2022/08/03/zero-copy-1-not-a-yoking-matter/
 -  More Enum Types: https://blog.yoshuawuyts.com/more-enum-types/
 - Pattern Matching and Backwards Compatibility: https://seanmonstar.com/post/693574545047683072/pattern-matching-and-backwards-compatibility
+- You Can't Do That: Abstracting over Ownership in Rust with Higher-Rank Type Bounds. Or Can You?: https://lucumr.pocoo.org/2022/9/11/abstracting-over-ownership/
+- Awesome writeup on understanding Cow in rust: https://dev.to/kgrech/6-things-you-can-do-with-the-cow-in-rust-4l55
 
 ### Others:
 
@@ -385,6 +390,7 @@
 - http://blog.pnkfx.org/blog/2022/05/12/linking-rust-crates/
 - Static streams for faster async proxies: https://blog.adamchalmers.com/streaming-proxy/
 - A byte string library for Rust: https://blog.burntsushi.net/bstr/
+- Index 1,600,000,000 Keys with Automata and Rust: https://blog.burntsushi.net/transducers/
 
 ## Blog Series/Collection of articles:
 
@@ -749,6 +755,7 @@
 - https://www.reddit.com/r/WebRTC/comments/v6net1/so_what_is_a_webrtc_ip_leak_test/
 - Nuggets about each and every (strict) Rust keyword [Twitter thread]: https://www.reddit.com/r/rust/comments/vicx4r/nuggets_about_each_and_every_strict_rust_keyword/
 - Why Rust is named "Rust": https://www.reddit.com/r/rust/comments/27jvdt/internet_archaeology_the_definitive_endall_source/
+- Awesome Rust Community of people contributing to rust ecosystem: https://twitter.com/i/lists/1574178325010022402
 
 ## Rust Learning:
 

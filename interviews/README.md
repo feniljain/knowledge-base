@@ -126,6 +126,7 @@
 - Only have a limited amount of time to prep for an interview?: https://twitter.com/RandallKanna/status/1440333760482873345
 - 10 GitHub repositories for interview preparation for Software Developers: https://twitter.com/sunilc_/status/1520423774260060161
 - "Who is hiring(June 2022)": https://news.ycombinator.com/item?id=31582796
+- How to answer "Why should we hire you?": https://twitter.com/oliverjumpertz/status/1570739488787251201
 
 ## CC:
 
@@ -159,6 +160,7 @@
 ### Twitter and reddit threads:
 
 - Tips on attempting contests: https://twitter.com/Priyansh_31Dec/status/1492746603387506688
+- Common DataStructures and where to learn them from: https://twitter.com/oliverjumpertz/status/1572540653669605378
 
 ### Books:
 

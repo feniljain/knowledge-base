@@ -17,6 +17,7 @@
 - Let’s take a crack at understanding distributed consensus: https://www.preethikasireddy.com/post/lets-take-a-crack-at-understanding-distributed-consensus
 - Fixed Partitions: https://martinfowler.com/articles/patterns-of-distributed-systems/fixed-partitions.html
 - Emergent Leader: https://martinfowler.com/articles/patterns-of-distributed-systems/emergent-leader.html
+- Distributed System Models in the Real World: https://sookocheff.com/post/distributed-systems/distributed-system-models-in-the-real-world/
 
 ## Videos:
 
@@ -30,3 +31,7 @@
 ## Repos:
 
 - Circuit breaker library: https://github.com/Netflix/Hystrix
+
+## Books:
+
+- https://understandingdistributed.systems/

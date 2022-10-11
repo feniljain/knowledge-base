@@ -112,6 +112,14 @@
 - ICE connected or not: https://blog.mozilla.org/webrtc/ice-disconnected-not/
 - State of Open Source WebRTC Projects Aug 2022: https://bloggeek.me/state-of-webrtc-open-source-projects/
 - Did I choose the right WebRTC stack?: https://webrtc-developers.com/did-i-choose-the-right-webrtc-stack/
+- The WebRTC Story - Part I: https://webrtc-developers.com/the-webrtc-story-part-i/
+- WebRTC Simulcast: What It Is and How It Works: https://www.wowza.com/blog/webrtc-simulcast-what-it-is-and-how-it-works
+- Video API, CPaaS, programmability and WebRTC: https://bloggeek.me/video-api-cpaas-programmability-webrtc/
+- WebRTC simulcast and ABR – two sides of the same coin: https://bloggeek.me/webrtc-simulcast-and-abr-two-sides-of-the-same-coin/
+- Different types of latency measurements in WebRTC: http://www.rtcbits.com/2022/10/different-types-of-latency-measurements.html
+- WebRTC is the most secure VoIP protocol: https://bloggeek.me/webrtc-is-the-most-secure-voip-protocol/
+- A new Pure Go implementation of the Opus Codec: https://pion.ly/blog/pion-opus/
+- Post-Peak WebRTC Developer Trends: An Open Source Analysis (has links to some nice repos in the article): https://webrtchacks.com/webrtc-developer-trends-2022/
 
 ### Tutorials:
 
@@ -164,6 +172,10 @@
 - WebRTC based Scalable, High Performance, Open source web conferencing system using Livekit: https://github.com/mynaparrot/plugNmeet-server
 - Custom elements for working with media in the browser that Just Work: https://github.com/muxinc/elements/
 - Simple useful interoperability tests for WebRTC libraries: https://github.com/sipsorcery/webrtc-echoes
+- The fastest and safest AV1 encoder: https://github.com/xiph/rav1e
+- Pure-rust opus decoder: https://github.com/lu-zero/opus
+-  Lyra V2 - a better, faster, and more versatile speech codec: https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html
+- Where's my stream? TURN Server debugging: https://dev.epicgames.com/community/learning/tutorials/VY4X/unreal-engine-where-s-my-stream-turn-server-debugging-for-pixel-streaming
 
 ## Useful SO questions:
 
@@ -177,6 +189,7 @@
 
 - What other SFUs are easy to integrate with existing node signaling besides mediasoup?: https://www.reddit.com/r/WebRTC/comments/sly8wy/what_other_sfus_are_easy_to_integrate_with/
 - Amazon Special Projects Team - building real-time video/audio communication application: https://www.reddit.com/r/WebRTC/comments/t9l98g/amazon_special_projects_team_building_realtime/
+- Discord servers to discuss webrtc: https://www.reddit.com/r/WebRTC/comments/y07hab/discord_server_to_discuss_webrtc/
 
 ## Discuss-WebRTC google group discussions:
 

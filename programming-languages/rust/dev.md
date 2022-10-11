@@ -7,6 +7,7 @@
 - http://smallcultfollowing.com/babysteps/blog/2018/04/27/an-alias-based-formulation-of-the-borrow-checker/
 - http://smallcultfollowing.com/babysteps/blog/2019/01/17/polonius-and-region-errors/
 - http://smallcultfollowing.com/babysteps/blog/2019/01/21/hereditary-harrop-region-constraints/
+- https://nnethercote.github.io/2022/10/05/quirks-of-rusts-token-representation.html
 
 ## Books:
 

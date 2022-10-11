@@ -80,6 +80,8 @@
 - BTFGen: One Step Closer to Truly Portable eBPF Programs: https://kinvolk.io/blog/2022/03/btfgen-one-step-closer-to-truly-portable-ebpf-programs/
 - How the Hive Came to Bee: A Technical Deep Dive of eBPF: https://isovalent.com/how-the-hive-came-to-bee-ebpf-a-technical-deep-dive-webinar/
 - Long-lived kernel pointers in BPF: https://www.bytelab.codes/long-lived-kernel-pointers-in-bpf/
+- A Deep Dive into eBPF: Writing an Efficient DNS Monitoring: https://medium.com/@nurkholish.halim/a-deep-dive-into-ebpf-writing-an-efficient-dns-monitoring-2c9dea92abdf
+- Journey to libbpf 1.0: https://nakryiko.com/posts/libbpf-v1/
 
 ### Tutorials:
 
@@ -87,6 +89,7 @@
 - Tracing a packet journey using Linux tracepoints, perf and eBPF: https://blog.yadutaf.fr/2017/07/28/tracing-a-packet-journey-using-linux-tracepoints-perf-ebpf/
 - eBPF XDP: The Basics and a Quick Tutorial: https://www.tigera.io/learn/guides/ebpf/ebpf-xdp/
 - Great slide deck (almost 200 slides 🤯) diving into the code of the verifier and how it works: https://docs.google.com/presentation/d/1abYBW7L8kAupgG9YkFPRGayZSXm9hGv_Dvp7ADBkfyg/edit?_hsmi=222229515&_hsenc=p2ANqtz--Mezgv_HpDcGHycEWNE2-JaCkv7bvGchuax6KuCx_6aMvjY62ti2rwJPCbwwRK1Cw5b8K58iSrdr8e-2GqQxn2LFjwFw#slide=id.p1
+- Building an eBPF based profiler for both compiled and interpreted languages: https://www.containiq.com/post/building-an-ebpf-based-profiler
 
 ## Dev:
 
@@ -163,7 +166,6 @@
 - An eBPF playground: https://github.com/quarkslab/peetch
 - Use this as skeleton for your eBPF golang application: https://github.com/rafaeldtinoco/drafts
 - a prototype networking bpf loader: https://github.com/redhat-et/bpfd
-- Journey to libbpf 1.0: https://nakryiko.com/posts/libbpf-v1/
 
 ## Reddit and twitter threads:
 

@@ -241,6 +241,7 @@
 - Writing compiler in Go: https://compilerbook.com/
 - Writing interpreter in Go: https://interpreterbook.com/
 - List of Golang books: https://github.com/dariubs/GoBooks
+- https://itnext.io/my-golang-bookshelf-the-amazing-good-and-not-recommended-8fb362c8cb37
 
 ## Videos:
 
@@ -254,6 +255,7 @@
 - Runes in Detail: https://www.youtube.com/watch?v=7isCXLWPTqI
 - Using NATS: https://www.youtube.com/watch?v=AhnL5addsVo&list=PLDWZ5uzn69ex0U5MmbKWorsTuVBgUePxw&index=8
 - Deadlocks: The Dark Side of Concurrency: https://www.youtube.com/watch?v=9j0oQkqzhAE&list=PLDWZ5uzn69ex0U5MmbKWorsTuVBgUePxw&index=7
+- Memory layout and mechanics of arrays and slices: https://www.youtube.com/watch?v=RVTfPy_NELc
 
 ## Go in prod:
 
@@ -404,6 +406,9 @@
 - A Guide to the Go Garbage Collector: https://tip.golang.org/doc/gc-guide
 - The Go Memory Model: https://tip.golang.org/ref/mem
 - A Guide to the Go Garbage Collector: https://go.dev/doc/gc-guide
+- Inside the Go CPU profiler: https://sumercip.com/posts/inside-the-go-cpu-profiler/
+- Redefining for loop variable semantics: https://github.com/golang/go/discussions/56010
+- Control Theory and Concurrent Garbage Collection: https://speakerdeck.com/player/9731feccdd754e239b3b59765fd3dbb8
 
 # Go Learning:
 

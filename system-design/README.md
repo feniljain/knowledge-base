@@ -101,6 +101,7 @@
 - Four Strategies to Handle Backpressure: https://www.infoq.com/news/2019/10/reactiveconf-2019-backpressure/
 - Design Patterns and Principles That Support Large Scale Systems: https://medium.com/everything-full-stack/design-patterns-and-principles-that-support-large-scale-systems-f3c9adf89ad
 - Computing Live stream viewers count in real time at High Scale: https://engg.glance.com/computing-live-stream-viewers-count-in-real-time-at-high-scale-ef813bc1b9cb
+- How Razorpay’s Notification Service Handles Increasing Load: https://engineering.razorpay.com/how-razorpays-notification-service-handles-increasing-load-f787623a490f
 
 ## Repos:
 
@@ -108,7 +109,8 @@
 - https://github.com/mehdihadeli/awesome-software-architecture
 - https://github.com/mhadidg/software-architecture-books
 - https://github.com/tobiashochguertel/c4-draw.io
--  A curated list of software and architecture related design patterns: https://github.com/DovAmir/awesome-design-patterns
+- A curated list of software and architecture related design patterns: https://github.com/DovAmir/awesome-design-patterns
+- https://github.com/binhnguyennus/awesome-scalability/
 
 ## Blog series:
 

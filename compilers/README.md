@@ -115,7 +115,6 @@
 - TypeScript / How the compiler compiles: https://www.huy.rocks/everyday/04-01-2022-typescript-how-the-compiler-compiles
 - https://towardsdev.com/rust-techniques-for-compiler-engineers-9a5368f7037b
 - https://sunfishcode.github.io/blog/2018/10/22/Canonicalization.html
-- The First Lisp Compiler: https://texdraft.github.io/lisp-compiler/internals.html
 - Branch/cmove and compiler optimizations: https://kristerw.github.io/2022/05/24/branchless/
 - Cranelift, Part 4: A New Register Allocator: https://cfallin.org/blog/2022/06/09/cranelift-regalloc2/
 - Immix collection algorithm for GCs: https://wingolog.org/archives/2022/06/15/defragmentation
@@ -125,6 +124,11 @@
 - Parent links in Go ASTs: https://eli.thegreenplace.net/2022/parent-links-in-go-asts/
 - Dora: Implementing a JIT-compiler with Rust: https://dinfuehr.github.io/blog/dora-implementing-a-jit-compiler-with-rust/
 - Tracing JIT: https://en.wikipedia.org/wiki/Tracing_just-in-time_compilation
+- Understanding JIT Optimizations by Decompilation: https://www.infoq.com/presentations/jit-optimize-decompile-shopify/
+- https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/
+- Understand the Trade-offs of Using Compilers for Java Applications: https://www.infoq.com/presentations/tradeoffs-java-compilers/
+- The Solid-State Register Allocator: https://www.mattkeeter.com/blog/2022-10-04-ssra/
+- Reverse Linear Scan Allocation is probably a good idea: http://brrt-to-the-future.blogspot.com/2019/03/reverse-linear-scan-allocation-is.html
 
 ## Blog series/Articles collection:
 
@@ -155,6 +159,7 @@
 - Where can I learn how code formatters are written?: https://www.reddit.com/r/Compilers/comments/u6scwd/where_can_i_learn_how_code_formatters_are_written/
 - Min. requirements for a Self-Hosting Compilers: https://www.reddit.com/r/Compilers/comments/u8vzsy/selfhosting_compilers/
 - Resources for building a type-checker: https://www.reddit.com/r/ProgrammingLanguages/comments/v5zwlw/resources_for_building_a_typechecker/
+- Benefits of `nop` in a VM instruction set: https://www.reddit.com/r/ProgrammingLanguages/comments/xw75mw/are_there_any_benefits_to_defining_an_explicit/
 
 ## Repos:
 
@@ -217,7 +222,6 @@
 - Writing compiler in Go: https://compilerbook.com/
 - Writing interpreter in Go: https://interpreterbook.com/
 - PRACTICAL COMPILER CONSTRUCTION: A No-nonsense Tour through a C Compiler: http://t3x.org/reload/
-- Lisp interpreter in Rust: https://vishpat.github.io/lisp-rs/
 - https://www3.nd.edu/~dthain/compilerbook/
 
 ## Interesting rust-analyzer issues:
