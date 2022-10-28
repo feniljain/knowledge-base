@@ -165,6 +165,7 @@
 ### Repos:
 
 - https://github.com/susam/mathb
+- Make a Lisp: https://github.com/kanaka/mal
 
 ## C and CPP
 
@@ -257,3 +258,14 @@
 ### Blogs and articles:
 
 - Carbon’s most exciting feature is its calling convention: https://www.foonathan.net/2022/07/carbon-calling-convention/
+
+## Swift:
+
+### Books:
+
+- https://docs.swift.org/swift-book/
+
+### Blogs and articles:
+
+- Compiling Swift Generics: https://forums.swift.org/t/compiling-swift-generics-part-i/60898
+- Vision for macros in Swift: https://forums.swift.org/t/a-possible-vision-for-macros-in-swift/60900/1

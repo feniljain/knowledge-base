@@ -95,6 +95,7 @@
 ## Videos:
 
 - Use npm query and jq to dig into your dependencies: https://www.youtube.com/watch?v=h_ZpixOgKDY
+- The "type annotations" proposal and what it’s all about: https://www.youtube.com/watch?v=5A-_mPNo2nQ
 
 ## Newsletters:
 

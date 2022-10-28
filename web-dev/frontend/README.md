@@ -7,6 +7,7 @@
 - A set of over 1700 free MIT-licensed high-quality SVG icons for you to use in your web projects: https://github.com/tabler/tabler-icons
 - https://webcolorisstillbroken.com/
 - Free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React: https://www.patterns.dev/
+- https://domevents.dev/
 
 ## Videos:
 

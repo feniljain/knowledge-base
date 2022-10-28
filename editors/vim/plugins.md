@@ -173,6 +173,7 @@
 -  Live grep with args: https://github.com/nvim-telescope/telescope-live-grep-args.nvim
 - It sets vim.ui.select to telescope. That means for example that neovim core stuff can fill the telescope picker: https://github.com/nvim-telescope/telescope-ui-select.nvim
 - https://github.com/ggandor/leap.nvim
+- https://github.com/tamton-aquib/duck.nvim
 
 ## Some plugins/things I wanna checkout:
 
@@ -211,3 +212,6 @@
 - https://jdhao.github.io/2022/10/05/nvim-v08-release/
 - Simple winbar/statusline plugin that shows your current code context ( Like vscode ) : https://github.com/SmiteshP/nvim-navic
 - What are you going to put into your Winbar: https://www.reddit.com/r/neovim/comments/xxssix/what_are_you_going_to_put_into_your_winbar/
+- https://github.com/kevinhwang91/nvim-hlslens
+    - Also checkout `searchcount` in lualine
+- https://github.com/Tsuzat/NeoSolarized.nvim

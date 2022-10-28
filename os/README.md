@@ -49,6 +49,7 @@
 - https://en.wikipedia.org/wiki/Address_space_layout_randomization
 - https://en.wikipedia.org/wiki/Position-independent_code
 - What is memory? Part 3: Registers, stacks, and threads: https://www.bytelab.codes/what-is-memory-part-3-registers-stacks-and-threads/
+- Understand Heap Memory Allocation: A Hands-on Approach: https://levelup.gitconnected.com/understand-heap-memory-allocation-a-hands-on-approach-775151caf2ea
 
 ## Blog series/Articles collections:0
 

@@ -129,6 +129,9 @@
 - Understand the Trade-offs of Using Compilers for Java Applications: https://www.infoq.com/presentations/tradeoffs-java-compilers/
 - The Solid-State Register Allocator: https://www.mattkeeter.com/blog/2022-10-04-ssra/
 - Reverse Linear Scan Allocation is probably a good idea: http://brrt-to-the-future.blogspot.com/2019/03/reverse-linear-scan-allocation-is.html
+- Zig Compiler Internals: https://mitchellh.com/zig
+- Syntax Design: https://cs.lmu.edu/~ray/notes/syntaxdesign/
+- When is JIT Faster Than A Compiler?: https://shopify.engineering/when-jit-faster-than-compiler
 
 ## Blog series/Articles collection:
 
@@ -180,6 +183,7 @@
 - All LLVM's analysis and transform passes: https://github.com/llvm/llvm-project/blob/main/llvm/docs/Passes.rst
 - A massively parallel, optimal functional runtime in Rust : https://github.com/Kindelia/HVM
 - A parser library for humans with powerful error recovery: https://github.com/zesterer/chumsky
+- ISLE: Instruction Selection/Lowering Expressions DSL: https://github.com/bytecodealliance/wasmtime/tree/main/cranelift/isle
 
 ## Grammars:
 

@@ -93,6 +93,7 @@
 - Write-ahead logging and the ARIES crash recovery algorithm: https://sookocheff.com/post/databases/write-ahead-logging/
 -  How Unique Index Works in postgres: https://www.highgo.ca/2022/09/30/how-unique-index-works-in-pg/
 - http://blog.cleverelephant.ca/2022/10/postgresql-links.html
+- Six findings we rely on when managing PostgreSQL indexes: https://knock.app/blog/postgres-index-findings
 
 ## Blog Series:
 

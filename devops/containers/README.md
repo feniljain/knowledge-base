@@ -44,6 +44,7 @@
 - Bringing Seccomp Notify to Runc and Kubernetes: https://kinvolk.io/blog/2022/03/bringing-seccomp-notify-to-runc-and-kubernetes/
 - What's Inside Of a Distroless Image - Taking a Deeper Look: https://iximiuz.com/en/posts/containers-distroless-images/
 - https://www.zdnet.com/google-amp/article/chainguard-releases-wolfi-a-linux-undistribution/
+- How Docker Images Work: Union File Systems for Dummies: https://www.terriblecode.com/blog/how-docker-images-work-union-file-systems-for-dummies/
 
 ## Interesting Images:
 
@@ -62,6 +63,7 @@
 ## Videos:
 
 - Docker networking: https://www.youtube.com/watch?v=bKFMS5C4CG0
+- Docker networking Crash Course: https://www.youtube.com/watch?v=OU6xOM0SE4o
 
 ## Tools and repos:
 

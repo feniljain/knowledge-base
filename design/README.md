@@ -26,6 +26,10 @@
 - https://colors.lol/
 - https://avvvatars.com/
 - https://penpot.app/
+- https://feathericons.com/
+- https://boxicons.com/
+- fluenticons.co
+- https://styled-icons.dev/
 
 ## Blogs and articles:
 
@@ -44,6 +48,7 @@
 - Learn the logic of great typography: https://www.learnui.design/tools/typography-tutorial.html
 - The self-taught UI/UX designer roadmap: https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb
 - https://vanschneider.com/blog/young-designers/junior-designers-vs-senior-designers/
+- In Defence of Intuition: https://borism.medium.com/in-defence-of-intuition-f924ab82f76b
 
 ## Blog series/article collection:
 

@@ -13,6 +13,7 @@
 - Electronics amazon for india: https://robu.in/
 - https://www.wasdkeyboards.com/
 - https://learn.dvorak.nl/
+- https://www.keyboardtester.com/
 
 ## Specifically for India:
 

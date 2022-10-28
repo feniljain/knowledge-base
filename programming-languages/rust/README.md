@@ -224,6 +224,7 @@
 - Rust PNG writer from scratch: https://www.splinter.com.au/2022/07/12/rust-png-writer/
 - Writing a kernel module in rust: https://www.jackos.io/rust-kernel/rust-for-linux.html
 - Writing a container in Rust: https://litchipi.github.io/series/container_in_rust
+- Practical Parsing in Rust with nom: https://naiveai.hashnode.dev/practical-parsing-nom
 
 ### Language general:
 
@@ -716,6 +717,7 @@
 - https://frehberg.com/2022/01/rust-memory-layout-optimization/
 - Original Rust OCaml Compiler: https://github.com/rust-lang/rust/tree/ef75860a0a72f79f97216f8aaa5b388d98da6480/src/boot
 - The Rust Language Design Team: https://lang-team.rust-lang.org/
+- Rust Before Main: https://www.youtube.com/watch?v=q8irLfXwaFM
 
 ## Rust and security
 

@@ -60,6 +60,7 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - 8 Tips from a Former Cop on How to Read People: https://medium.com/illumination/8-tips-from-a-former-cop-on-how-to-read-people-5c252f140bdc
 - 7 Simple Habits That Save Me Time: https://parkerklein.medium.com/7-simple-habits-that-save-me-time-68deaff36855
 - Emotions Aren’t the Enemy of Good Decision-Making: https://hbr.org/2022/09/emotions-arent-the-enemy-of-good-decision-making
+- The Ridiculous Effectiveness of Singleminded Devotion to a Purpose: https://zenhabits.net/devotion/
 
 ## Videos:
 
@@ -373,6 +374,7 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - Why fit in when you were born to stand out? - Dr. Seuss
 - Inside of every problem lies an opportunity. - Robert Kiyosaki
 - Change is the essence of life; be willing to surrender what you are for what you could become. - Reinhold Niebuhr
+- Be gentle first with yourself if you wish to be gentle with others. - Lama Yeshe
 
 ## Books:
 
@@ -386,6 +388,7 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - The millionare fastlane
 - https://medium.com/mind-cafe/if-you-only-read-a-few-books-in-2020-read-these-1cbac424e4a9
 - https://www.calnewport.com/books/deep-work/
+- The Complete Do It Yourself Manual: https://archive.org/details/the-complete-do-it-yourself-manual/page/n5/mode/2up
 
 ## Knowledge base tools to explore:
 

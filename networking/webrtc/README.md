@@ -120,6 +120,14 @@
 - WebRTC is the most secure VoIP protocol: https://bloggeek.me/webrtc-is-the-most-secure-voip-protocol/
 - A new Pure Go implementation of the Opus Codec: https://pion.ly/blog/pion-opus/
 - Post-Peak WebRTC Developer Trends: An Open Source Analysis (has links to some nice repos in the article): https://webrtchacks.com/webrtc-developer-trends-2022/
+- Demystifying ICE: https://dyte.io/blog/webrtc-102-demystifying-ice/
+- WebRTC TURN server: Everything you need to know: https://www.100ms.live/blog/webrtc-turn-server
+- How Cloudflare Glares at WebRTC with WHIP and WHEP: https://webrtchacks.com/how-cloudflare-glares-at-webrtc-with-whip-and-whep/
+- Ultimate Guide To Hire WebRTC Application Development Team: https://www.scoopearth.com/ultimate-guide-to-hire-webrtc-application-development-team/
+- Why statistics matter?: https://webrtc-developers.com/why-statistics-matter/
+- What is Jitter? Meaning, Causes, and Solutions: https://www.agora.io/en/blog/what-is-jitter-meaning-causes-and-solutions/
+- WebRTC Signaling Servers: Everything You Need to Know: https://antmedia.io/webrtc-signaling-servers-everything-you-need-to-know/
+- How to create a streaming CDN for low latency WebRTC video broadcasting: https://flashphoner.com/how-to-create-a-streaming-cdn-for-low-latency-webrtc-video-broadcasting/
 
 ### Tutorials:
 
@@ -140,6 +148,8 @@
 - Real-time communication with WebRTC: Google I/O 2013: https://www.youtube.com/watch?v=p2HzZkd2A40
 - WebRTC: Real-time Audio/Video and P2P in HTML5: https://www.youtube.com/watch?v=E8C8ouiXHHk&t=1350s
 - Developing a cross-platform WebRTC API using Rust and WebAssembly: https://www.youtube.com/watch?v=E_sTmp5W_dM
+- All the 2022 RTC Conference WebRTC talks: https://webrtc.ventures/2022/10/rtc-conference-2022-webrtc-track-talks/
+- How We Built a Globally Distributed Mesh Network to Scale WebRTC: https://blog.livekit.io/scaling-webrtc-with-distributed-mesh/
 
 ## Repos:
 
@@ -176,6 +186,7 @@
 - Pure-rust opus decoder: https://github.com/lu-zero/opus
 -  Lyra V2 - a better, faster, and more versatile speech codec: https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html
 - Where's my stream? TURN Server debugging: https://dev.epicgames.com/community/learning/tutorials/VY4X/unreal-engine-where-s-my-stream-turn-server-debugging-for-pixel-streaming
+- zoom clone using rust: https://github.com/security-union/rust-zoom
 
 ## Useful SO questions:
 

@@ -166,6 +166,7 @@
 - An eBPF playground: https://github.com/quarkslab/peetch
 - Use this as skeleton for your eBPF golang application: https://github.com/rafaeldtinoco/drafts
 - a prototype networking bpf loader: https://github.com/redhat-et/bpfd
+- Package, distribute, and run eBPF programs in JSON or in WASM module: https://github.com/eunomia-bpf/eunomia-bpf
 
 ## Reddit and twitter threads:
 
@@ -191,6 +192,8 @@
 - BBR-based congestion control for Kubernetes Pods: https://www.youtube.com/watch?v=iiMp3TrDcsc
 - BPTGen: https://www.youtube.com/watch?v=zdbCvGSdFiQ
 - A Beginners Guide to eBPF Programming for Networking: https://www.youtube.com/watch?v=l5l2EckwWME
+- bpfd: https://www.youtube.com/watch?v=KskHG7jU1Q0
+- Bringing the Power of eBPF to QEMU: https://www.youtube.com/watch?v=yE1RXf9d7ic
 
 ## Companies involved in space:
 

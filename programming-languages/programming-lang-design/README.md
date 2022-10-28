@@ -46,6 +46,7 @@
 - What is type ascription?:https://stackoverflow.com/questions/36389974/what-is-type-ascription
 - Native memory leak detector using mark-and-sweep GC in android: https://android.googlesource.com/platform/system/memory/libmemunreachable/+/master/README.md
 - Learning type theory: https://www.reddit.com/r/math/comments/k41lla/category_and_type_theory_which_should_i_learn/
+- The algebra (and calculus!) of algebraic data types: https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types
 
 ### Tutorials:
 

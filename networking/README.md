@@ -130,6 +130,8 @@
 - https://jvns.ca/blog/2022/09/12/why-do-domain-names-end-with-a-dot-/
 - Network Troubleshooting, No, It's Not Always DNS: https://thesoloadmin.com/no-its-not-always-dns/
 - How wireless frames are delivered: https://medium.com/@hnasr/mac-addresses-in-wireless-5ed9b83714d0
+- HTTP Crash Course Nobody Asked For: https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for
+- Storing files on network protocols: https://matt-rickard.ghost.io/exploiting-protocols-for-fun/
 
 ## Books:
 

@@ -59,6 +59,7 @@
 - Short time file uploader: https://temp.sh/
 - https://devdocs.io/
 - Offline documentation browser for software developers: https://zealdocs.org/
+- 100+ project ideas book: https://projectbook.code.brettchalupa.com/
 
 ## Blogs and Articles:
 
@@ -195,6 +196,10 @@
 - The Steffen Boarding Method( Algorithms behind boarding ): https://matt-rickard.ghost.io/the-steffen-boarding-method/
 - What’s the best lossless image format? Comparing PNG, WebP, AVIF, and JPEG XL: https://siipo.la/blog/whats-the-best-lossless-image-format-comparing-png-webp-avif-and-jpeg-xl
 - Software engineering practices: https://simonwillison.net/2022/Oct/1/software-engineering-practices/
+- Advice for Junior Developers ( Has some nice books in last ): https://dev.to/jeroendedauw/advice-for-junior-developers-30am
+- https://copyconstruct.medium.com/effective-mental-models-for-code-and-systems-7c55918f1b3e
+- https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f
+- Bit Twiddling Hacks: https://graphics.stanford.edu/~seander/bithacks.html#OperationCounting
 
 ### Tutorials:
 
@@ -336,6 +341,8 @@
 - A curated collection of diagramming tools used by software engineering teams: https://github.com/shubhamgrg04/awesome-diagramming
 - Facts about state machines: https://github.com/cpressey/Facts-about-State-Machines
 - When Bloom filters don't bloom: https://blog.cloudflare.com/when-bloom-filters-dont-bloom/
+- A list of Free Software network services and web applications which can be hosted on your own servers: https://github.com/awesome-selfhosted/awesome-selfhosted
+- Cool open source projects written in various languages: https://github.com/lk-geimfari/awesomo
 
 ## Extensions:
 

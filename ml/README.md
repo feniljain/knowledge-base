@@ -72,6 +72,7 @@
 - Easy-to-use library to boost AI inference leveraging multiple DL compilers: https://github.com/nebuly-ai/nebullvm
 - https://github.com/csteinmetz1/ai-audio-startups
 - https://github.com/dair-ai/MLOPs-Primer
+- https://github.com/jbhuang0604/awesome-computer-vision
 
 ## Reddit and twitter threads:
 

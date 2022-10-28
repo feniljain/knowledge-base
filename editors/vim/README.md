@@ -132,6 +132,7 @@
 - Pasting Into Command-line Mode: https://medium.com/usevim/vim-101-pasting-into-command-line-mode-db5946a1e8a7
 - Why VIM: https://www.jakeworth.com/why-vim/
 - Avoid option for autoformatting using multiple LSPs dialog: https://neovim.discourse.group/t/autoformat-using-first-option-disable-formatting-on-tsserver/2500
+- Neovim 101 — OSC 52: https://alpha2phi.medium.com/neovim-101-osc-52-f4ee08fd96e6
 
 ## VimTricks:
 
@@ -270,3 +271,7 @@
 - https://alpha2phi.medium.com/emacs-beginner-configuration-9578dbe71d03
 - https://alpha2phi.medium.com/emacs-lsp-and-dap-7c1786282324
 - https://emacs-lsp.github.io/lsp-mode/
+
+## Neat scripts:
+
+- Cycle throught tabs: https://www.reddit.com/r/neovim/comments/y2ky7g/my_new_favorite_binding_navigate_between_splits/

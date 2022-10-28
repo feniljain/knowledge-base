@@ -44,6 +44,8 @@
 : https://blog.twitch.tv/en/2022/04/26/ingesting-live-video-streams-at-global-scale/
 - https://blog.quastor.org/p/twitch-processes-millions-video-streams
 - https://www.liveswitch.io/blog/webrtc-as-good-as-http-live-streaming
+- Gone in a Flash: a brief history of HTTP Adaptive Streaming: https://www.mux.com/blog/http-adaptive-streaming-history
+- CMAF ( Common Media Application Format ) Explained. What is CMAF and How Does It Work?: https://antmedia.io/cmaf-streaming/
 
 ## Blog series/articles collection:
 

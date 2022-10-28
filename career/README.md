@@ -5,6 +5,7 @@
 - https://indeed.com/
 - Free and open source resume builder: https://rxresu.me/
 - http://www.nondot.org/sabre/Resume.html
+- https://layoffs.fyi/
 
 ## Blogs and articles:
 
@@ -22,6 +23,7 @@
 - 11 Laws of Software Estimation for Complex Work: https://mdalmijn.com/11-laws-of-software-estimation-for-complex-work/
 - Quiet Quitting is About Loyalty: https://dev.to/codenameone/quiet-quitting-is-about-loyalty-1d6m
 - How to Balance your Engineering Investment: https://refactoring.fm/p/engineering-investments
+- 4 Tactics that Backfire When Dealing with a Difficult Colleague: https://hbr.org/2022/09/4-tactics-that-backfire-when-dealing-with-a-difficult-colleague?ref=refind
 
 ## Videos:
 

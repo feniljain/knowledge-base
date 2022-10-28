@@ -102,7 +102,8 @@
 - Design Patterns and Principles That Support Large Scale Systems: https://medium.com/everything-full-stack/design-patterns-and-principles-that-support-large-scale-systems-f3c9adf89ad
 - Computing Live stream viewers count in real time at High Scale: https://engg.glance.com/computing-live-stream-viewers-count-in-real-time-at-high-scale-ef813bc1b9cb
 - How Razorpay’s Notification Service Handles Increasing Load: https://engineering.razorpay.com/how-razorpays-notification-service-handles-increasing-load-f787623a490f
-
+- Scaling Confidently with the Load and Fault Team: https://robinhood.engineering/scaling-confidently-with-the-load-and-fault-team-122978333d9
+- https://netflixtechblog.com/scryer-netflixs-predictive-auto-scaling-engine-part-2-bb9c4f9b9385
 ## Repos:
 
 - Very good resource, also contains redirects to many other good resources: https://github.com/donnemartin/system-design-primer

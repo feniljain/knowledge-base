@@ -70,6 +70,7 @@
 - https://maryamtaheri.medium.com/why-i-start-all-my-1-1s-with-this-question-8d26781c4683
 - https://medium.com/@eliana.lopez/the-youtube-channel-that-made-me-comfortable-with-leetcode-fd28484d8cac
 - https://hypercontext.com/blog/management-skills/engineers-share-candid-feedback-one-on-ones
+- 4 Examples of How to Answer “Tell Me About Yourself” in Interviews: https://careersidekick.com/tell-me-about-yourself-interview-question-answer/
 
 ## Videos:
 
