@@ -66,3 +66,7 @@
 - https://github.com/veeral-patel/how-to-secure-anything
 - Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock: https://github.com/liamg/traitor
 - https://github.com/edoardottt/awesome-hacker-search-engines
+
+### Reddit and twitter threads:
+
+- Tools for subdomain brute forcing: https://www.reddit.com/r/hacking/comments/zl2wu4/tools_for_subdomain_brute_forcing/

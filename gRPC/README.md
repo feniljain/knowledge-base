@@ -29,6 +29,7 @@
 - https://medium.com/@crossoverjie/ptg-a-gui-grpc-client-fcade3bfc902
 - Buf Studio: Interact with gRPC and Protobuf APIs directly from your browser: https://buf.build/blog/buf-studio
 - Fast Encoding Using Pre-serialization: https://blog.najaryan.net/posts/partial-protobuf-encoding/
+- Advanced gRPC Error Usage: https://jbrandhorst.com/post/grpc-errors/
 
 ## Repos:
 

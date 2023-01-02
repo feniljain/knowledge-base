@@ -6,6 +6,8 @@
 - A Tourist’s Guide to the LLVM Source Code: https://blog.regehr.org/archives/1453
 - Phi Node explanation: https://stackoverflow.com/questions/11485531/what-exactly-phi-instruction-does-and-how-to-use-it-in-llvm
 - A Complete Guide to LLVM for Programming Language Creators: https://mukulrathi.com/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/
+- Compilers and IRs: LLVM IR, SPIR-V, and MLIR: https://www.lei.chat/posts/compilers-and-irs-llvm-ir-spirv-and-mlir/
+- How to contribute to LLVM: https://developers.redhat.com/articles/2022/12/20/how-contribute-llvm
 
 ## Repos:
 
@@ -25,7 +27,3 @@
 ## Gists:
 
 - Gold Mine: https://gist.github.com/MattPD/00573ee14bf85ccac6bed3c0678ddbef#llvm
-
-## Courses:
-
-- https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/

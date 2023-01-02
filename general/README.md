@@ -143,6 +143,7 @@
 - https://trilarion.github.io/opensourcegames/
 - Allows you easily scan for and delete scam comments using several methods : https://github.com/ThioJoe/YT-Spammer-Purge
 - Flashcard app in your terminal ( has support for Anki too ): https://github.com/TBS1996/speki
+- An open-source keystroke visualizer: https://github.com/keycastr/keycastr
 
 ## Newsletters:
 
@@ -156,3 +157,5 @@
 ## Running:
 
 - https://www.stylecraze.com/articles/effective-ways-to-increase-your-stamina-for-running/#20-tips-to-improve-running-stamina
+- http://c25k.com/
+- https://www.regmedctr.org/webres/File/For%20the%20Health%20of%20It/Couch%20to%205K.pdf

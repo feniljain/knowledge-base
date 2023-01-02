@@ -11,6 +11,7 @@
 - Newsletter for webassembly: https://wasmweekly.news/issue-161/
 - Full Libreoffice running in wasm: https://lab.allotropia.de/wasm/
 - Package manager for web assembly: https://wapm.io/
+- https://www.fermyon.com/
 
 # Videos:
 
@@ -66,3 +67,4 @@
 - https://github.com/mikeroyal/WebAssembly-Guide
 - https://github.com/bytecodealliance/wasm-micro-runtime
 - wazero: the zero dependency WebAssembly runtime for Go developers: https://github.com/tetratelabs/wazero
+- A really tiny WebAssembly compiler for demonstration and educational purposes. Written in Go and built as one of my quests to conquer the WebAssembly dungeon: https://github.com/thomscoder/luna

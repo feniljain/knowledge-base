@@ -40,6 +40,7 @@
 - A Little Story About the `yes` Unix Command: https://endler.dev/2017/yes
 - https://opensource.com/article/21/8/ncdu-check-free-disk-space-linux
 - Terminal escape codes are awesome, here’s why: https://medium.com/everything-full-stack/terminal-escape-codes-are-awesome-heres-why-c8eb938b1a1c
+- Shell Script Best Practices: https://sharats.me/posts/shell-script-best-practices/
 
 ## Tips:
 
@@ -69,6 +70,8 @@
 - A terminal workspace with batteries included: https://github.com/zellij-org/zellij
 - It is designed to find space hogs on a remote server where you don’t have an entire graphical setup available: https://dev.yorhel.nl/ncdu
 - A prompt theme engine for any shell: https://ohmyposh.dev/
+- A curated list of Awesome Userscripts: https://github.com/bvolpato/awesome-userscripts
+- https://git.herrbischoff.com/awesome-macos-command-line/about/
 
 ## Terminal tools I use:
 

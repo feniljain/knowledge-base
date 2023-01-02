@@ -133,6 +133,7 @@
 - Why VIM: https://www.jakeworth.com/why-vim/
 - Avoid option for autoformatting using multiple LSPs dialog: https://neovim.discourse.group/t/autoformat-using-first-option-disable-formatting-on-tsserver/2500
 - Neovim 101 — OSC 52: https://alpha2phi.medium.com/neovim-101-osc-52-f4ee08fd96e6
+- Structuring Neovim Lua plugins: https://zignar.net/2022/11/06/structuring-neovim-lua-plugins/
 
 ## VimTricks:
 
@@ -234,6 +235,7 @@
 - https://github.com/hakluke/how-to-exit-vim
 -  Sample neovim and vim configurations for Rust development: https://github.com/sharksforarms/neovim-rust
 - Share one rust-analyzer server instance between multiple LSP clients to save resources: https://github.com/pr2502/ra-multiplex
+- A version manager for neovim: https://github.com/MordechaiHadad/bob
 
 ## VimRCs for reference:
 

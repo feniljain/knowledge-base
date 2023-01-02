@@ -30,6 +30,8 @@
 - https://boxicons.com/
 - fluenticons.co
 - https://styled-icons.dev/
+- https://atlassian.design/
+- Thousands of Free Fonts to Download: https://www.fontsupply.com/
 
 ## Blogs and articles:
 
@@ -49,6 +51,7 @@
 - The self-taught UI/UX designer roadmap: https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb
 - https://vanschneider.com/blog/young-designers/junior-designers-vs-senior-designers/
 - In Defence of Intuition: https://borism.medium.com/in-defence-of-intuition-f924ab82f76b
+- 22 Places to Find Free Illustrations for Websites and Apps: https://superdevresources.com/free-illustrations-for-websites/
 
 ## Blog series/article collection:
 

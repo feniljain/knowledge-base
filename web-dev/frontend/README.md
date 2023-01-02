@@ -193,6 +193,7 @@
 - https://www.color-morph.com/
 - HTML templates that shuffle themselves on render: https://dynamowaves.markzebley.com/
 - Curated collection of beautiful premade gradients: https://hypercolor.dev/#gradients
+- A timeline that shows CSS evolution and the history of tooling, libraries, frameworks, and more: https://css-timeline.vercel.app/
 
 ## Blogs And Articles:
 
@@ -232,6 +233,7 @@
 - A thread of my favorite clever CSS tricks: https://threadreaderapp.com/thread/1546657470604382208.html?s=20&t=s6ofZC9jfti56fnsjTMmPQ
 - Help pick a syntax for CSS nesting: https://developer.chrome.com/blog/help-css-nesting/
 - 58 bytes of CSS to make websites look great nearly everywhere: https://gist.github.com/JoeyBurzynski/617fb6201335779f8424ad9528b72c41
+- An Interactive Guide to Flexbox: https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/
 
 ## Extensions:
 
@@ -246,3 +248,4 @@
 - https://github.com/GoogleChromeLabs/container-query-polyfill
 - Use Tailwind CSS to design HTML emails: https://github.com/soheilpro/mailwind
 - Show Similar & Duplicated CSS Scripts with Diff in Seconds!: https://github.com/ruilisi/css-checker
+- High resolution web browser logos: https://github.com/alrra/browser-logos

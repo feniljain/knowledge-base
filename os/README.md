@@ -50,8 +50,9 @@
 - https://en.wikipedia.org/wiki/Position-independent_code
 - What is memory? Part 3: Registers, stacks, and threads: https://www.bytelab.codes/what-is-memory-part-3-registers-stacks-and-threads/
 - Understand Heap Memory Allocation: A Hands-on Approach: https://levelup.gitconnected.com/understand-heap-memory-allocation-a-hands-on-approach-775151caf2ea
+- https://www.ccgadget.com/knowledge-base/what-is-a-motherboards-bios-chip/
 
-## Blog series/Articles collections:0
+## Blog series/Articles collections:
 
 ## Repos:
 
@@ -64,10 +65,13 @@
 - https://twitter.com/algo_luca/status/1395782235270287370?s=08
 - https://www.reddit.com/r/computerscience/comments/o33tu6/after_code_ie_c_is_converted_to_machine_code_or/
 - https://www.reddit.com/r/kernel/comments/qf0dyo/resources_a_newbie_can_learn_from_regarding/
+- Creating assemblers from scratch resources: https://www.reddit.com/r/ProgrammingLanguages/comments/zl8itz/lack_of_resources_in_creating_assemblers_from/
 
 ## Books:
 
 - The Linux Kernel Module Programming Guide: https://www.reddit.com/r/linux/comments/owc2gh/the_linux_kernel_module_programming_guide/
+- A Journey in Creating an Operating System Kernel: http://539kernel.com/
+- A book teaching assembly language programming on the ARM 64 bit ISA: https://github.com/pkivolowitz/asm_book
 
 ## Videos:
 
@@ -75,6 +79,9 @@
 - Making an OS(x86): https://www.youtube.com/watch?v=MwPjvJ9ulSc&list=PLm3B56ql_akNcvH8vvJRYOc7TbYhRs19M
 - Writing your own os(a series): https://www.youtube.com/watch?v=1rnA6wpF0o4&list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M
 - Tutorial: Building the Simplest Possible Linux System: https://www.youtube.com/watch?v=Sk9TatW9ino
+- I have come to bury the BIOS, not to open it: The need for holistic systems: https://www.osfc.io/2022/talks/i-have-come-to-bury-the-bios-not-to-open-it-the-need-for-holistic-systems/
+- Building an OS: https://www.youtube.com/watch?v=9t-SPC7Tczc&list=PLFjM7v6KGMpiH2G-kT781ByCNC_0pKpPN
+- Building a bootloader: https://www.youtube.com/watch?v=9t-SPC7Tczc&list=PLFjM7v6KGMpjWYxnihhd4P3G0BhMB9ReG
 
 <h2 align="center">Kernel</h2>
 

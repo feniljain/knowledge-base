@@ -73,6 +73,7 @@
 - https://github.com/csteinmetz1/ai-audio-startups
 - https://github.com/dair-ai/MLOPs-Primer
 - https://github.com/jbhuang0604/awesome-computer-vision
+- Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight: https://github.com/facebookresearch/shumai
 
 ## Reddit and twitter threads:
 

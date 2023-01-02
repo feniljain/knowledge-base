@@ -8,6 +8,7 @@
 - https://proxysql.com/
 - https://planetscale.com/
 - https://db-engines.com/
+- https://unifiedpush.org/
 
 ## Blogs And Articles:
 
@@ -94,6 +95,9 @@
 -  How Unique Index Works in postgres: https://www.highgo.ca/2022/09/30/how-unique-index-works-in-pg/
 - http://blog.cleverelephant.ca/2022/10/postgresql-links.html
 - Six findings we rely on when managing PostgreSQL indexes: https://knock.app/blog/postgres-index-findings
+- Postgres Insider Terminology: https://www.crunchydata.com/blog/challenging-postgres-terminology
+- Intro to Postgres Row-Level Security: https://dev.to/davepar/intro-to-postgres-row-level-security-3b3
+- SQLite Internals: How The World's Most Used Database Works: https://www.compileralchemy.com/books/sqlite-internals/
 
 ## Blog Series:
 
@@ -129,6 +133,14 @@
 - OpenSource alternative to mongodb: https://github.com/MangoDB-io/MangoDB
 - Distributed open source platform for change data capture: https://github.com/debezium
 - Awesome materials about database development: https://github.com/huachaohuang/awesome-dbdev
+- Convergent, Replicated SQLite. Multi-writer and CRDT support for SQLite: https://github.com/vlcn-io/cr-sqlite
+- S3-compatible object store for small self-hosted geo-distributed deployments: https://git.deuxfleurs.fr/Deuxfleurs/garage
+- ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications: https://github.com/readysettech/readyset
+- https://github.com/dhamaniasad/awesome-postgres/
+
+## Research Papers:
+
+- Conflict-Free Replicated Relations for Multi-Synchronous Database Management at Edge: https://hal.inria.fr/hal-02983557/document
 
 ## Reddit, twitter and ycombinator threads:
 

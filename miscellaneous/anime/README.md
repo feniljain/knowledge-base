@@ -18,7 +18,6 @@
 - Inuyashiki
 - yu yu hakusho(like hunter X hunter)
 - Fog hill of five elements
-- Baccano
 - Overlord
 - Akudama drive
 - Sword art online
@@ -38,6 +37,9 @@
 - Lycoris Recoil
 - Cyberpunk: Edgerunners
 - C Danchi: Horror ( check how it is before starting tho )
+- Balance Unlimited
+- Re:Creators
+- Mieruko-chan: Horror
 
 ## Mecha and Space:
 
@@ -48,13 +50,14 @@
 - Eureka 7
 - astra lost in space
 - Galactic Armored Fleet Majestic Prince: Genetic Awakening
-- Legend of galactic heroes
+- Legend of Galactic Heroes
 
 ## Shounen:
 
 - Seven Deadly Sins
 - Deadman wonderland
 - Beyond the boundary
+- YuYu Hakusho
 
 ## Fiction & Mystery & Psychological:
 
@@ -114,6 +117,7 @@
 - Platinum End
 - Mononoke
 - Toilet-bound Hanako-kun
+- ID: Invaded
 
 ## Adventure and Magic(supernatural):
 
@@ -231,6 +235,7 @@
 - 2.43
 - sk8 the infinity
 - Blue Lock ( recommendation from here: https://www.youtube.com/watch?v=NH4DwFLlbHU )
+- Ping Pong the Animation
 
 ## Isekai:
 
@@ -284,6 +289,7 @@
 - MC Vrigin Trap anthem: https://www.youtube.com/watch?v=EeIfEVnmzUc
 - Lofi songs of jujutsu kaisen: https://www.youtube.com/watch?v=nSbs0EHf374
 - Iro Kousui: https://www.youtube.com/watch?v=7DpONAPM3Zw
+- Baccano's opening: https://www.youtube.com/watch?v=Rqo9oU3OSs0
 
 ## Anime OSTs:
 
@@ -363,6 +369,8 @@
 - High-Quality 10-bit Anime Encodes: https://hi10anime.com/
 - Up to 1080p DDL links, mostly Google Drive: https://animekaizoku.com
 - https://simplyaweeb.to/
+- Get anime torrent/magnet/xdcc: https://subsplease.org/
+- theindex.moe
 
 ## Completed(I started maintaining this list very late may not have a lot of anime I have watched):
 
@@ -487,13 +495,15 @@
 - Sonny Boy
 - Gurren Lagann
 - Demon Slayer S2
-- Angel Beats
 - Tada never falls in love: Tada-kun wa Koi wo Shinai
 - JoJo's bizzare adventures
 - Hellsing Ultimate
 - Great Teacher Onizuka
-- Mind Game
 - One Piece
+- Baccano
+- Mind Game
+- Angel Beats
+- Hajime no Ippo
 
 ## Caught up Mangas:
 
@@ -508,3 +518,4 @@
 - Tengen Toppa Gurren Lagann
 - Tengen Toppa Gurren Lagann
 - Horimiya
+- 20th Century Boys

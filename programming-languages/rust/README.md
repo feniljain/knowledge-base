@@ -46,6 +46,7 @@
 - https://www.whatrustisit.com/
 - https://caniuse.rs/
 - https://releases.rs/
+- An unofficial guide to the Rust ecosystem: https://blessed.rs/
 
 ## Blogs and Articles:
 
@@ -117,6 +118,11 @@
 - Explaining reborrows and lifetimes: https://haibane-tenshi.github.io/rust-reborrowing/
 - Procedural macros under the hood: Part II: https://blog.jetbrains.com/rust/2022/07/07/procedural-macros-under-the-hood-part-ii/
 - https://www.philipdaniels.com/blog/2021/rust-fn-traits/
+- RAII: Compile-Time Memory Management in C++ and Rust: https://www.thecodedmessage.com/posts/raii/
+- Rust to assembly: Arrays, Tuples, Box, and Option handling: https://www.eventhelix.com/rust/rust-to-assembly-arrays-option-box/
+- Rust Memory Layout Optimization (Enum): https://frehberg.com/2022/01/rust-memory-layout-optimization/
+- A Look at dyn* Code Generation: https://blog.theincredibleholk.org/blog/2022/12/12/dyn-star-codegen/
+- https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/
 
 ### Tutorials:
 
@@ -225,6 +231,8 @@
 - Writing a kernel module in rust: https://www.jackos.io/rust-kernel/rust-for-linux.html
 - Writing a container in Rust: https://litchipi.github.io/series/container_in_rust
 - Practical Parsing in Rust with nom: https://naiveai.hashnode.dev/practical-parsing-nom
+- How to build a Semantic Search Engine in Rust: https://sachaarbonel.medium.com/how-to-build-a-semantic-search-engine-in-rust-e96e6378cfd9
+- Building a BFT JSON CRDT: https://jzhao.xyz/posts/bft-json-crdt/
 
 ### Language general:
 
@@ -305,6 +313,7 @@
 - Pattern Matching and Backwards Compatibility: https://seanmonstar.com/post/693574545047683072/pattern-matching-and-backwards-compatibility
 - You Can't Do That: Abstracting over Ownership in Rust with Higher-Rank Type Bounds. Or Can You?: https://lucumr.pocoo.org/2022/9/11/abstracting-over-ownership/
 - Awesome writeup on understanding Cow in rust: https://dev.to/kgrech/6-things-you-can-do-with-the-cow-in-rust-4l55
+- Native Reflection in Rust: https://jack.wrenn.fyi/blog/deflect/
 
 ### Others:
 
@@ -392,6 +401,7 @@
 - Static streams for faster async proxies: https://blog.adamchalmers.com/streaming-proxy/
 - A byte string library for Rust: https://blog.burntsushi.net/bstr/
 - Index 1,600,000,000 Keys with Automata and Rust: https://blog.burntsushi.net/transducers/
+- Category Theory with Rust (pt1): https://www.kurtlawrence.info/blog/category-theory-with-rust-pt1
 
 ## Blog Series/Collection of articles:
 
@@ -439,6 +449,7 @@
 - https://phazer99.blogspot.com/
 - https://patshaughnessy.net/
 - https://www.huy.rocks/everyday
+- https://www.thecodedmessage.com/
 
 ## Repos:
 
@@ -523,6 +534,7 @@
 - A list of rust lang mentors tagged by topics of interest: https://github.com/RustBeginners/awesome-rust-mentors
 - The blazing fast build tool for Rust: https://github.com/dimensionhq/fleet
 - List size of types in a Rust crate: https://github.com/davidrusu/cargo-typesize
+- A comparison of operating systems written in Rust: https://github.com/flosse/rust-os-comparison
 
 ## Videos:
 
@@ -561,7 +573,8 @@
 - Crust of Rust: Send, Sync, and their implementors: https://www.youtube.com/watch?v=yOezcP-XaIw
 - Constant fun (const fn) with Rust: https://www.youtube.com/watch?v=Vw8BFScm0K0
 - Is It Time to Rewrite the Operating System in Rust?: https://www.youtube.com/watch?v=HgtRAbE1nBM
--Mocking Rust and Testing:  https://www.youtube.com/watch?v=8XaVlL3lObQ
+- Mocking Rust and Testing:  https://www.youtube.com/watch?v=8XaVlL3lObQ
+- Finding good Rust dependencies: https://www.youtube.com/watch?v=4sZTcBg50wc
 
 ## Newsletters:
 

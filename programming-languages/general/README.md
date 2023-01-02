@@ -146,12 +146,18 @@
 - https://github.com/jackfrued/Python-100-Days
 - https://github.com/TheAlgorithms/Python
 - https://github.com/gto76/python-cheatsheet
+- A high-performance, zero-overhead, extensible Python compiler using LLVM: https://github.com/exaloop/codon
 
 ## Lisp:
 
 ### Websites:
 
 - http://landoflisp.com/
+- https://cl-community-spec.github.io/pages/index.html
+
+### Blogs and articles:
+
+- Why Lisp?: https://github.com/naver/lispe/wiki/6.16-Why-Lisp
 
 ### Reddit and twitter thrads:
 
@@ -166,6 +172,7 @@
 
 - https://github.com/susam/mathb
 - Make a Lisp: https://github.com/kanaka/mal
+- An implementation of a full fledged Lisp interpreter with Data Structure, Pattern Programming and High level Functions with Lazy Evaluation à la Haskell: https://github.com/naver/lispe
 
 ## C and CPP
 

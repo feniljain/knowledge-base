@@ -9,6 +9,8 @@
 - https://wiki.c2.com/?CategoryProgrammingLanguage
 - Special Interest Group on Programming Languages: https://www.acm.org/special-interest-groups/sigs/sigplan
 - https://www.typetheoryforall.com/
+- https://www.plai.org/
+- Rosetta Code presents solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different: https://rosettacode.org/wiki/Rosetta_Code
 
 # Blogs and articles:
 
@@ -47,11 +49,26 @@
 - Native memory leak detector using mark-and-sweep GC in android: https://android.googlesource.com/platform/system/memory/libmemunreachable/+/master/README.md
 - Learning type theory: https://www.reddit.com/r/math/comments/k41lla/category_and_type_theory_which_should_i_learn/
 - The algebra (and calculus!) of algebraic data types: https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types
+- Programming Paradigms for Dummies: What Every Programmer Should Know: https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf
+- The downsides of compile time evaluation: https://c3.handmade.network/blog/p/8590-the_downsides_of_compile_time_evaluation
+- Dependent Type Theory: https://leanprover.github.io/theorem_proving_in_lean4/dependent_type_theory.html
+- An Introduction to Algebraic Effects for Us: https://overreacted-io.translate.goog/ja/algebraic-effects-for-the-rest-of-us/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB
+- A Simple Language With Flow Typing: https://ayazhafiz.com/articles/21/lang-narrow
+- Type Inference for Sound and Complete Flow Typing: https://ayazhafiz.com/articles/21/type-inference-for-flow-typing
+- Local Type Inference (standard citations for bidirectional type checking): https://www.cis.upenn.edu/~bcpierce/papers/lti-toplas.pdf
+- A Theory of Type Polymorphism in Programming(standard citations for Hindley-Milner type inference): https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf
 
 ### Tutorials:
 
 - An accessible introduction to type theory and implementing a type-checker: https://mukulrathi.com/create-your-own-programming-language/intro-to-type-checking/
 - Creating the Bolt Compiler: https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/
+- Reconstructing Typescript: https://jaked.org/blog/2021-09-07-Reconstructing-TypeScript-part-0
+- Emulating the Lambda Calculus in TypeScript's Type System: https://ayazhafiz.com/articles/21/typescript-type-system-lambda-calculus
+
+# Blog Series and Article collections:
+
+- https://jayconrod.com/post
+- Really good blog posts: https://ayazhafiz.com/
 
 # Lesser known langs but useful from design perspective:
 
@@ -66,6 +83,7 @@
 - MLton is a whole-program optimizing compiler for the Standard ML programming language: https://github.com/MLton/mlton
 - Pattern matching and exhaustiveness checking algorithms implemented in Rust: https://gitlab.com/yorickpeterse/pattern-matching-in-rust
 -  A collection of resources for learning type theory and type theory adjacent fields: https://github.com/jozefg/learn-tt
+- A series of down-to-earth articles on implementing type inference: https://github.com/Ahnfelt/type-inference-by-example
 
 # Gists:
 
@@ -75,6 +93,10 @@
 
 - The Implementation of Functional Programming Languages: https://www.microsoft.com/en-us/research/publication/the-implementation-of-functional-programming-languages/
 - Introduction of the Theory Programming Languages: https://bertrandmeyer.com/2022/09/28/introduction-theory-programming-languages-full-book-now-freely-available/
+- Types and Programming Languages: https://www.cis.upenn.edu/~bcpierce/tapl/
+- Programming Language Explorations: https://rtoal.github.io/ple/
+- Book for impl of Icon Programming Language: https://www2.cs.arizona.edu/icon/ftp/doc/lb1up.pdf
+- Programming Languages: Application and Interpretation: https://www.plai.org/3/2/PLAI%20Version%203.2.0%20electronic.pdf
 
 # Reddit/twitter threads, blogs and articles:
 
@@ -89,6 +111,9 @@
 - Difference between Weak and Strong Typing: https://www.reddit.com/r/ProgrammingLanguages/comments/weywuw/what_does_strong_and_weak_typing_mean_to_you/
 - What is a good mathematical rigorous intro to programming language theory?: https://www.reddit.com/r/ProgrammingLanguages/comments/xrk6h7/what_is_a_good_mathematical_rigorous_intro_to
 - LambdaLisp - A Lisp Interpreter That Runs on Lambda Calculus: https://www.reddit.com/r/lisp/comments/xgtohf/lambdalisp_a_lisp_interpreter_that_runs_on_lambda/
+- More PL Communities: https://www.reddit.com/r/ProgrammingLanguages/comments/z3a3tp/more_pl_communities/
+- Academic list of rather interesting programming languages: https://www.reddit.com/r/ProgrammingLanguages/comments/z7uier/academic_list_of_rather_interesting_programming/
+- Simple Refinement of Anonymous Sum Types in Pattern Matches: https://ayazhafiz.com/articles/22/simple-flow-refinement-of-anonymous-sum-types
 
 # Language collection:
 
@@ -99,6 +124,7 @@
 - https://www.beeflang.org/
 - https://crystal-lang.org/
 - http://www.ats-lang.org/
+- https://spade-lang.org/
 
 # Videos:
 
@@ -106,6 +132,7 @@
 - Type Theory for the working Rustacean: https://www.youtube.com/watch?v=BdXWlQsd7RI
 - Pure Type Systems: Dependents when you need them:https://www.youtube.com/watch?v=ZGqKsalJi4s
 - Why things like maybe/option are not good and what is clojure doing instead?: https://www.youtube.com/watch?v=YR5WdGrpoug
+- Three Things I Wish I Knew When I Started Designing Languages: https://www.youtube.com/watch?v=oa0qq75i9oc
 
 # Courses:
 

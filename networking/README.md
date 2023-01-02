@@ -15,6 +15,7 @@
 - https://some-ip.com/
 - https://publicsuffix.org/
 - Useful utilities and services over DNS: https://www.dns.toys/
+- http://ipv4.games/
 
 ## Diagrams:
 
@@ -132,6 +133,10 @@
 - How wireless frames are delivered: https://medium.com/@hnasr/mac-addresses-in-wireless-5ed9b83714d0
 - HTTP Crash Course Nobody Asked For: https://fasterthanli.me/articles/the-http-crash-course-nobody-asked-for
 - Storing files on network protocols: https://matt-rickard.ghost.io/exploiting-protocols-for-fun/
+- System Design: Domain Name System (DNS), Load Balancing & Clustering: https://blog.nandankumar.info/system-design-domain-name-system-dns-load-balancing-clustering
+- The Networking behind clicking a link: https://medium.com/@hnasr/the-networking-behind-clicking-a-link-b2ce36b7cf14
+- CDNs: https://web.dev/content-delivery-networks/
+- Understanding TCP Seq & Ack Numbers [Packet-by-Packet]: https://www.golinuxcloud.com/tcp-sequence-acknowledgement-numbers/
 
 ## Books:
 
@@ -194,6 +199,8 @@
 - UDP hole punching: https://www.youtube.com/watch?v=S7Ifw5XsypQ
 - Virtual IP Address: https://www.youtube.com/watch?v=85XY7H2JPbs
 - Slow Start vs Congestion Avoidance in TCP: https://www.youtube.com/watch?v=r9kbjAN2788
+- Do DHCP and DNS Servers Communicate? (With wireshark): https://www.youtube.com/watch?v=FYcO4ZshG8Q
+- Designing for Understandability: The Raft Consensus Algorithm: https://www.youtube.com/watch?v=vYp4LYbnnW8
 
 ## Container Images:
 

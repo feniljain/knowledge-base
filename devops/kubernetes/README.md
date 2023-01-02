@@ -74,6 +74,7 @@
 - Running webassembly in kubernetes with rust: https://developer.okta.com/blog/2022/01/28/webassembly-on-kubernetes-with-rust
 - The Kubernetes Network Model: https://www.tkng.io/arch/
 - Practical Systems Awareness: https://itnext.io/practical-systems-awareness-322faf092da2
+- Solving common problems with Kubernetes: https://blog.adamchalmers.com/kubernetes-problems/
 
 ## Blog series:
 

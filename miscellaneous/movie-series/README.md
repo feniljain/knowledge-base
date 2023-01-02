@@ -10,6 +10,9 @@
 - lord of rings all movies
 - rings of power
 - young sheldon
+- 1899 ( Once it completes )
+- Superpumped ( Uber's story )
+- Dark Waters ( Good Psychological Thriller )
 
 # Already watched ( list is heavily incomplete ):
 

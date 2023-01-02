@@ -127,7 +127,6 @@
 - https://github.com/grafana/dskit
 - https://github.com/dreamhead/patterns-of-distributed-systems
 - https://github.com/cloud-hypervisor/cloud-hypervisor
-- https://github.com/dastergon/awesome-chaos-engineering
 - Nuke a whole AWS account and delete all its resources: https://github.com/rebuy-de/aws-nuke
 
 ## Courses:
@@ -160,6 +159,7 @@
 - https://dev.to/mrwormhole/localstack-with-terraform-and-docker-for-running-aws-locally-3a6d
 - https://twitter.com/sunilc_/status/1457033186546946058?t=g3CO-Ka-oEjxFGM0SC-OrQ&s=08
 - https://ably.com/blog/limits-aws-network-load-balancers
+- https://www.infoq.com/news/2022/11/aws-resource-explorer/
 
 ## Podcasts:
 

@@ -3,7 +3,6 @@
 ## Websites:
 
 - https://www.joelonsoftware.com/
-- https://www.eventbrite.com/e/design-patterns-5-weeks-with-uncle-bob-registration-135889155121?fbclid=IwAR2vtTQdQFU_4B-y05uqTV-l6DzDVNlddPQOJh1v8uo7R2bXQC4CBeVVU1k
 - SE diagramams: https://www.gleek.io/
 - https://0ver.org/
 
@@ -30,7 +29,6 @@
 - https://refactoring.guru/smells/long-parameter-list
 - https://www.infoq.com/podcasts/software-architecture-hard-parts/
 - https://medium.com/codex/challenges-implementing-ddd-4113d602caf6
-- https://medium.com/design-patterns-in-typescript/decorator-pattern-in-typescript-4609b89d8dfa
 - https://www.infoq.com/news/2021/10/ddd-vas-gateway-soundcloud/
 - https://medium.com/carvago-development/domain-driven-design-handbook-4d34b069bec4
 - https://kkolomeitsev.medium.com/why-hexagonal-architecture-doesnt-suit-me-my-ddd-implementation-is-a-layered-block-architecture-6f21a645e23e
@@ -40,9 +38,7 @@
 - https://medium.com/interviewnoodle/what-exactly-is-the-command-pattern-and-how-is-it-different-from-the-strategy-pattern-6fc432f94ba6
 - https://levelup.gitconnected.com/the-basic-premise-of-software-architecture-cfd6a69d3e16
 - https://www.hyrumslaw.com/
-- Prototype Design Pattern: http://gameprogrammingpatterns.com/prototype.html
 - https://branislavjenco.github.io/desired-state-systems/
-- https://betterprogramming.pub/design-patterns-a-complete-guide-b2699315961f
 - https://en.wikipedia.org/wiki/Side_effect_(computer_science)
 - https://medium.com/@iamjwr/software-engineer-roadmap-via-books-a6aabdc2589c
 - https://dannorth.net/2022/02/10/cupid-for-joyful-coding/

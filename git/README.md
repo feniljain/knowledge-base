@@ -67,6 +67,7 @@
 - https://tom.preston-werner.com/2009/05/19/the-git-parable.html
 - Setting up git in a new environment, nice article: https://dev.to/snaka/10-things-i-always-setup-in-git-when-i-prepare-a-new-environment-d99
 - Rebase Considered Harmful: https://www.fossil-scm.org/home/doc/trunk/www/rebaseharm.md
+- We scaled Git to support 1 TB repos: https://news.ycombinator.com/item?id=33969908
 
 ## Tutorials:
 

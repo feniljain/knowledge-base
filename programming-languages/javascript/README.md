@@ -57,6 +57,8 @@
 - Understanding Garbage Collection in JavaScriptCore From Scratch: https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch/
 - JavaScript Visualized: Event Loop : https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif
 - An overview of Node.js: architecture, APIs, event loop, concurrency: https://2ality.com/2022/09/nodejs-overview.html
+- Separation of Concerns in Node.js: https://www.infoq.com/articles/separation-concerns-nodejs/
+- Tao of Node - Design, Architecture & Best Practices: https://alexkondov.com/tao-of-node/
 
 ### Tutorials:
 
@@ -130,6 +132,9 @@
 - https://medium.com/@warkiringoda/typescript-best-practices-2021-a58aee199661
 - https://javascript.plainenglish.io/using-typescript-mapped-types-like-a-pro-be10aef5511a
 - https://prettier.io/docs/en/integrating-with-linters.html
+- Assembly interpreter inside of TypeScript's type system: https://judehunter.dev/blog/assembly-interpreter-in-typescripts-type-system
+- Use TypeScript Record Types for Better Code: https://itnext.io/use-typescript-record-types-for-better-code-ce1768c6cb53
+- Setting up Typescript for monorepos: nhttps://moonrepo.dev/docs/guides/javascript/typescript-project-refs
 
 ## Videos:
 

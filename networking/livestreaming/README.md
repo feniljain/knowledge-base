@@ -2,6 +2,8 @@
 
 ## Websites:
 
+- A simple GUI tool to create complex FFmpeg filtergraphs quickly and correctly, without having to mess with the cumbersome filter syntax: https://ffmpeg.guide/
+
 ## Blogs and articles:
 
 ### Tutorials:
@@ -46,6 +48,8 @@
 - https://www.liveswitch.io/blog/webrtc-as-good-as-http-live-streaming
 - Gone in a Flash: a brief history of HTTP Adaptive Streaming: https://www.mux.com/blog/http-adaptive-streaming-history
 - CMAF ( Common Media Application Format ) Explained. What is CMAF and How Does It Work?: https://antmedia.io/cmaf-streaming/
+- System Design — Live Streaming to millions: https://medium.com/@saurabh.codes/system-design-live-streaming-to-millions-1739fc748ef8
+- FFmpeg - The Ultimate Guide: https://img.ly/blog/ultimate-guide-to-ffmpeg/
 
 ## Blog series/articles collection:
 
@@ -75,6 +79,7 @@
 - https://github.com/theREDspace/video-onboarding
 - https://github.com/mekhti/awsome-live-streamin
 - https://github.com/liwf616/awesome-live-stream
+- Experimental H.264 parser: https://github.com/yume-chan/cond_bit_field
 
 ## Videos:
 
@@ -83,5 +88,6 @@
 - Measuring the live video latency at scale: https://www.youtube.com/watch?v=D6I2zQa6Icw
 - LL-HLS, LHLS, DASH-LL: Challenges and Differences: https://www.youtube.com/watch?v=DVrPv-8PUm4
 ## Videos:
+- WHIP and WHEP: Standardized Live Streaming with WebRTC: https://www.youtube.com/watch?v=rIQVVJOjR0U
 
 - FFmpeg for Adaptive Bitrate Production: https://www.udemy.com/course/ffmpeg-for-adaptive-bitrate-production/

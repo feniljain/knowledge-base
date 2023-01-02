@@ -18,6 +18,8 @@
 - Fixed Partitions: https://martinfowler.com/articles/patterns-of-distributed-systems/fixed-partitions.html
 - Emergent Leader: https://martinfowler.com/articles/patterns-of-distributed-systems/emergent-leader.html
 - Distributed System Models in the Real World: https://sookocheff.com/post/distributed-systems/distributed-system-models-in-the-real-world/
+- The Distributed Computing Manifesto: https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html
+- Paxos, Raft, EPaxos: How Has Distributed Consensus Technology Evolved?: https://www.alibabacloud.com/blog/paxos-raft-epaxos-how-has-distributed-consensus-technology-evolved_597127
 
 ## Videos:
 

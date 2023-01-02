@@ -36,3 +36,7 @@
 ## Blog series/Article collection:
 
 - https://www.anandtech.com/
+
+## Headphones:
+
+- Noise Two headphones: https://twitter.com/IndiaTodayTech/status/1589971656474255360

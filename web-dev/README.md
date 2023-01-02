@@ -58,6 +58,10 @@
 - Browser hacking: Let's get the "Canvas Cycle" JS demo running in our Browser!: https://www.youtube.com/watch?v=b3a5V45LLss
 - Understanding all the config files available in javascript webdev landscape: https://www.youtube.com/watch?v=14WanxTD2O4
 
+## Books:
+
+- https://www.buildingbrowserextensions.com/
+
 ## Reddit posts and twitter threads:
 
 - https://www.reddit.com/r/webdev/comments/rmjulc/cheap_hosting_sites/

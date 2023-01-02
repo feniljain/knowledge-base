@@ -21,6 +21,8 @@
 - WebRTC in go: https://pion.ly/
 - Working group for webrtc standards: https://datatracker.ietf.org/wg/rtcweb/documents/
 - https://webrtcwork.com/
+- https://peerjs.com/
+- https://www.npmjs.com/package/simple-peer
 
 ## GoogleGroups:
 
@@ -128,11 +130,18 @@
 - What is Jitter? Meaning, Causes, and Solutions: https://www.agora.io/en/blog/what-is-jitter-meaning-causes-and-solutions/
 - WebRTC Signaling Servers: Everything You Need to Know: https://antmedia.io/webrtc-signaling-servers-everything-you-need-to-know/
 - How to create a streaming CDN for low latency WebRTC video broadcasting: https://flashphoner.com/how-to-create-a-streaming-cdn-for-low-latency-webrtc-video-broadcasting/
+- Lyra: A New Very Low-Bitrate Codec for Speech Compression: https://ai.googleblog.com/2021/02/lyra-new-very-low-bitrate-codec-for.html
+- SDP: Your Fears Are Unleashed: https://webrtchacks.com/webrtc-sdp-inaki-baz-castillo/
+- https://shiguredo.jp/#webrtc
+- P2P, SFU and MCU - WebRTC Architectures Explained: https://www.digitalsamba.com/blog/p2p-sfu-and-mcu-webrtc-architectures-explained
+- SDP the WebRTC Boat Anchor: https://webrtc.is/2013/03/06/sdp-the-webrtc-boat-anchor/
 
 ### Tutorials:
 
 - https://www.youtube.com/watch?v=QsH8FL0952k
 - How To Analyze and Interpret Network Data for Real-Time Video: https://www.liveswitch.io/blog/how-to-analyze-and-interpret-network-data-for-real-time-video
+-
+Social audio applications with Janus: https://www.meetecho.com/blog/social-audio/
 
 ## Blog series/articles collection:
 
@@ -187,6 +196,8 @@
 -  Lyra V2 - a better, faster, and more versatile speech codec: https://opensource.googleblog.com/2022/09/lyra-v2-a-better-faster-and-more-versatile-speech-codec.html
 - Where's my stream? TURN Server debugging: https://dev.epicgames.com/community/learning/tutorials/VY4X/unreal-engine-where-s-my-stream-turn-server-debugging-for-pixel-streaming
 - zoom clone using rust: https://github.com/security-union/rust-zoom
+- donut is a zero setup required SRT+MPEG-TS -> WebRTC Bridge powered by Pion: https://github.com/flavioribeiro/donut
+- Serverless WebRTC matchmaking for painless P2P — Make any site multiplayer in a few lines — Use BitTorrent, IPFS, or Firebase: https://github.com/dmotz/trystero
 
 ## Useful SO questions:
 
@@ -201,6 +212,7 @@
 - What other SFUs are easy to integrate with existing node signaling besides mediasoup?: https://www.reddit.com/r/WebRTC/comments/sly8wy/what_other_sfus_are_easy_to_integrate_with/
 - Amazon Special Projects Team - building real-time video/audio communication application: https://www.reddit.com/r/WebRTC/comments/t9l98g/amazon_special_projects_team_building_realtime/
 - Discord servers to discuss webrtc: https://www.reddit.com/r/WebRTC/comments/y07hab/discord_server_to_discuss_webrtc/
+- Lyra Codec in WebRTC: https://twitter.com/voluntas/status/1585985498648125441
 
 ## Discuss-WebRTC google group discussions:
 

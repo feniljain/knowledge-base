@@ -108,6 +108,10 @@
 - https://www.guru99.com/docker-interview-questions.html
 - See last answer's diagram: https://stackoverflow.com/questions/60527336/what-is-the-difference-between-docker-daemon-and-docker-engine
 
+## Javascript interviews:
+
+- Javascript Tricky Questions — Promises: https://eishta.medium.com/javascript-tricky-questions-promises-12c1ebeff20c
+
 ## Rust interviews:
 
 - https://flakm.github.io/posts/rust_interview_questions/
@@ -128,6 +132,7 @@
 - 10 GitHub repositories for interview preparation for Software Developers: https://twitter.com/sunilc_/status/1520423774260060161
 - "Who is hiring(June 2022)": https://news.ycombinator.com/item?id=31582796
 - How to answer "Why should we hire you?": https://twitter.com/oliverjumpertz/status/1570739488787251201
+- Google interview process insight and interview prer help: https://twitter.com/shaktimtripathi/status/1585664494994616320
 
 ## CC:
 

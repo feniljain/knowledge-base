@@ -33,6 +33,7 @@
 - A security fix briefly breaks DMA: https://lwn.net/Articles/889593/
 - Writing a kernel driver in rust: https://medium.com/@not-matthias/writing-a-kernel-driver-with-rust-deba1ebef368
 - Writing a kernel driver in rust: https://not-matthias.github.io/posts/kernel-driver-with-rust-2022/
+- Building an out-of-tree Rust Kernel Module: https://blog.rnstlr.ch/building-an-out-of-tree-rust-kernel-module.html
 
 ## Dev:
 

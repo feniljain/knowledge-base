@@ -72,6 +72,7 @@
 - Plugins to draw diagarms easily in vim: https://github.com/willchao612/vim-diagon
 - Delete buffers (close files) without closing your windows or messing up your layout: https://github.com/moll/vim-bbye
 - Live Server for hot reloading html/css, etc. for vim/neovim: https://github.com/manzeloth/live-server
+-  Vim plugin that displays tags in a window, ordered by scope: https://github.com/preservim/tagbar
 
 ## Lua/Nvim 0.5+ Exclusive plugins(Can be 0.7+ too):
 
@@ -174,6 +175,9 @@
 - It sets vim.ui.select to telescope. That means for example that neovim core stuff can fill the telescope picker: https://github.com/nvim-telescope/telescope-ui-select.nvim
 - https://github.com/ggandor/leap.nvim
 - https://github.com/tamton-aquib/duck.nvim
+- https://github.com/echasnovski/mini.nvim
+- Another cmake lsp: https://github.com/Decodetalkers/neocmakelsp
+- An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support: https://github.com/mfussenegger/nvim-lint
 
 ## Some plugins/things I wanna checkout:
 
@@ -187,7 +191,6 @@
 - About Telescope extension wrapper around `:changes`: https://github.com/LinArcX/telescope-changes.nvim
 - https://github.com/sindrets/diffview.nvim ( This now has completely vscode type merge tools, check here: https://www.reddit.com/r/neovim/comments/x7iw4m/update_diffviewnvim_now_has_a_merge_tool/ )
 - https://github.com/Maan2003/lsp_lines.nvim, check due to this: https://www.reddit.com/r/neovim/comments/w5h9tl/lsp_linesnvim_v2_is_out/
-- https://github.com/williamboman/mason.nvim
 - A Neovim plugin to copy text through SSH with OSC52: https://github.com/ojroques/nvim-osc52
 - Neovim plugin to automatic change normal string to template string in JS like languages: https://github.com/axelvc/template-string.nvim
 - Pomodoro for neovim: https://github.com/dbinagi/nomodoro
@@ -195,8 +198,6 @@
 - Vscode type themes/colorschemes/syntax highlighting: https://github.com/icedman/nvim-textmate
 - Image Viewer as ASCII Art: https://github.com/samodostal/image.nvim
 - https://github.com/gaoDean/autolist.nvim
-- https://github.com/Djancyp/better-comments.nvim
-- SpellSitter natively in neovim: https://www.reddit.com/r/neovim/comments/x7k7r7/spellsitter_merged_to_neovim_core/
 - https://github.com/ptethng/telescope-makefile
 - Start using default lua/viml and C treesitter parsers:  https://this-week-in-neovim.org/2022/Sep/12
 - https://github.com/David-Kunz/markid
@@ -205,8 +206,6 @@
 - https://www.reddit.com/r/neovim/comments/xg48k9/what_is_the_coolest_unknownish_plugin_that_youre/
 - https://www.youtube.com/watch?v=uL9oOZStezw: Improve usage of `a`, usage of `=ap`, search and replace in select mode
 - https://github.com/AckslD/nvim-neoclip.lua (Checkout the corresponding telescope plugin too)
-- https://github.com/LinArcX/telescope-env.nvim
-- Making cmdheight=0
 - If treesitter fails in nvim 0.8.0: https://www.reddit.com/r/neovim/comments/xw2vjy/treesitter_no_longer_works_after_upgraded_to/
 - https://github.com/folke/noice.nvim: It's from folke, and seems super interesting
 - https://jdhao.github.io/2022/10/05/nvim-v08-release/
@@ -215,3 +214,9 @@
 - https://github.com/kevinhwang91/nvim-hlslens
     - Also checkout `searchcount` in lualine
 - https://github.com/Tsuzat/NeoSolarized.nvim
+- https://github.com/neovim/neovim/pull/14537: https://www.reddit.com/r/neovim/comments/ym6x7y/enable_new_diff_option_linematch_14537/
+- https://github.com/jbyuki/venn.nvim
+- Edit quickfix list: https://github.com/itchyny/vim-qfedit
+- Integrate stabilize.nvim PR
+- https://github.com/tpope/vim-sleuth
+- https://github.com/lewis6991/gitsigns.nvim

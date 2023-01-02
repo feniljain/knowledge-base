@@ -45,6 +45,7 @@
 - What's Inside Of a Distroless Image - Taking a Deeper Look: https://iximiuz.com/en/posts/containers-distroless-images/
 - https://www.zdnet.com/google-amp/article/chainguard-releases-wolfi-a-linux-undistribution/
 - How Docker Images Work: Union File Systems for Dummies: https://www.terriblecode.com/blog/how-docker-images-work-union-file-systems-for-dummies/
+- Containers are chroot with a Marketing Budget: https://earthly.dev/blog/chroot/
 
 ## Interesting Images:
 
@@ -65,7 +66,7 @@
 - Docker networking: https://www.youtube.com/watch?v=bKFMS5C4CG0
 - Docker networking Crash Course: https://www.youtube.com/watch?v=OU6xOM0SE4o
 
-## Tools and repos:
+## Tools and Repos:
 
 - Remove all docker script: https://gist.github.com/beeman/aca41f3ebd2bf5efbd9d7fef09eac54d
 - https://github.com/bottlerocket-os/bottlerocket
@@ -84,6 +85,7 @@
 - https://github.com/krol3/container-security-checklist
 - https://github.com/docker-slim/docker-slim
 - https://github.com/iximiuz/awesome-container-tinkering
+- A toolkit for building secure, portable and lean operating systems for containers: https://github.com/linuxkit/linuxkit
 
 ## Learning
 

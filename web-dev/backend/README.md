@@ -96,6 +96,13 @@
 - https://engineering.mixpanel.com/resharding-petabytes-of-data-to-improve-performance-for-our-largest-customers-1a3be4637778
 - Avoid N+1 Problem In Graphql Federation With GO (Part 2): https://medium.com/@louisaldorio/avoid-n-1-problem-in-graphql-federation-with-go-part-2-891b200292d9
 - Use One Big Server(Very nice comparison): https://specbranch.com/posts/one-big-server/
+- Leverage HTTPs conditional requests: https://quadratic.fm/p/how-meta-microsoft-google-github
+- Redis Clustering Best Practices with Multiple Keys: https://redis.com/blog/redis-clustering-best-practices-with-keys/
+- 10 Mistakes to avoid when building your API: https://blog.signnow.com/10-mistakes-to-avoid-when-building-your-api/
+- How Shophify deals with replication lag in read replica of their MySQL DB: https://blog.quastor.org/p/shopify-ensures-consistent-reads
+- Shift Left Approach for API Standardization: https://www.infoq.com/articles/shift-left-api-standardization/
+- Microsoft REST API Guidelines: https://github.com/Microsoft/api-guidelines
+- Google REST API Guidelines: https://cloud.google.com/apis/design/
 
 ## Blog series/Articles collection:
 
@@ -109,6 +116,7 @@
 - https://twitter.com/nodepractices/
 - Tor's Connection Establishment: https://twitter.com/hnasr/status/1398666446146785289
 - https://www.reddit.com/r/node/comments/os16lo/what_do_recruiters_expect_from_junior_backend/
+- How Apache Zookeeper works: https://twitter.com/Franc0Fernand0/status/1593984418015748096
 
 ## Repos:
 
@@ -118,9 +126,12 @@
 - https://github.com/rails/kredis
 - Implementation of google's global, consistent authorization system, Zanzibar: https://github.com/ory/keto
 - https://github.com/minimaxir/big-list-of-naughty-strings
+- HTTP Relay provides communication service between HTTP clients. A solution similar to WebRTC but simple to use and supported by all web browsers and HTTP clients: https://httprelay.io/
+- A curated list of Chaos Engineering resources: https://github.com/dastergon/awesome-chaos-engineering
 
 ## Videos:
 
 - Best backend yt channels: https://www.youtube.com/watch?v=eusHw-mUa8Y
 - https://www.infoq.com/presentations/netflix-user-identity/
 - https://www.infoq.com/presentations/netflix-edge-scalability-patterns/
+- Should Each Microservice Have Its Own Database?: https://www.youtube.com/watch?v=A62GpUmO9q0

@@ -104,6 +104,9 @@
 - How Razorpay’s Notification Service Handles Increasing Load: https://engineering.razorpay.com/how-razorpays-notification-service-handles-increasing-load-f787623a490f
 - Scaling Confidently with the Load and Fault Team: https://robinhood.engineering/scaling-confidently-with-the-load-and-fault-team-122978333d9
 - https://netflixtechblog.com/scryer-netflixs-predictive-auto-scaling-engine-part-2-bb9c4f9b9385
+- System Design: Domain Name System (DNS), Load Balancing & Clustering: https://blog.nandankumar.info/system-design-domain-name-system-dns-load-balancing-clustering
+- Exponential Backoff And Jitter: https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/
+
 ## Repos:
 
 - Very good resource, also contains redirects to many other good resources: https://github.com/donnemartin/system-design-primer
@@ -133,3 +136,4 @@
 - How TikTok short content is delivered through HTTP: https://www.youtube.com/watch?v=2df8PMfajDQ
 - Caching is Hard: https://www.youtube.com/watch?v=jIA7z1gxuc8
 - Consistent Hashing: https://www.youtube.com/watch?v=p6wwj0ozifw
+- Should Each Microservice Have Its Own Database?: https://www.youtube.com/watch?v=A62GpUmO9q0

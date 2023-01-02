@@ -17,6 +17,7 @@
 - https://papl.cs.brown.edu/
 - https://papl.cs.brown.edu/2020/index.html
 - List of companies working on things realted to compiler: https://mgaudet.github.io/CompilerJobs/
+- A bunch of resources: https://bernsteinbear.com/pl-resources/
 
 ## Blogs and articles:
 
@@ -33,6 +34,11 @@
 - https://luctielen.com/posts/how-to-lower-an-ir/
 - Building an interpreter in Rust: https://blog.subnetzero.io/post/building-language-vm-part-00/
 - https://mukulrathi.com/create-your-own-programming-language/intro-to-type-checking/
+- https://m-peko.github.io/craft-cpp/posts/writing-a-compiler-part-1/
+- Hindley-Damas-Milner tutorial: https://github.com/quchen/articles/tree/master/hindley-milner
+- How to write your own LR(1) parsing tables (and generate them): https://boxbase.org/entries/2019/oct/14/lr1-parsing-tables/
+- PEG Parsing Series Overview by Guido van Rossum ( creator of python ): https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60
+- Formally Verified Native Code Generation in an Effectful JIT or: Turning the CompCert Backend into a Formally Verified JIT Compiler: https://people.irisa.fr/Aurele.Barriere/papers/fmjit.pdf
 
 ### Others:
 
@@ -132,6 +138,12 @@
 - Zig Compiler Internals: https://mitchellh.com/zig
 - Syntax Design: https://cs.lmu.edu/~ray/notes/syntaxdesign/
 - When is JIT Faster Than A Compiler?: https://shopify.engineering/when-jit-faster-than-compiler
+- Incremental parsing in go: https://dev-nonsense.com/posts/incremental-parsing-in-go/
+- Syntax Design: https://cs.lmu.edu/~ray/notes/syntaxdesign/
+- Building the fastest Lua interpreter.. automatically!: https://sillycross.github.io/2022/11/22/2022-11-22/ ( HN Thread: https://news.ycombinator.com/item?id=33711583 )
+- Parsing Protobuf at 2+GB/s: How I Learned To Love Tail Calls in C: https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html
+- How different compiler optimizations work: https://predr.ag/tags/compiler-adventures/
+- Mark and sweep Boehm Collector!: https://hboehm.info/gc/
 
 ## Blog series/Articles collection:
 
@@ -184,6 +196,10 @@
 - A massively parallel, optimal functional runtime in Rust : https://github.com/Kindelia/HVM
 - A parser library for humans with powerful error recovery: https://github.com/zesterer/chumsky
 - ISLE: Instruction Selection/Lowering Expressions DSL: https://github.com/bytecodealliance/wasmtime/tree/main/cranelift/isle
+- A curated list of static analysis (SAST) tools for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality: https://github.com/analysis-tools-dev/static-analysis
+- A curated list of dynamic analysis tools for all programming languages, binaries, and more: https://github.com/analysis-tools-dev/dynamic-analysis
+- Distributed compiler with a central scheduler to share build load: https://github.com/icecc/icecream
+- Compiler optimizer for arbitrary control flow based on equality saturation: https://github.com/jameysharp/optir
 
 ## Grammars:
 
@@ -227,6 +243,9 @@
 - Writing interpreter in Go: https://interpreterbook.com/
 - PRACTICAL COMPILER CONSTRUCTION: A No-nonsense Tour through a C Compiler: http://t3x.org/reload/
 - https://www3.nd.edu/~dthain/compilerbook/
+- Compiling to assembly from scratch: https://keleshev.com/compiling-to-assembly-from-scratch/
+- Static Program Analysis: https://cs.au.dk/~amoeller/spa/
+- Writing Interpreters in Rust: a Guide: https://rust-hosted-langs.github.io/book/introduction.html
 
 ## Interesting rust-analyzer issues:
 

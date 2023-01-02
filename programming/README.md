@@ -60,6 +60,7 @@
 - https://devdocs.io/
 - Offline documentation browser for software developers: https://zealdocs.org/
 - 100+ project ideas book: https://projectbook.code.brettchalupa.com/
+- https://analysis-tools.dev/
 
 ## Blogs and Articles:
 
@@ -200,6 +201,14 @@
 - https://copyconstruct.medium.com/effective-mental-models-for-code-and-systems-7c55918f1b3e
 - https://wix-ux.com/when-life-gives-you-lemons-write-better-error-messages-46c5223e1a2f
 - Bit Twiddling Hacks: https://graphics.stanford.edu/~seander/bithacks.html#OperationCounting
+- What every computer science major should know: https://matt.might.net/articles/what-cs-majors-should-know/
+- Why do we call it "boilerplate code?": https://buttondown.email/hillelwayne/archive/why-do-we-call-it-boilerplate-code/
+- The Ultimate Guide to Architectural Decision Records: https://betterprogramming.pub/the-ultimate-guide-to-architectural-decision-records-6d74fd3850ee
+- You might not need a CRDT: https://driftingin.space/posts/you-might-not-need-a-crdt
+- Simplifying Developer Testing Through SLATE: https://www.uber.com/en-IN/blog/simplifying-developer-testing-through-slate/
+- Tips for analyzing logs: https://jvns.ca/blog/2022/12/07/tips-for-analyzing-logs/
+- What Musashi taught me on Software Engineering: https://medium.com/@hnasr/what-musashi-taught-me-on-software-engineering-6328c2149c1d
+- Interactive article explaining how GPS works: https://ciechanow.ski/gps/
 
 ### Tutorials:
 
@@ -225,10 +234,12 @@
 - https://asianometry.substack.com/
 - https://architecturenotes.co/
 - https://www.gimtec.io/
+- https://www.pointer.io/
 
 ## Podcasts:
 
 - Immigrant Computer Scientists: https://open.spotify.com/show/165S0iev1NbimrJ2FSsLes?si=2bb0af6919f54f13
+- Land of the Giants: https://www.vox.com/land-of-the-giants-podcast
 
 ## Course:
 
@@ -248,6 +259,7 @@
 - No-code tools, the thread: https://twitter.com/heyeaslo/status/1482895458099884032
 - Ask HN: What bits of fundamental knowledge are productivity multipliers?: https://news.ycombinator.com/item?id=30853807
 - How to properly implement undo/redo: https://twitter.com/steveruizok/status/1566142910546038784
+- A collection of awesome blogs to follow across industries: https://twitter.com/GergelyOrosz/status/1596073995044278272
 
 ## Videos:
 
@@ -279,7 +291,6 @@
 - Terminal based YouTube player and downloader: https://github.com/mps-youtube/mps-youtube
 - https://github.com/firstcontributions/first-contributions
 - App to remind you take breaks to reduce strain on eye: https://github.com/slgobinath/SafeEyes
-- Full list of general software design patterns: https://github.com/kamranahmedse/design-patterns-for-humans
 - Multipurpose serial data viz & processing program: https://github.com/Serial-Studio/Serial-Studio
 - https://github.com/newcharacteryigit/projectidea-cli
 - https://github.com/conwnet/github1s
@@ -343,6 +354,9 @@
 - When Bloom filters don't bloom: https://blog.cloudflare.com/when-bloom-filters-dont-bloom/
 - A list of Free Software network services and web applications which can be hosted on your own servers: https://github.com/awesome-selfhosted/awesome-selfhosted
 - Cool open source projects written in various languages: https://github.com/lk-geimfari/awesomo
+- A collection of inspiring resources related to engineering management and tech leadership: https://github.com/charlax/engineering-management
+- List of ngrok alternatives and other ngrok-like tunneling software and services: https://github.com/anderspitman/awesome-tunneling
+- Implementing a Job Control Shell: https://www.gnu.org/software/libc/manual/html_node/Implementing-a-Shell.html
 
 ## Extensions:
 
@@ -386,6 +400,7 @@
 - Quirky Programming Books: https://github.com/fogus/thunks/blob/main/reading/quirkeys.org
 - The Guide for Growing as a Software Engineer: https://www.engguidebook.com/
 - Fundamentals of Control Theory: https://engineeringmedia.com/books
+- Small Memory Software: Patterns for systems with limited memory: https://www.smallmemory.com/book.html
 
 ## Tools:
 

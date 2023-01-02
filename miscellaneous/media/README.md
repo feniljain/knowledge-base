@@ -34,6 +34,7 @@
 
 - Total banger collection: https://www.youtube.com/watch?v=5XHxe0s5DmY
 - Primes daily bangers playlist: https://www.youtube.com/playlist?list=PLpvrfXJz4_9F-ICZgwo4tPcbZQa5MPpQ2
+- Powerful CLI tool to take control of the Spotify client: https://spicetify.app/
 
 # Repos:
 
@@ -45,9 +46,19 @@
 - Tool To Download from DSNP USA: https://github.com/widevinedump/DISNEY-4K-SCRIPT
 - Tool To download 4KHDR DV SDR from AppleTV: https://github.com/widevinedump/APPLE-TV-4K-Downloader
 - https://github.com/Igglybuff/awesome-piracy
+- https://github.com/KRTirtho/spotube
+- Indexes open directories: https://github.com/KoalaBear84/OpenDirectoryDownloader
+- Find open directories using Open Directory Search Tool: https://github.com/IceWreck/OpenDirectorySearchTool
+- Privacy-respecting YouTube Music frontend with no ads or telemetry: https://github.com/maaa101/burgertunes
+- Continuing the legacy of Vanced: https://github.com/revanced
 
 # Reddit and twitter threads:
 
 - Getting rid of spotify ad banners and stuff: https://www.reddit.com/r/Piracy/comments/9jvlf8/get_rid_of_spotify_adsbannerslimited_skips_and/
 - MEGA-PIRACY-WIKI: https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/g37lwb/megapiracywiki/
 - Reddit's Favorite Products in One Place: https://looria.com/reddit/overview
+- Unprotected directories of pics, vids, music, software and otherwise interesting files: https://www.reddit.com/r/opendirectories/
+
+# Open Directories:
+
+- http://85.218.172.74/

@@ -61,6 +61,8 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - 7 Simple Habits That Save Me Time: https://parkerklein.medium.com/7-simple-habits-that-save-me-time-68deaff36855
 - Emotions Aren’t the Enemy of Good Decision-Making: https://hbr.org/2022/09/emotions-arent-the-enemy-of-good-decision-making
 - The Ridiculous Effectiveness of Singleminded Devotion to a Purpose: https://zenhabits.net/devotion/
+- Networking is a necessary — and misunderstood — skill. Here’s how to hone it.: https://www.vox.com/even-better/23416328/networking-tips-job-professional-email-example-scary
+- What Is the Cycle of Avoidance And How to Break It: https://www.lifehack.org/938891/cycle-of-avoidance
 
 ## Videos:
 
@@ -375,6 +377,13 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - Inside of every problem lies an opportunity. - Robert Kiyosaki
 - Change is the essence of life; be willing to surrender what you are for what you could become. - Reinhold Niebuhr
 - Be gentle first with yourself if you wish to be gentle with others. - Lama Yeshe
+- Respect yourself enough to walk away from anything that no longer serves you, grows you, or makes you happy. - Robert Tew
+- In a world where information is abundant and easy to access, the real advantage is knowing where to focus. - James Clear
+- Light tomorrow with today. - Elizabeth Barrett Browning
+- If you want to lift yourself up, lift up someone else. - Booker T. Washington
+- You are your own best friend. Never ever put yourself down. - Paulo Coelho
+- Let go of the thoughts that don't make you strong.
+- The right and wrong answers should come from your heart.
 
 ## Books:
 
@@ -395,6 +404,7 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - https://tiddlywiki.com/
 - Obisidian
 
-## Games I wanna play one more time:
+## Games:
 
-- Counter Strike Condition Zero
+- Counter Strike Condition Zero ( wanna play one more time )
+- https://news.ycombinator.com/item?id=33446121

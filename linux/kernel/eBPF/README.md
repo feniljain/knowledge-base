@@ -82,6 +82,8 @@
 - Long-lived kernel pointers in BPF: https://www.bytelab.codes/long-lived-kernel-pointers-in-bpf/
 - A Deep Dive into eBPF: Writing an Efficient DNS Monitoring: https://medium.com/@nurkholish.halim/a-deep-dive-into-ebpf-writing-an-efficient-dns-monitoring-2c9dea92abdf
 - Journey to libbpf 1.0: https://nakryiko.com/posts/libbpf-v1/
+- A practical guide to capturing production traffic with eBPF: https://www.datadoghq.com/blog/ebpf-guide/
+- DWARF-based Stack Walking Using eBPF: https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers/
 
 ### Tutorials:
 
@@ -90,6 +92,8 @@
 - eBPF XDP: The Basics and a Quick Tutorial: https://www.tigera.io/learn/guides/ebpf/ebpf-xdp/
 - Great slide deck (almost 200 slides 🤯) diving into the code of the verifier and how it works: https://docs.google.com/presentation/d/1abYBW7L8kAupgG9YkFPRGayZSXm9hGv_Dvp7ADBkfyg/edit?_hsmi=222229515&_hsenc=p2ANqtz--Mezgv_HpDcGHycEWNE2-JaCkv7bvGchuax6KuCx_6aMvjY62ti2rwJPCbwwRK1Cw5b8K58iSrdr8e-2GqQxn2LFjwFw#slide=id.p1
 - Building an eBPF based profiler for both compiled and interpreted languages: https://www.containiq.com/post/building-an-ebpf-based-profiler
+- Writing an eBPF/XDP load-balancer in Rust: https://konghq.com/blog/writing-an-ebpf-xdp-load-balancer-in-rust
+- Intro to Kernel and Userspace Tracing Using BCC: https://blogs.oracle.com/linux/post/intro-to-bcc-1
 
 ## Dev:
 
@@ -109,6 +113,7 @@
 
 - eBPF Book: http://www.brendangregg.com/bpf-performance-tools-book.html
 - https://isovalent.com/data/liz-rice-what-is-ebpf.pdf
+- Learning eBPF book: https://isovalent.com/ebpf/
 
 ## Repos:
 
@@ -167,6 +172,8 @@
 - Use this as skeleton for your eBPF golang application: https://github.com/rafaeldtinoco/drafts
 - a prototype networking bpf loader: https://github.com/redhat-et/bpfd
 - Package, distribute, and run eBPF programs in JSON or in WASM module: https://github.com/eunomia-bpf/eunomia-bpf
+- Tracing tools for PostgreSQL, using eBPF: https://github.com/aiven/pgtracer
+- eBPF-powered L4 package dropper: https://github.com/boratanrikulu/durdur
 
 ## Reddit and twitter threads:
 

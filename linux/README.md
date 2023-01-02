@@ -121,6 +121,11 @@
 - The Linux Boot Process: https://medium.com/@ibshafique/the-linux-boot-process-180fb07af452
 - GNU ld Discards Section Containing Code – Section Flags are Important for ELF Files: https://phip1611.de/blog/gnu-ld-discards-section-containing-code/
 - https://medium.com/@omchakane/memory-management-in-linux-3b6228aa2de4
+- Linux — Socket Deep Dive: https://medium.com/geekculture/linux-socket-deep-dive-8c473b25fd22
+
+### Tutorials:
+
+- Writing a toy traceroute from scratch: https://alexanderell.is/posts/toy-traceroute/
 
 ### Others:
 
@@ -338,3 +343,4 @@
 ## IO-Uring:
 
 - Zero-copy network transmission with io_uring: https://lwn.net/Articles/879724/
+- Rust io_uring examples: https://github.com/espoal/uring_examples

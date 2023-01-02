@@ -8,7 +8,6 @@
 - Named return values: https://tour.golang.org/basics/7
 - Complete guide on go modules, with command explanations: https://zaracooper.github.io/blog/posts/go-module-tidbits/
 - https://blog.urth.org/2021/03/27/down-the-golang-nil-rabbit-hole/
-- https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/
 - https://blog.golang.org/errors-are-values
 - https://ani.dev/2021/05/25/functional-programming-in-go-with-generics/
 - https://medium.com/@geisonfgfg/functional-go-bc116f4c96a4
@@ -190,6 +189,7 @@
 - Go: A Documentary: https://golang.design/history/
 - Crimes with Go Generics: https://christine.website/blog/gonads-2022-04-24
 - https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html
+- New in Go 1.20: wrapping multiple errors: https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/
 
 ## Blog Series:
 
@@ -442,6 +442,7 @@
 - https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6
 - https://docs.microsoft.com/en-us/learn/paths/go-first-steps/
 - https://www.practical-go-lessons.com/
+- Learn Go with Tests: https://quii.gitbook.io/learn-go-with-tests/
 
 ## Repos:
 

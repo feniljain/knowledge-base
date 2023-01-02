@@ -2,11 +2,21 @@
 
 ## Blogs and articles:
 
+### Tutorials:
+
+- Parser Combinators in Elixir: https://blog.appsignal.com/2022/10/18/parser-combinators-in-elixir-taming-semi-structured-text.html
+- Debugging in Elixir and Erlang: An Introduction: https://blog.appsignal.com/2022/11/29/debugging-in-elixir-and-erlang-an-introduction.html
+
+### Others:
+
 - Story Of Elixir Programmin Language: https://curiosum.com/blog/story-of-elixir-programming-language
+- Do's & don't's of writing Elixir: https://dev.to/lenra/dos-donts-of-writing-elixir-5dd0
 
 ## Forums:
 
 - https://elixirforum.com/
+- Forum for Elixir Language Core Proposals: https://groups.google.com/g/elixir-lang-core
+- Forum for Elixir Language Version Announcements: https://groups.google.com/g/elixir-lang-ann
 
 ## Podcasts:
 
@@ -20,6 +30,8 @@
 ## Repos:
 
 - https://github.com/h4cc/awesome-elixir
+- A description of the Erlang Runtime System ERTS and the virtual Machine BEAM: https://github.com/happi/theBeamBook
+- TypeCheck: Fast and flexible runtime type-checking for your Elixir projects: https://github.com/Qqwy/elixir-type_check
 
 ## Videos:
 
