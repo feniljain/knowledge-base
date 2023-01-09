@@ -66,6 +66,7 @@
 - https://github.com/veeral-patel/how-to-secure-anything
 - Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock: https://github.com/liamg/traitor
 - https://github.com/edoardottt/awesome-hacker-search-engines
+- A curated list of awesome Open-Source Intelligence (OSINT) Resources: https://github.com/ARPSyndicate/awesome-intelligence
 
 ### Reddit and twitter threads:
 

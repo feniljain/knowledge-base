@@ -54,7 +54,6 @@
 - https://blog.bitsrc.io/5-express-middleware-libraries-every-developer-should-know-94e2728f7503
 - https://betterprogramming.pub/a-deep-dive-into-weak-memory-management-in-javascript-55ab240a09aa
 - JSON Creator Douglas Crockford Interview: https://evrone.com/douglas-crockford-interview
-- Understanding Garbage Collection in JavaScriptCore From Scratch: https://webkit.org/blog/12967/understanding-gc-in-jsc-from-scratch/
 - JavaScript Visualized: Event Loop : https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif
 - An overview of Node.js: architecture, APIs, event loop, concurrency: https://2ality.com/2022/09/nodejs-overview.html
 - Separation of Concerns in Node.js: https://www.infoq.com/articles/separation-concerns-nodejs/

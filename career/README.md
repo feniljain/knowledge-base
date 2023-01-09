@@ -31,6 +31,8 @@
 - How to Do Code Reviews Like a Human (Part One): https://mtlynch.io/human-code-reviews-1/
 - 6 Habits That Hurt Your Career — and How to Overcome Them: https://hbr.org/2020/01/6-habits-that-hurt-your-career-and-how-to-overcome-them
 - https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/
+- A guide to fixing Developer Posture: https://gaylelaakmann.substack.com/p/a-guide-to-fixing-computer-guy-posture
+- Your First 60 Days at an Engineering Job: https://code.dblock.org/2015/04/23/your-first-60-days-at-an-engineering-job.html
 
 ## Blog series/Collection of articles:
 
@@ -51,3 +53,4 @@
 - ESOP FAQ for engineers: https://twitter.com/NirantK/status/1504538978158100491
 - Free resume builders: https://twitter.com/hasantoxr/status/1571465364898459648
 - Numbers which can be used in performance reviews: https://twitter.com/GergelyOrosz/status/1602312952526344192/
+- Job Boards for Europe: https://twitter.com/soorajchandran_/status/1610491972221034496

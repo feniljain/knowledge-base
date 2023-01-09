@@ -74,6 +74,7 @@
 - https://github.com/dair-ai/MLOPs-Primer
 - https://github.com/jbhuang0604/awesome-computer-vision
 - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight: https://github.com/facebookresearch/shumai
+- Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading: https://github.com/bigscience-workshop/petals
 
 ## Reddit and twitter threads:
 

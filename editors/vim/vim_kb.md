@@ -37,6 +37,16 @@
     g; – Vim jumps to the last change you made
     g, – Vim jumps forward through the change list
 - Use Ctrl-t to jump back from a go-to-definition, jumplist get's polluted so using this is very helpful
+- z family of commands ->
+    zz: bring cursor to center
+- Use Ctrl-t to jump back from a go-to-definition, jumplist get's polluted so using this is very helpful
+- z family of commands ->
+    zz: bring current line to center
+    zt: bring current line to top
+    zb: bring current line to bottom
+    z.: bring current line to center, and also reposition the cursor to the beginning of the line
+    z+[Enter]: bring current line to top, and also reposition the cursor to the beginning of the line
+    z-: bring current line to bottom, and also reposition the cursor to the beginning of the line
 
 ## StatusLine:
 

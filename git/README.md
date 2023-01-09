@@ -111,7 +111,6 @@
 - Series on git internals: https://dev.to/calebsander/git-internals-part-2-packfiles-1jg8
 - https://git-scm.com/book/en/v2/Git-Internals-Git-Objects
 - Git’s database internals I: packed object store: https://github.blog/2022-08-29-gits-database-internals-i-packed-object-store/
-- Scaling Git's Garbage Collection: https://github.blog/2022-09-13-scaling-gits-garbage-collection/
 
 ## Github Enhancements:
 

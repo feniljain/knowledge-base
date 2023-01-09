@@ -63,6 +63,7 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - The Ridiculous Effectiveness of Singleminded Devotion to a Purpose: https://zenhabits.net/devotion/
 - Networking is a necessary — and misunderstood — skill. Here’s how to hone it.: https://www.vox.com/even-better/23416328/networking-tips-job-professional-email-example-scary
 - What Is the Cycle of Avoidance And How to Break It: https://www.lifehack.org/938891/cycle-of-avoidance
+- Conversation Skills Essentials: https://tynan.com/letstalk/
 
 ## Videos:
 
@@ -384,6 +385,9 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - You are your own best friend. Never ever put yourself down. - Paulo Coelho
 - Let go of the thoughts that don't make you strong.
 - The right and wrong answers should come from your heart.
+- Be weird, be transparent, be authentic, be yourself. - Ron Tite
+- Setting goals is the first step in turning the invisible into the visible. - Tony Robbins
+- Make the most of the best and the least of the worst. - Robert Louis Stevenson
 
 ## Books:
 

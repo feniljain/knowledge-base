@@ -61,6 +61,7 @@
 - Offline documentation browser for software developers: https://zealdocs.org/
 - 100+ project ideas book: https://projectbook.code.brettchalupa.com/
 - https://analysis-tools.dev/
+- https://startafuckingblog.com/
 
 ## Blogs and Articles:
 
@@ -152,7 +153,6 @@
 - https://dev.to/unitybuddy/7-ways-to-improve-your-logic-in-programming-55io
 - https://boonepeter.github.io/posts/2020-11-10-spotify-codes/
 - https://boonepeter.github.io/posts/spotify-codes-part-2/
-- https://blog.plan99.net/modern-garbage-collection-911ef4f8bd8e
 - https://fabiensanglard.net/floating_point_visually_explained/
 - https://www.a1k0n.net/2011/07/20/donut-math.html
 - https://www.geeksforgeeks.org/pointers-vs-references-cpp/
@@ -209,6 +209,7 @@
 - Tips for analyzing logs: https://jvns.ca/blog/2022/12/07/tips-for-analyzing-logs/
 - What Musashi taught me on Software Engineering: https://medium.com/@hnasr/what-musashi-taught-me-on-software-engineering-6328c2149c1d
 - Interactive article explaining how GPS works: https://ciechanow.ski/gps/
+- Fast memcpy, A System Design: https://www.sigarch.org/fast-memcpy-a-system-design/
 
 ### Tutorials:
 
@@ -357,6 +358,8 @@
 - A collection of inspiring resources related to engineering management and tech leadership: https://github.com/charlax/engineering-management
 - List of ngrok alternatives and other ngrok-like tunneling software and services: https://github.com/anderspitman/awesome-tunneling
 - Implementing a Job Control Shell: https://www.gnu.org/software/libc/manual/html_node/Implementing-a-Shell.html
+- Last publicly available revision of the world's first web browser. This is a source import from 0.15 for NextStep: https://github.com/cynthia/WorldWideWeb
+- The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr: https://github.com/mortdeus/legacy-cc
 
 ## Extensions:
 
@@ -401,6 +404,7 @@
 - The Guide for Growing as a Software Engineer: https://www.engguidebook.com/
 - Fundamentals of Control Theory: https://engineeringmedia.com/books
 - Small Memory Software: Patterns for systems with limited memory: https://www.smallmemory.com/book.html
+- https://www.codehiddenlanguage.com/
 
 ## Tools:
 

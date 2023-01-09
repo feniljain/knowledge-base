@@ -113,6 +113,7 @@
 - Adblock
 - Grammar and Spell Checker - LanguageTool
 - Gruvbox(Dark)
+- LeechBlock NG
 
 ## Books:
 

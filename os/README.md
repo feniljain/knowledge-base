@@ -51,6 +51,7 @@
 - What is memory? Part 3: Registers, stacks, and threads: https://www.bytelab.codes/what-is-memory-part-3-registers-stacks-and-threads/
 - Understand Heap Memory Allocation: A Hands-on Approach: https://levelup.gitconnected.com/understand-heap-memory-allocation-a-hands-on-approach-775151caf2ea
 - https://www.ccgadget.com/knowledge-base/what-is-a-motherboards-bios-chip/
+- The faker's guide to reading (x86) assembly language: https://www.timdbg.com/posts/fakers-guide-to-assembly/
 
 ## Blog series/Articles collections:
 

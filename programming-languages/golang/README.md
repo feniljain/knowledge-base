@@ -157,7 +157,6 @@
 - https://medium.com/vacatronics/20-go-packages-you-can-use-in-your-next-project-7515426559c0
 - https://leogtzr.medium.com/embed-files-in-go-877eeaab0cac
 - https://michenriksen.com/blog/finding-evil-go-packages/
-- http://www.agardner.me/golang/garbage/collection/gc/escape/analysis/2015/10/18/go-escape-analysis.html
 - https://betterprogramming.pub/how-to-crack-the-top-25-golang-interview-questions-a94396d6c808
 - https://rytisbiel.com/2021/03/06/darker-corners-of-go/
 - https://medium.com/easyread/til-becareful-on-postgres-query-for-less-than-or-equal-on-timestamp-9e486b657fc
@@ -369,20 +368,17 @@
 - https://syslog.ravelin.com/gc-is-bad-and-you-should-feel-bad-e9bdd9324f0
 - Awesome blogs on internal working in general on golang: https://research.swtch.com/
 - https://groups.google.com/g/golang-nuts/c/pIn_mntSw2k
-- https://medium.com/@akshatmittal93/three-phases-story-of-golang-garbage-collector-2aa3328c358d
 - https://github.com/emluque/golang-internals-resources
 - https://medium.com/a-journey-with-go/go-builds-linkers-timeline-b312084ddf7d
 - https://wablesushmita.medium.com/cpu-memory-profiling-with-golang-pprof-3deddbd7b964
 - https://eli.thegreenplace.net/2021/go-internals-invariance-and-memory-layout-of-slices/
 - https://blog.golang.org/slices-intro
 - https://adayinthelifeof.nl/2021/03/04/go-map-vs-switch.html
-- https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html
 - https://github.com/system-pclub/GCatch
 - https://songlh.github.io/paper/gcatch.pdf
 - https://medium.com/orijtech-developers/efficient-struct-packing-guided-pass-for-go-92255872ec72
 - https://www.reddit.com/r/golang/comments/mige3h/searching_for_a_good_book_for_advanced_go_topics/
 - https://tpaschalis.github.io/golang-time-now/
-- https://medium.com/dev-genius/golang-101-looking-at-how-garbage-collector-works-98392737a475
 - Where can I find go routines implementation and white paper: https://groups.google.com/g/golang-nuts/c/bG7DQ9cIN6o
 - Tracking Go with eBPF: https://www.youtube.com/watch?v=f1jr9nR25EA
 - https://tobyokewole.medium.com/what-happens-when-you-go-get-a-closer-look-at-the-internals-of-go-modules-347780643292
@@ -395,20 +391,15 @@
 - Why go did not go forward with LLVM and chose Plan9 compiler from russ coxx: https://news.ycombinator.com/item?id=8817990
 - Convert Go values to their AST: https://github.com/hexops/valast
 - https://erik-engheim.medium.com/go-does-not-need-a-java-style-gc-ac99b8d26c60
-- Getting to Go: The Journey of Go's Garbage Collector: https://go.dev/blog/ismmkeynote
 - https://menno.io/posts/golang-register-calling/
 - Hacking Go compiler to add a new keyword: https://avi.im/blag/2021/rc-day-24/
 - How does go calculate len: https://tpaschalis.github.io/golang-len/
 - https://divan.dev/posts/go_concurrency_visualize/
-- Dumpster diving the Go garbage collector using eBPF: https://blog.px.dev/go-garbage-collector/
 - Golang Generics Implementation Details: https://medium.com/@amirrezaask/golang-generics-implementation-details-88dc2649d3b0
 - https://github.com/teh-cmc/go-internals
-- A Guide to the Go Garbage Collector: https://tip.golang.org/doc/gc-guide
 - The Go Memory Model: https://tip.golang.org/ref/mem
-- A Guide to the Go Garbage Collector: https://go.dev/doc/gc-guide
 - Inside the Go CPU profiler: https://sumercip.com/posts/inside-the-go-cpu-profiler/
 - Redefining for loop variable semantics: https://github.com/golang/go/discussions/56010
-- Control Theory and Concurrent Garbage Collection: https://speakerdeck.com/player/9731feccdd754e239b3b59765fd3dbb8
 
 # Go Learning:
 

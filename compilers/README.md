@@ -131,7 +131,6 @@
 - Dora: Implementing a JIT-compiler with Rust: https://dinfuehr.github.io/blog/dora-implementing-a-jit-compiler-with-rust/
 - Tracing JIT: https://en.wikipedia.org/wiki/Tracing_just-in-time_compilation
 - Understanding JIT Optimizations by Decompilation: https://www.infoq.com/presentations/jit-optimize-decompile-shopify/
-- https://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/
 - Understand the Trade-offs of Using Compilers for Java Applications: https://www.infoq.com/presentations/tradeoffs-java-compilers/
 - The Solid-State Register Allocator: https://www.mattkeeter.com/blog/2022-10-04-ssra/
 - Reverse Linear Scan Allocation is probably a good idea: http://brrt-to-the-future.blogspot.com/2019/03/reverse-linear-scan-allocation-is.html

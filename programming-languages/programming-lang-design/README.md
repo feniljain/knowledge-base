@@ -69,6 +69,7 @@
 
 - https://jayconrod.com/post
 - Really good blog posts: https://ayazhafiz.com/
+- EK9 Language Development Blog: https://blog.ek9.io/
 
 # Lesser known langs but useful from design perspective:
 
@@ -82,8 +83,9 @@
 - Language development libraries for Rust: https://github.com/Kixiron/rust-langdev#lexers
 - MLton is a whole-program optimizing compiler for the Standard ML programming language: https://github.com/MLton/mlton
 - Pattern matching and exhaustiveness checking algorithms implemented in Rust: https://gitlab.com/yorickpeterse/pattern-matching-in-rust
--  A collection of resources for learning type theory and type theory adjacent fields: https://github.com/jozefg/learn-tt
+- A collection of resources for learning type theory and type theory adjacent fields: https://github.com/jozefg/learn-tt
 - A series of down-to-earth articles on implementing type inference: https://github.com/Ahnfelt/type-inference-by-example
+- Programming Language Database. A public domain knowledge graph focused on programming languages distributed as a CSV file: https://github.com/breck7/pldb
 
 # Gists:
 
@@ -125,6 +127,7 @@
 - https://crystal-lang.org/
 - http://www.ats-lang.org/
 - https://spade-lang.org/
+- https://www.ek9.io/
 
 # Videos:
 

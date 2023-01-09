@@ -166,6 +166,7 @@
 - A special compilation of curl that makes it impersonate Chrome & Firefox : https://github.com/lwthiker/curl-impersonate
 - Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE: https://github.com/netbootxyz/netboot.xyz
 - Simulating shitty network connections so you can build better systems: https://github.com/tylertreat/comcast
+- A single location for people to reference when looking for network protocol implementations written in Python that perform no I/O: https://sans-io.readthedocs.io/
 
 ## Reddit, twitter and HN threads:
 

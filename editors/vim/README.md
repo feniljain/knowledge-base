@@ -216,6 +216,7 @@
 - An interesting documentation tool to look up Vim keybindings and combinations: https://keycombiner.com/collections/vim/
 - http://vimcaps.com/
 - A list of VIM Plugins: https://hackingcpp.com/dev/vim_plugins.html
+- Vim on webassembly: https://www.vimonlineeditor.com/
 
 ## Repos:
 

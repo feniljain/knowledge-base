@@ -89,6 +89,7 @@
 
 - https://github.com/nanotee/nvim-lua-guide
 - https://learnxinyminutes.com/docs/lua/
+- GopherLua: VM and compiler for Lua in Go: https://github.com/yuin/gopher-lua
 
 ### Elixir:
 
@@ -225,7 +226,6 @@
 - https://probablydance.com/2021/10/31/c-coroutines-do-not-spark-joy/
 - https://itnext.io/c-20-ranges-complete-guide-4d26e3511db0
 - Why C has such odd syntax: https://softwareengineering.stackexchange.com/questions/117024/why-was-the-c-syntax-for-arrays-pointers-and-functions-designed-this-way
-- https://stackoverflow.com/questions/44325085/raii-vs-garbage-collector/44325607
 - https://developers.redhat.com/blog/2021/04/23/valgrind-memcheck-different-ways-to-lose-your-memory#
 - https://www.c-programming-simple-steps.com/static-keyword-in-c.html
 - https://www.programiz.com/c-programming/c-preprocessor-macros

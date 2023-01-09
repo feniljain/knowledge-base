@@ -201,6 +201,7 @@
 - A rust controller for kubernetes: https://blog.frankel.ch/start-rust/6/
 - Deploying rust on kubernetes: https://www.youtube.com/watch?v=bK542nqn8I0
 - https://dev.to/rogertorres/first-steps-with-docker-rust-30oi
+- https://blog.logrocket.com/packaging-a-rust-web-service-using-docker/
 - https://itnext.io/rust-jvm-ab4de9f14eb6
 - https://dev.to/aviillouz/writing-a-lambda-with-rust-using-aws-lambda-rust-runtime-and-aws-sdk-rust-1aln
 - https://kerkour.com/blog/shellcode-in-rust/
@@ -268,7 +269,6 @@
 - https://www.fpcomplete.com/blog/rust-asref-asderef/
 - https://tweedegolf.nl/blog/62/measuring-power-consumption-sync-vs-async
 - https://codeandbitters.com/published-crate-analysis/
-- Does the Bronze Garbage Collector Make Rust Easier to Use? A Controlled Experiment: https://arxiv.org/abs/2110.01098
 - https://itnext.io/rust-iterators-2f0bb958aa08
 - https://nickymeuleman.netlify.app/blog/multithreading-rust
 - https://www.greyblake.com/blog/2021-10-11-phantom-types-in-rust/
@@ -806,6 +806,7 @@
 - https://itnext.io/gilded-rose-kata-in-rust-e00f51f1e8d8
 - https://fasterthanli.me/articles/the-curse-of-strong-typing
 - Practice Rust with challenging examples, exercises and projects: https://practice.rs/why-exercise.html
+- For developers who already know other languages: nhttps://overexact.com/rust-for-professionals/
 
 ### Videos:
 

@@ -214,6 +214,10 @@ Social audio applications with Janus: https://www.meetecho.com/blog/social-audio
 - Discord servers to discuss webrtc: https://www.reddit.com/r/WebRTC/comments/y07hab/discord_server_to_discuss_webrtc/
 - Lyra Codec in WebRTC: https://twitter.com/voluntas/status/1585985498648125441
 
+## Research Papers:
+
+- http://www.ijcee.org/vol8/916-IG015.pdf
+
 ## Discuss-WebRTC google group discussions:
 
 - Error when cross-compiling WebRTC source: https://groups.google.com/g/discuss-webrtc/c/Hs7t0PsAobU

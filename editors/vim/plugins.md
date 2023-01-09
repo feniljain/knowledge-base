@@ -178,6 +178,7 @@
 - https://github.com/echasnovski/mini.nvim
 - Another cmake lsp: https://github.com/Decodetalkers/neocmakelsp
 - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support: https://github.com/mfussenegger/nvim-lint
+- Display javascript import costs inside of neovim: https://github.com/barrett-ruth/import-cost.nvim
 
 ## Some plugins/things I wanna checkout:
 
@@ -214,9 +215,15 @@
 - https://github.com/kevinhwang91/nvim-hlslens
     - Also checkout `searchcount` in lualine
 - https://github.com/Tsuzat/NeoSolarized.nvim
-- https://github.com/neovim/neovim/pull/14537: https://www.reddit.com/r/neovim/comments/ym6x7y/enable_new_diff_option_linematch_14537/
 - https://github.com/jbyuki/venn.nvim
 - Edit quickfix list: https://github.com/itchyny/vim-qfedit
 - Integrate stabilize.nvim PR
 - https://github.com/tpope/vim-sleuth
 - https://github.com/lewis6991/gitsigns.nvim
+- https://github.com/moll/vim-bbye
+
+## Things to try out in next release:
+
+- Enable editorconfig in neovim 0.9 and remove it's plugin: https://twitter.com/Neovim/status/1610676006947360775
+- Once you shift to 0.9, play with vim-asterisk, as it's by default in core now, source: https://www.reddit.com/r/neovim/comments/101omgs/comment/j2p62tq/
+- https://github.com/neovim/neovim/pull/14537: https://www.reddit.com/r/neovim/comments/ym6x7y/enable_new_diff_option_linematch_14537/

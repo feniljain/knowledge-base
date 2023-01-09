@@ -235,7 +235,17 @@
 - https://github.com/trinib/Awesome-Ubuntu-Setup
 - Fedora/CentOS Stream/Red Hat Enterprise Linux Guide : https://github.com/mikeroyal/Fedora-Guide
 - A completely statically linked system: https://github.com/oasislinux/oasis
+- Continuous Unix commit history from 1970 until today: https://github.com/dspinellis/unix-history-repo
+- A Tiny Linux-Compatible Kernel: https://github.com/vvaltchev/tilck
+- USB WiFi Adapter Information for Linux: https://github.com/morrownr/USB-WiFi
 
+## Podcasts:
+
+- Floss Weekly
+- Linux Action News
+- Late Night Linux
+- Linux Unplugged
+- https://2.5admins.com/
 
 ## Wallpapers collection:
 
