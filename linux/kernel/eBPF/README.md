@@ -84,6 +84,7 @@
 - Journey to libbpf 1.0: https://nakryiko.com/posts/libbpf-v1/
 - A practical guide to capturing production traffic with eBPF: https://www.datadoghq.com/blog/ebpf-guide/
 - DWARF-based Stack Walking Using eBPF: https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers/
+- K8s - Binding IPv4 services externally as IPv6: https://www.loxilb.io/post/k8s-exposing-ipv4-services-externally-as-ipv6
 
 ### Tutorials:
 
@@ -174,6 +175,7 @@
 - Package, distribute, and run eBPF programs in JSON or in WASM module: https://github.com/eunomia-bpf/eunomia-bpf
 - Tracing tools for PostgreSQL, using eBPF: https://github.com/aiven/pgtracer
 - eBPF-powered L4 package dropper: https://github.com/boratanrikulu/durdur
+- eBPF-based stack trace tool: https://github-com.translate.goog/SeeFlowerX/stackplz
 
 ## Reddit and twitter threads:
 

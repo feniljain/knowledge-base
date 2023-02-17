@@ -1,0 +1,40 @@
+<h2 align="center">Nix</h2>
+
+## Websites:
+
+- https://search.nixos.org/packages
+
+## Blogs and articles:
+
+- Effortless dev environments with Nix and direnv: https://determinate.systems/posts/nix-direnv
+- Using Nix to run software with no installation steps: https://determinate.systems/posts/nix-run
+- Cleaning the nix store: https://nixos.wiki/wiki/Cleaning_the_nix_store
+- How to undo nix-build?: https://discourse.nixos.org/t/how-to-undo-nix-build/5433
+- Uninstalling Nix: https://nixos.org/manual/nix/stable/installation/installing-binary.html#uninstalling
+- Practical Nix Flakes: https://serokell.io/blog/practical-nix-flakes
+- Running a NixOS VM on macOS: https://www.tweag.io/blog/2023-02-09-nixos-vm-on-macos/
+- The hakyll-nix-template Tutorial: https://robertwpearce.com/the-hakyll-nix-template-tutorial.html
+- Nix Based C++ Workflow From Scratch: https://www.breakds.org/post/nix-based-c++-workflow/
+
+## Repos:
+
+- Dev environments for numerous languages based on Nix flakes: https://github.com/the-nix-way/dev-templates
+- Riff automatically provides external dependencies for Rust projects: https://github.com/DeterminateSystems/riff
+- NixOS Reproducibility Checker: https://github.com/grahamc/r13y.com
+- A curated list of the best resources in the Nix community: https://github.com/nix-community/awesome-nix
+- A fast, persistent use_nix/use_flake implementation for direnv: https://github.com/nix-community/nix-direnv
+
+## Configs for reference:
+
+- https://github.com/lucperkins/nix-home-manager-config
+- https://github.com/msfjarvis/dotfiles/
+
+<h2 align="center">Nix Learning</h2>
+
+## Websites:
+
+- https://zero-to-nix.com/
+
+## Blogs and articles:
+
+- https://zero-to-nix.com/concepts/flakes

@@ -48,6 +48,7 @@
 - Don't fight the browser preload scanner: https://web.dev/preload-scanner/
 - https://kerkour.com/http-security-headers
 - No really, why can't we have raw UDP in JavaScript?: https://www.computerenhance.com/p/no-really-why-cant-we-have-raw-udp
+- History of Web Browser Engines from 1990 until today: https://eylenburg.github.io/browser_engines.htm
 
 ## Blog series/Articles collection:
 
@@ -74,3 +75,4 @@
 - https://fingerprintjs.com/blog/audio-fingerprinting/
 - https://github.com/30-seconds/30-seconds-web
 - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development: ttps://github.com/dexteryy/spellbook-of-modern-webdev
+- This is super interesting, it renders web pages server-side and then sends to the old client as an image with simple JS: https://github.com/ttalvitie/browservice

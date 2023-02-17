@@ -39,6 +39,7 @@
 - How to write your own LR(1) parsing tables (and generate them): https://boxbase.org/entries/2019/oct/14/lr1-parsing-tables/
 - PEG Parsing Series Overview by Guido van Rossum ( creator of python ): https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60
 - Formally Verified Native Code Generation in an Effectful JIT or: Turning the CompCert Backend into a Formally Verified JIT Compiler: https://people.irisa.fr/Aurele.Barriere/papers/fmjit.pdf
+- https://apaz-cli.github.io/blog/How_to_Write_a_Compiler_Without_Going_Insane.html
 
 ### Others:
 
@@ -143,6 +144,15 @@
 - Parsing Protobuf at 2+GB/s: How I Learned To Love Tail Calls in C: https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html
 - How different compiler optimizations work: https://predr.ag/tags/compiler-adventures/
 - Mark and sweep Boehm Collector!: https://hboehm.info/gc/
+- Faster virtual machines: Speeding up programming language execution: https://mort.coffee/home/fast-interpreters/
+- Adding For Loops to an Interpreter: https://healeycodes.com/adding-for-loops-to-an-interpreter
+- Why We Need to Know LR and Recursive Descent Parsing Techniques: https://tratt.net/laurie/blog/2023/why_we_need_to_know_lr_and_recursive_descent_parsing_techniques.html
+- Really nice read on different optimizations and challenges in C# compiler: http://joeduffyblog.com/2015/12/19/safe-native-code/
+- Includes explanation of 3-staged compilers: https://jyn.dev/2023/01/12/Bootstrapping-Rust-in-2023.html
+- A deep dive into interpreter instruction dispatching techniques: https://www.jonathanmueller.dev/talk/meetingcpp2022/
+- Distinguishing an Interpreter from a Compiler: https://tratt.net/laurie/blog/2023/distinguishing_an_interpreter_from_a_compiler.html
+- A really nice read on JITting/speculation in js core: https://webkit.org/blog/10308/speculation-in-javascriptcore/
+- Type Inference based on Hindley-Milner ( HM from implementation perspective ): https://veera.app/type_inference.html
 
 ## Blog series/Articles collection:
 
@@ -174,6 +184,7 @@
 - Min. requirements for a Self-Hosting Compilers: https://www.reddit.com/r/Compilers/comments/u8vzsy/selfhosting_compilers/
 - Resources for building a type-checker: https://www.reddit.com/r/ProgrammingLanguages/comments/v5zwlw/resources_for_building_a_typechecker/
 - Benefits of `nop` in a VM instruction set: https://www.reddit.com/r/ProgrammingLanguages/comments/xw75mw/are_there_any_benefits_to_defining_an_explicit/
+- Where can I find resources and guides on how to build compiler backends?: https://www.reddit.com/r/ProgrammingLanguages/comments/1079qgm/where_can_i_find_resources_and_guides_on_how_to/
 
 ## Repos:
 
@@ -199,6 +210,7 @@
 - A curated list of dynamic analysis tools for all programming languages, binaries, and more: https://github.com/analysis-tools-dev/dynamic-analysis
 - Distributed compiler with a central scheduler to share build load: https://github.com/icecc/icecream
 - Compiler optimizer for arbitrary control flow based on equality saturation: https://github.com/jameysharp/optir
+- A massively parallel, optimal functional runtime in Rust: https://github.com/Kindelia/HVM
 
 ## Grammars:
 
@@ -232,6 +244,7 @@
 - Awesome course: https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/
 - https://suif.stanford.edu/dragonbook/
 - https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020/
+- Compiler Design (Theory) course with video lectures?: https://www.reddit.com/r/Compilers/comments/10dpnky/compiler_design_theory_course_with_video_lectures/
 
 ## Books:
 
@@ -245,6 +258,7 @@
 - Compiling to assembly from scratch: https://keleshev.com/compiling-to-assembly-from-scratch/
 - Static Program Analysis: https://cs.au.dk/~amoeller/spa/
 - Writing Interpreters in Rust: a Guide: https://rust-hosted-langs.github.io/book/introduction.html
+- Understanding and Writing Compilers: A do-it-yourself guide: https://www.amazon.com/Understanding-Writing-Compilers-do-yourself/dp/0333217322
 
 ## Interesting rust-analyzer issues:
 

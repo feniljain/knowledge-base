@@ -24,7 +24,6 @@
 - https://medium.com/swlh/the-easiest-language-to-learn-functional-programming-5cc5751a7cf0
 - https://bellmar.medium.com/programming-paradigms-as-language-destiny-f533607d5024
 - https://www.researchgate.net/publication/241111987_Programming_Paradigms_for_Dummies_What_Every_Programmer_Should_Know
-- Arenas in languages: https://manishearth.github.io/blog/2021/03/15/arenas-in-rust/
 - https://www.c-sharpcorner.com/uploadfile/akkiraju/functional-programming-in-simple-explained/
 - https://blogs.gentoo.org/mgorny/2021/02/19/the-modern-packagers-security-nightmare/
 - https://medium.com/att-israel/its-time-you-learn-about-monads-4ebe687e3ec7
@@ -159,6 +158,7 @@
 ### Blogs and articles:
 
 - Why Lisp?: https://github.com/naver/lispe/wiki/6.16-Why-Lisp
+- Typed Lisp, A Primer: http://alhassy.com/TypedLisp
 
 ### Reddit and twitter thrads:
 
@@ -174,6 +174,10 @@
 - https://github.com/susam/mathb
 - Make a Lisp: https://github.com/kanaka/mal
 - An implementation of a full fledged Lisp interpreter with Data Structure, Pattern Programming and High level Functions with Lazy Evaluation à la Haskell: https://github.com/naver/lispe
+
+### Books:
+
+- Learn Lisp The Hard Way: https://llthw.common-lisp.dev/
 
 ## C and CPP
 
@@ -276,3 +280,8 @@
 
 - Compiling Swift Generics: https://forums.swift.org/t/compiling-swift-generics-part-i/60898
 - Vision for macros in Swift: https://forums.swift.org/t/a-possible-vision-for-macros-in-swift/60900/1
+
+## Haskell:
+
+- Haskell in not category theory: https://pema.dev/2023/02/01/haskell-not-ct/
+- https://haskell.mooc.fi/

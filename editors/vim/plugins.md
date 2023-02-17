@@ -179,6 +179,7 @@
 - Another cmake lsp: https://github.com/Decodetalkers/neocmakelsp
 - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support: https://github.com/mfussenegger/nvim-lint
 - Display javascript import costs inside of neovim: https://github.com/barrett-ruth/import-cost.nvim
+- Dead simple plugin to center the currently focused buffer to the middle of the screen: https://github.com/shortcuts/no-neck-pain.nvim
 
 ## Some plugins/things I wanna checkout:
 
@@ -227,3 +228,6 @@
 - Enable editorconfig in neovim 0.9 and remove it's plugin: https://twitter.com/Neovim/status/1610676006947360775
 - Once you shift to 0.9, play with vim-asterisk, as it's by default in core now, source: https://www.reddit.com/r/neovim/comments/101omgs/comment/j2p62tq/
 - https://github.com/neovim/neovim/pull/14537: https://www.reddit.com/r/neovim/comments/ym6x7y/enable_new_diff_option_linematch_14537/
+- Find a plugin which will do this automatically: https://www.reddit.com/r/neovim/comments/107ms1s/the_new_signcolumn_merge_allows_us_to_set_a/
+    - Something like this: https://github.com/luukvbaal/statuscol.nvim
+- Also check this thread for interesting features AstroNvim picks up: https://github.com/AstroNvim/AstroNvim/issues/1489

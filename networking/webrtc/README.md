@@ -135,6 +135,12 @@
 - https://shiguredo.jp/#webrtc
 - P2P, SFU and MCU - WebRTC Architectures Explained: https://www.digitalsamba.com/blog/p2p-sfu-and-mcu-webrtc-architectures-explained
 - SDP the WebRTC Boat Anchor: https://webrtc.is/2013/03/06/sdp-the-webrtc-boat-anchor/
+- Nice explanation about SVC: https://www.wowza.com/blog/scalable-video-coding-for-webrtc
+- Trickling ICE over SSH: https://terminal7.dev/posts/trickling_ice_over_ssh/
+- High Available WebRTC Media Servers on AWS: https://webrtc.ventures/2023/01/high-available-webrtc-media-servers-on-aws/
+- Kubernetes: The next step for WebRTC: https://medium.com/l7mp-technologies/kubernetes-the-next-step-for-webrtc-fb8d8a33f24e
+- Background Removal Using Insertable Streams: https://webrtc.ventures/2023/02/background-removal-using-insertable-streams/
+- State of a MediaStreamTrack: https://webrtc-developers.com/state-of-a-mediastreamtrack/
 
 ### Tutorials:
 
@@ -238,3 +244,4 @@ Social audio applications with Janus: https://www.meetecho.com/blog/social-audio
 - https://subspace.com/
 - https://connectlive.kakaoi.ai/
 - https://antmedia.io/
+- https://getstream.io/

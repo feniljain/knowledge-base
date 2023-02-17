@@ -60,6 +60,7 @@
 - Growing a Junior-Heavy Team: https://newsletter.pragmaticengineer.com/p/growing-a-junior-team
 - Shortest URLs on the Internet: https://jameswillia.ms/posts/shortest-urls.html
 - https://www.swarmia.com/blog/daily-stand-ups/
+- Are sofware engineers really engineers?: https://www.hillelwayne.com/post/are-we-really-engineers/
 
 ## Blog series/Articles collection:
 

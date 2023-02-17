@@ -5,6 +5,7 @@
 - https://www.joelonsoftware.com/
 - SE diagramams: https://www.gleek.io/
 - https://0ver.org/
+- https://conventionalcomments.org/
 
 ## Blogs and Articles:
 

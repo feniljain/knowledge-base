@@ -32,6 +32,7 @@
 - https://gist.github.com/itod/ae27b30f7517dc18b8df110c1d98bccb
 - https://github.com/Lenbok/scad-keyboard-cases
 - https://github.com/abstracthat/dactyl-manuform
+- https://github.com/joe-scotto/scottokeebs/tree/main/ScottoFly
 
 ## Sheets:
 
@@ -54,6 +55,7 @@
 - Keyboard journey: https://www.youtube.com/watch?v=LgEkusmH-9k
 - A Guide to Weird Keyboards: https://www.youtube.com/watch?v=SkNGxM4LRKQ
 - Is tenting your keyboard really THAT important?: https://www.youtube.com/watch?v=pUKoB95aEc4
+- The Cube Keyboard!: https://www.youtube.com/watch?v=vRqRQ7hYxjk
 
 ## Keyboards:
 

@@ -123,6 +123,7 @@
 - Rust Memory Layout Optimization (Enum): https://frehberg.com/2022/01/rust-memory-layout-optimization/
 - A Look at dyn* Code Generation: https://blog.theincredibleholk.org/blog/2022/12/12/dyn-star-codegen/
 - https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/
+- How to avoid bounds checks in Rust (without unsafe!): https://shnatsel.medium.com/how-to-avoid-bounds-checks-in-rust-without-unsafe-f65e618b4c1e
 
 ### Tutorials:
 
@@ -215,9 +216,8 @@
 - https://penumbra23.medium.com/container-runtime-in-rust-part-i-7bd9a434c50a
 - Learn to write Rust procedural macros: https://github.com/dtolnay/proc-macro-workshop
 - Building a rust async executor: https://github.com/mgattozzi/whorl/blob/main/src/lib.rs
-- https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
+t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - https://nimrodshn.medium.com/writing-a-storage-engine-in-rust-writing-a-persistent-btree-part-1-916b6f3e2934
-- https://ferrous-systems.com/blog/testing-proc-macros/
 - 3 popular ways to implement circular referencing data structures in rust: https://eli.thegreenplace.net/2021/rust-data-structures-with-circular-references/
 - https://depth-first.com/articles/2021/12/16/a-beginners-guide-to-parsing-in-rust/
 - https://blog.knoldus.com/getting-started-with-the-writing-of-operating-system-rust/
@@ -234,6 +234,7 @@
 - Practical Parsing in Rust with nom: https://naiveai.hashnode.dev/practical-parsing-nom
 - How to build a Semantic Search Engine in Rust: https://sachaarbonel.medium.com/how-to-build-a-semantic-search-engine-in-rust-e96e6378cfd9
 - Building a BFT JSON CRDT: https://jzhao.xyz/posts/bft-json-crdt/
+- How I contribute to Rust Compiler: https://rustmagazine.org/issue-1/contribute-to-rustc/
 
 ### Language general:
 
@@ -314,6 +315,9 @@
 - You Can't Do That: Abstracting over Ownership in Rust with Higher-Rank Type Bounds. Or Can You?: https://lucumr.pocoo.org/2022/9/11/abstracting-over-ownership/
 - Awesome writeup on understanding Cow in rust: https://dev.to/kgrech/6-things-you-can-do-with-the-cow-in-rust-4l55
 - Native Reflection in Rust: https://jack.wrenn.fyi/blog/deflect/
+- A runtime inside Rust’s type system: https://medium.com/@HermeG/a-runtime-inside-rusts-type-system-35023257735
+- Rust's Type System is Turing-Complete: https://sdleffler.github.io/RustTypeSystemTuringComplete/
+- Nice read, Rust concepts I wish I learned earlier: https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/
 
 ### Others:
 
@@ -450,6 +454,7 @@
 - https://patshaughnessy.net/
 - https://www.huy.rocks/everyday
 - https://www.thecodedmessage.com/
+- https://blog.m-ou.se/
 
 ## Repos:
 
@@ -535,6 +540,8 @@
 - The blazing fast build tool for Rust: https://github.com/dimensionhq/fleet
 - List size of types in a Rust crate: https://github.com/davidrusu/cargo-typesize
 - A comparison of operating systems written in Rust: https://github.com/flosse/rust-os-comparison
+- Runtime for executing procedural macros as WebAssembly: https://github.com/dtolnay/watt
+- Rust programs written entirely in Rust ( no C-linking, no dependence on libc or crt1.o ): https://github.com/sunfishcode/mustang
 
 ## Videos:
 
@@ -573,7 +580,6 @@
 - Crust of Rust: Send, Sync, and their implementors: https://www.youtube.com/watch?v=yOezcP-XaIw
 - Constant fun (const fn) with Rust: https://www.youtube.com/watch?v=Vw8BFScm0K0
 - Is It Time to Rewrite the Operating System in Rust?: https://www.youtube.com/watch?v=HgtRAbE1nBM
-- Mocking Rust and Testing:  https://www.youtube.com/watch?v=8XaVlL3lObQ
 - Finding good Rust dependencies: https://www.youtube.com/watch?v=4sZTcBg50wc
 
 ## Newsletters:
@@ -600,6 +606,7 @@
 
 ## Books:
 
+- List of Rust books: https://github.com/sger/RustBooks
 - https://www.oreilly.com/library/view/programming-rust/9781491927274/
 - Best explanation of async in rust: https://os.phil-opp.com/async-await/
 - Book of Rust books: https://lborb.github.io/book/
@@ -626,6 +633,7 @@
 - A free systems software security book!: https://highassurance.rs/
 - https://rust-unofficial.github.io/too-many-lists/
 - https://www.manning.com/livevideo/rust-in-motion
+- LifetimeKata: A Practical Introduction to Lifetime Annotations, like Rustlings&MacroKata: https://www.reddit.com/r/rust/comments/10dwdde/lifetimekata_a_practical_introduction_to_lifetime/
 
 ## Interesting Projects:
 
@@ -731,6 +739,7 @@
 - Original Rust OCaml Compiler: https://github.com/rust-lang/rust/tree/ef75860a0a72f79f97216f8aaa5b388d98da6480/src/boot
 - The Rust Language Design Team: https://lang-team.rust-lang.org/
 - Rust Before Main: https://www.youtube.com/watch?v=q8irLfXwaFM
+- RustcContributor::explore walkthrough of -Ztrait-solver=next: https://www.youtube.com/watch?v=4E5x2PzEKhg
 
 ## Rust and security
 
@@ -783,6 +792,7 @@
 - https://learning-rust.github.io/
 - Rust cheat sheet for begineers: https://quickref.me/rust
 - Learn Rust by making projects: https://www.sotr.blog/
+- Rust 101: an open-source university course: https://tweedegolf.nl/en/blog/80/rust-101-open-source-university-course
 
 ### Blogs and articles:
 

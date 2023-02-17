@@ -11,7 +11,7 @@
 - General Design: https://www.createwithplay.com/
 - Developer Roadmaps: https://roadmap.sh/
 - Interactive Playgrounds for everything: https://www.katacoda.com/
-- http://rosettacode.org/wiki/Rosetta_Code
+- Solutions to the same task in as many different languages as possible: http://rosettacode.org/wiki/Rosetta_Code
 - https://refactoring.fm/
 - Building todo applicatins in various web-dev tools: http://todomvc.com/
 - OpenSource Firebase Alternative: https://supabase.io/
@@ -62,6 +62,8 @@
 - 100+ project ideas book: https://projectbook.code.brettchalupa.com/
 - https://analysis-tools.dev/
 - https://startafuckingblog.com/
+- Callgrind: a call-graph generating cache and branch prediction profiler: https://valgrind.org/docs/manual/cl-manual.html
+- https://learnawesome.org/
 
 ## Blogs and Articles:
 
@@ -205,11 +207,15 @@
 - Why do we call it "boilerplate code?": https://buttondown.email/hillelwayne/archive/why-do-we-call-it-boilerplate-code/
 - The Ultimate Guide to Architectural Decision Records: https://betterprogramming.pub/the-ultimate-guide-to-architectural-decision-records-6d74fd3850ee
 - You might not need a CRDT: https://driftingin.space/posts/you-might-not-need-a-crdt
-- Simplifying Developer Testing Through SLATE: https://www.uber.com/en-IN/blog/simplifying-developer-testing-through-slate/
 - Tips for analyzing logs: https://jvns.ca/blog/2022/12/07/tips-for-analyzing-logs/
 - What Musashi taught me on Software Engineering: https://medium.com/@hnasr/what-musashi-taught-me-on-software-engineering-6328c2149c1d
 - Interactive article explaining how GPS works: https://ciechanow.ski/gps/
 - Fast memcpy, A System Design: https://www.sigarch.org/fast-memcpy-a-system-design/
+- How to Test: https://matklad.github.io/2021/05/31/how-to-test.html
+- Examples of floating point problems: https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/
+- How to simulate Chrome is running in a TTY: https://piranna.github.io/2020/04/25/How-to-simulate-Chrome-is-running-in-a-TTY/
+- A Linking Adventure: https://nsnotes.github.io/2023/03/03/A-linking-adventure/
+- Your E-Mail Validation Logic is Wrong: https://www.netmeister.org/blog/email.html
 
 ### Tutorials:
 
@@ -261,6 +267,7 @@
 - Ask HN: What bits of fundamental knowledge are productivity multipliers?: https://news.ycombinator.com/item?id=30853807
 - How to properly implement undo/redo: https://twitter.com/steveruizok/status/1566142910546038784
 - A collection of awesome blogs to follow across industries: https://twitter.com/GergelyOrosz/status/1596073995044278272
+- A list of places to find awesome projects: https://www.reddit.com/r/learnprogramming/wiki/faq/#wiki_where_can_i_find_practice_exercises_and_project_ideas.3F
 
 ## Videos:
 
@@ -360,6 +367,7 @@
 - Implementing a Job Control Shell: https://www.gnu.org/software/libc/manual/html_node/Implementing-a-Shell.html
 - Last publicly available revision of the world's first web browser. This is a source import from 0.15 for NextStep: https://github.com/cynthia/WorldWideWeb
 - The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr: https://github.com/mortdeus/legacy-cc
+- Learn Anything: https://github.com/learn-anything
 
 ## Extensions:
 

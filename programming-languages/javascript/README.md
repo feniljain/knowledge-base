@@ -58,6 +58,8 @@
 - An overview of Node.js: architecture, APIs, event loop, concurrency: https://2ality.com/2022/09/nodejs-overview.html
 - Separation of Concerns in Node.js: https://www.infoq.com/articles/separation-concerns-nodejs/
 - Tao of Node - Design, Architecture & Best Practices: https://alexkondov.com/tao-of-node/
+- The gotcha of unhandled promise rejections: https://jakearchibald.com/2023/unhandled-rejections/
+- Roll your own javascript runtime: https://deno.com/blog/roll-your-own-javascript-runtime
 
 ### Tutorials:
 
@@ -134,16 +136,22 @@
 - Assembly interpreter inside of TypeScript's type system: https://judehunter.dev/blog/assembly-interpreter-in-typescripts-type-system
 - Use TypeScript Record Types for Better Code: https://itnext.io/use-typescript-record-types-for-better-code-ce1768c6cb53
 - Setting up Typescript for monorepos: nhttps://moonrepo.dev/docs/guides/javascript/typescript-project-refs
+- Narrowing Types in Typescript: https://www.allthingstypescript.dev/p/narrowing-types-in-typescript
+- Making sense of TypeScript using set theory: https://blog.thoughtspile.tech/2023/01/23/typescript-sets/
+- Design patterns in Typescript: https://refactoring.guru/design-patterns/typescript
 
 ## Videos:
 
 - How the TypeScript Compiler Compiles - understanding the compiler internal: https://www.youtube.com/watch?v=X8k_4tZ16qU
+- 10 Tips for Mastering TypeScript Generics: https://www.youtube.com/watch?v=dLPgQRbVquo
 
 ## Repos:
 
 -  Collection of TypeScript type challenges with online judge: https://github.com/type-challenges/type-challenges
 -  JSON Schema Type Builder with Static Type Resolution for TypeScript: https://github.com/sinclairzx81/typebox
 - https://github.com/basarat/typescript-book
+- A simplified implementation of TypeScript's type system written in TypeScript's type system: https://github.com/ronami/HypeScript
+- A tiny language interpreter implemented purely in TypeScript's type-system: https://github.com/ronami/typelang
 
 ## Newsletters:
 

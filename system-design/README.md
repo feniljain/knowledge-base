@@ -106,6 +106,7 @@
 - https://netflixtechblog.com/scryer-netflixs-predictive-auto-scaling-engine-part-2-bb9c4f9b9385
 - System Design: Domain Name System (DNS), Load Balancing & Clustering: https://blog.nandankumar.info/system-design-domain-name-system-dns-load-balancing-clustering
 - Exponential Backoff And Jitter: https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/
+- Bitwarden design flaw: Server side iterations: https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/
 
 ## Repos:
 
@@ -137,3 +138,4 @@
 - Caching is Hard: https://www.youtube.com/watch?v=jIA7z1gxuc8
 - Consistent Hashing: https://www.youtube.com/watch?v=p6wwj0ozifw
 - Should Each Microservice Have Its Own Database?: https://www.youtube.com/watch?v=A62GpUmO9q0
+- System Design Interview: A Step-By-Step Guide: https://www.youtube.com/watch?v=i7twT3x5yv8

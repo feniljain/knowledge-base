@@ -34,6 +34,8 @@
 - Writing a kernel driver in rust: https://medium.com/@not-matthias/writing-a-kernel-driver-with-rust-deba1ebef368
 - Writing a kernel driver in rust: https://not-matthias.github.io/posts/kernel-driver-with-rust-2022/
 - Building an out-of-tree Rust Kernel Module: https://blog.rnstlr.ch/building-an-out-of-tree-rust-kernel-module.html
+- A Tutorial how to get started with Linux Kernel Modules and Linux Drivers: https://github.com/Johannes4Linux/Linux_Driver_Tutorial
+- Nolibc: a minimal C-library replacement shipped with the kernel: https://lwn.net/SubscriberLink/920158/313ec4305df220bb/
 
 ## Dev:
 

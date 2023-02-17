@@ -24,6 +24,7 @@
 - Writing a basic kernel: https://computers-art.medium.com/writing-a-basic-kernel-6479a495b713
 - https://ops-class.org/
 - Learn to write an embedded OS in Rust: https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
+- This is the companion code for my series on writing an operating system: https://github.com/o-oconnell/writeyourownos
 
 ### Others:
 
@@ -52,6 +53,8 @@
 - Understand Heap Memory Allocation: A Hands-on Approach: https://levelup.gitconnected.com/understand-heap-memory-allocation-a-hands-on-approach-775151caf2ea
 - https://www.ccgadget.com/knowledge-base/what-is-a-motherboards-bios-chip/
 - The faker's guide to reading (x86) assembly language: https://www.timdbg.com/posts/fakers-guide-to-assembly/
+- What Happens When A CPU Starts: https://lateblt.tripod.com/bit68.txt
+- Writing an OS in Rust to run on RISC-V: https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb
 
 ## Blog series/Articles collections:
 
@@ -60,6 +63,9 @@
 - https://github.com/madMAx43v3r/chia-plotter
 - https://github.com/rabbitstack/fibratus
 - The world's worst kernel module: https://github.com/davidmalcolm/antipatterns.ko
+- Tiniest x86-64-linux emulator: https://github.com/jart/blink
+- An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor: https://github.com/cksystemsteaching/selfie
+- Operating system and container binary deployment and upgrades: https://github.com/ostreedev/ostree
 
 ## Reddit and twitter threads:
 

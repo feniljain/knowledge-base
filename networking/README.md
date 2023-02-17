@@ -16,6 +16,7 @@
 - https://publicsuffix.org/
 - Useful utilities and services over DNS: https://www.dns.toys/
 - http://ipv4.games/
+- https://isbgpsafeyet.com/
 
 ## Diagrams:
 
@@ -137,12 +138,14 @@
 - The Networking behind clicking a link: https://medium.com/@hnasr/the-networking-behind-clicking-a-link-b2ce36b7cf14
 - CDNs: https://web.dev/content-delivery-networks/
 - Understanding TCP Seq & Ack Numbers [Packet-by-Packet]: https://www.golinuxcloud.com/tcp-sequence-acknowledgement-numbers/
+- Work-In-Progress: Studying Ethernet Physical Layer 1: https://metebalci.com/blog/studying-ethernet-layer-1/
 
 ## Books:
 
 - High Performance Browser Networking: https://hpbn.co/
 - Computer Networks From Scratch : https://www.networksfromscratch.com/
 - https://www.computer-networking.info/
+- Collection of networking books: https://t.me/Network_books_ir
 
 ## Blog Series/Articles collection:
 
@@ -167,6 +170,7 @@
 - Your favorite operating systems in one place. A network-based bootable operating system installer based on iPXE: https://github.com/netbootxyz/netboot.xyz
 - Simulating shitty network connections so you can build better systems: https://github.com/tylertreat/comcast
 - A single location for people to reference when looking for network protocol implementations written in Python that perform no I/O: https://sans-io.readthedocs.io/
+- A modern, hackable, green Dynamic DNS service and cli for Cloudflare: https://github.com/simbleau/cddns
 
 ## Reddit, twitter and HN threads:
 
@@ -202,6 +206,7 @@
 - Slow Start vs Congestion Avoidance in TCP: https://www.youtube.com/watch?v=r9kbjAN2788
 - Do DHCP and DNS Servers Communicate? (With wireshark): https://www.youtube.com/watch?v=FYcO4ZshG8Q
 - Designing for Understandability: The Raft Consensus Algorithm: https://www.youtube.com/watch?v=vYp4LYbnnW8
+- eCHO Episode 78: Stream Control Transmission Protocol (SCTP): https://www.youtube.com/watch?v=2lD86qNHXXI
 
 ## Container Images:
 

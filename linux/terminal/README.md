@@ -11,8 +11,8 @@
 
 ## Blogs and articles:
 
-- Differences between terminal, console and shell: https://miguelravila.hashnode.dev/terminalconsoleshell
-- Showing image and video content on terminal: https://saitoha.github.io/libsixel/
+### General:
+
 - https://pragmaticpineapple.com/four-useful-fzf-tricks-for-your-terminal/
 - https://fasterthanli.me/articles/a-terminal-case-of-linux
 - https://www.poor.dev/blog/terminal-anatomy/
@@ -41,6 +41,14 @@
 - https://opensource.com/article/21/8/ncdu-check-free-disk-space-linux
 - Terminal escape codes are awesome, here’s why: https://medium.com/everything-full-stack/terminal-escape-codes-are-awesome-heres-why-c8eb938b1a1c
 - Shell Script Best Practices: https://sharats.me/posts/shell-script-best-practices/
+- What happens when you open a terminal and enter ‘ls’: https://www.warp.dev/blog/what-happens-when-you-open-a-terminal-and-enter-ls
+- The Terminal Escape Sequences Ocean is Deep and Dark: Debugging a Virtual Terminal: https://www.ethanheilman.com/x/28/index.html
+- Introduction to Named Pipes: https://www.linuxjournal.com/article/2156
+- Opening current terminal command in $EDITOR: https://varunbarad.com/blog/til-opening-current-terminal-command-in-editor
+
+### Tools:
+
+- A Practical Guide to fzf: Building a File Explorer: https://thevaluable.dev/practical-guide-fzf-example/
 
 ## Tips:
 
@@ -72,6 +80,8 @@
 - A prompt theme engine for any shell: https://ohmyposh.dev/
 - A curated list of Awesome Userscripts: https://github.com/bvolpato/awesome-userscripts
 - https://git.herrbischoff.com/awesome-macos-command-line/about/
+- Concatenative command-line shell: https://github.com/tomhrr/cosh
+- Showing image and video content on terminal: https://saitoha.github.io/libsixel/
 
 ## Terminal tools I use:
 

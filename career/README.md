@@ -33,6 +33,7 @@
 - https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/
 - A guide to fixing Developer Posture: https://gaylelaakmann.substack.com/p/a-guide-to-fixing-computer-guy-posture
 - Your First 60 Days at an Engineering Job: https://code.dblock.org/2015/04/23/your-first-60-days-at-an-engineering-job.html
+- Optimal Stopping Theory For Hiring: https://matt-rickard.ghost.io/optimal-stopping-theory/
 
 ## Blog series/Collection of articles:
 

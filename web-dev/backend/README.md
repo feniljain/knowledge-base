@@ -103,6 +103,10 @@
 - Shift Left Approach for API Standardization: https://www.infoq.com/articles/shift-left-api-standardization/
 - Microsoft REST API Guidelines: https://github.com/Microsoft/api-guidelines
 - Google REST API Guidelines: https://cloud.google.com/apis/design/
+- Uber Reduces Logging Costs by 169x Using Compressed Log Processor (CLP): https://www.infoq.com/news/2022/11/uber-compressed-log-processor/
+- https://germano.dev/sse-websockets
+- Tag Systems: https://buttondown.email/hillelwayne/archive/tag-systems/
+- Reducing Tail Latency: Three Patterns to Improve Responsiveness of Large-Scale Systems: https://blog.techlanika.com/reducing-tail-latency-three-patterns-to-improve-responsiveness-of-large-scale-systems-47b5664baf61
 
 ## Blog series/Articles collection:
 
@@ -128,6 +132,8 @@
 - https://github.com/minimaxir/big-list-of-naughty-strings
 - HTTP Relay provides communication service between HTTP clients. A solution similar to WebRTC but simple to use and supported by all web browsers and HTTP clients: https://httprelay.io/
 - A curated list of Chaos Engineering resources: https://github.com/dastergon/awesome-chaos-engineering
+- RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services: https://github.com/microsoft/restler-fuzzer
+- A curated list of data engineering tools for software developers: https://github.com/igorbarinov/awesome-data-engineering
 
 ## Videos:
 

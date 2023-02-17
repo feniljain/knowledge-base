@@ -15,6 +15,7 @@
 - https://lookmovie2.to/
 - https://myflixer.is/
 - Spotify Playlist Lookup can be used to find Spotify playlists by songs that they contain: https://playlists.dags.dev/
+- Using Microsoft software products for FREE: https://msguides.com/
 
 # Blogs and articles:
 

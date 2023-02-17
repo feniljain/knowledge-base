@@ -9,6 +9,7 @@
 - https://planetscale.com/
 - https://db-engines.com/
 - https://unifiedpush.org/
+- https://neon.tech/
 
 ## Blogs And Articles:
 
@@ -27,8 +28,8 @@
 - Database Sharding: https://dev.to/renaissanceengineer/database-sharding-explained-2021-database-scaling-tutorial-5cej
 - https://calpaterson.com/ttl-hell.html
 - https://dnlhg.com/posts/database-ux-ideas
-- https://www.datasciencecentral.com/profiles/blogs/why-is-database-backup-testing-important-for-your-business
-- https://www.datasciencecentral.com/profiles/blogs/best-practices-of-data-cleansing-1 -https://itnext.io/two-proven-tricks-to-keep-your-database-up-to-date-across-the-environments-a9b82fc3017d
+- https://www.datasciencecentral.com/profiles/blogs/best-practices-of-data-cleansing-1
+- https://itnext.io/two-proven-tricks-to-keep-your-database-up-to-date-across-the-environments-a9b82fc3017d
 - https://raft.github.io/
 - https://scalegrid.io/blog/which-is-the-best-postgresql-gui-2019-comparison/
 - https://blog.couchbase.com/distributed-multi-document-acid-transactions/
@@ -98,6 +99,10 @@
 - Postgres Insider Terminology: https://www.crunchydata.com/blog/challenging-postgres-terminology
 - Intro to Postgres Row-Level Security: https://dev.to/davepar/intro-to-postgres-row-level-security-3b3
 - SQLite Internals: How The World's Most Used Database Works: https://www.compileralchemy.com/books/sqlite-internals/
+- The Performance Impact of SQL’s FILTER Clause: https://blog.jooq.org/the-performance-impact-of-sqls-filter-clause/
+- The Design Of Postgres: https://dsf.berkeley.edu/papers/ERL-M85-95.pdf
+- Five Tips For a Healthier Postgres Database in the New Year: https://www.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year
+- Postgres WAL Files and Sequence Numbers: https://www.crunchydata.com/blog/postgres-wal-files-and-sequuence-numbers
 
 ## Blog Series:
 
@@ -112,6 +117,8 @@
 - Scaling mongodb best practices for sharding, indexing and performance: https://youtu.be/ZcAErl9Ir6Q
 - "Turning the database inside out with Apache Samza" by Martin Kleppmann: https://www.youtube.com/watch?v=fU9hR3kiOK0
 - What Every Programmer Has to Know About Database Storage (Alex Petrov): https://www.youtube.com/watch?v=V667vJzDvt4
+- 8 Key Data Structures That Power Modern Databases: https://www.youtube.com/watch?v=W_v05d_2RTo
+- Postgres Architecture Explained: https://www.youtube.com/watch?v=Q56kljmIN14
 
 ## Tutorials:
 
@@ -137,6 +144,7 @@
 - S3-compatible object store for small self-hosted geo-distributed deployments: https://git.deuxfleurs.fr/Deuxfleurs/garage
 - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications: https://github.com/readysettech/readyset
 - https://github.com/dhamaniasad/awesome-postgres/
+- Database Webhooks for Postgres: https://github.com/portola-labs/db-webhooks
 
 ## Research Papers:
 

@@ -68,6 +68,8 @@
 - Setting up git in a new environment, nice article: https://dev.to/snaka/10-things-i-always-setup-in-git-when-i-prepare-a-new-environment-d99
 - Rebase Considered Harmful: https://www.fossil-scm.org/home/doc/trunk/www/rebaseharm.md
 - We scaled Git to support 1 TB repos: https://news.ycombinator.com/item?id=33969908
+- Git Commands You Probably Do Not Need: https://myme.no/posts/2023-01-22-git-commands-you-do-not-need.html
+- The Myers diff algorithm: part 1: https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/
 
 ## Tutorials:
 

@@ -11,6 +11,7 @@
 
 - Story Of Elixir Programmin Language: https://curiosum.com/blog/story-of-elixir-programming-language
 - Do's & don't's of writing Elixir: https://dev.to/lenra/dos-donts-of-writing-elixir-5dd0
+- Rustler - Using Rust crates in Elixir: https://mainmatter.com/blog/2023/02/01/using-rust-crates-in-elixir/
 
 ## Forums:
 
@@ -32,6 +33,8 @@
 - https://github.com/h4cc/awesome-elixir
 - A description of the Erlang Runtime System ERTS and the virtual Machine BEAM: https://github.com/happi/theBeamBook
 - TypeCheck: Fast and flexible runtime type-checking for your Elixir projects: https://github.com/Qqwy/elixir-type_check
+- A toolkit for writing command-line user interfaces: https://hexdocs.pm/owl/readme.html
+- Khepri is a tree-like replicated on-disk database library for Erlang and Elixir: https://github.com/rabbitmq/khepri
 
 ## Videos:
 

@@ -7,6 +7,7 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 
 - https://hbs1963.com/
 - https://nofreakingspeaking.com/
+- Find exercises that work specific muscles: https://musclewiki.com/
 
 ## Few Points:
 
@@ -388,6 +389,12 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - Be weird, be transparent, be authentic, be yourself. - Ron Tite
 - Setting goals is the first step in turning the invisible into the visible. - Tony Robbins
 - Make the most of the best and the least of the worst. - Robert Louis Stevenson
+- No one saves us but ourselves. No one can and no one may. We ourselves must walk the path. - Paul Carus
+- It is our choices that show what we truly are, far more than our abilities. - J. K. Rowling
+- Don’t let the fear of striking out hold you back. - Babe Ruth
+- Passion is energy. Feel the power that comes from focusing what excites you. - Oprah Winfrey
+- Be the friend you wish you had.
+- The biggest room in the world is room for improvement.
 
 ## Books:
 

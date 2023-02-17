@@ -48,7 +48,7 @@
 - https://thispersondoesnotexist.com/
 - https://hub.docker.com/repository/docker/sarthakpranesh/custom-tensorman
 - https://github.com/huggingface/transformers
-- Decensoring Hentai with Deep Neural Networks: https://github.com/deeppomf/DeepCreamPy
+- Decensoring Hentai with Deep Neural Networks: https://github.com/gguilt/DeepCreamPy
 - https://github.com/roboticcam/machine-learning-notes
 - https://github.com/deepmind
 - https://github.com/openai/DALL-E
@@ -75,6 +75,7 @@
 - https://github.com/jbhuang0604/awesome-computer-vision
 - Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight: https://github.com/facebookresearch/shumai
 - Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading: https://github.com/bigscience-workshop/petals
+- This repo includes ChatGPT prompt curation to use ChatGPT better: https://github.com/f/awesome-chatgpt-prompts
 
 ## Reddit and twitter threads:
 

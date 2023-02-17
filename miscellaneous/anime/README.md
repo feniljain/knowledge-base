@@ -31,7 +31,6 @@
 - Myriad Colors Phantom World
 - Princess Mononoke(Movie)
 - Watamote
-- Megalox Box
 - Rage of Bahamut
 - Lupin the Third
 - Lycoris Recoil
@@ -51,6 +50,7 @@
 - astra lost in space
 - Galactic Armored Fleet Majestic Prince: Genetic Awakening
 - Legend of Galactic Heroes
+- The witch of mercury
 
 ## Shounen:
 
@@ -82,7 +82,7 @@
 - Id Invaded
 - Black bullet
 - Angels of Death
-- Summer Time Render
+- Summer Time Rendering
 - Tomodachi Game
 - Happy Sugar Life
 - Babylon
@@ -118,6 +118,7 @@
 - Mononoke
 - Toilet-bound Hanako-kun
 - ID: Invaded
+- Mushishi
 
 ## Adventure and Magic(supernatural):
 
@@ -125,6 +126,9 @@
 - The Hero is dead
 - Digimon
 - Kyoukai ni kanata
+- Bofuri S2
+- Yaa boy kong ming
+- call of the night
 
 ## Comedy:
 
@@ -224,6 +228,8 @@
 - Call of the night
 - Rent a Girlfriend
 - Beastars
+- Syp X Family
+- Bocchi The Rock
 
 ## Sports:
 
@@ -236,6 +242,7 @@
 - sk8 the infinity
 - Blue Lock ( recommendation from here: https://www.youtube.com/watch?v=NH4DwFLlbHU )
 - Ping Pong the Animation
+- Megalox Box
 
 ## Isekai:
 
@@ -502,8 +509,10 @@
 - One Piece
 - Baccano
 - Mind Game
-- Angel Beats
 - Hajime no Ippo
+- Summer Time Rendering
+- Barakamon
+- Angel Beats
 
 ## Caught up Mangas:
 

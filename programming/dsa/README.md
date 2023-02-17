@@ -3,6 +3,7 @@
 ## Website:
 
 - Data Structure visualizations: https://okso.app/showcase/data-structures
+- Roadmap on leetcode for solving DSA questions: https://neetcode.io/roadmap
 
 ## Blogs and articles:
 

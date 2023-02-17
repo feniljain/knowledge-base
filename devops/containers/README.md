@@ -18,7 +18,6 @@
 - https://www.reddit.com/r/golang/comments/m4xmpf/containerize_your_go_developer_environment_series/
 - https://aws.amazon.com/blogs/containers/new-using-amazon-ecs-exec-access-your-containers-fargate-ec2/
 - https://medium.com/swlh/set-up-your-own-personal-password-vault-313d76374046
-- https://github.com/sickcodes/Docker-OSX
 - https://towardsdatascience.com/its-time-to-say-goodbye-to-docker-5cfec8eff833
 - https://blog.bitsrc.io/best-practices-for-writing-a-dockerfile-68893706c3
 - https://towardsdatascience.com/slimming-down-your-docker-images-275f0ca9337e
@@ -86,6 +85,7 @@
 - https://github.com/docker-slim/docker-slim
 - https://github.com/iximiuz/awesome-container-tinkering
 - A toolkit for building secure, portable and lean operating systems for containers: https://github.com/linuxkit/linuxkit
+- https://github.com/sickcodes/Docker-OSX
 
 ## Learning
 

@@ -26,6 +26,8 @@
 - https://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/
 - CHERI: https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/
 - A history of ARM, part 1: Building the first chip: https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/
+- Reverse-engineering the conditional jump circuitry in the 8086 processor: http://www.righto.com/2023/01/reverse-engineering-conditional-jump.html
+- ESP32 Buyer’s Guide: Different Chips, Firmware, Sensors: https://eitherway.io/posts/esp32-buyers-guide/
 
 ## Repos:
 

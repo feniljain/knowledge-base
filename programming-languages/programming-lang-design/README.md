@@ -57,6 +57,10 @@
 - Type Inference for Sound and Complete Flow Typing: https://ayazhafiz.com/articles/21/type-inference-for-flow-typing
 - Local Type Inference (standard citations for bidirectional type checking): https://www.cis.upenn.edu/~bcpierce/papers/lti-toplas.pdf
 - A Theory of Type Polymorphism in Programming(standard citations for Hindley-Milner type inference): https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf
+- Macros in different languages: https://pldb.com/features/hasMacros.html
+- Unification: https://eli.thegreenplace.net/2018/unification/
+- Don't write a programming language: https://blog.dhsdevelopments.com/dont-write-a-programming-language
+- Features of a dream programming language: 2nd draft(Good collection of resources): https://dev.to/redbar0n/features-of-a-dream-programming-language-2nd-draft-p7j
 
 ### Tutorials:
 
@@ -70,6 +74,7 @@
 - https://jayconrod.com/post
 - Really good blog posts: https://ayazhafiz.com/
 - EK9 Language Development Blog: https://blog.ek9.io/
+- Blog posts on programming language design: https://blog.willbanders.dev/
 
 # Lesser known langs but useful from design perspective:
 
@@ -86,6 +91,8 @@
 - A collection of resources for learning type theory and type theory adjacent fields: https://github.com/jozefg/learn-tt
 - A series of down-to-earth articles on implementing type inference: https://github.com/Ahnfelt/type-inference-by-example
 - Programming Language Database. A public domain knowledge graph focused on programming languages distributed as a CSV file: https://github.com/breck7/pldb
+- A Hindley Milner implementation in Rust: https://github.com/veera-sivarajan/type-inferencer
+- An example implementation of a dependent type theory in OCaml: https://github.com/aradarbel10/MyOwnTT
 
 # Gists:
 
@@ -99,6 +106,7 @@
 - Programming Language Explorations: https://rtoal.github.io/ple/
 - Book for impl of Icon Programming Language: https://www2.cs.arizona.edu/icon/ftp/doc/lb1up.pdf
 - Programming Languages: Application and Interpretation: https://www.plai.org/3/2/PLAI%20Version%203.2.0%20electronic.pdf
+- https://steshaw.org/plt/
 
 # Reddit/twitter threads, blogs and articles:
 
@@ -116,6 +124,7 @@
 - More PL Communities: https://www.reddit.com/r/ProgrammingLanguages/comments/z3a3tp/more_pl_communities/
 - Academic list of rather interesting programming languages: https://www.reddit.com/r/ProgrammingLanguages/comments/z7uier/academic_list_of_rather_interesting_programming/
 - Simple Refinement of Anonymous Sum Types in Pattern Matches: https://ayazhafiz.com/articles/22/simple-flow-refinement-of-anonymous-sum-types
+- What are some good books, blogs or other resources on the topic of programming language theory?: https://www.reddit.com/r/ProgrammingLanguages/comments/10gmnmi/good_resources_for_beginners/
 
 # Language collection:
 
@@ -128,6 +137,15 @@
 - http://www.ats-lang.org/
 - https://spade-lang.org/
 - https://www.ek9.io/
+- https://framepiler.frame-lang.org/
+- https://www.winglang.io/
+- https://www.idris-lang.org/
+- https://github.com/khasm-lang/khasmc
+- https://github.com/carp-lang/Carp
+- https://nelua.io/
+- https://github.com/Vexu/bog
+- Fetish-themed programming language: https://github.com/fetlang/fetlang
+- Imperium: https://github.com/Steadsoft/imperium
 
 # Videos:
 
@@ -136,6 +154,7 @@
 - Pure Type Systems: Dependents when you need them:https://www.youtube.com/watch?v=ZGqKsalJi4s
 - Why things like maybe/option are not good and what is clojure doing instead?: https://www.youtube.com/watch?v=YR5WdGrpoug
 - Three Things I Wish I Knew When I Started Designing Languages: https://www.youtube.com/watch?v=oa0qq75i9oc
+- Jon Sterling, How to code your own type theory: https://www.youtube.com/watch?v=DEj-_k2Nx6o
 
 # Courses:
 
