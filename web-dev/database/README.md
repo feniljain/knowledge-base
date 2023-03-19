@@ -10,6 +10,7 @@
 - https://db-engines.com/
 - https://unifiedpush.org/
 - https://neon.tech/
+- https://psql-tips.org/
 
 ## Blogs And Articles:
 
@@ -103,6 +104,9 @@
 - The Design Of Postgres: https://dsf.berkeley.edu/papers/ERL-M85-95.pdf
 - Five Tips For a Healthier Postgres Database in the New Year: https://www.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year
 - Postgres WAL Files and Sequence Numbers: https://www.crunchydata.com/blog/postgres-wal-files-and-sequuence-numbers
+- Why (Graph) DBMSs Need New Join Algorithms: The Story of Worst-case Optimal Join Algorithms: https://kuzudb.com/blog/wcoj.html
+- psql Tips: https://psql-tips.org/psql_tips_all.html
+- SimpleDB: A Basic RDBMS Built From Scratch: https://www.awelm.com/posts/simple-db/
 
 ## Blog Series:
 
@@ -189,3 +193,4 @@
 - Writing a SQL Parser: https://tomassetti.me/parsing-sql/
 - https://www.crunchydata.com/blog/rise-of-the-anti-join
 - A Critique of SQL, 40 Years Later: https://carlineng.com/?postid=sql-critique#blog
+- Type Constraints in 65 lines of SQL: https://supabase.com/blog/type-constraints-in-65-lines-of-sql

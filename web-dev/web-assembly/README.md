@@ -48,6 +48,8 @@
 - Difference between Java bytecode and WASM bytecode: https://www.quora.com/How-does-Java-bytecode-compare-to-WASM-code
 - https://www.tweag.io/blog/2022-03-17-libffi-wasm32/
 - just-in-time code generation within webassembly: https://wingolog.org/archives/2022/08/18/just-in-time-code-generation-within-webassembly
+- Rust to WebAssembly the hard way: https://surma.dev/things/rust-to-webassembly/
+- GC Extension for wasm: https://github.com/WebAssembly/gc/blob/master/proposals/gc/Overview.md
 
 # Books:
 
@@ -69,3 +71,5 @@
 - wazero: the zero dependency WebAssembly runtime for Go developers: https://github.com/tetratelabs/wazero
 - A really tiny WebAssembly compiler for demonstration and educational purposes. Written in Go and built as one of my quests to conquer the WebAssembly dungeon: https://github.com/thomscoder/luna
 - Async Streams in WebAssembly with WasmRS: https://medium.com/candle-corporation/async-streams-in-webassembly-with-wasmrs-c3604410c999
+- A succinct, expressive and efficient programming language for WebAssembly: https://github.com/ligangwang/m
+- A list of webassemby runtimes: https://github.com/appcypher/awesome-wasm-runtime

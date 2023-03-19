@@ -45,10 +45,15 @@
 - The Terminal Escape Sequences Ocean is Deep and Dark: Debugging a Virtual Terminal: https://www.ethanheilman.com/x/28/index.html
 - Introduction to Named Pipes: https://www.linuxjournal.com/article/2156
 - Opening current terminal command in $EDITOR: https://varunbarad.com/blog/til-opening-current-terminal-command-in-editor
+- Write Posix Shell: https://j3s.sh/thought/write-posix-shell.html
 
 ### Tools:
 
 - A Practical Guide to fzf: Building a File Explorer: https://thevaluable.dev/practical-guide-fzf-example/
+
+### Tutorials:
+
+- Build your own shell: https://github.com/tokenrove/build-your-own-shell
 
 ## Tips:
 
@@ -82,6 +87,8 @@
 - https://git.herrbischoff.com/awesome-macos-command-line/about/
 - Concatenative command-line shell: https://github.com/tomhrr/cosh
 - Showing image and video content on terminal: https://saitoha.github.io/libsixel/
+- Screen{shot,cast} and perform ImageOps on the command line: https://github.com/orhun/menyoki
+- Share your terminal over the web: https://github.com/tsl0922/ttyd
 
 ## Terminal tools I use:
 

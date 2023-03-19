@@ -141,6 +141,12 @@
 - Kubernetes: The next step for WebRTC: https://medium.com/l7mp-technologies/kubernetes-the-next-step-for-webrtc-fb8d8a33f24e
 - Background Removal Using Insertable Streams: https://webrtc.ventures/2023/02/background-removal-using-insertable-streams/
 - State of a MediaStreamTrack: https://webrtc-developers.com/state-of-a-mediastreamtrack/
+- Media Ingestion protocols Review: http://www.rtcbits.com/2023/02/media-ingestion-protocols.html
+- Example setup of a combined MPEG-DASH and WebRTC distribution: https://eyevinntechnology.medium.com/example-setup-of-a-combined-mpeg-dash-and-webrtc-distribution-77a7eaad7b2e
+- Smooth Sailing With Simulcast: yhttps://www.daily.co/blog/simulcast/
+- How to compile WebRTC library for Android: https://medium.com/@geekprogrammer11/how-to-compile-webrtc-library-for-android-cacf57fcbe33
+- WebRTC Landscape API: https://www.webrtc-developers.com/api.jpg
+- Real-Time Video Processing with WebCodecs and Streams: Processing Pipelines (Part 1): https://webrtchacks.com/real-time-video-processing-with-webcodecs-and-streams-processing-pipelines-part-1/
 
 ### Tutorials:
 
@@ -204,6 +210,7 @@ Social audio applications with Janus: https://www.meetecho.com/blog/social-audio
 - zoom clone using rust: https://github.com/security-union/rust-zoom
 - donut is a zero setup required SRT+MPEG-TS -> WebRTC Bridge powered by Pion: https://github.com/flavioribeiro/donut
 - Serverless WebRTC matchmaking for painless P2P — Make any site multiplayer in a few lines — Use BitTorrent, IPFS, or Firebase: https://github.com/dmotz/trystero
+- A synchronous sans I/O WebRTC implementation in Rust: https://github.com/algesten/str0m
 
 ## Useful SO questions:
 

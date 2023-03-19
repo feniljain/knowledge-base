@@ -139,6 +139,9 @@
 - CDNs: https://web.dev/content-delivery-networks/
 - Understanding TCP Seq & Ack Numbers [Packet-by-Packet]: https://www.golinuxcloud.com/tcp-sequence-acknowledgement-numbers/
 - Work-In-Progress: Studying Ethernet Physical Layer 1: https://metebalci.com/blog/studying-ethernet-layer-1/
+- High-Level Data Link Control (HDLC) in Computer Networking: https://xalgord.in/high-level-data-link-control-hdlc-in-computer-networking/
+- The Limitations of the Ethernet CRC and TCP/IP checksums for error detection: http://noahdavids.org/self_published/CRC_and_checksum.html
+- What is TCP Fast Open?: https://www.geeksforgeeks.org/what-is-tcp-fast-open/
 
 ## Books:
 
@@ -171,6 +174,7 @@
 - Simulating shitty network connections so you can build better systems: https://github.com/tylertreat/comcast
 - A single location for people to reference when looking for network protocol implementations written in Python that perform no I/O: https://sans-io.readthedocs.io/
 - A modern, hackable, green Dynamic DNS service and cli for Cloudflare: https://github.com/simbleau/cddns
+- DNS test harness: https://github.com/CZ-NIC/deckard
 
 ## Reddit, twitter and HN threads:
 
@@ -207,6 +211,10 @@
 - Do DHCP and DNS Servers Communicate? (With wireshark): https://www.youtube.com/watch?v=FYcO4ZshG8Q
 - Designing for Understandability: The Raft Consensus Algorithm: https://www.youtube.com/watch?v=vYp4LYbnnW8
 - eCHO Episode 78: Stream Control Transmission Protocol (SCTP): https://www.youtube.com/watch?v=2lD86qNHXXI
+- VPNs, Proxies and Secure Tunnels Explained (Deepdive): https://www.youtube.com/watch?v=32KKwgF67Ho
+- Bizarre and Unusual Uses of DNS: https://fosdem.org/2023/schedule/event/dns_bizarre_and_unusual_uses_of_dns/
+- Rack-scale Networking: https://www.youtube.com/watch?v=AkWh2Sms3aw
+- Everything You Need to Know About DNS (Domain Name System): https://www.youtube.com/watch?v=27r4Bzuj5NQ
 
 ## Container Images:
 

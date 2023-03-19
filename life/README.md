@@ -395,6 +395,7 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - Passion is energy. Feel the power that comes from focusing what excites you. - Oprah Winfrey
 - Be the friend you wish you had.
 - The biggest room in the world is room for improvement.
+- There are two ways of spreading light: to be the candle or the mirror that reflects it. -  Edith Wharton
 
 ## Books:
 

@@ -176,6 +176,7 @@
 - Tracing tools for PostgreSQL, using eBPF: https://github.com/aiven/pgtracer
 - eBPF-powered L4 package dropper: https://github.com/boratanrikulu/durdur
 - eBPF-based stack trace tool: https://github-com.translate.goog/SeeFlowerX/stackplz
+- A Linux lightweight and high-performance transparent proxy solution based on eBPF: https://github.com/v2rayA/dae
 
 ## Reddit and twitter threads:
 

@@ -16,8 +16,3 @@
 # Videos:
 
 - Incognizance, slenderman short film: https://www.youtube.com/watch?v=CJcgDRNbGHw
-
-# Weigth Lifting:
-
-- https://stronglifts.com/
-- https://musclewiki.com/

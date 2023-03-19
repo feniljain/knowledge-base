@@ -231,3 +231,5 @@
 - Find a plugin which will do this automatically: https://www.reddit.com/r/neovim/comments/107ms1s/the_new_signcolumn_merge_allows_us_to_set_a/
     - Something like this: https://github.com/luukvbaal/statuscol.nvim
 - Also check this thread for interesting features AstroNvim picks up: https://github.com/AstroNvim/AstroNvim/issues/1489
+- Switching Neovim configs, is easier than ever now!: https://www.reddit.com/r/neovim/comments/113z6bb/switching_neovim_configs_is_easier_than_ever_now/
+- Try git jump in this: https://github.blog/2023-03-13-highlights-from-git-2-40/

@@ -318,6 +318,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - A runtime inside Rust’s type system: https://medium.com/@HermeG/a-runtime-inside-rusts-type-system-35023257735
 - Rust's Type System is Turing-Complete: https://sdleffler.github.io/RustTypeSystemTuringComplete/
 - Nice read, Rust concepts I wish I learned earlier: https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/
+- Problems with shared mutable state and different solutions to avoid them (this one uses GUIs as case study): https://samsartor.com/guis-3/
 
 ### Others:
 
@@ -406,6 +407,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - A byte string library for Rust: https://blog.burntsushi.net/bstr/
 - Index 1,600,000,000 Keys with Automata and Rust: https://blog.burntsushi.net/transducers/
 - Category Theory with Rust (pt1): https://www.kurtlawrence.info/blog/category-theory-with-rust-pt1
+- Time Travel Debugging in Rust: https://www.travelneil.com/time-travel-debugging-in-rust.html
 
 ## Blog Series/Collection of articles:
 
@@ -542,6 +544,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - A comparison of operating systems written in Rust: https://github.com/flosse/rust-os-comparison
 - Runtime for executing procedural macros as WebAssembly: https://github.com/dtolnay/watt
 - Rust programs written entirely in Rust ( no C-linking, no dependence on libc or crt1.o ): https://github.com/sunfishcode/mustang
+- The ultimate search extension for Rust: https://github.com/huhu/rust-search-extension
 
 ## Videos:
 
@@ -581,6 +584,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - Constant fun (const fn) with Rust: https://www.youtube.com/watch?v=Vw8BFScm0K0
 - Is It Time to Rewrite the Operating System in Rust?: https://www.youtube.com/watch?v=HgtRAbE1nBM
 - Finding good Rust dependencies: https://www.youtube.com/watch?v=4sZTcBg50wc
+- A deep dive inside the Rust frontend for GCC: https://fosdem.org/2023/schedule/event/rust_a_deep_dive_inside_the_rust_frontend_for_gcc/
 
 ## Newsletters:
 

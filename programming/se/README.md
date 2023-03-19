@@ -43,6 +43,7 @@
 - https://en.wikipedia.org/wiki/Side_effect_(computer_science)
 - https://medium.com/@iamjwr/software-engineer-roadmap-via-books-a6aabdc2589c
 - https://dannorth.net/2022/02/10/cupid-for-joyful-coding/
+- Project Management for Software Engineers: https://sookocheff.com/post/engineering-management/project-management-for-software-engineers/
 
 ## Blogs Series:
 
@@ -56,3 +57,7 @@
 ## Books:
 
 - Scrum Book: https://medium.com/pragmatic-programmers/table-of-contents-88b09f36f711
+
+## Videos:
+
+- Prime Reacts: 8 Design Patterns : https://www.youtube.com/watch?v=ZfG8BSTX0Lw

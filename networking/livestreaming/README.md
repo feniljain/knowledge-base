@@ -87,7 +87,7 @@
 - The challenges of deploying Apple's Low Latency HLS In Real Life: https://www.youtube.com/watch?v=GxFm4ikKiZc
 - Measuring the live video latency at scale: https://www.youtube.com/watch?v=D6I2zQa6Icw
 - LL-HLS, LHLS, DASH-LL: Challenges and Differences: https://www.youtube.com/watch?v=DVrPv-8PUm4
-## Videos:
 - WHIP and WHEP: Standardized Live Streaming with WebRTC: https://www.youtube.com/watch?v=rIQVVJOjR0U
 
+## Course:
 - FFmpeg for Adaptive Bitrate Production: https://www.udemy.com/course/ffmpeg-for-adaptive-bitrate-production/

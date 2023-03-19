@@ -21,3 +21,8 @@
 - Control Theory and Concurrent Garbage Collection: https://speakerdeck.com/player/9731feccdd754e239b3b59765fd3dbb8
 - Does the Bronze Garbage Collector Make Rust Easier to Use? A Controlled Experiment: https://arxiv.org/abs/2110.01098
 - Samsara, a safe Rust concurrent cycle collector: https://redvice.org/2023/samsara-garbage-collector/
+- Unified Theory of Garbage Collection: https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/unified-theory-gc/
+
+## Repos:
+
+- The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc): https://github.com/ivmai/bdwgc

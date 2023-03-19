@@ -75,6 +75,8 @@
 - The Kubernetes Network Model: https://www.tkng.io/arch/
 - Practical Systems Awareness: https://itnext.io/practical-systems-awareness-322faf092da2
 - Solving common problems with Kubernetes: https://blog.adamchalmers.com/kubernetes-problems/
+- Scaling kubernetes to 7500 nodes: https://openai.com/research/scaling-kubernetes-to-7500-nodes
+- How can pods talk to one another? A brief guide to Kubernetes networking: https://ergomake.dev/blog/kubernetes-networking-guide/
 
 ## Blog series:
 

@@ -153,6 +153,8 @@
 - Distinguishing an Interpreter from a Compiler: https://tratt.net/laurie/blog/2023/distinguishing_an_interpreter_from_a_compiler.html
 - A really nice read on JITting/speculation in js core: https://webkit.org/blog/10308/speculation-in-javascriptcore/
 - Type Inference based on Hindley-Milner ( HM from implementation perspective ): https://veera.app/type_inference.html
+- Top Down LR Parsing: https://pavpanchekha.com/blog/top-down-lr.html
+- Valiant's Parser: https://rahul.gopinath.org/post/2023/03/16/valiant-parser/
 
 ## Blog series/Articles collection:
 
@@ -259,6 +261,7 @@
 - Static Program Analysis: https://cs.au.dk/~amoeller/spa/
 - Writing Interpreters in Rust: a Guide: https://rust-hosted-langs.github.io/book/introduction.html
 - Understanding and Writing Compilers: A do-it-yourself guide: https://www.amazon.com/Understanding-Writing-Compilers-do-yourself/dp/0333217322
+- Static Program Analysis: https://cs.au.dk/~amoeller/spa/
 
 ## Interesting rust-analyzer issues:
 

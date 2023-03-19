@@ -107,6 +107,7 @@
 - https://germano.dev/sse-websockets
 - Tag Systems: https://buttondown.email/hillelwayne/archive/tag-systems/
 - Reducing Tail Latency: Three Patterns to Improve Responsiveness of Large-Scale Systems: https://blog.techlanika.com/reducing-tail-latency-three-patterns-to-improve-responsiveness-of-large-scale-systems-47b5664baf61
+- Timeouts, retries, and backoff with jitter: https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/
 
 ## Blog series/Articles collection:
 

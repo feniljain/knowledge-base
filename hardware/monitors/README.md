@@ -11,6 +11,7 @@
 ## Videos:
 
 - Montior buying guide, everything you need to know: https://www.youtube.com/watch?v=ALbwY4EZ4Gg
+
 ## Some monitors I like:
 
 - https://www.samsung.com/in/monitors/flat/t35f-27-inch-ips-fhd-1080p-freesync-lf27t350fhwxxl/

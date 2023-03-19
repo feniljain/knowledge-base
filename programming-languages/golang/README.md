@@ -295,6 +295,7 @@
 - Job search website: https://www.goopensource.dev/
 - https://mholt.github.io/json-to-go/
 - https://go-proverbs.github.io/
+- https://golangexample.com/
 
 ## Repos and tools:
 

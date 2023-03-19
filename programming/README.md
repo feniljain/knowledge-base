@@ -216,6 +216,9 @@
 - How to simulate Chrome is running in a TTY: https://piranna.github.io/2020/04/25/How-to-simulate-Chrome-is-running-in-a-TTY/
 - A Linking Adventure: https://nsnotes.github.io/2023/03/03/A-linking-adventure/
 - Your E-Mail Validation Logic is Wrong: https://www.netmeister.org/blog/email.html
+- Recreating ANSI art from a screenshot: https://bert.org/2023/02/27/recreating-ansi-art-from-a-screenshot/
+- Content Defined Chunking: https://joshleeb.com/posts/content-defined-chunking.html
+- What a good debugger can do?: https://werat.dev/blog/what-a-good-debugger-can-do/
 
 ### Tutorials:
 
@@ -431,3 +434,9 @@
 - Vim is the entry drug to Linux... then Configs... then window managers.... and then you are reprogramming bluetooth drivers because volume increases in increment of 5% and it gets on your nerve!!
 - Functional programming is for 10 men dev teams who work with their shoes off and eat hawaiian food on their lunch break
 - When I see a door with a push sign, I pull first to avoid conflicts(git)
+
+## Tech Meetup groups in bangalore:
+
+- Graph Database Bangalore: https://www.meetup.com/graph-database-bangalore/
+- Docker Bangalore: https://www.meetup.com/docker-bangalore/
+- Rust India Bangalore: https://www.meetup.com/rustindia/

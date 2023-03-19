@@ -34,6 +34,7 @@
 - Online operating system tester: https://distrotest.net/index.php
 - https://linuxreviews.org/
 - https://puter.com/
+- http://www.oldlinux.org/
 
 ## Blogs and articles:
 
@@ -161,6 +162,7 @@
 - Setting system wide c++ to llvm: https://stackoverflow.com/a/12843988
 - The Mirage Of Memory: https://dev.to/yugabyte/the-mirage-of-memory-3366
 - Interview Questions: Why can’t you create a file?: https://medium.com/geekculture/interview-questions-why-cant-you-create-a-file-e08f3486a92a
+- Firecracker internals: a deep dive inside the technology powering AWS Lambda: https://www.talhoffman.com/2021/07/18/firecracker-internals/
 
 ## Blog series:
 
@@ -198,6 +200,7 @@
 - https://github.com/yaxollum/diagonator
 - Collection of decent GRUB Community themes. Contributions welcome!: https://github.com/jacksaur/Gorgeous-GRUB
 - Universal FOSS Cross-Platform Archive Manager: https://github.com/peazip/PeaZip
+- A list of generic tools for parsing binary data structures, such as file formats, network protocols or bitstreams: https://github.com/dloss/binary-parsing
 
 ### Others:
 
@@ -238,6 +241,7 @@
 - Continuous Unix commit history from 1970 until today: https://github.com/dspinellis/unix-history-repo
 - A Tiny Linux-Compatible Kernel: https://github.com/vvaltchev/tilck
 - USB WiFi Adapter Information for Linux: https://github.com/morrownr/USB-WiFi
+- Linux-factory: A framework used to create custom Linux Debian operating systems: https://github.com/clayrisser/linux-factory
 
 ## Podcasts:
 
@@ -270,6 +274,7 @@
 - Automate ANYTHING on Linux (using xdotool): https://www.youtube.com/watch?v=feLbkm5aV_0
 - Before Main: How Executables Work on Linux: https://www.youtube.com/watch?v=jR2hUhjcAXI
 - Hidden tips, tricks, and shortcuts to make GNOME even better: https://www.youtube.com/watch?v=dLsj8plxBn0
+- Understaing strace: https://www.youtube.com/watch?v=engduNoI6DE
 
 ## Courses:
 

@@ -12,6 +12,8 @@
 - Story Of Elixir Programmin Language: https://curiosum.com/blog/story-of-elixir-programming-language
 - Do's & don't's of writing Elixir: https://dev.to/lenra/dos-donts-of-writing-elixir-5dd0
 - Rustler - Using Rust crates in Elixir: https://mainmatter.com/blog/2023/02/01/using-rust-crates-in-elixir/
+- Elixir's With Statement: https://www.openmymind.net/Elixirs-With-Statement/
+- What's a process in Elixir?: https://dev.to/adolfont/whats-a-process-in-elixir-406h
 
 ## Forums:
 
@@ -35,6 +37,8 @@
 - TypeCheck: Fast and flexible runtime type-checking for your Elixir projects: https://github.com/Qqwy/elixir-type_check
 - A toolkit for writing command-line user interfaces: https://hexdocs.pm/owl/readme.html
 - Khepri is a tree-like replicated on-disk database library for Erlang and Elixir: https://github.com/rabbitmq/khepri
+- A Distributed Lock Service, Set up in Minutes: https://github.com/Spacewalkio/Gorilla
+- A linter with autocorrection and a refactoring tool: https://github.com/hrzndhrn/recode
 
 ## Videos:
 

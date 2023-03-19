@@ -61,6 +61,8 @@
 - Unification: https://eli.thegreenplace.net/2018/unification/
 - Don't write a programming language: https://blog.dhsdevelopments.com/dont-write-a-programming-language
 - Features of a dream programming language: 2nd draft(Good collection of resources): https://dev.to/redbar0n/features-of-a-dream-programming-language-2nd-draft-p7j
+- How to implement dependent types in 80 lines of code: https://gist.github.com/Hirrolot/27e6b02a051df333811a23b97c375196
+- How to implement type theory in an hour: https://math.andrej.com/2018/08/25/how-to-implement-type-theory-in-an-hour/
 
 ### Tutorials:
 
@@ -146,6 +148,7 @@
 - https://github.com/Vexu/bog
 - Fetish-themed programming language: https://github.com/fetlang/fetlang
 - Imperium: https://github.com/Steadsoft/imperium
+- https://oberon-lang.github.io/
 
 # Videos:
 

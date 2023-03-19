@@ -86,6 +86,7 @@
 - https://github.com/iximiuz/awesome-container-tinkering
 - A toolkit for building secure, portable and lean operating systems for containers: https://github.com/linuxkit/linuxkit
 - https://github.com/sickcodes/Docker-OSX
+- Various Docker Compose examples of selfhosted FOSS and proprietary projects: https://github.com/Haxxnet/Compose-Examples
 
 ## Learning
 

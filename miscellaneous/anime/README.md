@@ -297,6 +297,7 @@
 - Lofi songs of jujutsu kaisen: https://www.youtube.com/watch?v=nSbs0EHf374
 - Iro Kousui: https://www.youtube.com/watch?v=7DpONAPM3Zw
 - Baccano's opening: https://www.youtube.com/watch?v=Rqo9oU3OSs0
+- THE ULTIMATE 200 ANIME SONGS PIANO MEDLEY: https://www.youtube.com/watch?v=p77-glF--GA
 
 ## Anime OSTs:
 

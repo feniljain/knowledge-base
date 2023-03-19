@@ -3,6 +3,7 @@
 ## Websites:
 
 - https://c4model.com/
+- https://systemdesign.one/
 
 ## Blogs and articles:
 
@@ -107,6 +108,9 @@
 - System Design: Domain Name System (DNS), Load Balancing & Clustering: https://blog.nandankumar.info/system-design-domain-name-system-dns-load-balancing-clustering
 - Exponential Backoff And Jitter: https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/
 - Bitwarden design flaw: Server side iterations: https://palant.info/2023/01/23/bitwarden-design-flaw-server-side-iterations/
+- System Design Pastebin: https://systemdesign.one/system-design-pastebin/
+- A Senior Engineer's Guide to the System Design Interview: https://interviewing.io/guides/system-design-interview
+- How to build recommendation algorithms and system designs: https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html
 
 ## Repos:
 

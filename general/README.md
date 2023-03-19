@@ -29,6 +29,8 @@
 - Weekly newsletter for best artciles on hackernews: https://hackernewsletter.com/
 - Daily Hacker News digest in your inbox: https://mailbrew.com/hacker-news-newsletter
 - https://nohello.net/en/
+- A collection of text files as guides to do various stuff: http://textfiles.com/directory.html
+- Search engine of shadow libraries: books, papers, comics, magazines. ⭐️ Z-Library, Library Genesis, Sci-Hub.: https://annas-archive.org/
 
 ## Blogs and articles:
 

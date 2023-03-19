@@ -285,3 +285,4 @@
 
 - Haskell in not category theory: https://pema.dev/2023/02/01/haskell-not-ct/
 - https://haskell.mooc.fi/
+- Operator Glossary: https://www.fpcomplete.com/haskell/tutorial/operators/

@@ -134,6 +134,7 @@
 - Avoid option for autoformatting using multiple LSPs dialog: https://neovim.discourse.group/t/autoformat-using-first-option-disable-formatting-on-tsserver/2500
 - Neovim 101 — OSC 52: https://alpha2phi.medium.com/neovim-101-osc-52-f4ee08fd96e6
 - Structuring Neovim Lua plugins: https://zignar.net/2022/11/06/structuring-neovim-lua-plugins/
+- null_ls being difficult was all in my head: https://nullvoxpopuli.com/2023-03-13-null-ls/
 
 ## VimTricks:
 
