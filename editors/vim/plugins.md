@@ -72,7 +72,8 @@
 - Plugins to draw diagarms easily in vim: https://github.com/willchao612/vim-diagon
 - Delete buffers (close files) without closing your windows or messing up your layout: https://github.com/moll/vim-bbye
 - Live Server for hot reloading html/css, etc. for vim/neovim: https://github.com/manzeloth/live-server
--  Vim plugin that displays tags in a window, ordered by scope: https://github.com/preservim/tagbar
+- Vim plugin that displays tags in a window, ordered by scope: https://github.com/preservim/tagbar
+- https://github.com/tpope/vim-rhubarb
 
 ## Lua/Nvim 0.5+ Exclusive plugins(Can be 0.7+ too):
 
@@ -87,7 +88,6 @@
 - https://github.com/folke/lsp-colors.nvim
 - https://github.com/glepnir/dashboard-nvim
 - https://github.com/nvim-treesitter/nvim-treesitter-refactor
-- https://github.com/mhartington/nvim-typescript
 - https://github.com/wbthomason/packer.nvim
 - https://github.com/romgrk/barbar.nvim
 - https://github.com/mfussenegger/nvim-dap
@@ -180,16 +180,15 @@
 - An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support: https://github.com/mfussenegger/nvim-lint
 - Display javascript import costs inside of neovim: https://github.com/barrett-ruth/import-cost.nvim
 - Dead simple plugin to center the currently focused buffer to the middle of the screen: https://github.com/shortcuts/no-neck-pain.nvim
+- Generate permalinks to various git frontends: https://github.com/ruifm/gitlinker.nvim
+- https://github.com/jose-elias-alvarez/typescript.nvim
+- Watch environment variables with telescope: https://github.com/LinArcX/telescope-env.nvim
+- A Telescope integration of Conventional Commits: https://github.com/olacin/telescope-cc.nvim
 
 ## Some plugins/things I wanna checkout:
 
 - https://github.com/Pocco81/DAPInstall.nvim
-- https://reposhub.com/linux/system-utilities/luukvbaal-stabilize-nvim.html
-- https://github.com/ruifm/gitlinker.nvim
-- https://github.com/jose-elias-alvarez/typescript.nvim
-- https://github.com/tpope/vim-rhubarb
 - https://github.com/rafamadriz/friendly-snippets
-- Watch environment variables with telescope: https://github.com/LinArcX/telescope-env.nvim
 - About Telescope extension wrapper around `:changes`: https://github.com/LinArcX/telescope-changes.nvim
 - https://github.com/sindrets/diffview.nvim ( This now has completely vscode type merge tools, check here: https://www.reddit.com/r/neovim/comments/x7iw4m/update_diffviewnvim_now_has_a_merge_tool/ )
 - https://github.com/Maan2003/lsp_lines.nvim, check due to this: https://www.reddit.com/r/neovim/comments/w5h9tl/lsp_linesnvim_v2_is_out/
@@ -233,3 +232,4 @@
 - Also check this thread for interesting features AstroNvim picks up: https://github.com/AstroNvim/AstroNvim/issues/1489
 - Switching Neovim configs, is easier than ever now!: https://www.reddit.com/r/neovim/comments/113z6bb/switching_neovim_configs_is_easier_than_ever_now/
 - Try git jump in this: https://github.blog/2023-03-13-highlights-from-git-2-40/
+- Things to check in 0.9: https://github.com/dhruvinsh/nvim/issues/11

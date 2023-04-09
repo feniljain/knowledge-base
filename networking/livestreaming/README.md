@@ -3,6 +3,7 @@
 ## Websites:
 
 - A simple GUI tool to create complex FFmpeg filtergraphs quickly and correctly, without having to mess with the cumbersome filter syntax: https://ffmpeg.guide/
+- https://debug.ivsdemos.com/
 
 ## Blogs and articles:
 
@@ -10,6 +11,7 @@
 
 - https://fschuindt.github.io/blog/2020/12/31/streaming-video-and-audio-of-an-usb-webcam-to-multiple-users-of-a-website-with-ssl-basic-authentication-and-invideo-timestamps-ffmpeg-rtmp-nginx-hls-mpeg-dash.html
 - HLS and Fragmented MP4: https://hlsbook.net/hls-fragmented-mp4/
+- Enable playback authorization for AWS IVS: https://catalog.us-east-1.prod.workshops.aws/workshops/022adf04-0ff9-49af-848f-993e42575540/en-US/playauth
 
 ### Others:
 
@@ -90,4 +92,9 @@
 - WHIP and WHEP: Standardized Live Streaming with WebRTC: https://www.youtube.com/watch?v=rIQVVJOjR0U
 
 ## Course:
+
 - FFmpeg for Adaptive Bitrate Production: https://www.udemy.com/course/ffmpeg-for-adaptive-bitrate-production/
+
+## Tools:
+
+- Transport Stream muxer: https://www.videohelp.com/software/tsMuxeR

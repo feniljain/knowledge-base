@@ -22,6 +22,7 @@
 - Does the Bronze Garbage Collector Make Rust Easier to Use? A Controlled Experiment: https://arxiv.org/abs/2110.01098
 - Samsara, a safe Rust concurrent cycle collector: https://redvice.org/2023/samsara-garbage-collector/
 - Unified Theory of Garbage Collection: https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/unified-theory-gc/
+- Writing a Simple Garbage Collector in C: http://maplant.com/gc.html
 
 ## Repos:
 

@@ -211,6 +211,9 @@ Social audio applications with Janus: https://www.meetecho.com/blog/social-audio
 - donut is a zero setup required SRT+MPEG-TS -> WebRTC Bridge powered by Pion: https://github.com/flavioribeiro/donut
 - Serverless WebRTC matchmaking for painless P2P — Make any site multiplayer in a few lines — Use BitTorrent, IPFS, or Firebase: https://github.com/dmotz/trystero
 - A synchronous sans I/O WebRTC implementation in Rust: https://github.com/algesten/str0m
+- Easy-to-use wrapper for WebRTC DataChannels peer-to-peer connections written in Rust and compiling to WASM: https://github.com/wasm-peers/wasm-peers
+- Painless peer-to-peer WebRTC networking for rust wasm: https://github.com/johanhelsing/matchbox
+- Just enough hacks to get unreliable unordered WebRTC data channels between a browser and a server: https://github.com/triplehex/webrtc-unreliable
 
 ## Useful SO questions:
 

@@ -16,6 +16,7 @@
 - Load tmux sessions via json and YAML, tmuxinator and teamocil style: https://github.com/tmux-python/tmuxp
 - https://github.com/artemave/tmux_super_fingers
 - PCB prototype & fabrication manufacturer: https://www.pcbway.com/
+- Tmuxify your Tmux. Powerful session, window & pane management for Tmux: https://github.com/jimeh/tmuxifier
 
 ## Plugins:
 

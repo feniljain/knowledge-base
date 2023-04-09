@@ -13,6 +13,7 @@
 - https://ohshitgit.com/
 - https://dangitgit.com/
 - https://www.git-tower.com/learn
+- Visualize your git history: https://gource.io/
 
 ## Blogs and Articles:
 
@@ -70,6 +71,8 @@
 - We scaled Git to support 1 TB repos: https://news.ycombinator.com/item?id=33969908
 - Git Commands You Probably Do Not Need: https://myme.no/posts/2023-01-22-git-commands-you-do-not-need.html
 - The Myers diff algorithm: part 1: https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/
+- How to use git restore effectively: https://gitbetter.substack.com/p/how-to-use-git-restore-effectively
+- How to work in multiple git branches simultaneously: https://gitbetter.substack.com/p/how-to-work-in-multiple-git-branches
 
 ## Tutorials:
 

@@ -286,3 +286,5 @@
 - Haskell in not category theory: https://pema.dev/2023/02/01/haskell-not-ct/
 - https://haskell.mooc.fi/
 - Operator Glossary: https://www.fpcomplete.com/haskell/tutorial/operators/
+- https://github.com/tweag/awesome-learning-haskell
+- Haskell Learning Resource: https://twitter.com/haskellhutt/status/1641440088881242115

@@ -396,6 +396,12 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - Be the friend you wish you had.
 - The biggest room in the world is room for improvement.
 - There are two ways of spreading light: to be the candle or the mirror that reflects it. -  Edith Wharton
+- If you cannot find peace within yourself, you will never find it anywhere else. - Marvin Gaye
+- The wisest mind has something yet to learn. - George Santayana
+- Some people come into your life as blessings. Other people come into your life as lessons. - Mother Teresa
+- Life shrinks or expands in proportion with one’s courage. - Anaïs Nin
+- If you're going through hell, keep going. - Winston Churchill
+- Be the one who decided to go for it.
 
 ## Books:
 

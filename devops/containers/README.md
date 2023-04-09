@@ -7,6 +7,7 @@
 - https://linuxcontainers.org/
 - Interactive Playgrounds for docker: https://www.katacoda.com/courses/docker
 - https://www.startwithdocker.com/
+- https://jamesmsama.medium.com/youre-too-hard-on-yourself-if-you-do-these-7-things-3fdb01626bca
 
 ## Blogs and Articles:
 

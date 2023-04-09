@@ -95,6 +95,7 @@
 - Programming Language Database. A public domain knowledge graph focused on programming languages distributed as a CSV file: https://github.com/breck7/pldb
 - A Hindley Milner implementation in Rust: https://github.com/veera-sivarajan/type-inferencer
 - An example implementation of a dependent type theory in OCaml: https://github.com/aradarbel10/MyOwnTT
+- Research on theory of programming languages λ, compilers, interpreters, functional programming, formal methods, logic etc.: https://github.com/veyselusta/programming-language-research
 
 # Gists:
 
@@ -127,6 +128,7 @@
 - Academic list of rather interesting programming languages: https://www.reddit.com/r/ProgrammingLanguages/comments/z7uier/academic_list_of_rather_interesting_programming/
 - Simple Refinement of Anonymous Sum Types in Pattern Matches: https://ayazhafiz.com/articles/22/simple-flow-refinement-of-anonymous-sum-types
 - What are some good books, blogs or other resources on the topic of programming language theory?: https://www.reddit.com/r/ProgrammingLanguages/comments/10gmnmi/good_resources_for_beginners/
+- Countdowns to top PL conference deadlines: https://yeah-tiger.github.io/
 
 # Language collection:
 
@@ -154,7 +156,7 @@
 
 - Programming with Effect Handlers and FBIP in Koka: https://www.youtube.com/watch?v=6OFhD_mHtKA
 - Type Theory for the working Rustacean: https://www.youtube.com/watch?v=BdXWlQsd7RI
-- Pure Type Systems: Dependents when you need them:https://www.youtube.com/watch?v=ZGqKsalJi4s
+- Pure Type Systems: Dependents when you need them: https://www.youtube.com/watch?v=ZGqKsalJi4s
 - Why things like maybe/option are not good and what is clojure doing instead?: https://www.youtube.com/watch?v=YR5WdGrpoug
 - Three Things I Wish I Knew When I Started Designing Languages: https://www.youtube.com/watch?v=oa0qq75i9oc
 - Jon Sterling, How to code your own type theory: https://www.youtube.com/watch?v=DEj-_k2Nx6o

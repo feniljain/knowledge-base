@@ -46,10 +46,13 @@
 - Introduction to Named Pipes: https://www.linuxjournal.com/article/2156
 - Opening current terminal command in $EDITOR: https://varunbarad.com/blog/til-opening-current-terminal-command-in-editor
 - Write Posix Shell: https://j3s.sh/thought/write-posix-shell.html
+- Nice visual tutorial on understand redirections: https://wiki.bash-hackers.org/howto/redirection_tutorial
+- Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their current environment: https://github.com/humblepenguinn/envio
 
 ### Tools:
 
 - A Practical Guide to fzf: Building a File Explorer: https://thevaluable.dev/practical-guide-fzf-example/
+- So you've installed `fzf`. Now what?: https://andrew-quinn.me/fzf/
 
 ### Tutorials:
 

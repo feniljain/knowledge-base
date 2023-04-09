@@ -21,6 +21,7 @@
 - https://www.meckeys.com/
 - https://stackskb.com
 - https://www.genesispc.in/
+- https://stickeys.in/collections/split-boards
 
 ## Blogs and articles:
 

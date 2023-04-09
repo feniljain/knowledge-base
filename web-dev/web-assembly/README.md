@@ -50,6 +50,7 @@
 - just-in-time code generation within webassembly: https://wingolog.org/archives/2022/08/18/just-in-time-code-generation-within-webassembly
 - Rust to WebAssembly the hard way: https://surma.dev/things/rust-to-webassembly/
 - GC Extension for wasm: https://github.com/WebAssembly/gc/blob/master/proposals/gc/Overview.md
+- WebAssembly tail calls: https://v8.dev/blog/wasm-tail-call
 
 # Books:
 
@@ -73,3 +74,4 @@
 - Async Streams in WebAssembly with WasmRS: https://medium.com/candle-corporation/async-streams-in-webassembly-with-wasmrs-c3604410c999
 - A succinct, expressive and efficient programming language for WebAssembly: https://github.com/ligangwang/m
 - A list of webassemby runtimes: https://github.com/appcypher/awesome-wasm-runtime
+- Creative coding and other mischief in handwritten WebAssembly, using the WebAssembly .wat text format: https://github.com/austintheriot/hand-crafted-wasm

@@ -219,6 +219,7 @@
 - Recreating ANSI art from a screenshot: https://bert.org/2023/02/27/recreating-ansi-art-from-a-screenshot/
 - Content Defined Chunking: https://joshleeb.com/posts/content-defined-chunking.html
 - What a good debugger can do?: https://werat.dev/blog/what-a-good-debugger-can-do/
+- You Should Write Bad Code: https://davidamos.dev/write-bad-code/
 
 ### Tutorials:
 

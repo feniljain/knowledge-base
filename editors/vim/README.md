@@ -269,6 +269,7 @@
 - https://github.com/danielnehrig/nvim
 - https://gitlab.com/mrswats/dotfiles/-/tree/main/nvim
 - https://github.com/LunarVim/Neovim-from-scratch
+- https://github.com/AndreM222/Windows-Dotfiles
 
 ## Emacs:
 

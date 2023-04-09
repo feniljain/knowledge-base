@@ -63,6 +63,7 @@
 - Shortest URLs on the Internet: https://jameswillia.ms/posts/shortest-urls.html
 - https://www.swarmia.com/blog/daily-stand-ups/
 - Are sofware engineers really engineers?: https://www.hillelwayne.com/post/are-we-really-engineers/
+- General Guide to Finding Accommodation In a New City (Targetted to Bangalore) : https://nvinayvarma189.github.io/posts/house-hunting/
 
 ## Blog series/Articles collection:
 

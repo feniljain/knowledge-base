@@ -85,6 +85,7 @@
 - A practical guide to capturing production traffic with eBPF: https://www.datadoghq.com/blog/ebpf-guide/
 - DWARF-based Stack Walking Using eBPF: https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers/
 - K8s - Binding IPv4 services externally as IPv6: https://www.loxilb.io/post/k8s-exposing-ipv4-services-externally-as-ipv6
+- Writing an eBPF Application using libbpf: https://blog.qsliu.dev/posts/writing_an_ebpf_application/
 
 ### Tutorials:
 
@@ -101,6 +102,7 @@
 - BPF kernel dev process, submitting patches and QA: https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git/tree/Documentation/bpf/bpf_devel_QA.rst
 - BPF API docs: https://github.com/iovisor/bpf-docs/blob/master/bpf_helpers.rst
 - BPF Office Hours: https://docs.google.com/spreadsheets/d/1LfrDXZ9-fdhvPEp_LHkxAMYyxxpwBXjywWa0AejEveU/edit#gid=0
+- A simple eBPF assembly highlight extension for VSCode: https://marketplace.visualstudio.com/items
 
 ## Blog series/Article collection:
 
@@ -115,6 +117,7 @@
 - eBPF Book: http://www.brendangregg.com/bpf-performance-tools-book.html
 - https://isovalent.com/data/liz-rice-what-is-ebpf.pdf
 - Learning eBPF book: https://isovalent.com/ebpf/
+- https://github.com/lizrice/learning-ebpf
 
 ## Repos:
 

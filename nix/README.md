@@ -31,6 +31,7 @@
 - A curated list of the best resources in the Nix community: https://github.com/nix-community/awesome-nix
 - A fast, persistent use_nix/use_flake implementation for direnv: https://github.com/nix-community/nix-direnv
 - NixOps is a tool for deploying to NixOS machines in a network or cloud: https://github.com/NixOS/nixops
+- Rust toolchains and rust-analyzer nightly for Nix: https://github.com/nix-community/fenix
 
 ## Configs for reference:
 

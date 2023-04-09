@@ -66,6 +66,8 @@
 - Tiniest x86-64-linux emulator: https://github.com/jart/blink
 - An educational software system of a tiny self-compiling C compiler, a tiny self-executing RISC-V emulator, and a tiny self-hosting RISC-V hypervisor: https://github.com/cksystemsteaching/selfie
 - Operating system and container binary deployment and upgrades: https://github.com/ostreedev/ostree
+- A virtual operating system that runs multi-players applications on the web: https://github.com/ButlerOS/haskell-butler
+- Tiny C++ boot loader: https://github.com/AgentD/hausboot
 
 ## Reddit and twitter threads:
 

@@ -142,6 +142,7 @@
 - High-Level Data Link Control (HDLC) in Computer Networking: https://xalgord.in/high-level-data-link-control-hdlc-in-computer-networking/
 - The Limitations of the Ethernet CRC and TCP/IP checksums for error detection: http://noahdavids.org/self_published/CRC_and_checksum.html
 - What is TCP Fast Open?: https://www.geeksforgeeks.org/what-is-tcp-fast-open/
+- How NAT Transversal works: https://tailscale.com/blog/how-nat-traversal-works/
 
 ## Books:
 
@@ -149,6 +150,7 @@
 - Computer Networks From Scratch : https://www.networksfromscratch.com/
 - https://www.computer-networking.info/
 - Collection of networking books: https://t.me/Network_books_ir
+- HTTP/3 explained is a collaborative effort to document the HTTP/3 and the QUIC protocols: https://http3-explained.haxx.se/
 
 ## Blog Series/Articles collection:
 

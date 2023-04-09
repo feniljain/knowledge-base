@@ -76,6 +76,7 @@
 - Reverse HTTP proxy over WebSocket in Go (Part 1): https://dev.to/hgsgtk/reverse-http-proxy-over-websocket-in-go-part-1-13n4
 - https://deathbykeystroke.com/articles/20220106-real-macros-in-go.html
 - https://gosamples.dev/tags/generics-intro/
+- Go linters configuration, the right version: https://olegk.dev/go-linters-configuration-the-right-version
 
 ### Architecture:
 
@@ -98,6 +99,7 @@
 - https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example
 - https://levelup.gitconnected.com/practical-ddd-in-golang-repository-d308c9d79ba7
 - https://medium.com/sellerapp/golang-project-structuring-ben-johnson-way-2a11035f94bc
+- https://github.com/golang-standards
 
 ### Others:
 

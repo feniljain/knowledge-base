@@ -235,6 +235,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - How to build a Semantic Search Engine in Rust: https://sachaarbonel.medium.com/how-to-build-a-semantic-search-engine-in-rust-e96e6378cfd9
 - Building a BFT JSON CRDT: https://jzhao.xyz/posts/bft-json-crdt/
 - How I contribute to Rust Compiler: https://rustmagazine.org/issue-1/contribute-to-rustc/
+- Implementing a Lua interpreter in Rust: https://wubingzheng.github.io/build-lua-in-rust/zh/
 
 ### Language general:
 
@@ -319,6 +320,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - Rust's Type System is Turing-Complete: https://sdleffler.github.io/RustTypeSystemTuringComplete/
 - Nice read, Rust concepts I wish I learned earlier: https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/
 - Problems with shared mutable state and different solutions to avoid them (this one uses GUIs as case study): https://samsartor.com/guis-3/
+- A cheatsheet for some potentially confusing terms in Rust: https://ferrous-systems.com/blog/cheatsheet-for-confusing-rust-terms/
 
 ### Others:
 
@@ -545,6 +547,8 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - Runtime for executing procedural macros as WebAssembly: https://github.com/dtolnay/watt
 - Rust programs written entirely in Rust ( no C-linking, no dependence on libc or crt1.o ): https://github.com/sunfishcode/mustang
 - The ultimate search extension for Rust: https://github.com/huhu/rust-search-extension
+- GitHub action for cache-efficient Rust crates installation: https://github.com/baptiste0928/cargo-install
+- One to one realtime video meeting : https://github.com/williamlsh/meeting.rs
 
 ## Videos:
 

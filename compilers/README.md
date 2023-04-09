@@ -40,6 +40,7 @@
 - PEG Parsing Series Overview by Guido van Rossum ( creator of python ): https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60
 - Formally Verified Native Code Generation in an Effectful JIT or: Turning the CompCert Backend into a Formally Verified JIT Compiler: https://people.irisa.fr/Aurele.Barriere/papers/fmjit.pdf
 - https://apaz-cli.github.io/blog/How_to_Write_a_Compiler_Without_Going_Insane.html
+- Small little recursive descent parser + pratt parsing: https://gist.github.com/elucent/473dcacba79371ec647d43e7c58babbd
 
 ### Others:
 

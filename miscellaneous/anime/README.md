@@ -7,7 +7,6 @@
 - Gyakkyou Burai Kaiji: Ultimate Survivor: Thriller
 - Gankutsuou: The Count of Monte Cristo: Thriller
 - When They Cry: Thriller
-- Another: Thriller
 - Phantom: Requiem for the Phantom: Thriller
 - Eden Of The East
 - Electromagnetic Girlfriend
@@ -55,7 +54,6 @@
 ## Shounen:
 
 - Seven Deadly Sins
-- Deadman wonderland
 - Beyond the boundary
 - YuYu Hakusho
 
@@ -107,7 +105,6 @@
 - Dusk Maiden of Amnesia
 - Electromagnetic Girlfriend
 - Angel’s Egg
-- Deadman wonderland
 - Angel heart
 - Mermaid Forest
 - Yukikaze
@@ -514,6 +511,10 @@
 - Summer Time Rendering
 - Barakamon
 - Angel Beats
+- Call of the night
+- Deadman wonderland
+- Cyberpunk: Edgerunners
+- Mob Psycho 100 III
 
 ## Caught up Mangas:
 

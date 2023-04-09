@@ -11,6 +11,7 @@
 - https://unifiedpush.org/
 - https://neon.tech/
 - https://psql-tips.org/
+- https://www.edgedb.com/
 
 ## Blogs And Articles:
 
@@ -107,6 +108,7 @@
 - Why (Graph) DBMSs Need New Join Algorithms: The Story of Worst-case Optimal Join Algorithms: https://kuzudb.com/blog/wcoj.html
 - psql Tips: https://psql-tips.org/psql_tips_all.html
 - SimpleDB: A Basic RDBMS Built From Scratch: https://www.awelm.com/posts/simple-db/
+- Building a Simple DB in Rust - Part 1 - Parsing: https://johns.codes/blog/build-a-db/part01
 
 ## Blog Series:
 
@@ -149,6 +151,7 @@
 - ReadySet is a lightweight SQL caching engine written in Rust that helps developers enhance the performance and scalability of existing applications: https://github.com/readysettech/readyset
 - https://github.com/dhamaniasad/awesome-postgres/
 - Database Webhooks for Postgres: https://github.com/portola-labs/db-webhooks
+- Streaming replication for SQLite ( stores changes to another file or object storages like S3 ): https://github.com/benbjohnson/litestream
 
 ## Research Papers:
 
