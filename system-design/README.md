@@ -111,6 +111,7 @@
 - System Design Pastebin: https://systemdesign.one/system-design-pastebin/
 - A Senior Engineer's Guide to the System Design Interview: https://interviewing.io/guides/system-design-interview
 - How to build recommendation algorithms and system designs: https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html
+- How to search point-of-interest (POI) markers on a map efficiently: https://medium.com/booking-com-development/how-to-search-point-of-interest-poi-markers-on-a-map-efficiently-b5f3f37a914a
 
 ## Repos:
 

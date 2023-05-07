@@ -147,6 +147,10 @@
 - How to compile WebRTC library for Android: https://medium.com/@geekprogrammer11/how-to-compile-webrtc-library-for-android-cacf57fcbe33
 - WebRTC Landscape API: https://www.webrtc-developers.com/api.jpg
 - Real-Time Video Processing with WebCodecs and Streams: Processing Pipelines (Part 1): https://webrtchacks.com/real-time-video-processing-with-webcodecs-and-streams-processing-pipelines-part-1/
+- Testing WebRTC clients in constrained network environments: https://medium.com/@vpalmisano/testing-webrtc-clients-in-constrained-network-environments-b34fed6d9d1c
+- GetUserMedia Constraints explained: https://www.webrtc-developers.com/getusermedia-constraints-explained/
+- WebRTC header extensions review: http://www.rtcbits.com/2023/05/webrtc-header-extensions.html
+- Zoom avoids using webrtc: https://webrtchacks.com/zoom-avoids-using-webrtc/
 
 ### Tutorials:
 

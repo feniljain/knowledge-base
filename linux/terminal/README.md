@@ -48,6 +48,7 @@
 - Write Posix Shell: https://j3s.sh/thought/write-posix-shell.html
 - Nice visual tutorial on understand redirections: https://wiki.bash-hackers.org/howto/redirection_tutorial
 - Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their current environment: https://github.com/humblepenguinn/envio
+- The data structure behind terminals: https://www.warp.dev/blog/the-data-structure-behind-terminals
 
 ### Tools:
 
@@ -92,6 +93,7 @@
 - Showing image and video content on terminal: https://saitoha.github.io/libsixel/
 - Screen{shot,cast} and perform ImageOps on the command line: https://github.com/orhun/menyoki
 - Share your terminal over the web: https://github.com/tsl0922/ttyd
+- A better and friendly vi(vim) mode plugin for ZSH: https://github.com/jeffreytse/zsh-vi-mode
 
 ## Terminal tools I use:
 

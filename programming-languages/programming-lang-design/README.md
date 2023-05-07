@@ -63,6 +63,7 @@
 - Features of a dream programming language: 2nd draft(Good collection of resources): https://dev.to/redbar0n/features-of-a-dream-programming-language-2nd-draft-p7j
 - How to implement dependent types in 80 lines of code: https://gist.github.com/Hirrolot/27e6b02a051df333811a23b97c375196
 - How to implement type theory in an hour: https://math.andrej.com/2018/08/25/how-to-implement-type-theory-in-an-hour/
+- Syntax for different stuff across languages: http://rigaux.org/language-study/syntax-across-languages.html
 
 ### Tutorials:
 
@@ -160,6 +161,7 @@
 - Why things like maybe/option are not good and what is clojure doing instead?: https://www.youtube.com/watch?v=YR5WdGrpoug
 - Three Things I Wish I Knew When I Started Designing Languages: https://www.youtube.com/watch?v=oa0qq75i9oc
 - Jon Sterling, How to code your own type theory: https://www.youtube.com/watch?v=DEj-_k2Nx6o
+- Type Inference from scratch: https://www.youtube.com/watch?v=ytPAlhnAKro
 
 # Courses:
 

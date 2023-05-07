@@ -124,6 +124,8 @@
 - A Look at dyn* Code Generation: https://blog.theincredibleholk.org/blog/2022/12/12/dyn-star-codegen/
 - https://manishearth.github.io/blog/2021/04/05/a-tour-of-safe-tracing-gc-designs-in-rust/
 - How to avoid bounds checks in Rust (without unsafe!): https://shnatsel.medium.com/how-to-avoid-bounds-checks-in-rust-without-unsafe-f65e618b4c1e
+- Nice read on why and where inlining is important in Rust by understanding high level how it works: https://matklad.github.io/2021/07/09/inline-in-rust.html
+- Bringing runtime checks to compile time in Rust: https://ktkaufman03.github.io/blog/2023/04/20/rust-compile-time-checks/
 
 ### Tutorials:
 
@@ -236,6 +238,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - Building a BFT JSON CRDT: https://jzhao.xyz/posts/bft-json-crdt/
 - How I contribute to Rust Compiler: https://rustmagazine.org/issue-1/contribute-to-rustc/
 - Implementing a Lua interpreter in Rust: https://wubingzheng.github.io/build-lua-in-rust/zh/
+- Hypervisor Development in Rust Part 1: https://memn0ps.github.io/hypervisor-development-in-rust-part-1/
 
 ### Language general:
 
@@ -825,6 +828,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - https://fasterthanli.me/articles/the-curse-of-strong-typing
 - Practice Rust with challenging examples, exercises and projects: https://practice.rs/why-exercise.html
 - For developers who already know other languages: nhttps://overexact.com/rust-for-professionals/
+- Becoming Rustacean: Awesome Free Online Resources to Learn Rust Programming Language: https://www.nativebyx.dev/rust/becoming-rustacean/awesome-free-online-resources-to-earn-rust-programming-language.html
 
 ### Videos:
 

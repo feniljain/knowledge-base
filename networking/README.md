@@ -143,6 +143,7 @@
 - The Limitations of the Ethernet CRC and TCP/IP checksums for error detection: http://noahdavids.org/self_published/CRC_and_checksum.html
 - What is TCP Fast Open?: https://www.geeksforgeeks.org/what-is-tcp-fast-open/
 - How NAT Transversal works: https://tailscale.com/blog/how-nat-traversal-works/
+- Why you should use io_uring for network I/O : https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io
 
 ## Books:
 
@@ -217,6 +218,7 @@
 - Bizarre and Unusual Uses of DNS: https://fosdem.org/2023/schedule/event/dns_bizarre_and_unusual_uses_of_dns/
 - Rack-scale Networking: https://www.youtube.com/watch?v=AkWh2Sms3aw
 - Everything You Need to Know About DNS (Domain Name System): https://www.youtube.com/watch?v=27r4Bzuj5NQ
+- DNS is beautiful: https://www.youtube.com/watch?v=tgWx81_NGcg
 
 ## Container Images:
 

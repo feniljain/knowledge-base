@@ -73,6 +73,7 @@
 - The Myers diff algorithm: part 1: https://blog.jcoglan.com/2017/02/12/the-myers-diff-algorithm-part-1/
 - How to use git restore effectively: https://gitbetter.substack.com/p/how-to-use-git-restore-effectively
 - How to work in multiple git branches simultaneously: https://gitbetter.substack.com/p/how-to-work-in-multiple-git-branches
+- Different ways of git reset: https://gitbetter.substack.com/p/different-ways-of-git-reset
 
 ## Tutorials:
 

@@ -220,6 +220,8 @@
 - Content Defined Chunking: https://joshleeb.com/posts/content-defined-chunking.html
 - What a good debugger can do?: https://werat.dev/blog/what-a-good-debugger-can-do/
 - You Should Write Bad Code: https://davidamos.dev/write-bad-code/
+- All about CRDTs: https://crdt.tech
+- The Little Book of Semaphores: https://greenteapress.com/wp/semaphores/
 
 ### Tutorials:
 
@@ -372,6 +374,7 @@
 - Last publicly available revision of the world's first web browser. This is a source import from 0.15 for NextStep: https://github.com/cynthia/WorldWideWeb
 - The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr: https://github.com/mortdeus/legacy-cc
 - Learn Anything: https://github.com/learn-anything
+- Browse web over SMS: https://github.com/lukeaschenbrenner/TxtNet-Browser/blob/master/README.md
 
 ## Extensions:
 

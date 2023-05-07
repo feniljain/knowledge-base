@@ -25,6 +25,7 @@
 - https://ops-class.org/
 - Learn to write an embedded OS in Rust: https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
 - This is the companion code for my series on writing an operating system: https://github.com/o-oconnell/writeyourownos
+- Writing an OS in Go: The Bootloader: https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader
 
 ### Others:
 
@@ -55,6 +56,7 @@
 - The faker's guide to reading (x86) assembly language: https://www.timdbg.com/posts/fakers-guide-to-assembly/
 - What Happens When A CPU Starts: https://lateblt.tripod.com/bit68.txt
 - Writing an OS in Rust to run on RISC-V: https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb
+- macOS Internals: https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f
 
 ## Blog series/Articles collections:
 
@@ -68,6 +70,7 @@
 - Operating system and container binary deployment and upgrades: https://github.com/ostreedev/ostree
 - A virtual operating system that runs multi-players applications on the web: https://github.com/ButlerOS/haskell-butler
 - Tiny C++ boot loader: https://github.com/AgentD/hausboot
+- x86 hobby OS written in Rust: https://github.com/mrgian/felix
 
 ## Reddit and twitter threads:
 
@@ -108,3 +111,4 @@
 ## Repos:
 
 - A little bit about a linux kernel : https://github.com/0xAX/linux-insides
+- A new operating system kernel with Linux binary compatibility written in Rust: https://github.com/nuta/kerla

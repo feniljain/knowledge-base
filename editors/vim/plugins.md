@@ -184,6 +184,8 @@
 - https://github.com/jose-elias-alvarez/typescript.nvim
 - Watch environment variables with telescope: https://github.com/LinArcX/telescope-env.nvim
 - A Telescope integration of Conventional Commits: https://github.com/olacin/telescope-cc.nvim
+- https://github.com/Fildo7525/pretty_hover
+- https://github.com/nanozuki/tabby.nvim
 
 ## Some plugins/things I wanna checkout:
 
@@ -221,6 +223,7 @@
 - https://github.com/tpope/vim-sleuth
 - https://github.com/lewis6991/gitsigns.nvim
 - https://github.com/moll/vim-bbye
+- Neovim plugin that simplifies macros, enhancing productivity with harmony: https://github.com/ecthelionvi/NeoComposer.nvim
 
 ## Things to try out in next release:
 
@@ -233,3 +236,4 @@
 - Switching Neovim configs, is easier than ever now!: https://www.reddit.com/r/neovim/comments/113z6bb/switching_neovim_configs_is_easier_than_ever_now/
 - Try git jump in this: https://github.blog/2023-03-13-highlights-from-git-2-40/
 - Things to check in 0.9: https://github.com/dhruvinsh/nvim/issues/11
+- Check this doesn't become a problem in 0.9.0: https://www.reddit.com/r/neovim/comments/12gvms4/this_is_why_your_higlights_look_different_in_90/

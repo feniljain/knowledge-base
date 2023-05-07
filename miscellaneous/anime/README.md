@@ -38,6 +38,7 @@
 - Balance Unlimited
 - Re:Creators
 - Mieruko-chan: Horror
+- Heavenly Delusion
 
 ## Mecha and Space:
 
@@ -125,7 +126,6 @@
 - Kyoukai ni kanata
 - Bofuri S2
 - Yaa boy kong ming
-- call of the night
 
 ## Comedy:
 
@@ -367,6 +367,10 @@
 - A list: https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_downloading
 - https://animension.to/
 - https://www.wcofun.net/
+
+## Download websites:
+
+- https://anidl.org/
 
 ## General Websites:
 

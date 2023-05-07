@@ -22,6 +22,9 @@
 - How do Nix buils work: https://jvns.ca/blog/2023/03/03/how-do-nix-builds-work-/
 - Building a rust service with nix: https://fasterthanli.me/series/building-a-rust-service-with-nix/part-1
 - Quick VMs with NixOS: https://galowicz.de/2023/03/13/quick-vms-with-nixos/
+- Using Nix with Dockerfiles: https://mitchellh.com/writing/nix-with-dockerfiles
+- Learning Nix from the bottom up: https://fasterthanli.me/series/building-a-rust-service-with-nix/part-9
+- Making a dev shell with nix flakes: https://fasterthanli.me/series/building-a-rust-service-with-nix/part-10
 
 ## Repos:
 
@@ -32,6 +35,7 @@
 - A fast, persistent use_nix/use_flake implementation for direnv: https://github.com/nix-community/nix-direnv
 - NixOps is a tool for deploying to NixOS machines in a network or cloud: https://github.com/NixOS/nixops
 - Rust toolchains and rust-analyzer nightly for Nix: https://github.com/nix-community/fenix
+- A ranger-like flake.lock viewer: https://github.com/nix-community/nix-melt
 
 ## Configs for reference:
 

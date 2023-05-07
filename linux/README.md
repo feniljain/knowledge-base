@@ -72,6 +72,7 @@
 - The Comprehensive List of Window Managers for Unix: https://www.gilesorr.com/wm/table.html
 - https://medium.com/@Prinux/curl-command-explained-c1ecbed117d
 - What's the Most Portable Way to Include Binary Blobs in an Executable?: https://tratt.net/laurie/blog/2022/whats_the_most_portable_way_to_include_binary_blobs_in_an_executable.html
+- Unix Koans: https://prirai.github.io/books/unix-koans.html
 
 ### Linux working:
 
@@ -359,3 +360,5 @@
 
 - Zero-copy network transmission with io_uring: https://lwn.net/Articles/879724/
 - Rust io_uring examples: https://github.com/espoal/uring_examples
+- https://despairlabs.com/blog/posts/2021-06-16-io-uring-is-not-an-event-system/
+- https://www.sobyte.net/post/2022-04/io-uring/

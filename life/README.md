@@ -402,6 +402,10 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - Life shrinks or expands in proportion with one’s courage. - Anaïs Nin
 - If you're going through hell, keep going. - Winston Churchill
 - Be the one who decided to go for it.
+- Wherever you go, go with all your heart. - Confucius
+- Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence. - Helen Keller
+- You can, you should, and if you’re brave enough to start, you will. - Stephen King
+- The thing that is really hard, and really amazing, is giving up on being perfect and beginning the work of becoming yourself. - Anna Quindlen
 
 ## Books:
 

@@ -41,6 +41,7 @@
 - Formally Verified Native Code Generation in an Effectful JIT or: Turning the CompCert Backend into a Formally Verified JIT Compiler: https://people.irisa.fr/Aurele.Barriere/papers/fmjit.pdf
 - https://apaz-cli.github.io/blog/How_to_Write_a_Compiler_Without_Going_Insane.html
 - Small little recursive descent parser + pratt parsing: https://gist.github.com/elucent/473dcacba79371ec647d43e7c58babbd
+- How compiler actually produces dynamic libraries/static libraries, ELFs, etc. Something away from typical compiler stuff which should help everyone understand compiler/linker errors around common scenarios: https://fabiensanglard.net/dc/
 
 ### Others:
 
@@ -156,6 +157,7 @@
 - Type Inference based on Hindley-Milner ( HM from implementation perspective ): https://veera.app/type_inference.html
 - Top Down LR Parsing: https://pavpanchekha.com/blog/top-down-lr.html
 - Valiant's Parser: https://rahul.gopinath.org/post/2023/03/16/valiant-parser/
+- A collection of PL Resources: https://bernsteinbear.com/pl-resources/
 
 ## Blog series/Articles collection:
 
@@ -214,6 +216,8 @@
 - Distributed compiler with a central scheduler to share build load: https://github.com/icecc/icecream
 - Compiler optimizer for arbitrary control flow based on equality saturation: https://github.com/jameysharp/optir
 - A massively parallel, optimal functional runtime in Rust: https://github.com/Kindelia/HVM
+- Create ridiculously fast Lexers: https://github.com/maciejhirsz/logos
+- A Compiler writing journey: https://github.com/DoctorWkt/acwj/
 
 ## Grammars:
 
@@ -236,6 +240,7 @@
 - Ownership SSA: https://www.youtube.com/watch?v=qy3iZPHZ88o
 - What is bytecode?: https://www.youtube.com/watch?v=mgRXdgPcYc0
 - Challenges In Analyzing and Optimizing Parallel Programs: https://www.youtube.com/watch?v=UdxZ8YqJlBE
+- Making a Compiler for fun, from scratch: https://www.youtube.com/playlist?list=PLysa8wRFCssxGKj_RxBWr3rwmjEYlJIpa
 
 ## Videos collection:
 

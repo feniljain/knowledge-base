@@ -36,6 +36,7 @@
 - https://www.infoq.com/news/2021/11/linux-dns-vulnerability/
 - https://www.ired.team/offensive-security/code-injection-process-injection/binary-exploitation/rop-chaining-return-oriented-programming
 - Exploit Development: No Code Execution? No Problem! Living The Age of VBS, HVCI, and Kernel CFG: https://connormcgarr.github.io/hvci/
+ - https://heap-exploitation.dhavalkapil.com/
 
 ## Blog/Article Collection:
 

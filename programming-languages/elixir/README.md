@@ -39,6 +39,7 @@
 - Khepri is a tree-like replicated on-disk database library for Erlang and Elixir: https://github.com/rabbitmq/khepri
 - A Distributed Lock Service, Set up in Minutes: https://github.com/Spacewalkio/Gorilla
 - A linter with autocorrection and a refactoring tool: https://github.com/hrzndhrn/recode
+- An Introduction to mocking tools for elixir: https://blog.appsignal.com/2023/04/11/an-introduction-to-mocking-tools-for-elixir.html
 
 ## Videos:
 

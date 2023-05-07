@@ -88,6 +88,7 @@
 - A toolkit for building secure, portable and lean operating systems for containers: https://github.com/linuxkit/linuxkit
 - https://github.com/sickcodes/Docker-OSX
 - Various Docker Compose examples of selfhosted FOSS and proprietary projects: https://github.com/Haxxnet/Compose-Examples
+- a fully open source, minimal-footprint, secure by default and always up-to-date Linux distribution for running containers at scale: https://github.com/flatcar/
 
 ## Learning
 

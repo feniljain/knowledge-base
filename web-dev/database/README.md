@@ -109,6 +109,9 @@
 - psql Tips: https://psql-tips.org/psql_tips_all.html
 - SimpleDB: A Basic RDBMS Built From Scratch: https://www.awelm.com/posts/simple-db/
 - Building a Simple DB in Rust - Part 1 - Parsing: https://johns.codes/blog/build-a-db/part01
+- The Inner Workings of Distributed Databases: https://questdb.io/blog/inner-workings-distributed-databases/
+- Build Your Own Database From Scratch: https://build-your-own.org/database/
+- Nine ways to shoot yourself in the foot with PostgreSQL: https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql
 
 ## Blog Series:
 
@@ -179,6 +182,7 @@
 
 - https://github.com/xo/usql
 - A random SQL query generator: https://github.com/anse1/sqlsmith
+- SQL Query AST and Visitor for Rust: https://github.com/prisma/quaint
 
 ## Reddit threads and tweets:
 
