@@ -6,6 +6,7 @@
 
 - Parser Combinators in Elixir: https://blog.appsignal.com/2022/10/18/parser-combinators-in-elixir-taming-semi-structured-text.html
 - Debugging in Elixir and Erlang: An Introduction: https://blog.appsignal.com/2022/11/29/debugging-in-elixir-and-erlang-an-introduction.html
+- Simulating Conway's Game of Life with 100.000 Erlang Processes: https://www.peterullrich.com/simulating-game-of-life-with-100000-erlang-processes
 
 ### Others:
 
@@ -56,6 +57,7 @@
 - https://elixircasts.io/
 - https://exercism.org/tracks/elixir
 - https://joyofelixir.com/
+- ElixirBridge is an all-volunteer organization that provides resources and teaches free programming workshops in the Elixir: https://elixirbridge.org/docs/
 
 ### Blogs and articles:
 

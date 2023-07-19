@@ -86,6 +86,8 @@
 - DWARF-based Stack Walking Using eBPF: https://www.polarsignals.com/blog/posts/2022/11/29/profiling-without-frame-pointers/
 - K8s - Binding IPv4 services externally as IPv6: https://www.loxilb.io/post/k8s-exposing-ipv4-services-externally-as-ipv6
 - Writing an eBPF Application using libbpf: https://blog.qsliu.dev/posts/writing_an_ebpf_application/
+- Learning eBPF: Setting up the environment: https://rnemet.dev/posts/ebpf/learn-ebpf/
+- eBPFmon: A new tool for exploring and interacting with eBPF applications: https://redcanary.com/blog/ebpfmon/
 
 ### Tutorials:
 
@@ -96,6 +98,7 @@
 - Building an eBPF based profiler for both compiled and interpreted languages: https://www.containiq.com/post/building-an-ebpf-based-profiler
 - Writing an eBPF/XDP load-balancer in Rust: https://konghq.com/blog/writing-an-ebpf-xdp-load-balancer-in-rust
 - Intro to Kernel and Userspace Tracing Using BCC: https://blogs.oracle.com/linux/post/intro-to-bcc-1
+- Building an XDP eBPF Program with C and Golang: A Step-by-Step Guide: https://www.petermcconnell.com/posts/writing-an-xdp-ebpf-program/
 
 ## Dev:
 
@@ -180,6 +183,8 @@
 - eBPF-powered L4 package dropper: https://github.com/boratanrikulu/durdur
 - eBPF-based stack trace tool: https://github-com.translate.goog/SeeFlowerX/stackplz
 - A Linux lightweight and high-performance transparent proxy solution based on eBPF: https://github.com/v2rayA/dae
+- eBPF explorer lets you see all the maps and programs in eBPF subsystem: https://github.com/ebpfdev/explorer
+- eBPF verifier log viewer: https://github.com/ph1048/ebpfdbg
 
 ## Reddit and twitter threads:
 

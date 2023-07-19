@@ -222,17 +222,20 @@
 - You Should Write Bad Code: https://davidamos.dev/write-bad-code/
 - All about CRDTs: https://crdt.tech
 - The Little Book of Semaphores: https://greenteapress.com/wp/semaphores/
+- Teach yourself Computer Science functionally: https://functionalcs.github.io/curriculum/
+- Notes on FFTs: for implementers: https://fgiesen.wordpress.com/2023/03/19/notes-on-ffts-for-implementers/
 
 ### Tutorials:
 
 - https://kean.blog/post/lets-build-regex
 
-## Blog Series:
+## Blog Series/Articles collection:
 
 - Damn good articles on general programming stuff: https://journal.stuffwithstuff.com/category/code/
 - https://www.samjulien.com/writing
 - https://www.huy.rocks/everyday
 - https://vikramoberoi.com/
+- Nice collection of blogs: https://xeiaso.net/
 
 ## Newsletters;
 

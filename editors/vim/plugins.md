@@ -74,6 +74,7 @@
 - Live Server for hot reloading html/css, etc. for vim/neovim: https://github.com/manzeloth/live-server
 - Vim plugin that displays tags in a window, ordered by scope: https://github.com/preservim/tagbar
 - https://github.com/tpope/vim-rhubarb
+- https://github.com/AndrewRadev/splitjoin.vim
 
 ## Lua/Nvim 0.5+ Exclusive plugins(Can be 0.7+ too):
 
@@ -186,6 +187,7 @@
 - A Telescope integration of Conventional Commits: https://github.com/olacin/telescope-cc.nvim
 - https://github.com/Fildo7525/pretty_hover
 - https://github.com/nanozuki/tabby.nvim
+- https://github.com/luukvbaal/statuscol.nvim
 
 ## Some plugins/things I wanna checkout:
 
@@ -224,16 +226,9 @@
 - https://github.com/lewis6991/gitsigns.nvim
 - https://github.com/moll/vim-bbye
 - Neovim plugin that simplifies macros, enhancing productivity with harmony: https://github.com/ecthelionvi/NeoComposer.nvim
+- https://www.reddit.com/r/neovim/comments/14fdyjk/typescripttoolsnvim_the_typescript_integration/
 
 ## Things to try out in next release:
 
-- Enable editorconfig in neovim 0.9 and remove it's plugin: https://twitter.com/Neovim/status/1610676006947360775
-- Once you shift to 0.9, play with vim-asterisk, as it's by default in core now, source: https://www.reddit.com/r/neovim/comments/101omgs/comment/j2p62tq/
-- https://github.com/neovim/neovim/pull/14537: https://www.reddit.com/r/neovim/comments/ym6x7y/enable_new_diff_option_linematch_14537/
-- Find a plugin which will do this automatically: https://www.reddit.com/r/neovim/comments/107ms1s/the_new_signcolumn_merge_allows_us_to_set_a/
-    - Something like this: https://github.com/luukvbaal/statuscol.nvim
-- Also check this thread for interesting features AstroNvim picks up: https://github.com/AstroNvim/AstroNvim/issues/1489
-- Switching Neovim configs, is easier than ever now!: https://www.reddit.com/r/neovim/comments/113z6bb/switching_neovim_configs_is_easier_than_ever_now/
-- Try git jump in this: https://github.blog/2023-03-13-highlights-from-git-2-40/
-- Things to check in 0.9: https://github.com/dhruvinsh/nvim/issues/11
-- Check this doesn't become a problem in 0.9.0: https://www.reddit.com/r/neovim/comments/12gvms4/this_is_why_your_higlights_look_different_in_90/
+- Move away from null-ls: https://github.com/jose-elias-alvarez/null-ls.nvim/issues/1621
+- Move to using lazy.nvim for loading plugins: https://github.com/folke/lazy.nvim

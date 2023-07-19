@@ -2,8 +2,6 @@
 
 ## Action and Thriller:
 
-- Shiki: Horror
-- Mahou Shoujo Madoka★Magica: Thriller
 - Gyakkyou Burai Kaiji: Ultimate Survivor: Thriller
 - Gankutsuou: The Count of Monte Cristo: Thriller
 - When They Cry: Thriller
@@ -39,6 +37,8 @@
 - Re:Creators
 - Mieruko-chan: Horror
 - Heavenly Delusion
+- Golden Kamuy
+- Rurouni kenshin ( new adaptation )
 
 ## Mecha and Space:
 
@@ -55,7 +55,6 @@
 ## Shounen:
 
 - Seven Deadly Sins
-- Beyond the boundary
 - YuYu Hakusho
 
 ## Fiction & Mystery & Psychological:
@@ -81,7 +80,6 @@
 - Id Invaded
 - Black bullet
 - Angels of Death
-- Summer Time Rendering
 - Tomodachi Game
 - Happy Sugar Life
 - Babylon
@@ -117,6 +115,7 @@
 - Toilet-bound Hanako-kun
 - ID: Invaded
 - Mushishi
+- Beastars
 
 ## Adventure and Magic(supernatural):
 
@@ -129,7 +128,6 @@
 
 ## Comedy:
 
-- The Disastrous Life of Saiki K.
 - Daily lives of Highschool boys
 - Shimoneta
 - Shakamoto desu ga
@@ -156,6 +154,8 @@
 - Gakuen babysitters
 - Amagami SS
 - Nichijou
+- Space Dandy
+- Rankings of Kings
 
 ## Sad & Romance & SOL:
 
@@ -222,11 +222,16 @@
 - Higehiro: after being rejected, I shaved and took in a highschool runaway
 - Ballroom e Youkoso(Welcome to the ballroom)
 - One Week Friends
-- Call of the night
 - Rent a Girlfriend
 - Beastars
 - Syp X Family
 - Bocchi The Rock
+- Masamune-Kuns Revenge
+- My Happy Marriage
+- Oshi no ko
+- Kaguya sama season 3
+- Skip and Loafer
+- Insomnia After School
 
 ## Sports:
 
@@ -239,7 +244,6 @@
 - sk8 the infinity
 - Blue Lock ( recommendation from here: https://www.youtube.com/watch?v=NH4DwFLlbHU )
 - Ping Pong the Animation
-- Megalox Box
 
 ## Isekai:
 
@@ -253,6 +257,8 @@
 - Run with the wind
 - The day I became a god
 - Natsume Yuujinchou
+- Blue Period
+- Oshi no ko
 
 ## Ecchi:
 
@@ -495,7 +501,7 @@
 - Blue Exorcist
 - Black Lagoon
 - Black Lagoon The Second Barrage
-- Madoka Magic
+- Mahou Shoujo Madoka★Magica: Thriller
 - Moriarty The Patriot
 - Moriarty The Patriot Season 2
 - Ghost Slayers Ayasaki
@@ -519,6 +525,12 @@
 - Deadman wonderland
 - Cyberpunk: Edgerunners
 - Mob Psycho 100 III
+- Beyond the boundary
+- The Disastrous Life of Saiki K.
+- Shiki
+- Mobile Suit Gundam 1979
+- Flowers of evil
+- Megalox Box
 
 ## Caught up Mangas:
 

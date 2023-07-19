@@ -107,6 +107,7 @@
 - https://pragprog.com/titles/sbsockets/real-time-phoenix/
 - https://sadia-mehmood.medium.com/elixir-for-software-development-a-fair-choice-2e60b40581f1
 - Elixir cheatsheet: https://devhints.io/elixir
+- https://learnyousomeerlang.com/content
 
 ### General:
 
@@ -288,3 +289,5 @@
 - Operator Glossary: https://www.fpcomplete.com/haskell/tutorial/operators/
 - https://github.com/tweag/awesome-learning-haskell
 - Haskell Learning Resource: https://twitter.com/haskellhutt/status/1641440088881242115
+- https://learnyouahaskell.github.io/
+- https://haskellbook.com/

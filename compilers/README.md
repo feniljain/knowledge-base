@@ -42,6 +42,7 @@
 - https://apaz-cli.github.io/blog/How_to_Write_a_Compiler_Without_Going_Insane.html
 - Small little recursive descent parser + pratt parsing: https://gist.github.com/elucent/473dcacba79371ec647d43e7c58babbd
 - How compiler actually produces dynamic libraries/static libraries, ELFs, etc. Something away from typical compiler stuff which should help everyone understand compiler/linker errors around common scenarios: https://fabiensanglard.net/dc/
+- Nice list of resources on learning more about modern compilers: https://lobste.rs/s/zqa4cc/learning_modern_compilers
 
 ### Others:
 
@@ -158,6 +159,9 @@
 - Top Down LR Parsing: https://pavpanchekha.com/blog/top-down-lr.html
 - Valiant's Parser: https://rahul.gopinath.org/post/2023/03/16/valiant-parser/
 - A collection of PL Resources: https://bernsteinbear.com/pl-resources/
+- Constructing human grade parsers, how to handle errors nicely in parsers: https://duriansoftware.com/joe/constructing-human-grade-parsers
+- Resilient LL Parsing Tutorial: https://matklad.github.io/2023/05/21/resilient-ll-parsing-tutorial.html
+- Writing a linux debugger: https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/
 
 ## Blog series/Articles collection:
 
@@ -241,6 +245,7 @@
 - What is bytecode?: https://www.youtube.com/watch?v=mgRXdgPcYc0
 - Challenges In Analyzing and Optimizing Parallel Programs: https://www.youtube.com/watch?v=UdxZ8YqJlBE
 - Making a Compiler for fun, from scratch: https://www.youtube.com/playlist?list=PLysa8wRFCssxGKj_RxBWr3rwmjEYlJIpa
+- Programming Language with LLVM: https://www.youtube.com/watch?v=Lvc8qx8ukOI
 
 ## Videos collection:
 
@@ -252,6 +257,7 @@
 - Awesome course: https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/
 - https://suif.stanford.edu/dragonbook/
 - https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020/
+- https://iucompilercourse.github.io/tutorial-web-page/
 - Compiler Design (Theory) course with video lectures?: https://www.reddit.com/r/Compilers/comments/10dpnky/compiler_design_theory_course_with_video_lectures/
 
 ## Books:
@@ -268,6 +274,8 @@
 - Writing Interpreters in Rust: a Guide: https://rust-hosted-langs.github.io/book/introduction.html
 - Understanding and Writing Compilers: A do-it-yourself guide: https://www.amazon.com/Understanding-Writing-Compilers-do-yourself/dp/0333217322
 - Static Program Analysis: https://cs.au.dk/~amoeller/spa/
+- https://shop.elsevier.com/books/engineering-a-compiler/cooper/978-0-12-088478-0
+- A book about compiling Racket and Python to x86-64 assembly: https://github.com/IUCompilerCourse/Essentials-of-Compilation
 
 ## Interesting rust-analyzer issues:
 

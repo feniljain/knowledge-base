@@ -6,6 +6,7 @@
 - https://gabrieltanner.org/
 - https://dayssincelastjavascriptframework.com/
 - http://callbackhell.com/
+- Progressively enhance HTML with lightweight JavaScript libraries: https://unsuckjs.com/
 
 ## Blogs and Articles:
 
@@ -61,6 +62,8 @@
 - The gotcha of unhandled promise rejections: https://jakearchibald.com/2023/unhandled-rejections/
 - Roll your own javascript runtime: https://deno.com/blog/roll-your-own-javascript-runtime
 - Experiments with the JavaScript Garbage Collector: https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3
+- ES modules: A cartoon deep-dive: https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
+- An introduction to debugging in NodeJS: https://blog.openreplay.com/an-introduction-to-debugging-in-nodejs/
 
 ### Tutorials:
 
@@ -117,6 +120,10 @@
 - https://www.useinterface.dev/
 - https://www.totaltypescript.com/
 - The first isomorphic type system for TS/JS: https://arktype.io/
+
+## Books:
+
+- A Concise Guide to Effective Development in TypeScript: https://github.com/gibbok/typescript-book
 
 ## Learning:
 

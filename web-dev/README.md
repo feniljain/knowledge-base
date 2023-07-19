@@ -49,6 +49,7 @@
 - https://kerkour.com/http-security-headers
 - No really, why can't we have raw UDP in JavaScript?: https://www.computerenhance.com/p/no-really-why-cant-we-have-raw-udp
 - History of Web Browser Engines from 1990 until today: https://eylenburg.github.io/browser_engines.htm
+- Sharing Websocket connections between browses tabs and windows: https://brightinventions.pl/blog/sharing-websocket-connections-between-browser-tabs-and-windows/
 
 ## Blog series/Articles collection:
 

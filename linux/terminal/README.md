@@ -146,3 +146,4 @@
 - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell: https://github.com/leo-arch/clifm
 - https://github.com/wez/wezterm ( Pretty famous in discussion here: https://www.reddit.com/r/neovim/comments/wmr9bs/what_terminal_emulator_do_you_use/?sort=top)
 - A TUI playground to experiment with jq: https://github.com/noahgorstein/jqp
+- Write terminal GIFs as code for integration testing and demoing your CLI tools: https://github.com/charmbracelet/vhs

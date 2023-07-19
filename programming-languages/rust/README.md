@@ -324,6 +324,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - Nice read, Rust concepts I wish I learned earlier: https://rauljordan.com/rust-concepts-i-wish-i-learned-earlier/
 - Problems with shared mutable state and different solutions to avoid them (this one uses GUIs as case study): https://samsartor.com/guis-3/
 - A cheatsheet for some potentially confusing terms in Rust: https://ferrous-systems.com/blog/cheatsheet-for-confusing-rust-terms/
+- Rust to Assembly: Understanding the Inner Workings of Rust: https://eventhelix.com/rust/
 
 ### Others:
 

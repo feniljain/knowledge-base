@@ -128,6 +128,7 @@
 - https://github.com/googleforgames/agones
 - Use Kubernetes to make a home router!: https://github.com/routernetes/routernetes
 - Go microservice template for Kubernetes: https://github.com/stefanprodan/podinfo
+- Connect your local process and your cloud environment, and run local code in cloud conditions: https://github.com/metalbear-co/mirrord/
 
 ## Tools:
 

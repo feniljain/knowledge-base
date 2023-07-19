@@ -5,6 +5,7 @@
 - https://search.nixos.org/packages
 - https://nixos.wiki/
 - An opinionated guide for developers getting things done using the Nix ecosystem: https://nix.dev/
+- Nix Ecosystem Mindmap: https://coggle.it/diagram/Y9k9VVmUw-1okyFh/t/nix
 
 ## Blogs and articles:
 

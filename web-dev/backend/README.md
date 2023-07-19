@@ -124,6 +124,7 @@
 - Tor's Connection Establishment: https://twitter.com/hnasr/status/1398666446146785289
 - https://www.reddit.com/r/node/comments/os16lo/what_do_recruiters_expect_from_junior_backend/
 - How Apache Zookeeper works: https://twitter.com/Franc0Fernand0/status/1593984418015748096
+- Nice list of articles about different aspects of Kafka: https://twitter.com/antonmry/status/1663945914254520320
 
 ## Repos:
 

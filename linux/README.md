@@ -128,6 +128,7 @@
 ### Tutorials:
 
 - Writing a toy traceroute from scratch: https://alexanderell.is/posts/toy-traceroute/
+- Shrinking a Shared Library: https://serge-sans-paille.github.io/pythran-stories/shrinking-a-shared-library.html
 
 ### Others:
 
@@ -164,6 +165,7 @@
 - The Mirage Of Memory: https://dev.to/yugabyte/the-mirage-of-memory-3366
 - Interview Questions: Why can’t you create a file?: https://medium.com/geekculture/interview-questions-why-cant-you-create-a-file-e08f3486a92a
 - Firecracker internals: a deep dive inside the technology powering AWS Lambda: https://www.talhoffman.com/2021/07/18/firecracker-internals/
+- A gentle introduction to XDP: https://www.datadoghq.com/blog/xdp-intro/
 
 ## Blog series:
 
@@ -362,3 +364,4 @@
 - Rust io_uring examples: https://github.com/espoal/uring_examples
 - https://despairlabs.com/blog/posts/2021-06-16-io-uring-is-not-an-event-system/
 - https://www.sobyte.net/post/2022-04/io-uring/
+- Lord of the io_uring: io_uring tutorial, examples and reference: https://github.com/shuveb/loti

@@ -61,8 +61,6 @@
 - Unification: https://eli.thegreenplace.net/2018/unification/
 - Don't write a programming language: https://blog.dhsdevelopments.com/dont-write-a-programming-language
 - Features of a dream programming language: 2nd draft(Good collection of resources): https://dev.to/redbar0n/features-of-a-dream-programming-language-2nd-draft-p7j
-- How to implement dependent types in 80 lines of code: https://gist.github.com/Hirrolot/27e6b02a051df333811a23b97c375196
-- How to implement type theory in an hour: https://math.andrej.com/2018/08/25/how-to-implement-type-theory-in-an-hour/
 - Syntax for different stuff across languages: http://rigaux.org/language-study/syntax-across-languages.html
 
 ### Tutorials:
@@ -71,6 +69,11 @@
 - Creating the Bolt Compiler: https://mukulrathi.com/create-your-own-programming-language/intro-to-compiler/
 - Reconstructing Typescript: https://jaked.org/blog/2021-09-07-Reconstructing-TypeScript-part-0
 - Emulating the Lambda Calculus in TypeScript's Type System: https://ayazhafiz.com/articles/21/typescript-type-system-lambda-calculus
+  https://math.andrej.com/2012/11/08/how-to-implement-dependent-type-theory-i/
+- How to implement dependent types in 80 lines of code: https://gist.github.com/Hirrolot/27e6b02a051df333811a23b97c375196
+- How to implement type theory in an hour: https://math.andrej.com/2018/08/25/how-to-implement-type-theory-in-an-hour/
+-  How To Create Your Own Programming Language ( a complete series ): https://dev.to/jasonsbarr/how-to-create-your-own-programming-language-2642
+- The path to implementing a programming language: https://rainingcomputers.blog/dist/the_path_to_implementing_a_programming_language.md
 
 # Blog Series and Article collections:
 
@@ -78,6 +81,7 @@
 - Really good blog posts: https://ayazhafiz.com/
 - EK9 Language Development Blog: https://blog.ek9.io/
 - Blog posts on programming language design: https://blog.willbanders.dev/
+- https://gilmi.me/
 
 # Lesser known langs but useful from design perspective:
 

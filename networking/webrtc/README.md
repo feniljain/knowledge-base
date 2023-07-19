@@ -23,6 +23,7 @@
 - https://webrtcwork.com/
 - https://peerjs.com/
 - https://www.npmjs.com/package/simple-peer
+- WebRTC SFU sora: https://sora-doc.shiguredo.jp/
 
 ## GoogleGroups:
 
@@ -151,6 +152,9 @@
 - GetUserMedia Constraints explained: https://www.webrtc-developers.com/getusermedia-constraints-explained/
 - WebRTC header extensions review: http://www.rtcbits.com/2023/05/webrtc-header-extensions.html
 - Zoom avoids using webrtc: https://webrtchacks.com/zoom-avoids-using-webrtc/
+- TWCC — Server-Side Implementation of Adaptive WebRTC Protocol for Large Scale Simulcast Projects: https://flussonic.com/blog/news/transport-cc/
+- WebRTC media resilience: the role FEC, RED, PLC, RTX and other acronyms play: https://bloggeek.me/webrtc-media-resilience/
+- Debugging WebRTC in the browsers: https://www.webrtc-developers.com/debugging-webrtc-in-the-browsers/
 
 ### Tutorials:
 
@@ -218,6 +222,14 @@ Social audio applications with Janus: https://www.meetecho.com/blog/social-audio
 - Easy-to-use wrapper for WebRTC DataChannels peer-to-peer connections written in Rust and compiling to WASM: https://github.com/wasm-peers/wasm-peers
 - Painless peer-to-peer WebRTC networking for rust wasm: https://github.com/johanhelsing/matchbox
 - Just enough hacks to get unreliable unordered WebRTC data channels between a browser and a server: https://github.com/triplehex/webrtc-unreliable
+- We build WebRTC for various environments and provide the binaries: https://github.com/shiguredo-webrtc-build/webrtc-build
+- A cross-platform WebRTC SDK: https://github.com/metartc/metaRTC
+- WebRTC Library for IoT/Embedded Device using C: https://github.com/sepfy/pear
+- https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c
+- WebRTC and ORTC with a little bit of RAWR: https://github.com/rawrtc/rawrtc
+- A WebRTC, SIP and VoIP library for C# and .NET. Designed for real-time communications apps: https://github.com/sipsorcery-org/sipsorcery
+- WebRTC Implementation for TypeScript (Node.js), includes ICE/DTLS/SCTP/RTP/SRTP/WEBM: https://github.com/shinyoshiaki/werift-webrtc
+- WebRTC and ORTC implementation for Python using asyncio: https://github.com/aiortc/aiortc
 
 ## Useful SO questions:
 

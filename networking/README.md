@@ -17,6 +17,7 @@
 - Useful utilities and services over DNS: https://www.dns.toys/
 - http://ipv4.games/
 - https://isbgpsafeyet.com/
+- https://bgp.tools/
 
 ## Diagrams:
 
@@ -144,6 +145,9 @@
 - What is TCP Fast Open?: https://www.geeksforgeeks.org/what-is-tcp-fast-open/
 - How NAT Transversal works: https://tailscale.com/blog/how-nat-traversal-works/
 - Why you should use io_uring for network I/O : https://developers.redhat.com/articles/2023/04/12/why-you-should-use-iouring-network-io
+- Linux Networking Shallow Dive: WireGuard, Routing, TCP/IP and NAT: https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html
+- I may be the only evil (bit) user on the internet: https://blog.benjojo.co.uk/post/evil-bit-RFC3514-real-world-usage
+- The Difference Between Root Certificate Authorities, Intermediates, and Resellers: https://www.agwa.name/blog/post/roots_intermediates_and_resellers
 
 ## Books:
 
@@ -223,6 +227,10 @@
 ## Container Images:
 
 - https://hub.docker.com/r/devsisters/quic-reverse-proxy/
+
+## Discussion groups:
+
+- https://groups.google.com/g/comp.protocols.tcp-ip
 
 ## Research papers:
 

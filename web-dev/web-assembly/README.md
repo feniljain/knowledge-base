@@ -75,3 +75,4 @@
 - A succinct, expressive and efficient programming language for WebAssembly: https://github.com/ligangwang/m
 - A list of webassemby runtimes: https://github.com/appcypher/awesome-wasm-runtime
 - Creative coding and other mischief in handwritten WebAssembly, using the WebAssembly .wat text format: https://github.com/austintheriot/hand-crafted-wasm
+- Zero dependency webassembly runtime of go developers: https://wazero.io/

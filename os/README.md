@@ -1,4 +1,4 @@
-<h2 align="center">OS</h2>
+h2 align="center">OS</h2>
 
 ## Websites:
 
@@ -10,6 +10,7 @@
 - https://www.osdev.org/
 - http://www.lowlevel.eu/
 - Real Time Operation System: https://www.rtems.org/
+- RISC-V Assembly Programming: https://riscv-programming.org/
 
 ## Blog and articles:
 
@@ -26,6 +27,7 @@
 - Learn to write an embedded OS in Rust: https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials
 - This is the companion code for my series on writing an operating system: https://github.com/o-oconnell/writeyourownos
 - Writing an OS in Go: The Bootloader: https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader
+- The Adventures of OS: Making a RISC-V Operating System using Rust: https://osblog.stephenmarz.com/
 
 ### Others:
 
@@ -57,6 +59,8 @@
 - What Happens When A CPU Starts: https://lateblt.tripod.com/bit68.txt
 - Writing an OS in Rust to run on RISC-V: https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb
 - macOS Internals: https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f
+- Assemblers: https://maskray.me/blog/2023-05-08-assemblers
+- αcτµαlly pδrταblε εxεcµταblε: https://justine.lol/ape.html
 
 ## Blog series/Articles collections:
 
@@ -71,6 +75,7 @@
 - A virtual operating system that runs multi-players applications on the web: https://github.com/ButlerOS/haskell-butler
 - Tiny C++ boot loader: https://github.com/AgentD/hausboot
 - x86 hobby OS written in Rust: https://github.com/mrgian/felix
+- build-once run-anywhere c library, it reconfigures stock GCC and Clang to output a POSIX-approved polyglot format that runs natively on all platforms: https://github.com/jart/cosmopolitan
 
 ## Reddit and twitter threads:
 

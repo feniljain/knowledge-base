@@ -406,6 +406,14 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - Optimism is the faith that leads to achievement. Nothing can be done without hope and confidence. - Helen Keller
 - You can, you should, and if you’re brave enough to start, you will. - Stephen King
 - The thing that is really hard, and really amazing, is giving up on being perfect and beginning the work of becoming yourself. - Anna Quindlen
+- Always do your best. What you plant now, you will harvest later. - Og Mandino
+- Either you run the day or the day runs you. - Jim Rohn
+- A day without laughter is a day wasted. - Charlie Chaplin
+- It takes courage to grow up and become who you really are. - E. E. Cummings
+- You cannot start the next chapter of your life if you keep re-reading the last one. - Michael McMillan
+- The best way out is always through. - Robert Frost
+- Soon is not as good as now - Seth Godin
+- We first make our habits, and then our habits make us. - John Dryden
 
 ## Books:
 

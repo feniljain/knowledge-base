@@ -112,6 +112,8 @@
 - The Inner Workings of Distributed Databases: https://questdb.io/blog/inner-workings-distributed-databases/
 - Build Your Own Database From Scratch: https://build-your-own.org/database/
 - Nine ways to shoot yourself in the foot with PostgreSQL: https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql
+- Sharding Postgres at notion: https://www.notion.so/blog/sharding-postgres-at-notion
+- Unexpected downsides of UUID keys in PostgreSQL: https://www.cybertec-postgresql.com/en/unexpected-downsides-of-uuid-keys-in-postgresql/
 
 ## Blog Series:
 
@@ -128,6 +130,8 @@
 - What Every Programmer Has to Know About Database Storage (Alex Petrov): https://www.youtube.com/watch?v=V667vJzDvt4
 - 8 Key Data Structures That Power Modern Databases: https://www.youtube.com/watch?v=W_v05d_2RTo
 - Postgres Architecture Explained: https://www.youtube.com/watch?v=Q56kljmIN14
+- Secret To Optimizing SQL Queries - Understand The SQL Execution Order: https://www.youtube.com/watch?v=BHwzDmr6d7s
+- Scaling Postgres Channel: https://www.youtube.com/channel/UCnfO7IhkmJu_azn0WbIcV9A
 
 ## Tutorials:
 
@@ -139,6 +143,10 @@
 ## Books:
 
 - https://www.databass.dev/
+
+## Podcast:
+
+- https://twitter.com/PostgresFM
 
 ## Repos:
 
@@ -155,6 +163,8 @@
 - https://github.com/dhamaniasad/awesome-postgres/
 - Database Webhooks for Postgres: https://github.com/portola-labs/db-webhooks
 - Streaming replication for SQLite ( stores changes to another file or object storages like S3 ): https://github.com/benbjohnson/litestream
+- Command line utility to show what locks will be acquired by a given query: https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer
+- Easily setup logical replication and switchover to new database with minimal downtime: https://github.com/shayonj/pg_easy_replicate
 
 ## Research Papers:
 
