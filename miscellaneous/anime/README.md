@@ -12,7 +12,6 @@
 - Fate/Zero
 - Wonder Egg: The priority
 - Sword of a stranger: Movie action
-- Inuyashiki
 - yu yu hakusho(like hunter X hunter)
 - Fog hill of five elements
 - Overlord
@@ -531,6 +530,7 @@
 - Mobile Suit Gundam 1979
 - Flowers of evil
 - Megalox Box
+- Inuyashiki
 
 ## Caught up Mangas:
 

@@ -193,6 +193,7 @@
 - Courses on NeoVim Configuration/Lua (for neovim): https://www.reddit.com/r/neovim/comments/xhk8sz/courses_on_neovim_configurationlua_for_neovim/
 - Make neovim automatically pick up include paths from Makefile: https://www.reddit.com/r/neovim/comments/xylcvz/search_makefile_for_include_paths/
 - Nice thread to play with statuscolumn: https://www.reddit.com/r/neovim/comments/10bmy9w/lets_see_your_status_columns/
+- List of obscure plugins or functions that are cool: https://www.reddit.com/r/neovim/comments/157jlb8/any_obscure_plugins_or_functions_that_are_cool/
 
 ## Vimscript:
 

@@ -43,6 +43,7 @@
 - Small little recursive descent parser + pratt parsing: https://gist.github.com/elucent/473dcacba79371ec647d43e7c58babbd
 - How compiler actually produces dynamic libraries/static libraries, ELFs, etc. Something away from typical compiler stuff which should help everyone understand compiler/linker errors around common scenarios: https://fabiensanglard.net/dc/
 - Nice list of resources on learning more about modern compilers: https://lobste.rs/s/zqa4cc/learning_modern_compilers
+- Compiler Hacking: https://yangdanny97.github.io/blog/2020/05/29/chocopy-typechecker
 
 ### Others:
 
@@ -222,6 +223,7 @@
 - A massively parallel, optimal functional runtime in Rust: https://github.com/Kindelia/HVM
 - Create ridiculously fast Lexers: https://github.com/maciejhirsz/logos
 - A Compiler writing journey: https://github.com/DoctorWkt/acwj/
+- A lightweight LLVM python binding for writing JIT compilers: https://github.com/numba/llvmlite
 
 ## Grammars:
 

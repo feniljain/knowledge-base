@@ -188,6 +188,9 @@
 - https://github.com/Fildo7525/pretty_hover
 - https://github.com/nanozuki/tabby.nvim
 - https://github.com/luukvbaal/statuscol.nvim
+- https://github.com/Bekaboo/dropbar.nvim
+- https://github.com/SmiteshP/nvim-navic
+- https://github.com/RutaTang/quicknote.nvim
 
 ## Some plugins/things I wanna checkout:
 
@@ -227,8 +230,18 @@
 - https://github.com/moll/vim-bbye
 - Neovim plugin that simplifies macros, enhancing productivity with harmony: https://github.com/ecthelionvi/NeoComposer.nvim
 - https://www.reddit.com/r/neovim/comments/14fdyjk/typescripttoolsnvim_the_typescript_integration/
+- https://github.com/David-Kunz/markid
+- Deferring of NeoVim diagnostics, think to use this if you are facing perf issues with LSP client: https://github.com/yorickpeterse/nvim-dd
 
 ## Things to try out in next release:
 
 - Move away from null-ls: https://github.com/jose-elias-alvarez/null-ls.nvim/issues/1621
 - Move to using lazy.nvim for loading plugins: https://github.com/folke/lazy.nvim
+- Give this a try: https://www.reddit.com/r/neovim/comments/154cyc6/comment/jsoe4tm/
+- experiment with this plugin: https://github.com/sindrets/diffview.nvim
+- https://github.com/nacro90/numb.nvim
+- https://git.sr.ht/~whynothugo/lsp_lines.nvim
+- https://github.com/neovim/nvim-lspconfig/wiki/UI-Customization#customizing-how-diagnostics-are-displayed
+- Get symbols-outline.nvim working
+- https://github.com/SmiteshP/nvim-navic
+- https://github.com/askfiy/lsp_extra_dim
