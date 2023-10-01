@@ -12,6 +12,7 @@
 - https://neon.tech/
 - https://psql-tips.org/
 - https://www.edgedb.com/
+- https://drawsql.app/
 
 ## Blogs And Articles:
 
@@ -114,6 +115,13 @@
 - Nine ways to shoot yourself in the foot with PostgreSQL: https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql
 - Sharding Postgres at notion: https://www.notion.so/blog/sharding-postgres-at-notion
 - Unexpected downsides of UUID keys in PostgreSQL: https://www.cybertec-postgresql.com/en/unexpected-downsides-of-uuid-keys-in-postgresql/
+- Optimizing indexes for storage: https://hakibenita.com/postgresql-unused-index-size
+- Optimizing Posgres Auto Vacuum: https://tembo.io/blog/optimizing-postgres-auto-vacuum/
+- A really nice resource on understanding internals of postgres: https://www.interdb.jp/pg/
+- How Query Engines Work?: https://howqueryengineswork.com/
+- SQL join flavors: https://antonz.org/sql-join/
+- When do nullable columns affect performance severely?: https://stackoverflow.com/questions/18005269/when-do-nullable-columns-affect-performance-severely
+- Memory optimization: https://redis.io/docs/management/optimization/memory-optimization/
 
 ## Blog Series:
 
@@ -132,6 +140,7 @@
 - Postgres Architecture Explained: https://www.youtube.com/watch?v=Q56kljmIN14
 - Secret To Optimizing SQL Queries - Understand The SQL Execution Order: https://www.youtube.com/watch?v=BHwzDmr6d7s
 - Scaling Postgres Channel: https://www.youtube.com/channel/UCnfO7IhkmJu_azn0WbIcV9A
+- The effect of Random UUID on database performance: https://www.youtube.com/watch?v=OAOQ7U0XAi0
 
 ## Tutorials:
 
@@ -165,6 +174,8 @@
 - Streaming replication for SQLite ( stores changes to another file or object storages like S3 ): https://github.com/benbjohnson/litestream
 - Command line utility to show what locks will be acquired by a given query: https://github.com/AdmTal/PostgreSQL-Query-Lock-Explainer
 - Easily setup logical replication and switchover to new database with minimal downtime: https://github.com/shayonj/pg_easy_replicate
+- A Language Server for Postgres: https://github.com/supabase/postgres_lsp
+- pgJQ: Use jq in Postgres: https://github.com/Florents-Tselai/pgJQ
 
 ## Research Papers:
 
@@ -202,6 +213,7 @@
 - https://www.reddit.com/r/SQL/comments/pym9iv/any_good_site_where_you_can_get_updates_about_sql/
 - https://www.reddit.com/r/SQL/comments/q5hw3o/free_resources_to_learn_sql/
 - https://www.reddit.com/r/computerscience/comments/tdf4st/any_good_books_about_developing_efficient_data/
+- multi column indexes: https://twitter.com/tobias_petry/status/1691404826813370368
 
 ## Blogs and articles:
 

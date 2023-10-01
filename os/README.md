@@ -99,6 +99,9 @@ h2 align="center">OS</h2>
 - I have come to bury the BIOS, not to open it: The need for holistic systems: https://www.osfc.io/2022/talks/i-have-come-to-bury-the-bios-not-to-open-it-the-need-for-holistic-systems/
 - Building an OS: https://www.youtube.com/watch?v=9t-SPC7Tczc&list=PLFjM7v6KGMpiH2G-kT781ByCNC_0pKpPN
 - Building a bootloader: https://www.youtube.com/watch?v=9t-SPC7Tczc&list=PLFjM7v6KGMpjWYxnihhd4P3G0BhMB9ReG
+- UEFI Dev in C: https://youtu.be/t3iwBQg_Gik
+- How does an OS boot?: https://www.youtube.com/watch?v=KkenLT8S9Hs
+- Virtual Console and printf(): https://www.youtube.com/watch?v=uNp4DElDQyY
 
 <h2 align="center">Kernel</h2>
 

@@ -191,6 +191,7 @@
 - https://github.com/Bekaboo/dropbar.nvim
 - https://github.com/SmiteshP/nvim-navic
 - https://github.com/RutaTang/quicknote.nvim
+- https://github.com/jonboh/nvim-dap-rr
 
 ## Some plugins/things I wanna checkout:
 
@@ -232,6 +233,7 @@
 - https://www.reddit.com/r/neovim/comments/14fdyjk/typescripttoolsnvim_the_typescript_integration/
 - https://github.com/David-Kunz/markid
 - Deferring of NeoVim diagnostics, think to use this if you are facing perf issues with LSP client: https://github.com/yorickpeterse/nvim-dd
+- Dap configuration for the record and replay debugger. Supports Rust, C++ and C: https://github.com/jonboh/nvim-dap-rr
 
 ## Things to try out in next release:
 
@@ -245,3 +247,17 @@
 - Get symbols-outline.nvim working
 - https://github.com/SmiteshP/nvim-navic
 - https://github.com/askfiy/lsp_extra_dim
+- https://www.reddit.com/r/neovim/comments/15wapw7/update_hardtimenvim_more_hints_custom_hints/
+- vim.lsp.status()
+- client.supports_method(<method>)
+- https://github.com/niuiic/code-shot.nvim
+- https://github.com/wintermute-cell/gitignore.nvim
+- https://www.reddit.com/r/neovim/comments/16b0n3a/comment/jzcbhxo/
+- https://www.reddit.com/r/vim/comments/166a3ij/comment/jyivcnl/
+- Last point here could be super useful: https://www.reddit.com/r/neovim/comments/16b0n3a/comment/jzbnr0z/
+- ultimate-autopair.nvim
+- Understand the importance of this change and if it could be helpful to you: https://twitter.com/Neovim/status/1701951440820826414
+- New Native Neovim LSP Inlay Hints: https://www.youtube.com/watch?v=DYaTzkw3zqQ
+- https://www.reddit.com/r/neovim/comments/16n7r0q/pretty_lsp_floating_windows_now_part_of_neovim/
+- https://www.reddit.com/r/neovim/comments/16qcncm/how_do_you_put_borders_on_this_lsp_preview_ive/
+- Find nice UIs around this PR: https://www.reddit.com/r/neovim/comments/16tdrfd/telescopenvim_fully_customizable_layout/

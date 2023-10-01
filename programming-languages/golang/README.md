@@ -100,6 +100,7 @@
 - https://levelup.gitconnected.com/practical-ddd-in-golang-repository-d308c9d79ba7
 - https://medium.com/sellerapp/golang-project-structuring-ben-johnson-way-2a11035f94bc
 - https://github.com/golang-standards
+- Official guide for organizing Go projects and modules: https://go.dev/doc/modules/layout
 
 ### Others:
 

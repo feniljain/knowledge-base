@@ -24,6 +24,7 @@
 - https://peerjs.com/
 - https://www.npmjs.com/package/simple-peer
 - WebRTC SFU sora: https://sora-doc.shiguredo.jp/
+- https://icetest.info/
 
 ## GoogleGroups:
 
@@ -155,6 +156,7 @@
 - TWCC — Server-Side Implementation of Adaptive WebRTC Protocol for Large Scale Simulcast Projects: https://flussonic.com/blog/news/transport-cc/
 - WebRTC media resilience: the role FEC, RED, PLC, RTX and other acronyms play: https://bloggeek.me/webrtc-media-resilience/
 - Debugging WebRTC in the browsers: https://www.webrtc-developers.com/debugging-webrtc-in-the-browsers/
+- WebRTC Top 100 Open-Source projects for 2023: https://www.webrtc-developers.com/webrtc-top-100-open-source-projects-for-2023/
 
 ### Tutorials:
 
@@ -230,6 +232,10 @@ Social audio applications with Janus: https://www.meetecho.com/blog/social-audio
 - A WebRTC, SIP and VoIP library for C# and .NET. Designed for real-time communications apps: https://github.com/sipsorcery-org/sipsorcery
 - WebRTC Implementation for TypeScript (Node.js), includes ICE/DTLS/SCTP/RTP/SRTP/WEBM: https://github.com/shinyoshiaki/werift-webrtc
 - WebRTC and ORTC implementation for Python using asyncio: https://github.com/aiortc/aiortc
+- KITE is a test engine designed to test WebRTC interoperability across browsers: https://github.com/webrtc/KITE
+- A very simple, high performance, edge WebRTC SFU: https://github.com/binbat/live777
+- https://github.com/firefart/stunner
+- Turns a Web Browser into a Web Server with WebRTC: https://github.com/sinclairzx81/smoke
 
 ## Useful SO questions:
 

@@ -224,6 +224,10 @@
 - The Little Book of Semaphores: https://greenteapress.com/wp/semaphores/
 - Teach yourself Computer Science functionally: https://functionalcs.github.io/curriculum/
 - Notes on FFTs: for implementers: https://fgiesen.wordpress.com/2023/03/19/notes-on-ffts-for-implementers/
+- Understanding Bloom Filters: https://codeconfessions.substack.com/p/bloom-filters-and-beyond
+- Esoteric datastructures: https://news.ycombinator.com/item?id=32186203
+- Donut math: how donut.c works: https://www.a1k0n.net/2011/07/20/donut-math.html
+- Is Parallel Programming Hard, And, If So, What Can You Do About It?: https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html
 
 ### Tutorials:
 
@@ -236,6 +240,7 @@
 - https://www.huy.rocks/everyday
 - https://vikramoberoi.com/
 - Nice collection of blogs: https://xeiaso.net/
+- Interesting writeups about concurrency concepts: https://www.1024cores.net/
 
 ## Newsletters;
 

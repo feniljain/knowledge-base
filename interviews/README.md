@@ -1,5 +1,12 @@
 <h2 align="center"> Interview Prep </h2>
 
+# DO NOT TRY TO GRIND LEETCODE BLINDLY
+
+Instead use sites like these (discussion where I found these: https://news.ycombinator.com/item?id=37534204):
+- https://seanprashad.com/leetcode-patterns/
+- https://neetcode.io/
+- https://algo.monster/
+
 ## Websites:
 
 - https://leetfree.com/
@@ -71,6 +78,7 @@
 - https://medium.com/@eliana.lopez/the-youtube-channel-that-made-me-comfortable-with-leetcode-fd28484d8cac
 - https://hypercontext.com/blog/management-skills/engineers-share-candid-feedback-one-on-ones
 - 4 Examples of How to Answer “Tell Me About Yourself” in Interviews: https://careersidekick.com/tell-me-about-yourself-interview-question-answer/
+- How to pass the interview for software engineering roles in Big Tech - Handbook: https://www.lambrospetrou.com/articles/big-tech-software-interviews/
 
 ## Videos:
 

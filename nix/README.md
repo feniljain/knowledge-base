@@ -6,6 +6,7 @@
 - https://nixos.wiki/
 - An opinionated guide for developers getting things done using the Nix ecosystem: https://nix.dev/
 - Nix Ecosystem Mindmap: https://coggle.it/diagram/Y9k9VVmUw-1okyFh/t/nix
+- https://flakehub.com/
 
 ## Blogs and articles:
 
@@ -26,6 +27,7 @@
 - Using Nix with Dockerfiles: https://mitchellh.com/writing/nix-with-dockerfiles
 - Learning Nix from the bottom up: https://fasterthanli.me/series/building-a-rust-service-with-nix/part-9
 - Making a dev shell with nix flakes: https://fasterthanli.me/series/building-a-rust-service-with-nix/part-10
+- Nix, Merkle trees and build systems: https://lwn.net/Articles/821367/
 
 ## Repos:
 

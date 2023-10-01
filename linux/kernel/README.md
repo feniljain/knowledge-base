@@ -11,6 +11,7 @@
 - Kernel patches index: https://lwn.net/Kernel/Patches
 - https://kernelnewbies.org/LinuxChanges
 - http://eudyptula-challenge.org/
+- Interactive map of kernel: https://makelinux.github.io/kernel/map/
 
 ## Blogs and articles:
 
@@ -73,6 +74,7 @@
 - Creating app pasword for continuing the use of `git send-email`: https://support.google.com/mail/answer/185833
 - Coding Style PPT by Greg: http://www.kroah.com/linux/talks/ols_2002_kernel_codingstyle_talk/html/index.html
 - Project Ideas for a linux kernel module: https://news.ycombinator.com/item?id=35784514
+- Nix flake for linux kernel module development with rust support: https://github.com/jordanisaacs/kernel-module-flake
 
 ## Blog series/Article collection:
 

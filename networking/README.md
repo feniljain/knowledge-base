@@ -38,6 +38,8 @@
 - SMTP protocol basics from scratch in Go: receiving email from Gmail: https://notes.eatonphil.com/handling-email-from-gmail-smtp-protocol-basics.html
 - Let's code a TCP/IP stack: http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/
 - How to send raw network packets in Python with tun/tap: https://jvns.ca/blog/2022/09/06/send-network-packets-python-tun-tap/
+- Building a Transport Protocol on ARP: https://kognise.dev/writing/arp
+- Running one's own root Certificate Authority in 2023: https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/
 
 ### Others:
 
@@ -149,6 +151,9 @@
 - Linux Networking Shallow Dive: WireGuard, Routing, TCP/IP and NAT: https://im.salty.fish/index.php/archives/linux-networking-shallow-dive.html
 - I may be the only evil (bit) user on the internet: https://blog.benjojo.co.uk/post/evil-bit-RFC3514-real-world-usage
 - The Difference Between Root Certificate Authorities, Intermediates, and Resellers: https://www.agwa.name/blog/post/roots_intermediates_and_resellers
+- De facto ports used by various applications: https://blog.matt-rickard.com/p/de-facto-ports
+- How HTTPS Works: https://howhttps.works/
+- User-mode networking for unprivileged network namespaces: https://github.com/rootless-containers/slirp4netns
 
 ## Books:
 
@@ -183,6 +188,9 @@
 - A single location for people to reference when looking for network protocol implementations written in Python that perform no I/O: https://sans-io.readthedocs.io/
 - A modern, hackable, green Dynamic DNS service and cli for Cloudflare: https://github.com/simbleau/cddns
 - DNS test harness: https://github.com/CZ-NIC/deckard
+- WebSocket Benchmark: https://github.com/c410-f3r/regular-crates/tree/main/ws-bench
+- Network stack developed for embedded work on small systems. Implements ip, tcp, arp, a small web server, and an OS abstraction layer: https://github.com/rkimball/tinytcp
+- Tunnel IPv4 packets over DNS, ICMP, TCP, or UDP to escape network filtering: https://github.com/jha/ip-over-proto
 
 ## Reddit, twitter and HN threads:
 

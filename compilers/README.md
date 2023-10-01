@@ -44,6 +44,7 @@
 - How compiler actually produces dynamic libraries/static libraries, ELFs, etc. Something away from typical compiler stuff which should help everyone understand compiler/linker errors around common scenarios: https://fabiensanglard.net/dc/
 - Nice list of resources on learning more about modern compilers: https://lobste.rs/s/zqa4cc/learning_modern_compilers
 - Compiler Hacking: https://yangdanny97.github.io/blog/2020/05/29/chocopy-typechecker
+- MLIR Tutorial for beginners: https://github.com/j2kun/mlir-tutorial
 
 ### Others:
 
@@ -163,6 +164,7 @@
 - Constructing human grade parsers, how to handle errors nicely in parsers: https://duriansoftware.com/joe/constructing-human-grade-parsers
 - Resilient LL Parsing Tutorial: https://matklad.github.io/2023/05/21/resilient-ll-parsing-tutorial.html
 - Writing a linux debugger: https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/
+- The AST Typing Problem: http://blog.ezyang.com/2013/05/the-ast-typing-problem/
 
 ## Blog series/Articles collection:
 
@@ -224,6 +226,7 @@
 - Create ridiculously fast Lexers: https://github.com/maciejhirsz/logos
 - A Compiler writing journey: https://github.com/DoctorWkt/acwj/
 - A lightweight LLVM python binding for writing JIT compilers: https://github.com/numba/llvmlite
+- Graph based intermediate representation and backend for optimising compilers: https://github.com/libfirm/libfirm
 
 ## Grammars:
 

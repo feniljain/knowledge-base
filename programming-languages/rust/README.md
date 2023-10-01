@@ -239,6 +239,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - How I contribute to Rust Compiler: https://rustmagazine.org/issue-1/contribute-to-rustc/
 - Implementing a Lua interpreter in Rust: https://wubingzheng.github.io/build-lua-in-rust/zh/
 - Hypervisor Development in Rust Part 1: https://memn0ps.github.io/hypervisor-development-in-rust-part-1/
+- Time travel debugging Rust in NeoVim: https://jonboh.dev/posts/rr/
 
 ### Language general:
 
@@ -348,7 +349,6 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - https://cglab.ca/~abeinges/blah/rust-btree-case/
 - https://medium.com/dev-genius/open-source-rust-24-awesome-frameworks-projects-and-libraries-8885112f8a73
 - https://yrashk.medium.com/launching-wasm-rs-a-collection-of-crates-a-community-4344d2ba75b3
-- https://levelup.gitconnected.com/handling-websocket-and-http-on-the-same-port-with-rust-f65b770722c9
 - https://taggartsoftware.medium.com/clickonce-for-rust-apps-f96873feb8f1
 - https://www.youtube.com/embed/mdUg_mCuqhE
 - https://www.fpcomplete.com/blog/captures-closures-async/

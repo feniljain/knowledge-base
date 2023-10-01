@@ -34,6 +34,7 @@
 - A guide to fixing Developer Posture: https://gaylelaakmann.substack.com/p/a-guide-to-fixing-computer-guy-posture
 - Your First 60 Days at an Engineering Job: https://code.dblock.org/2015/04/23/your-first-60-days-at-an-engineering-job.html
 - Optimal Stopping Theory For Hiring: https://matt-rickard.ghost.io/optimal-stopping-theory/
+- The Well Rounded Engineer: https://speakerdeck.com/swanandp/the-well-rounded-engineer
 
 ## Blog series/Collection of articles:
 

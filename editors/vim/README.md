@@ -135,6 +135,7 @@
 - Neovim 101 — OSC 52: https://alpha2phi.medium.com/neovim-101-osc-52-f4ee08fd96e6
 - Structuring Neovim Lua plugins: https://zignar.net/2022/11/06/structuring-neovim-lua-plugins/
 - null_ls being difficult was all in my head: https://nullvoxpopuli.com/2023-03-13-null-ls/
+- Develop a Neovim plugin in Lua: https://m4xshen.dev/posts/develop-a-neovim-plugin-in-lua/
 
 ## VimTricks:
 
@@ -240,6 +241,7 @@
 -  Sample neovim and vim configurations for Rust development: https://github.com/sharksforarms/neovim-rust
 - Share one rust-analyzer server instance between multiple LSP clients to save resources: https://github.com/pr2502/ra-multiplex
 - A version manager for neovim: https://github.com/MordechaiHadad/bob
+- Wasm platform for nvim: https://github.com/Borwe/wasm_nvim
 
 ## VimRCs for reference:
 

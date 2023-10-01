@@ -36,11 +36,13 @@
 - https://www.infoq.com/news/2021/11/linux-dns-vulnerability/
 - https://www.ired.team/offensive-security/code-injection-process-injection/binary-exploitation/rop-chaining-return-oriented-programming
 - Exploit Development: No Code Execution? No Problem! Living The Age of VBS, HVCI, and Kernel CFG: https://connormcgarr.github.io/hvci/
- - https://heap-exploitation.dhavalkapil.com/
+- https://heap-exploitation.dhavalkapil.com/
+- Linux Reverse Engineering CTFs for Beginners: https://osandamalith.com/2019/02/11/linux-reverse-engineering-ctfs-for-beginners/
 
 ## Blog/Article Collection:
 
 - https://kernal.eu/
+- https://osandamalith.com/
 
 ## Repos and tools:
 

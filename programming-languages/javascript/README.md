@@ -84,7 +84,7 @@
 - https://github.com/30-seconds/30-seconds-of-code
 - Automatically finds jQuery methods from existing projects and generates vanilla js alternatives: https://github.com/sachinchoolur/replace-jquery
 - https://github.com/uNetworking/uWebSockets.js
--  Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more: https://github.com/blitz-js/superjson
+- Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more: https://github.com/blitz-js/superjson
 
 ## APIs:
 
@@ -148,6 +148,7 @@
 - Narrowing Types in Typescript: https://www.allthingstypescript.dev/p/narrowing-types-in-typescript
 - Making sense of TypeScript using set theory: https://blog.thoughtspile.tech/2023/01/23/typescript-sets/
 - Design patterns in Typescript: https://refactoring.guru/design-patterns/typescript
+- Typescript type system hacks, also contains a list of projects made just using TS's type system: https://blog.matt-rickard.com/p/typescript-type-system-hacks
 
 ## Videos:
 
@@ -156,8 +157,8 @@
 
 ## Repos:
 
--  Collection of TypeScript type challenges with online judge: https://github.com/type-challenges/type-challenges
--  JSON Schema Type Builder with Static Type Resolution for TypeScript: https://github.com/sinclairzx81/typebox
+- Collection of TypeScript type challenges with online judge: https://github.com/type-challenges/type-challenges
+- JSON Schema Type Builder with Static Type Resolution for TypeScript: https://github.com/sinclairzx81/typebox
 - https://github.com/basarat/typescript-book
 - A simplified implementation of TypeScript's type system written in TypeScript's type system: https://github.com/ronami/HypeScript
 - A tiny language interpreter implemented purely in TypeScript's type-system: https://github.com/ronami/typelang

@@ -74,6 +74,8 @@
 - How to use git restore effectively: https://gitbetter.substack.com/p/how-to-use-git-restore-effectively
 - How to work in multiple git branches simultaneously: https://gitbetter.substack.com/p/how-to-work-in-multiple-git-branches
 - Different ways of git reset: https://gitbetter.substack.com/p/different-ways-of-git-reset
+- https://blog.matt-rickard.com/p/git-merge-strategies-and-algorithms
+- In a git repository, where do your files live?: https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/
 
 ## Tutorials:
 

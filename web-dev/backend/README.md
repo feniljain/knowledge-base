@@ -110,6 +110,9 @@
 - Timeouts, retries, and backoff with jitter: https://aws.amazon.com/builders-library/timeouts-retries-and-backoff-with-jitter/
 - A Guide to Consistent Hashing: https://www.toptal.com/big-data/consistent-hashing
 - Open Source Webhooks Gateway; For both incoming & outgoing events: https://github.com/frain-dev/convoy
+- Collection of best practices for providing and consuming webhooks: https://webhooks.fyi/ ( Relevant HN Discussion: https://news.ycombinator.com/item?id=32517645, another nice discussion: https://news.ycombinator.com/item?id=37514801, article is not that useful in last one )
+- Original C10K page: https://web.archive.org/web/19990508164301/http://www.kegel.com/c10k.html
+- Debugging Node.js in Production: https://netflixtechblog.com/debugging-node-js-in-production-75901bb10f2d
 
 ## Blog series/Articles collection:
 
@@ -138,6 +141,7 @@
 - A curated list of Chaos Engineering resources: https://github.com/dastergon/awesome-chaos-engineering
 - RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services: https://github.com/microsoft/restler-fuzzer
 - A curated list of data engineering tools for software developers: https://github.com/igorbarinov/awesome-data-engineering
+- A simple HTTP proxy that fogs over naughty URLs: https://github.com/stripe/smokescreen
 
 ## Videos:
 

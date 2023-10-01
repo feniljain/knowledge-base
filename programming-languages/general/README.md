@@ -242,6 +242,7 @@
 - tolower() in bulk at speed: https://dotat.at/@/2022-06-27-tolower-swar.html
 - The different ways to handle errors in C: https://mccue.dev/pages/7-27-22-c-errors
 - malloc() and free() are a bad API: https://www.foonathan.net/2022/08/malloc-interface/
+- https://interrupt.memfault.com/blog/a-modern-c-dev-env
 
 ### Blog series/articles collection:
 

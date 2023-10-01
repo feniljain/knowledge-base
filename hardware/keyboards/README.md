@@ -14,6 +14,7 @@
 - https://www.wasdkeyboards.com/
 - https://learn.dvorak.nl/
 - https://www.keyboardtester.com/
+- https://compare.splitkb.com/
 
 ## Specifically for India:
 

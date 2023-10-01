@@ -9,6 +9,7 @@
 - Compilers and IRs: LLVM IR, SPIR-V, and MLIR: https://www.lei.chat/posts/compilers-and-irs-llvm-ir-spirv-and-mlir/
 - How to contribute to LLVM: https://developers.redhat.com/articles/2022/12/20/how-contribute-llvm
 - Mapping Python to LLVM: https://blog.exaloop.io/python-llvm/
+- A Gentle Introduction to LLVM IR: https://mcyoung.xyz/2023/08/01/llvm-ir/
 
 ## Repos:
 
@@ -17,6 +18,7 @@
 - A collection of out-of-tree Clang plugins for teaching and learning: https://github.com/banach-space/clang-tutor
 - LLVM Learning Guide: https://github.com/mikeroyal/LLVM-Guide
 - Safe Wrapper for LLVM Bindings: https://github.com/TheDan64/inkwell
+- Cargo subcommand for viewing LLVM optimization remarks: https://github.com/kobzol/cargo-remark
 
 ## Reddit and twitter threads:
 

@@ -38,6 +38,7 @@
 - Heavenly Delusion
 - Golden Kamuy
 - Rurouni kenshin ( new adaptation )
+- zom 100: bucket list of the dead
 
 ## Mecha and Space:
 
@@ -78,11 +79,9 @@
 - 7 seeds
 - Id Invaded
 - Black bullet
-- Angels of Death
 - Tomodachi Game
 - Happy Sugar Life
 - Babylon
-- Flowers of Evil
 - Shadow Star Narutaru
 - Joker
 - Blue Literature series
@@ -115,6 +114,10 @@
 - ID: Invaded
 - Mushishi
 - Beastars
+- scrapped princess
+- humanity has declined
+- from the new world
+- eden of the east
 
 ## Adventure and Magic(supernatural):
 
@@ -124,6 +127,7 @@
 - Kyoukai ni kanata
 - Bofuri S2
 - Yaa boy kong ming
+- Girl's last tour
 
 ## Comedy:
 
@@ -155,6 +159,7 @@
 - Nichijou
 - Space Dandy
 - Rankings of Kings
+- Gin no saji
 
 ## Sad & Romance & SOL:
 
@@ -215,7 +220,6 @@
 - Hotarubi no Mori e
 - Love tyrant
 - Photo Kano
-- Bloom into you
 - Saenai Heroine no Sodatekata
 - Kanamewo
 - Higehiro: after being rejected, I shaved and took in a highschool runaway
@@ -265,6 +269,11 @@
 - Mankitsu
 
 ## Yet to be classified:
+
+- Ghost Boundary
+- Blood Blockade Battlefront
+- Lupin the Third
+- Sousou No Frieren
 
 ## Manga To Read:
 
@@ -531,6 +540,9 @@
 - Flowers of evil
 - Megalox Box
 - Inuyashiki
+- Angels of Death
+- Bloom into you
+- Trigun Stampede
 
 ## Caught up Mangas:
 
@@ -542,7 +554,6 @@
 - Slam dunk
 - Tokyo Ghoul
 - Promised Neverland
-- Tengen Toppa Gurren Lagann
 - Tengen Toppa Gurren Lagann
 - Horimiya
 - 20th Century Boys

@@ -15,6 +15,7 @@
 - Rustler - Using Rust crates in Elixir: https://mainmatter.com/blog/2023/02/01/using-rust-crates-in-elixir/
 - Elixir's With Statement: https://www.openmymind.net/Elixirs-With-Statement/
 - What's a process in Elixir?: https://dev.to/adolfont/whats-a-process-in-elixir-406h
+- Strong arrows: a new approach to gradual typing: https://elixir-lang.org/blog/2023/09/20/strong-arrows-gradual-typing/
 
 ## Forums:
 

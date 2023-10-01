@@ -62,6 +62,7 @@
 - Don't write a programming language: https://blog.dhsdevelopments.com/dont-write-a-programming-language
 - Features of a dream programming language: 2nd draft(Good collection of resources): https://dev.to/redbar0n/features-of-a-dream-programming-language-2nd-draft-p7j
 - Syntax for different stuff across languages: http://rigaux.org/language-study/syntax-across-languages.html
+- Bugs in various type system impls: https://counterexamples.org/
 
 ### Tutorials:
 

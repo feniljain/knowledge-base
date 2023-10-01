@@ -35,6 +35,8 @@
 - https://linuxreviews.org/
 - https://puter.com/
 - http://www.oldlinux.org/
+- Understand any shell command easily: https://explainshell.com/
+- Find bugs in your shell scripts: https://www.shellcheck.net/
 
 ## Blogs and articles:
 
@@ -124,11 +126,13 @@
 - GNU ld Discards Section Containing Code – Section Flags are Important for ELF Files: https://phip1611.de/blog/gnu-ld-discards-section-containing-code/
 - https://medium.com/@omchakane/memory-management-in-linux-3b6228aa2de4
 - Linux — Socket Deep Dive: https://medium.com/geekculture/linux-socket-deep-dive-8c473b25fd22
+- Dynamic linker tricks: Using LD_PRELOAD to cheat, inject features and investigate programs: https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/
 
 ### Tutorials:
 
 - Writing a toy traceroute from scratch: https://alexanderell.is/posts/toy-traceroute/
 - Shrinking a Shared Library: https://serge-sans-paille.github.io/pythran-stories/shrinking-a-shared-library.html
+- Writing a Debugger From Scratch: https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/
 
 ### Others:
 
@@ -204,6 +208,7 @@
 - Collection of decent GRUB Community themes. Contributions welcome!: https://github.com/jacksaur/Gorgeous-GRUB
 - Universal FOSS Cross-Platform Archive Manager: https://github.com/peazip/PeaZip
 - A list of generic tools for parsing binary data structures, such as file formats, network protocols or bitstreams: https://github.com/dloss/binary-parsing
+- Explore ELF objects through the power of SQL: https://github.com/fzakaria/sqlelf
 
 ### Others:
 
@@ -245,6 +250,7 @@
 - A Tiny Linux-Compatible Kernel: https://github.com/vvaltchev/tilck
 - USB WiFi Adapter Information for Linux: https://github.com/morrownr/USB-WiFi
 - Linux-factory: A framework used to create custom Linux Debian operating systems: https://github.com/clayrisser/linux-factory
+- Some helpful preload libraries for pwning stuff: https://github.com/zardus/preeny
 
 ## Podcasts:
 

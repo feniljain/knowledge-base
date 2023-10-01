@@ -21,6 +21,7 @@
 - The Distributed Computing Manifesto: https://www.allthingsdistributed.com/2022/11/amazon-1998-distributed-computing-manifesto.html
 - Paxos, Raft, EPaxos: How Has Distributed Consensus Technology Evolved?: https://www.alibabacloud.com/blog/paxos-raft-epaxos-how-has-distributed-consensus-technology-evolved_597127
 - Minimizing corrleated failures in distributed systems: https://aws.amazon.com/builders-library/minimizing-correlated-failures-in-distributed-systems/
+- Notes on Interval Tree Clocks: https://ferd.ca/interval-tree-clocks.html
 
 ## Videos:
 
