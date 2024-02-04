@@ -154,6 +154,9 @@
 - De facto ports used by various applications: https://blog.matt-rickard.com/p/de-facto-ports
 - How HTTPS Works: https://howhttps.works/
 - User-mode networking for unprivileged network namespaces: https://github.com/rootless-containers/slirp4netns
+- What I wish I knew when I got my ASN: https://quantum5.ca/2023/10/10/what-i-wish-i-knew-when-i-got-my-asn/
+- https://www.openmymind.net/WebSocket-Framing-Masking-Fragmentation-and-More/
+- Autobahn WebSocket protocol testsuite: https://github.com/crossbario/autobahn-testsuite
 
 ## Books:
 
@@ -162,6 +165,7 @@
 - https://www.computer-networking.info/
 - Collection of networking books: https://t.me/Network_books_ir
 - HTTP/3 explained is a collaborative effort to document the HTTP/3 and the QUIC protocols: https://http3-explained.haxx.se/
+- Collection of books to learn modern networking: https://news.ycombinator.com/item?id=38918418
 
 ## Blog Series/Articles collection:
 
@@ -191,6 +195,11 @@
 - WebSocket Benchmark: https://github.com/c410-f3r/regular-crates/tree/main/ws-bench
 - Network stack developed for embedded work on small systems. Implements ip, tcp, arp, a small web server, and an OS abstraction layer: https://github.com/rkimball/tinytcp
 - Tunnel IPv4 packets over DNS, ICMP, TCP, or UDP to escape network filtering: https://github.com/jha/ip-over-proto
+- A Rust based DNS client, server, and resolver: https://github.com/bluejekyll/trust-dns
+- Modular networking daemon and library: https://github.com/aperturerobotics/bifrost
+- A minimal TCP/IP stack: https://github.com/cozis/microtcp
+- Async-friendly WebTransport implementation in Rust: https://github.com/BiagioFesta/wtransport
+- WebSockets From Scratch: https://github.com/pusher/websockets-from-scratch-tutorial/blob/master/README.md
 
 ## Reddit, twitter and HN threads:
 
@@ -232,6 +241,7 @@
 - Rack-scale Networking: https://www.youtube.com/watch?v=AkWh2Sms3aw
 - Everything You Need to Know About DNS (Domain Name System): https://www.youtube.com/watch?v=27r4Bzuj5NQ
 - DNS is beautiful: https://www.youtube.com/watch?v=tgWx81_NGcg
+- Implementing TCP in Rust: https://www.youtube.com/watch?v=bzja9fQWzdA
 
 ## Container Images:
 

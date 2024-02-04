@@ -28,6 +28,7 @@
 - A history of ARM, part 1: Building the first chip: https://arstechnica.com/gadgets/2022/09/a-history-of-arm-part-1-building-the-first-chip/
 - Reverse-engineering the conditional jump circuitry in the 8086 processor: http://www.righto.com/2023/01/reverse-engineering-conditional-jump.html
 - ESP32 Buyer’s Guide: Different Chips, Firmware, Sensors: https://eitherway.io/posts/esp32-buyers-guide/
+- How To Make A CPU - A Simple Picture Based Explanation: https://blog.robertelder.org/how-to-make-a-cpu/
 
 ## Repos:
 

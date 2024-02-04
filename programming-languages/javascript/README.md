@@ -3,7 +3,6 @@
 ## Websites:
 
 - https://github.com/ryanmcdermott/clean-code-javascript#table-of-contents
-- https://gabrieltanner.org/
 - https://dayssincelastjavascriptframework.com/
 - http://callbackhell.com/
 - Progressively enhance HTML with lightweight JavaScript libraries: https://unsuckjs.com/
@@ -73,6 +72,10 @@
 - https://phrase.com/blog/posts/step-step-guide-javascript-localization/
 - Write your own javascript runtime: https://deno.com/blog/roll-your-own-javascript-runtime
 
+## Blogs and Articles Collection:
+
+- https://gabrieltanner.org/
+
 ## Libraries and packages and repos:
 
 - https://www.chartjs.org/
@@ -91,10 +94,6 @@
 - https://dev.to/hb/10-fun-apis-to-use-for-your-next-project-2lco
 - https://api.nasa.gov/
 
-## APIs:
-
-- Why not to use javascript ( wat, watman talk ): https://www.destroyallsoftware.com/talks/wat
-
 ## Tweets:
 
 - Javascript repos: https://twitter.com/nirbhayvashisht/status/1348139619582238723
@@ -103,6 +102,7 @@
 
 - Use npm query and jq to dig into your dependencies: https://www.youtube.com/watch?v=h_ZpixOgKDY
 - The "type annotations" proposal and what it’s all about: https://www.youtube.com/watch?v=5A-_mPNo2nQ
+- Why not to use javascript ( wat, watman talk ): https://www.destroyallsoftware.com/talks/wat
 
 ## Newsletters:
 
@@ -162,6 +162,7 @@
 - https://github.com/basarat/typescript-book
 - A simplified implementation of TypeScript's type system written in TypeScript's type system: https://github.com/ronami/HypeScript
 - A tiny language interpreter implemented purely in TypeScript's type-system: https://github.com/ronami/typelang
+- Practice working with promises through a curated collection of interactive challenges. This repository provides a platform to refine your skills, complete with automated tests to to give you instant feedback and validate your progress: https://github.com/henriqueinonhe/promises-training
 
 ## Newsletters:
 

@@ -240,6 +240,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - Implementing a Lua interpreter in Rust: https://wubingzheng.github.io/build-lua-in-rust/zh/
 - Hypervisor Development in Rust Part 1: https://memn0ps.github.io/hypervisor-development-in-rust-part-1/
 - Time travel debugging Rust in NeoVim: https://jonboh.dev/posts/rr/
+- Let's Build a Cargo Compatible Build Tool: https://ductile.systems/freight-part-1/
 
 ### Language general:
 
@@ -326,6 +327,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - Problems with shared mutable state and different solutions to avoid them (this one uses GUIs as case study): https://samsartor.com/guis-3/
 - A cheatsheet for some potentially confusing terms in Rust: https://ferrous-systems.com/blog/cheatsheet-for-confusing-rust-terms/
 - Rust to Assembly: Understanding the Inner Workings of Rust: https://eventhelix.com/rust/
+- Thread-per-core: https://without.boats/blog/thread-per-core/
 
 ### Others:
 
@@ -414,6 +416,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - Index 1,600,000,000 Keys with Automata and Rust: https://blog.burntsushi.net/transducers/
 - Category Theory with Rust (pt1): https://www.kurtlawrence.info/blog/category-theory-with-rust-pt1
 - Time Travel Debugging in Rust: https://www.travelneil.com/time-travel-debugging-in-rust.html
+- Interrupts is Threads: https://onevariable.com/blog/interrupts-is-threads/
 
 ## Blog Series/Collection of articles:
 
@@ -474,7 +477,6 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - https://cis198-2016f.github.io/schedule/
 - https://github.com/LorenzoGurri/rust-beginner-projects
 - https://github.com/whostolemyhat/learning-projects
-- https://github.com/pingcap/talent-plan
 - Developing OS in rust: https://github.com/rust-osdev
 - A cross-platform CHIP-8, SUPER-CHIP & XO-CHIP interpreter and debugger writter in Rust: https://github.com/philw07/pich8
 - https://github.com/rust-unofficial/awesome-rust
@@ -553,6 +555,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - The ultimate search extension for Rust: https://github.com/huhu/rust-search-extension
 - GitHub action for cache-efficient Rust crates installation: https://github.com/baptiste0928/cargo-install
 - One to one realtime video meeting : https://github.com/williamlsh/meeting.rs
+- Interactively Visualizing Ownership and Borrowing for Rust: https://github.com/rustviz/rustviz
 
 ## Videos:
 
@@ -709,6 +712,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - https://crates.io/crates/opencv/
 - you_can::turn_off_the_borrow_checker : https://docs.rs/you-can/latest/you_can/attr.turn_off_the_borrow_checker.html
 - https://crates.io/crates/whichever-compiles
+- ε-serde is an ε-copy (i.e., almost zero-copy) serialization/deserialization framework: https://crates.io/crates/epserde
 
 ## Rust Internals:
 

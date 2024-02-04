@@ -22,6 +22,9 @@
 - Paxos, Raft, EPaxos: How Has Distributed Consensus Technology Evolved?: https://www.alibabacloud.com/blog/paxos-raft-epaxos-how-has-distributed-consensus-technology-evolved_597127
 - Minimizing corrleated failures in distributed systems: https://aws.amazon.com/builders-library/minimizing-correlated-failures-in-distributed-systems/
 - Notes on Interval Tree Clocks: https://ferd.ca/interval-tree-clocks.html
+- Optimism vs Pessimism in Distributed Systems: https://brooker.co.za/blog/2023/10/18/optimism.html
+- Linearizability versus Serializability: http://www.bailis.org/blog/linearizability-versus-serializability/
+- Testing Distributed Systems: https://asatarin.github.io/testing-distributed-systems/
 
 ## Videos:
 
@@ -35,6 +38,8 @@
 ## Repos:
 
 - Circuit breaker library: https://github.com/Netflix/Hystrix
+- A fast linearizability checker written in Go: https://github.com/anishathalye/porcupine/
+- <1kloc, well-documented Raft consensus algorithm implementation: https://github.com/jackyzha0/miniraft
 
 ## Books:
 

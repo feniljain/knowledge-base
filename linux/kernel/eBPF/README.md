@@ -88,6 +88,7 @@
 - Writing an eBPF Application using libbpf: https://blog.qsliu.dev/posts/writing_an_ebpf_application/
 - Learning eBPF: Setting up the environment: https://rnemet.dev/posts/ebpf/learn-ebpf/
 - eBPFmon: A new tool for exploring and interacting with eBPF applications: https://redcanary.com/blog/ebpfmon/
+- eBPF Documentary: https://ebpfdocumentary.com/
 
 ### Tutorials:
 
@@ -185,6 +186,7 @@
 - A Linux lightweight and high-performance transparent proxy solution based on eBPF: https://github.com/v2rayA/dae
 - eBPF explorer lets you see all the maps and programs in eBPF subsystem: https://github.com/ebpfdev/explorer
 - eBPF verifier log viewer: https://github.com/ph1048/ebpfdbg
+-  A modular and blazing fast runtime security framework for the IoT, powered by eBPF: https://github.com/Exein-io/pulsar
 
 ## Reddit and twitter threads:
 
@@ -212,6 +214,7 @@
 - A Beginners Guide to eBPF Programming for Networking: https://www.youtube.com/watch?v=l5l2EckwWME
 - bpfd: https://www.youtube.com/watch?v=KskHG7jU1Q0
 - Bringing the Power of eBPF to QEMU: https://www.youtube.com/watch?v=yE1RXf9d7ic
+- eBPF: Unlocking the Kernel [OFFICIAL DOCUMENTARY]: https://www.youtube.com/watch?v=Wb_vD3XZYOA
 
 ## Companies involved in space:
 

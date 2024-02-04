@@ -44,6 +44,7 @@
 - https://medium.com/@iamjwr/software-engineer-roadmap-via-books-a6aabdc2589c
 - https://dannorth.net/2022/02/10/cupid-for-joyful-coding/
 - Project Management for Software Engineers: https://sookocheff.com/post/engineering-management/project-management-for-software-engineers/
+- Random Fuzzy Thoughts: https://tigerbeetle.com/blog/2023-03-28-random-fuzzy-thoughts/
 
 ## Blogs Series:
 

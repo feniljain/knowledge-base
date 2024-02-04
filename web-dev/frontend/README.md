@@ -8,6 +8,7 @@
 - https://webcolorisstillbroken.com/
 - Free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React: https://www.patterns.dev/
 - https://domevents.dev/
+- https://motion.zajno.com/
 
 ## Videos:
 

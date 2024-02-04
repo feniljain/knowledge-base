@@ -25,6 +25,7 @@
 - https://www.npmjs.com/package/simple-peer
 - WebRTC SFU sora: https://sora-doc.shiguredo.jp/
 - https://icetest.info/
+- https://quic.video/
 
 ## GoogleGroups:
 
@@ -157,6 +158,7 @@
 - WebRTC media resilience: the role FEC, RED, PLC, RTX and other acronyms play: https://bloggeek.me/webrtc-media-resilience/
 - Debugging WebRTC in the browsers: https://www.webrtc-developers.com/debugging-webrtc-in-the-browsers/
 - WebRTC Top 100 Open-Source projects for 2023: https://www.webrtc-developers.com/webrtc-top-100-open-source-projects-for-2023/
+- Mastering the AV1 SVC chains: https://medooze.medium.com/mastering-the-av1-svc-chains-a4b2a6a23925
 
 ### Tutorials:
 
@@ -236,6 +238,12 @@ Social audio applications with Janus: https://www.meetecho.com/blog/social-audio
 - A very simple, high performance, edge WebRTC SFU: https://github.com/binbat/live777
 - https://github.com/firefart/stunner
 - Turns a Web Browser into a Web Server with WebRTC: https://github.com/sinclairzx81/smoke
+- Node.js Native Addon that provides bindings to WebRTC M94: https://github.com/WonderInventions/node-webrtc
+- WHEP Tube: https://whep.tube/
+- Shim to insulate apps from spec changes and prefix differences. Latest adapter.js release: https://github.com/webrtcHacks/adapter
+- Easy to use WebRTC data channels and media transport. libdatachannel node bindings: https://github.com/murat-dogan/node-datachannel
+- Decentralized, Global-Scale Media Server written in Rust (WebRTC/Whip/Whep/Rtmp/Sip): https://github.com/8xFF/atm0s-media-server
+- donut is a zero setup required SRT+MPEG-TS -> WebRTC Bridge powered by Pion: https://github.com/flavioribeiro/donut
 
 ## Useful SO questions:
 

@@ -1,4 +1,4 @@
-h2 align="center">OS</h2>
+<h2 align="center">OS</h2>
 
 ## Websites:
 
@@ -28,6 +28,8 @@ h2 align="center">OS</h2>
 - This is the companion code for my series on writing an operating system: https://github.com/o-oconnell/writeyourownos
 - Writing an OS in Go: The Bootloader: https://totallygamerjet.hashnode.dev/writing-an-os-in-go-the-bootloader
 - The Adventures of OS: Making a RISC-V Operating System using Rust: https://osblog.stephenmarz.com/
+- OS in Rust: https://rust-class.org/pages/classes.html
+- Writing a file system from scratch: https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html
 
 ### Others:
 
@@ -60,9 +62,13 @@ h2 align="center">OS</h2>
 - Writing an OS in Rust to run on RISC-V: https://gist.github.com/cb372/5f6bf16ca0682541260ae52fc11ea3bb
 - macOS Internals: https://gist.github.com/kconner/cff08fe3e0bb857ea33b47d965b3e19f
 - Assemblers: https://maskray.me/blog/2023-05-08-assemblers
-- αcτµαlly pδrταblε εxεcµταblε: https://justine.lol/ape.html
+- actually portable executable: https://justine.lol/ape.html
+- How spinlocks work in Linux: https://blog.regehr.org/archives/2173
 
 ## Blog series/Articles collections:
+
+- 20 part series on linkers: https://lwn.net/Articles/276782/
+- Collection of articles on understanding debugger internals: https://werat.dev/blog/learning-about-debuggers/
 
 ## Repos:
 
@@ -76,6 +82,7 @@ h2 align="center">OS</h2>
 - Tiny C++ boot loader: https://github.com/AgentD/hausboot
 - x86 hobby OS written in Rust: https://github.com/mrgian/felix
 - build-once run-anywhere c library, it reconfigures stock GCC and Clang to output a POSIX-approved polyglot format that runs natively on all platforms: https://github.com/jart/cosmopolitan
+- Keystone is a lightweight multi-platform, multi-architecture assembler framework: https://www.keystone-engine.org/
 
 ## Reddit and twitter threads:
 
@@ -89,6 +96,8 @@ h2 align="center">OS</h2>
 - The Linux Kernel Module Programming Guide: https://www.reddit.com/r/linux/comments/owc2gh/the_linux_kernel_module_programming_guide/
 - A Journey in Creating an Operating System Kernel: http://539kernel.com/
 - A book teaching assembly language programming on the ARM 64 bit ISA: https://github.com/pkivolowitz/asm_book
+- Operating Systems: Three Easy Pieces: https://pages.cs.wisc.edu/~remzi/OSTEP/
+- x86-64 Assembly Language Programming with Ubuntu: http://www.egr.unlv.edu/~ed/x86.html
 
 ## Videos:
 
@@ -102,6 +111,8 @@ h2 align="center">OS</h2>
 - UEFI Dev in C: https://youtu.be/t3iwBQg_Gik
 - How does an OS boot?: https://www.youtube.com/watch?v=KkenLT8S9Hs
 - Virtual Console and printf(): https://www.youtube.com/watch?v=uNp4DElDQyY
+- Deep dive on how static files are served with HTTP (kernel, sockets, file system, memory, zero copy): https://www.youtube.com/watch?v=rIcahiIklSk
+- Writing an operating system: https://www.youtube.com/playlist?list=PL980gcR1LE3LBuWuSv2CL28HsfnpC4Qf7
 
 <h2 align="center">Kernel</h2>
 

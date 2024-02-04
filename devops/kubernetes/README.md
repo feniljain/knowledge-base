@@ -77,6 +77,7 @@
 - Solving common problems with Kubernetes: https://blog.adamchalmers.com/kubernetes-problems/
 - Scaling kubernetes to 7500 nodes: https://openai.com/research/scaling-kubernetes-to-7500-nodes
 - How can pods talk to one another? A brief guide to Kubernetes networking: https://ergomake.dev/blog/kubernetes-networking-guide/
+- A Deeper Dive of kube-scheduler: https://www.awelm.com/posts/kube-scheduler/
 
 ## Blog series:
 

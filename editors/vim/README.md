@@ -5,7 +5,6 @@
 ## Changes I want to make in my vim workflow ( for future, less busy me? ):
 
 - Hide the command space when there's no command: https://www.reddit.com/r/neovim/comments/vb8l3y/set_cmdheight0_merged_into_neovim_master/
-- set laststatus=3 : Unifying all statuslines
 
 ## Vim fun:
 
@@ -136,6 +135,9 @@
 - Structuring Neovim Lua plugins: https://zignar.net/2022/11/06/structuring-neovim-lua-plugins/
 - null_ls being difficult was all in my head: https://nullvoxpopuli.com/2023-03-13-null-ls/
 - Develop a Neovim plugin in Lua: https://m4xshen.dev/posts/develop-a-neovim-plugin-in-lua/
+- Seven habits of effective text editing: https://moolenaar.net/habits.html
+- A guide on Neovim's LSP client: https://vonheikemen.github.io/devlog/tools/neovim-lsp-client-guide/
+- https://vonheikemen.github.io/devlog/tools/vim-and-the-quickfix-list/
 
 ## VimTricks:
 

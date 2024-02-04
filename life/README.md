@@ -416,6 +416,7 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - We first make our habits, and then our habits make us. - John Dryden
 - Always remember that the future comes one day at a time. - Dean Acheson
 - Use the talents you possess, for the woods would be very silent if no birds sang except the best. - Henry Van Dyke
+- Fear of life closes off more opportunities for us than fear of death ever does. - Agnes Moorehead
 
 ## Books:
 

@@ -18,6 +18,8 @@
 - https://papl.cs.brown.edu/2020/index.html
 - List of companies working on things realted to compiler: https://mgaudet.github.io/CompilerJobs/
 - A bunch of resources: https://bernsteinbear.com/pl-resources/
+- QBE is a compiler backend that aims to provide 70% of the performance of industrial optimizing compilers in 10% of the code: https://c9x.me/compile/
+- understanding register allocation via graph coloring: https://rsms.me/projects/chaitin
 
 ## Blogs and articles:
 
@@ -45,6 +47,7 @@
 - Nice list of resources on learning more about modern compilers: https://lobste.rs/s/zqa4cc/learning_modern_compilers
 - Compiler Hacking: https://yangdanny97.github.io/blog/2020/05/29/chocopy-typechecker
 - MLIR Tutorial for beginners: https://github.com/j2kun/mlir-tutorial
+- Write your own retro compiler: http://t3x.org/t3x/0/book.html
 
 ### Others:
 
@@ -165,6 +168,13 @@
 - Resilient LL Parsing Tutorial: https://matklad.github.io/2023/05/21/resilient-ll-parsing-tutorial.html
 - Writing a linux debugger: https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/
 - The AST Typing Problem: http://blog.ezyang.com/2013/05/the-ast-typing-problem/
+- On Leaning Compilers and Programming Languages: https://www.craigstuntz.com/posts/2023-10-13-learning-compilers-and-programming-languages.html
+- Interesting read on how to leverage LLVM IR to hunt those corner optimizations!: https://tigerbeetle.com/blog/2023-07-26-copy-hunting/
+- Core of JIT, just this: https://bpa.st/6XIA
+- Scanner-Driven Parser Development: https://depth-first.com/articles/2019/01/22/scanner-driven-parser-development/
+- Building a high performance JSON parser: https://dave.cheney.net/paste/gophercon-sg-2023.html
+- Nice intro understanding to terms in LTO and what it is: https://convolv.es/guides/lto/
+- Compiler Resources: https://gist.github.com/RealNeGate/d0d45b74d7352872d4cf2470a600fbbb
 
 ## Blog series/Articles collection:
 
@@ -227,6 +237,7 @@
 - A Compiler writing journey: https://github.com/DoctorWkt/acwj/
 - A lightweight LLVM python binding for writing JIT compilers: https://github.com/numba/llvmlite
 - Graph based intermediate representation and backend for optimising compilers: https://github.com/libfirm/libfirm
+- A self-hosting and educational C optimizing compiler: https://github.com/sysprog21/shecc
 
 ## Grammars:
 

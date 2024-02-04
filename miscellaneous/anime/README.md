@@ -30,7 +30,6 @@
 - Rage of Bahamut
 - Lupin the Third
 - Lycoris Recoil
-- Cyberpunk: Edgerunners
 - C Danchi: Horror ( check how it is before starting tho )
 - Balance Unlimited
 - Re:Creators
@@ -39,6 +38,8 @@
 - Golden Kamuy
 - Rurouni kenshin ( new adaptation )
 - zom 100: bucket list of the dead
+- Pluto
+- Kaijuu 8-gou
 
 ## Mecha and Space:
 
@@ -66,7 +67,6 @@
 - FLCL
 - Spiral
 - Beautiful Bones
-- Mushi Shi
 - Zetsuen no tempest
 - Great Pretender
 - Suzumiya Haruhi no Yuuutsu
@@ -112,7 +112,6 @@
 - Mononoke
 - Toilet-bound Hanako-kun
 - ID: Invaded
-- Mushishi
 - Beastars
 - scrapped princess
 - humanity has declined
@@ -160,6 +159,8 @@
 - Space Dandy
 - Rankings of Kings
 - Gin no saji
+- Undead unluck
+- Mashle: Magic and Muscles
 
 ## Sad & Romance & SOL:
 
@@ -175,7 +176,6 @@
 - Boarding school Juliet
 - Kokoro connect
 - Tsurezure children
-- Gamers
 - As the moon so beautiful
 - Tonari no kaibustsu-kun(My little monster)
 - Handa-kun
@@ -193,7 +193,6 @@
 - March comes in like a lion
 - himouto umaru chan
 - Kakushigoto
-- Barakamom
 - 3D kanojo: Real Girl
 - Sing "yesterday" for me
 - Aoi bungaku: No longer human
@@ -235,6 +234,8 @@
 - Kaguya sama season 3
 - Skip and Loafer
 - Insomnia After School
+- Hinamatsuri
+- Skip and loafer
 
 ## Sports:
 
@@ -247,10 +248,12 @@
 - sk8 the infinity
 - Blue Lock ( recommendation from here: https://www.youtube.com/watch?v=NH4DwFLlbHU )
 - Ping Pong the Animation
+- Overtake
 
 ## Isekai:
 
 - That time I got reincarnated as slime
+- Eminence in shadow
 
 ## Drama:
 
@@ -262,6 +265,8 @@
 - Natsume Yuujinchou
 - Blue Period
 - Oshi no ko
+- The Apothecary Diaries
+- Good Night World
 
 ## Ecchi:
 
@@ -274,6 +279,8 @@
 - Blood Blockade Battlefront
 - Lupin the Third
 - Sousou No Frieren
+- Burn the Witch
+- Darwins Game
 
 ## Manga To Read:
 
@@ -417,7 +424,6 @@
 - Durara
 - Your lie in april
 - Dororo
-- Death Note
 - Vinland Saga
 - Future Diary
 - Neon Genesis Evangelion
@@ -524,7 +530,6 @@
 - Great Teacher Onizuka
 - One Piece
 - Baccano
-- Mind Game
 - Hajime no Ippo
 - Summer Time Rendering
 - Barakamon
@@ -543,6 +548,13 @@
 - Angels of Death
 - Bloom into you
 - Trigun Stampede
+- Gamers
+- Heaven Official's Blessing S1 (Tian Guan Ci Fu)
+- Initial D
+    - https://www.reddit.com/r/initiald/comments/ktqsh0/initial_d_watch_order/
+- Mind Game
+- Mushi Shi
+- Bocchi the rock
 
 ## Caught up Mangas:
 

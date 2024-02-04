@@ -13,6 +13,8 @@
 - Superpumped ( Uber's story )
 - Dark Waters ( Good Psychological Thriller )
 - 3%
+- midsommar
+- jojo rabbit
 
 # Already watched ( list is heavily incomplete ):
 

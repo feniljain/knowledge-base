@@ -37,6 +37,7 @@
 - http://www.oldlinux.org/
 - Understand any shell command easily: https://explainshell.com/
 - Find bugs in your shell scripts: https://www.shellcheck.net/
+- https://www.damnsmalllinux.org/
 
 ## Blogs and articles:
 
@@ -75,6 +76,7 @@
 - https://medium.com/@Prinux/curl-command-explained-c1ecbed117d
 - What's the Most Portable Way to Include Binary Blobs in an Executable?: https://tratt.net/laurie/blog/2022/whats_the_most_portable_way_to_include_binary_blobs_in_an_executable.html
 - Unix Koans: https://prirai.github.io/books/unix-koans.html
+- Linux System Call Table: https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
 
 ### Linux working:
 
@@ -133,6 +135,7 @@
 - Writing a toy traceroute from scratch: https://alexanderell.is/posts/toy-traceroute/
 - Shrinking a Shared Library: https://serge-sans-paille.github.io/pythran-stories/shrinking-a-shared-library.html
 - Writing a Debugger From Scratch: https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/
+- A Minimum Complete Tutorial of Linux ext4 File System: A Minimum Complete Tutorial of Linux ext4 File System
 
 ### Others:
 
@@ -284,6 +287,7 @@
 - Before Main: How Executables Work on Linux: https://www.youtube.com/watch?v=jR2hUhjcAXI
 - Hidden tips, tricks, and shortcuts to make GNOME even better: https://www.youtube.com/watch?v=dLsj8plxBn0
 - Understaing strace: https://www.youtube.com/watch?v=engduNoI6DE
+- Linux Networking: How The Kernel Handles A TCP Connection: https://www.youtube.com/watch?v=ck4WvYM9V4c
 
 ## Courses:
 
@@ -371,3 +375,4 @@
 - https://despairlabs.com/blog/posts/2021-06-16-io-uring-is-not-an-event-system/
 - https://www.sobyte.net/post/2022-04/io-uring/
 - Lord of the io_uring: io_uring tutorial, examples and reference: https://github.com/shuveb/loti
+- io_uring basics: Writing a file to disk: https://notes.eatonphil.com/2023-10-19-write-file-to-disk-with-io_uring.html

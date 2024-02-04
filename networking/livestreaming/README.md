@@ -52,6 +52,21 @@
 - CMAF ( Common Media Application Format ) Explained. What is CMAF and How Does It Work?: https://antmedia.io/cmaf-streaming/
 - System Design — Live Streaming to millions: https://medium.com/@saurabh.codes/system-design-live-streaming-to-millions-1739fc748ef8
 - FFmpeg - The Ultimate Guide: https://img.ly/blog/ultimate-guide-to-ffmpeg/
+- https://www.mux.com/blog/the-community-gave-us-low-latency-live-streaming-then-apple-took-it-away
+- Original Periscope blog for LHLS: https://medium.com/@periscopecode/introducing-lhls-media-streaming-eb6212948bef
+- Low Latency HLS - LHLS: https://www.theoplayer.com/blog/low-latency-hls-lhls
+- Low Latency with Chunked CMAF: https://www.theoplayer.com/blog/low-latency-chunked-cmaf
+- https://www.theoplayer.com/guide/how-to-optimize-ll-hls-for-low-latency-streaming
+- https://www.theoplayer.com/blog/optimizing-ll-hls-4-recommendations
+- https://bitmovin.com/live-low-latency-hls/
+- https://aws.amazon.com/blogs/media/alhls-apple-low-latency-http-live-streaming-explained/
+- The Evolution of Low-Latency Video Streaming: https://www.brightcove.com/en/resources/blog/evolution-of-low-latency-streaming/
+- What’s the delay? Pushing the limits of ultra-low latency HLS streaming: https://www.nativewaves.com/news/press-releases-and-articles/whats-the-delay-pushing-the-limits-of-ultra-low-latency-hls-streaming/
+- Enabling Low-Latency HTTP Live Streaming (HLS): https://developer.apple.com/documentation/http-live-streaming/enabling-low-latency-http-live-streaming-hls
+- HTTP Live Streaming 2nd Edition draft-pantos-hls-rfc8216bis-13: https://datatracker.ietf.org/doc/html/draft-pantos-hls-rfc8216bis
+- Apple's official HLS updates announce Mailing List: https://lists.apple.com/mailman/listinfo/hls-announce
+- Replacing HLS/DASH: https://quic.video/blog/replacing-hls-dash/
+- Distribution at Twitch: https://quic.video/blog/distribution-at-twitch/
 
 ## Blog series/articles collection:
 
@@ -85,6 +100,7 @@
 - Ready-to-use RTSP / RTMP / LL-HLS / WebRTC server and proxy that allows to read, publish and proxy video and audio streams: https://github.com/bluenviron/mediamtx
 - A collection of open source software and libraries, focused on media streaming and protocols.: https://github.com/bluenviron
 - A broadcast, in a box: https://github.com/Glimesh/broadcast-box
+- Python m3u8 Parser for HTTP Live Streaming (HLS) Transmissions: https://github.com/globocom/m3u8
 
 ## Videos:
 
@@ -93,6 +109,10 @@
 - Measuring the live video latency at scale: https://www.youtube.com/watch?v=D6I2zQa6Icw
 - LL-HLS, LHLS, DASH-LL: Challenges and Differences: https://www.youtube.com/watch?v=DVrPv-8PUm4
 - WHIP and WHEP: Standardized Live Streaming with WebRTC: https://www.youtube.com/watch?v=rIQVVJOjR0U
+- The challenges of deploying Apple's Low Latency HLS In Real Life: https://www.youtube.com/watch?v=GxFm4ikKiZc
+- Demuxed, Low-Latency HLS: https://www.youtube.com/watch?v=28RBhQW0mi4
+- CMAF & ByteRange A Unified & Efficient Solution for Low Latency Streaming: https://www.youtube.com/watch?v=VFbRyqURRsM
+- Scaling Low-Latency HLS: Harder Than You Think: https://www.youtube.com/watch?v=AvoBou3VQj0
 
 ## Course:
 

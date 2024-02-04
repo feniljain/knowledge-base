@@ -49,6 +49,7 @@
 ## Books:
 
 - "What a Good Developer Resume Looks Like" Book : https://thetechresume.com/ ( this can be availed for free too, source: https://blog.pragmaticengineer.com/advice-for-junior-software-engineers/, you just need to email the author of pragmaticengineer )
+- https://staffeng.com/
 
 ## Reddit/HN threads and tweets:
 
@@ -56,3 +57,4 @@
 - Free resume builders: https://twitter.com/hasantoxr/status/1571465364898459648
 - Numbers which can be used in performance reviews: https://twitter.com/GergelyOrosz/status/1602312952526344192/
 - Job Boards for Europe: https://twitter.com/soorajchandran_/status/1610491972221034496
+- some practical tips from sam altman about being successful in career: https://twitter.com/sama/status/1214274038933020672

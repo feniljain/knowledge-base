@@ -12,6 +12,7 @@
 - https://kernelnewbies.org/LinuxChanges
 - http://eudyptula-challenge.org/
 - Interactive map of kernel: https://makelinux.github.io/kernel/map/
+- easylkb: Easy Linux Kernel Builder: https://tmpout.sh/3/20.html
 
 ## Blogs and articles:
 
@@ -37,6 +38,8 @@
 - Building an out-of-tree Rust Kernel Module: https://blog.rnstlr.ch/building-an-out-of-tree-rust-kernel-module.html
 - A Tutorial how to get started with Linux Kernel Modules and Linux Drivers: https://github.com/Johannes4Linux/Linux_Driver_Tutorial
 - Nolibc: a minimal C-library replacement shipped with the kernel: https://lwn.net/SubscriberLink/920158/313ec4305df220bb/
+- Kernel Live Patching: Concept: https://documentation.suse.com/smart/deploy-upgrade/html/concept-klp/index.html
+- Introducing kpatch: Dynamic Kernel Patching: https://www.redhat.com/en/blog/introducing-kpatch-dynamic-kernel-patching
 
 ## Dev:
 

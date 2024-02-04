@@ -64,6 +64,8 @@
 - https://startafuckingblog.com/
 - Callgrind: a call-graph generating cache and branch prediction profiler: https://valgrind.org/docs/manual/cl-manual.html
 - https://learnawesome.org/
+- https://tinyprograms.org/
+- https://codingchallenges.fyi/
 
 ## Blogs and Articles:
 
@@ -228,10 +230,13 @@
 - Esoteric datastructures: https://news.ycombinator.com/item?id=32186203
 - Donut math: how donut.c works: https://www.a1k0n.net/2011/07/20/donut-math.html
 - Is Parallel Programming Hard, And, If So, What Can You Do About It?: https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html
+- Interactive Introduction To CRDTs: https://jakelazaroff.com/words/an-interactive-intro-to-crdts/
+- Rob Pike's 5 Rules of programming: https://users.ece.utexas.edu/~adnan/pike.html
 
 ### Tutorials:
 
 - https://kean.blog/post/lets-build-regex
+- Learn Makefiles: https://makefiletutorial.com/
 
 ## Blog Series/Articles collection:
 
@@ -262,9 +267,10 @@
 - Immigrant Computer Scientists: https://open.spotify.com/show/165S0iev1NbimrJ2FSsLes?si=2bb0af6919f54f13
 - Land of the Giants: https://www.vox.com/land-of-the-giants-podcast
 
-## Course:
+## Courses:
 
 - CS 168: The Modern Algorithmic Toolbox: https://web.stanford.edu/class/cs168/index.html
+- Bitwise is a free educational project about building the software and hardware stack for a simple computer from scratch, running on an FPGA. This includes all the systems software, including operating system, compiler, etc, as well as the HDL source code for the CPU, graphics chip, peripheral controllers--all of it: https://bitwise.handmade.network/
 
 ## Reddit posts/tweets and HN threads:
 
@@ -383,6 +389,7 @@
 - The earliest versions of the very first c compiler known to exist in the wild written by the late legend himself dmr: https://github.com/mortdeus/legacy-cc
 - Learn Anything: https://github.com/learn-anything
 - Browse web over SMS: https://github.com/lukeaschenbrenner/TxtNet-Browser/blob/master/README.md
+- https://github.com/Kobzol/hardware-effects
 
 ## Extensions:
 

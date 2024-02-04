@@ -19,6 +19,14 @@
 - https://hdtoday.tv/
 - hdmovies2.asia
 - https://m4ufree.vip/
+- thenextplanet
+- moviersverse
+- olamovies.top
+- Vegamovies
+- HD4Hub
+- hdmovie2
+- moviesdrive
+- yeahmovies
 
 # Blogs and articles:
 

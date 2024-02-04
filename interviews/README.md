@@ -6,6 +6,7 @@ Instead use sites like these (discussion where I found these: https://news.ycomb
 - https://seanprashad.com/leetcode-patterns/
 - https://neetcode.io/
 - https://algo.monster/
+- https://www.onsites.fyi/
 
 ## Websites:
 
@@ -130,6 +131,7 @@ Instead use sites like these (discussion where I found these: https://news.ycomb
 - https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation
 - Curated interview preparation materials for busy engineers: https://github.com/yangshun/tech-interview-handbook
 - https://dev.to/olanetsoft/12-github-repositories-to-help-you-ace-your-job-interview-2a08
+- https://github.com/ashishps1/awesome-behavioral-interviews
 
 ## Tweets/HN Threads:
 

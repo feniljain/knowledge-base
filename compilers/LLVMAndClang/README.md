@@ -19,6 +19,7 @@
 - LLVM Learning Guide: https://github.com/mikeroyal/LLVM-Guide
 - Safe Wrapper for LLVM Bindings: https://github.com/TheDan64/inkwell
 - Cargo subcommand for viewing LLVM optimization remarks: https://github.com/kobzol/cargo-remark
+- A superoptimizer for LLVM IR: https://github.com/google/souper
 
 ## Reddit and twitter threads:
 

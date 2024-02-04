@@ -7,6 +7,7 @@
 - https://securityheaders.com/
 - the cryptopals crypto challenges: https://cryptopals.com/
 - https://h4ck1ng.google/
+- Avent Of Cyber 2023: https://tryhackme.com/r/christmas
 
 ## Blogs and articles:
 

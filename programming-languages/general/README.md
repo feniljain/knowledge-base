@@ -180,7 +180,7 @@
 
 - Learn Lisp The Hard Way: https://llthw.common-lisp.dev/
 
-## C and CPP
+## C and C++
 
 ### Under the hood:
 
@@ -196,6 +196,7 @@
 - https://stackoverflow.com/questions/2748995/struct-memory-layout-in-c
 - So you think you know C?: https://wordsandbuttons.online/so_you_think_you_know_c.html
 - https://itnext.io/the-114-standard-c-algorithms-introduction-2a75a2df4300
+- SIMD for C++ Developers: http://const.me/articles/simd/simd.pdf
 
 ### Blogs and articles:
 
@@ -265,6 +266,11 @@
 ### Blogs and articles:
 
 - https://medium.com/swlh/zig-the-introduction-dcd173a86975
+- https://www.openmymind.net/learning_zig/
+
+### Repos:
+
+- https://codeberg.org/ziglings/exercises/
 
 ## Carbon:
 
@@ -282,13 +288,3 @@
 
 - Compiling Swift Generics: https://forums.swift.org/t/compiling-swift-generics-part-i/60898
 - Vision for macros in Swift: https://forums.swift.org/t/a-possible-vision-for-macros-in-swift/60900/1
-
-## Haskell:
-
-- Haskell in not category theory: https://pema.dev/2023/02/01/haskell-not-ct/
-- https://haskell.mooc.fi/
-- Operator Glossary: https://www.fpcomplete.com/haskell/tutorial/operators/
-- https://github.com/tweag/awesome-learning-haskell
-- Haskell Learning Resource: https://twitter.com/haskellhutt/status/1641440088881242115
-- https://learnyouahaskell.github.io/
-- https://haskellbook.com/

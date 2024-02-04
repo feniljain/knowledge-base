@@ -192,6 +192,7 @@
 - https://github.com/SmiteshP/nvim-navic
 - https://github.com/RutaTang/quicknote.nvim
 - https://github.com/jonboh/nvim-dap-rr
+- Neovim plugin for interacting with Rust-Analyzer's LSP extensions: https://github.com/vxpm/ferris.nvim
 
 ## Some plugins/things I wanna checkout:
 
@@ -234,10 +235,13 @@
 - https://github.com/David-Kunz/markid
 - Deferring of NeoVim diagnostics, think to use this if you are facing perf issues with LSP client: https://github.com/yorickpeterse/nvim-dd
 - Dap configuration for the record and replay debugger. Supports Rust, C++ and C: https://github.com/jonboh/nvim-dap-rr
+- https://github.com/vxpm/ferris.nvim
+- https://github.com/mangelozzi/rgflow.nvim
 
 ## Things to try out in next release:
 
 - Move away from null-ls: https://github.com/jose-elias-alvarez/null-ls.nvim/issues/1621
+    - Also refer this issue to see what all LSP servers you can migrate to native LSP itself: https://github.com/nvimtools/none-ls.nvim/issues/58
 - Move to using lazy.nvim for loading plugins: https://github.com/folke/lazy.nvim
 - Give this a try: https://www.reddit.com/r/neovim/comments/154cyc6/comment/jsoe4tm/
 - experiment with this plugin: https://github.com/sindrets/diffview.nvim
@@ -261,3 +265,30 @@
 - https://www.reddit.com/r/neovim/comments/16n7r0q/pretty_lsp_floating_windows_now_part_of_neovim/
 - https://www.reddit.com/r/neovim/comments/16qcncm/how_do_you_put_borders_on_this_lsp_preview_ive/
 - Find nice UIs around this PR: https://www.reddit.com/r/neovim/comments/16tdrfd/telescopenvim_fully_customizable_layout/
+- Community Fork of null-ls: https://www.reddit.com/r/neovim/comments/16wystn/nonelsnvim_is_a_community_fork_of_nulllsnvim/
+- https://www.reddit.com/r/neovim/comments/171lezz/comment/k3rhqxi/
+- https://www.reddit.com/r/neovim/comments/17cwptz/native_snippet_api_has_been_merged_into_neovim/
+- https://github.com/vxpm/ferris.nvim
+- https://github.com/mangelozzi/rgflow.nvim
+- feat(clipboard): add OSC 52 clipboard support: https://github.com/neovim/neovim/pull/25872
+- Use popup windows to navigate files/buffer and to contain shells/TUIs: https://github.com/carbon-steel/detour.nvim/
+- https://twitter.com/Neovim/status/1724027241477128362
+- https://www.petergundel.de/git/neovim/telescope/2023/03/22/git-jump-in-neovim-with-telescope.html
+- Check all utilities in this: https://github.com/echasnovski/mini.nvim
+- https://www.reddit.com/r/neovim/comments/17ux1nf/comment/k9b4423/
+- https://www.reddit.com/r/neovim/comments/18ri1bm/its_been_like_10_years_and_i_just_learned_that/ : https://github.com/tversteeg/registers.nvim
+- https://news.ycombinator.com/item?id=38755694
+- Integrate this properly in your workflow: https://www.reddit.com/r/neovim/comments/18ucnby/finally_telescope_support_location_paths/
+- https://github.com/tris203/hawtkeys.nvim
+- https://github.com/neovim/neovim/issues/21422
+- Make a keybinding for type definition preview from lspsaga, and correct lspsaga impl
+    - Also give a project-wide search and replace a try
+    - And call heirarchy too
+    - shift to using breadcrumbs from this, if you decide to remove lspsaga, then use the plugin instead
+    - shift to using symbols outline from this
+    - also use number of impls available
+- Shift config to modern: https://github.com/nvim-lua/kickstart.nvim
+- Optimize your setup for large files: https://www.reddit.com/r/neovim/comments/190ntm3/how_neovim_performs_on_large_files_a_comparison/
+- https://www.reddit.com/r/neovim/comments/19aratu/psa_nvimtreesitter_breaking_changes_on_highlight/
+- Highlight in folds: https://twitter.com/Neovim/status/1751036490396655634
+- https://www.reddit.com/r/neovim/comments/1abd2cq/what_are_your_favorite_tricks_using_neovim/

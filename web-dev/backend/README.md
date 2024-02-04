@@ -7,6 +7,7 @@
 - https://opensource.zalando.com/restful-api-guidelines/
 - https://httpstatuses.com/
 - https://webhooks.fyi/
+- https://curlconverter.com/
 
 ## Blogs And Articles:
 
@@ -142,6 +143,7 @@
 - RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services: https://github.com/microsoft/restler-fuzzer
 - A curated list of data engineering tools for software developers: https://github.com/igorbarinov/awesome-data-engineering
 - A simple HTTP proxy that fogs over naughty URLs: https://github.com/stripe/smokescreen
+- Techniques and numbers for estimating system's performance from first-principles: https://github.com/sirupsen/napkin-math
 
 ## Videos:
 

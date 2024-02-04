@@ -51,6 +51,9 @@
 - Rust to WebAssembly the hard way: https://surma.dev/things/rust-to-webassembly/
 - GC Extension for wasm: https://github.com/WebAssembly/gc/blob/master/proposals/gc/Overview.md
 - WebAssembly tail calls: https://v8.dev/blog/wasm-tail-call
+- A new way to bring garbage collected programming languages efficiently to WebAssembly: https://v8.dev/blog/wasm-gc-porting
+- Build your own WebAssembly Compiler: https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html
+- Understanding Every Byte in a WASM Module: https://danielmangum.com/posts/every-byte-wasm-module/
 
 # Books:
 
@@ -76,3 +79,5 @@
 - A list of webassemby runtimes: https://github.com/appcypher/awesome-wasm-runtime
 - Creative coding and other mischief in handwritten WebAssembly, using the WebAssembly .wat text format: https://github.com/austintheriot/hand-crafted-wasm
 - Zero dependency webassembly runtime of go developers: https://wazero.io/
+- Effect handlers for web assembly: https://wasmfx.dev/
+- Wasm compiler for running Wasm on your favorite kernel: https://github.com/Mewz-project/Wasker

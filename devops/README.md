@@ -16,6 +16,7 @@
 - Hands on lab for devops stuff: https://prod.cloudyuga.guru/hands_on_lab/
 - Visualize your cloud architecture like a pro. Create smart AWS diagrams: https://www.cloudcraft.co/
 - Visualize your cloud architecture: https://www.cloudskew.com/
+- https://deploymentfromscratch.com/
 
 ## Blogs and Articles:
 

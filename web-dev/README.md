@@ -50,6 +50,7 @@
 - No really, why can't we have raw UDP in JavaScript?: https://www.computerenhance.com/p/no-really-why-cant-we-have-raw-udp
 - History of Web Browser Engines from 1990 until today: https://eylenburg.github.io/browser_engines.htm
 - Sharing Websocket connections between browses tabs and windows: https://brightinventions.pl/blog/sharing-websocket-connections-between-browser-tabs-and-windows/
+- 67 Weird Debugging Tricks Your Browser Doesn't Want You to Know: https://alan.norbauer.com/articles/browser-debugging-tricks
 
 ## Blog series/Articles collection:
 

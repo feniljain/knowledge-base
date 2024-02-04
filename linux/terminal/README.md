@@ -94,6 +94,7 @@
 - Screen{shot,cast} and perform ImageOps on the command line: https://github.com/orhun/menyoki
 - Share your terminal over the web: https://github.com/tsl0922/ttyd
 - A better and friendly vi(vim) mode plugin for ZSH: https://github.com/jeffreytse/zsh-vi-mode
+- Reparent a running program to a new terminal: https://github.com/nelhage/reptyr
 
 ## Terminal tools I use:
 

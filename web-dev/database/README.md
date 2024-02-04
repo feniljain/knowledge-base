@@ -13,6 +13,8 @@
 - https://psql-tips.org/
 - https://www.edgedb.com/
 - https://drawsql.app/
+- PostgreSQL's explain analyze made readable: https://explain.depesz.com/
+- npm for Postgres: https://pgxman.com/
 
 ## Blogs And Articles:
 
@@ -122,6 +124,14 @@
 - SQL join flavors: https://antonz.org/sql-join/
 - When do nullable columns affect performance severely?: https://stackoverflow.com/questions/18005269/when-do-nullable-columns-affect-performance-severely
 - Memory optimization: https://redis.io/docs/management/optimization/memory-optimization/
+- Learning PostgreSQL Internals: http://blog.cleverelephant.ca/2022/10/postgresql-links.html
+- Easy to follow tutorial on creating Postgres Extensions: https://github.com/IshaanAdarsh/Postgres-extension-tutorial/blob/main/SGML/intro_and_toc.md
+- Hacking on postgres: http://www.neilconway.org/talks/hacking/ottawa/ottawa_slides.pdf
+- Pluggable Table Access Method: https://www.pgcon.org/2019/schedule/attachments/536_pgcon2019_pluggable_table_AM_V1.3.pdf
+- Two Exciting PostgreSQL Features To Improve NULL Handling: https://www.pgrs.net/2023/11/14/two-exciting-postgresql-features-to-improve-null-handling/
+- Exploring a Postgres query plan: https://notes.eatonphil.com/2023-11-19-exploring-a-postgres-query-plan.html
+- BTrees Learning Resources: https://eatonphil.com/btrees.html
+- Postgres HowTos: https://gitlab.com/postgres-ai/postgresql-consulting/postgres-howtos
 
 ## Blog Series:
 
@@ -148,10 +158,13 @@
 - Build a NoSQL Database From Scratch in 1000 Lines of Code: https://betterprogramming.pub/build-a-nosql-database-from-the-scratch-in-1000-lines-of-code-8ed1c15ed924
 - Subreddit dedicated sepcifically to database development: https://www.reddit.com/r/databasedevelopment/comments/unj8d1/getting_started_with_database_development/
 - Writing your own PostgreSQL driver: https://medium.com/scum-gazeta/writing-your-own-postgresql-driver-ebd5fd6d187d
+- How to build a simple LSM-Tree storage engine in the Rust: https://skyzh.github.io/mini-lsm/
 
 ## Books:
 
 - https://www.databass.dev/
+- https://www.scylladb.com/2023/10/02/introducing-database-performance-at-scale-a-free-open-source-book/
+- Postgres 14 internals: https://postgrespro.com/blog/pgsql/5969985
 
 ## Podcast:
 
@@ -176,6 +189,9 @@
 - Easily setup logical replication and switchover to new database with minimal downtime: https://github.com/shayonj/pg_easy_replicate
 - A Language Server for Postgres: https://github.com/supabase/postgres_lsp
 - pgJQ: Use jq in Postgres: https://github.com/Florents-Tselai/pgJQ
+- Elastic-Quality Full Text Search Inside Postgres: https://docs.paradedb.com/blog/introducing_bm25
+- Unofficial documentation for PostgreSQL hooks: https://github.com/taminomara/psql-hooks
+- Bare minimal Postgres extension in C: https://github.com/eatonphil/pgext-101
 
 ## Research Papers:
 
@@ -214,6 +230,7 @@
 - https://www.reddit.com/r/SQL/comments/q5hw3o/free_resources_to_learn_sql/
 - https://www.reddit.com/r/computerscience/comments/tdf4st/any_good_books_about_developing_efficient_data/
 - multi column indexes: https://twitter.com/tobias_petry/status/1691404826813370368
+- Intermediate database projects to hack on: https://twitter.com/eatonphil/status/1735086414012801374
 
 ## Blogs and articles:
 
@@ -223,3 +240,4 @@
 - https://www.crunchydata.com/blog/rise-of-the-anti-join
 - A Critique of SQL, 40 Years Later: https://carlineng.com/?postid=sql-critique#blog
 - Type Constraints in 65 lines of SQL: https://supabase.com/blog/type-constraints-in-65-lines-of-sql
+- https://antonz.org/sql-window-functions-rolling-aggregates/

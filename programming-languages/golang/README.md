@@ -22,6 +22,7 @@
 - You can change space occupied by struct just by reordering the struct fields: https://play.golang.org/p/MBXg4UBOerp
 - https://rytisbiel.com/2021/03/06/darker-corners-of-go/
 - https://blog.merovius.de/posts/2022-05-16-calculating-type-sets/
+- Generics can make your Go code slower(a good analysis of impl and which all cases it falls apart): https://planetscale.com/blog/generics-can-make-your-go-code-slower
 
 ### Tutorials:
 
@@ -77,6 +78,7 @@
 - https://deathbykeystroke.com/articles/20220106-real-macros-in-go.html
 - https://gosamples.dev/tags/generics-intro/
 - Go linters configuration, the right version: https://olegk.dev/go-linters-configuration-the-right-version
+- Minimalist TCP server/client in Go using only syscalls - Select() to handle file descriptors: https://gist.github.com/vomnes/be42868583db5812b7266b2f45262dca
 
 ### Architecture:
 
@@ -191,6 +193,10 @@
 - Crimes with Go Generics: https://christine.website/blog/gonads-2022-04-24
 - https://dave.cheney.net/high-performance-go-workshop/gophercon-2019.html
 - New in Go 1.20: wrapping multiple errors: https://lukas.zapletalovi.com/posts/2022/wrapping-multiple-errors/
+- Upgradable Read Write Lock for Go: https://upstash.com/blog/upgradable-rwlock-for-go
+- Synchronization Constructs in the Go Standard Library: https://hjr265.me/blog/synchronization-constructs-in-go-standard-library/
+- Go Fact: Zero-sized Field at the Rear of a Struct Has Non-zero Size: https://i.hsfzxjy.site/zst-at-the-rear-of-go-struct/
+- Goscript Internals I: Overview: https://goscript.dev/posts/goscript_internals_I_overview_en
 
 ## Blog Series:
 
@@ -338,6 +344,7 @@
 - Collection of unusual usecases of generics: https://github.com/xakep666/unusual_generics
 - A go framework for microservices: https://github.com/go-kratos/kratos
 - Suggests struct field arrangments to make memory usage most efficient: https://github.com/orijtech/structslop
+- Make your Go programs use less memory (maybe): https://github.com/dkorunic/betteralign
 
 ## Packages:
 
