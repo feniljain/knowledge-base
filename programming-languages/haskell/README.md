@@ -17,3 +17,4 @@
 - https://github.com/tweag/awesome-learning-haskell
 - Haskell Learning Resource: https://twitter.com/haskellhutt/status/1641440088881242115
 - http://wiki.haskell.org/H-99:_Ninety-Nine_Haskell_Problems
+- http://jackkelly.name/blog/archives/2022/05/28/text-mode_games_as_first_haskell_projects/index.html

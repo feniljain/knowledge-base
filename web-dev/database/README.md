@@ -14,7 +14,7 @@
 - https://www.edgedb.com/
 - https://drawsql.app/
 - PostgreSQL's explain analyze made readable: https://explain.depesz.com/
-- npm for Postgres: https://pgxman.com/
+- A guide to database performance for developers: https://use-the-index-luke.com/
 
 ## Blogs And Articles:
 
@@ -132,6 +132,7 @@
 - Exploring a Postgres query plan: https://notes.eatonphil.com/2023-11-19-exploring-a-postgres-query-plan.html
 - BTrees Learning Resources: https://eatonphil.com/btrees.html
 - Postgres HowTos: https://gitlab.com/postgres-ai/postgresql-consulting/postgres-howtos
+- Recovering Deleted Data From PostgreSQL Tables: https://www.cybertec-postgresql.com/en/recovering-deleted-data-from-postgresql-tables/
 
 ## Blog Series:
 
@@ -192,6 +193,9 @@
 - Elastic-Quality Full Text Search Inside Postgres: https://docs.paradedb.com/blog/introducing_bm25
 - Unofficial documentation for PostgreSQL hooks: https://github.com/taminomara/psql-hooks
 - Bare minimal Postgres extension in C: https://github.com/eatonphil/pgext-101
+- https://postgresql-anonymizer.readthedocs.io/en/stable/
+- PostgreSQL Index Advisor: https://github.com/supabase/index_advisor
+- linter for PostgreSQL, focused on migrations: https://github.com/sbdchd/squawk
 
 ## Research Papers:
 
@@ -215,11 +219,13 @@
 - https://selectstarsql.com/
 - https://www.sqlstyle.guide/
 
-## Repos:
+## Tools:
 
 - https://github.com/xo/usql
 - A random SQL query generator: https://github.com/anse1/sqlsmith
 - SQL Query AST and Visitor for Rust: https://github.com/prisma/quaint
+- https://michaelsogos.github.io/pg-diff/
+- npm for Postgres: https://pgxman.com/
 
 ## Reddit threads and tweets:
 

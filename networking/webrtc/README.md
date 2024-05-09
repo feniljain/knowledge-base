@@ -26,6 +26,7 @@
 - WebRTC SFU sora: https://sora-doc.shiguredo.jp/
 - https://icetest.info/
 - https://quic.video/
+- https://iceperf.com/results
 
 ## GoogleGroups:
 
@@ -159,6 +160,8 @@
 - Debugging WebRTC in the browsers: https://www.webrtc-developers.com/debugging-webrtc-in-the-browsers/
 - WebRTC Top 100 Open-Source projects for 2023: https://www.webrtc-developers.com/webrtc-top-100-open-source-projects-for-2023/
 - Mastering the AV1 SVC chains: https://medooze.medium.com/mastering-the-av1-svc-chains-a4b2a6a23925
+- Live video over data channel: https://www.webrtc-developers.com/a-journey-on-video-streams-and-bytes/
+- Probing WebRTC Bandwidth Probing – why and how in gcc: https://webrtchacks.com/probing-webrtc-bandwidth-probing-why-and-how-in-gcc/
 
 ### Tutorials:
 
@@ -244,6 +247,8 @@ Social audio applications with Janus: https://www.meetecho.com/blog/social-audio
 - Easy to use WebRTC data channels and media transport. libdatachannel node bindings: https://github.com/murat-dogan/node-datachannel
 - Decentralized, Global-Scale Media Server written in Rust (WebRTC/Whip/Whep/Rtmp/Sip): https://github.com/8xFF/atm0s-media-server
 - donut is a zero setup required SRT+MPEG-TS -> WebRTC Bridge powered by Pion: https://github.com/flavioribeiro/donut
+- Useful snippets to copy paste while debugging webrtc encoding configurations on other websites in the JS console: https://github.com/ggarber/webrtc-intercept
+- Testing framework for decoders conformance: https://github.com/fluendo/fluster
 
 ## Useful SO questions:
 

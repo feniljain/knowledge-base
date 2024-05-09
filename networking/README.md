@@ -19,6 +19,10 @@
 - https://isbgpsafeyet.com/
 - https://bgp.tools/
 - https://protohackers.com/
+- The FLExible Network Tester: https://flent.org/
+- Start your own ISP: https://startyourownisp.com/
+- https://routeviews.org/
+- Wireshark Profiles Repository: https://www.cellstream.com/wireshark-profiles-repository/
 
 ## Diagrams:
 
@@ -157,6 +161,7 @@
 - What I wish I knew when I got my ASN: https://quantum5.ca/2023/10/10/what-i-wish-i-knew-when-i-got-my-asn/
 - https://www.openmymind.net/WebSocket-Framing-Masking-Fragmentation-and-More/
 - Autobahn WebSocket protocol testsuite: https://github.com/crossbario/autobahn-testsuite
+- the top of the DNS hierarchy: https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html
 
 ## Books:
 
@@ -200,6 +205,7 @@
 - A minimal TCP/IP stack: https://github.com/cozis/microtcp
 - Async-friendly WebTransport implementation in Rust: https://github.com/BiagioFesta/wtransport
 - WebSockets From Scratch: https://github.com/pusher/websockets-from-scratch-tutorial/blob/master/README.md
+- PacketMill: Toward per-core 100-Gbps Networking: https://github.com/aliireza/packetmill
 
 ## Reddit, twitter and HN threads:
 

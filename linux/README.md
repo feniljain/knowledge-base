@@ -77,6 +77,8 @@
 - What's the Most Portable Way to Include Binary Blobs in an Executable?: https://tratt.net/laurie/blog/2022/whats_the_most_portable_way_to_include_binary_blobs_in_an_executable.html
 - Unix Koans: https://prirai.github.io/books/unix-koans.html
 - Linux System Call Table: https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
+- How to do Memory Profiling?: https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part1
+- Pseudo Graceful Process Termination through Code Injection: https://sigma-star.at/blog/2024/02/exit0-code-injection/
 
 ### Linux working:
 
@@ -129,6 +131,9 @@
 - https://medium.com/@omchakane/memory-management-in-linux-3b6228aa2de4
 - Linux — Socket Deep Dive: https://medium.com/geekculture/linux-socket-deep-dive-8c473b25fd22
 - Dynamic linker tricks: Using LD_PRELOAD to cheat, inject features and investigate programs: https://rafalcieslak.wordpress.com/2013/04/02/dynamic-linker-tricks-using-ld_preload-to-cheat-inject-features-and-investigate-programs/
+- RamFS, RootFS, InitramFS: https://www.kernel.org/doc/Documentation/filesystems/ramfs-rootfs-initramfs.txt
+- Differences Between ELF-32 and ELF-64: https://interrupt.memfault.com/blog/elf-format-differences
+- https://systemd-by-example.com/
 
 ### Tutorials:
 

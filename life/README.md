@@ -8,6 +8,7 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - https://hbs1963.com/
 - https://nofreakingspeaking.com/
 - Find exercises that work specific muscles: https://musclewiki.com/
+- https://www.themodernnomads.in/home
 
 ## Few Points:
 
@@ -417,6 +418,9 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - Always remember that the future comes one day at a time. - Dean Acheson
 - Use the talents you possess, for the woods would be very silent if no birds sang except the best. - Henry Van Dyke
 - Fear of life closes off more opportunities for us than fear of death ever does. - Agnes Moorehead
+- We are what we repeatedly do. Excellence then, is not an act, but a habit. - Will Durant
+- More people would learn from their mistakes if they weren't so busy denying them. - Harold J Smith
+- Being happy doesn't mean that everything is perfect. It means that you decided to look beyond the imperfections.
 
 ## Books:
 

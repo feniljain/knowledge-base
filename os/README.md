@@ -30,6 +30,8 @@
 - The Adventures of OS: Making a RISC-V Operating System using Rust: https://osblog.stephenmarz.com/
 - OS in Rust: https://rust-class.org/pages/classes.html
 - Writing a file system from scratch: https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html
+- Writing a Unix-like OS in Rust: https://vmm.dev/en/rust/osinrust.md
+- Kernels 101 – Let’s write a Kernel: https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel
 
 ### Others:
 
@@ -113,6 +115,7 @@
 - Virtual Console and printf(): https://www.youtube.com/watch?v=uNp4DElDQyY
 - Deep dive on how static files are served with HTTP (kernel, sockets, file system, memory, zero copy): https://www.youtube.com/watch?v=rIcahiIklSk
 - Writing an operating system: https://www.youtube.com/playlist?list=PL980gcR1LE3LBuWuSv2CL28HsfnpC4Qf7
+- How signals work: https://www.youtube.com/watch?v=d0gS5TXarXc
 
 <h2 align="center">Kernel</h2>
 

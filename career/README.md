@@ -35,6 +35,7 @@
 - Your First 60 Days at an Engineering Job: https://code.dblock.org/2015/04/23/your-first-60-days-at-an-engineering-job.html
 - Optimal Stopping Theory For Hiring: https://matt-rickard.ghost.io/optimal-stopping-theory/
 - The Well Rounded Engineer: https://speakerdeck.com/swanandp/the-well-rounded-engineer
+- Some notes on possible things to do/explore when joining a new team: https://notes.eatonphil.com/2024-03-11-first-month-on-a-database-team.html
 
 ## Blog series/Collection of articles:
 

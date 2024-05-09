@@ -80,6 +80,8 @@ Instead use sites like these (discussion where I found these: https://news.ycomb
 - https://hypercontext.com/blog/management-skills/engineers-share-candid-feedback-one-on-ones
 - 4 Examples of How to Answer “Tell Me About Yourself” in Interviews: https://careersidekick.com/tell-me-about-yourself-interview-question-answer/
 - How to pass the interview for software engineering roles in Big Tech - Handbook: https://www.lambrospetrou.com/articles/big-tech-software-interviews/
+- https://henrikwarne.com/2024/02/11/finding-a-new-software-developer-job/
+- https://pragtob.wordpress.com/2023/11/29/interviewing-tips-technical-challenges-coding-more/
 
 ## Videos:
 

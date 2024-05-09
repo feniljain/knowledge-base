@@ -113,6 +113,8 @@
 - How to build recommendation algorithms and system designs: https://www.theinsaneapp.com/2021/03/system-design-and-recommendation-algorithms.html
 - How to search point-of-interest (POI) markers on a map efficiently: https://medium.com/booking-com-development/how-to-search-point-of-interest-poi-markers-on-a-map-efficiently-b5f3f37a914a
 - https://engineercodex.substack.com/p/how-facebook-scaled-memcached
+- https://www.uber.com/en-IN/blog/how-uber-serves-over-40-million-reads-per-second-using-an-integrated-cache/
+- Notes on GitLab Postgres Schema Design: https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/
 
 ## Repos:
 

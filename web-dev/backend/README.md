@@ -114,6 +114,8 @@
 - Collection of best practices for providing and consuming webhooks: https://webhooks.fyi/ ( Relevant HN Discussion: https://news.ycombinator.com/item?id=32517645, another nice discussion: https://news.ycombinator.com/item?id=37514801, article is not that useful in last one )
 - Original C10K page: https://web.archive.org/web/19990508164301/http://www.kegel.com/c10k.html
 - Debugging Node.js in Production: https://netflixtechblog.com/debugging-node-js-in-production-75901bb10f2d
+- Envoy as an API Gateway: https://ekhabarov.com/post/envoy-as-an-api-gateway/
+- Strategies to manage websocket connections at scale: https://www.canva.dev/blog/engineering/enabling-real-time-collaboration-with-rsocket/
 
 ## Blog series/Articles collection:
 

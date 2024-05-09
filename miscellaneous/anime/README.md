@@ -38,8 +38,8 @@
 - Golden Kamuy
 - Rurouni kenshin ( new adaptation )
 - zom 100: bucket list of the dead
-- Pluto
 - Kaijuu 8-gou
+- Metallic Rouge
 
 ## Mecha and Space:
 
@@ -85,7 +85,6 @@
 - Shadow Star Narutaru
 - Joker
 - Blue Literature series
-- Btooom!
 - Casshern Sins
 - Texhnolyze
 - Girls’ Last Tour
@@ -139,7 +138,7 @@
 - Kobayashi no maid dragon
 - Tonari no seki-kun
 - Maidens of the savage
-- Love is hard for otaku
+- Wotokoi: Love is hard for otaku
 - Amagi Brilliant Park
 - Pet girl of sakurasou
 - Devil is a part timer
@@ -161,6 +160,7 @@
 - Gin no saji
 - Undead unluck
 - Mashle: Magic and Muscles
+- Under Ninja
 
 ## Sad & Romance & SOL:
 
@@ -176,8 +176,6 @@
 - Boarding school Juliet
 - Kokoro connect
 - Tsurezure children
-- As the moon so beautiful
-- Tonari no kaibustsu-kun(My little monster)
 - Handa-kun
 - Boku to kimi no taisetsu na hanashi
 - Sukasuka
@@ -203,7 +201,6 @@
 - Snow white with the red hair
 - Oresuki
 - Fruits basket
-- Koe no kanata
 - Wolf girl and Black Prince
 - Tada kun never falls in love
 - Oreshura
@@ -236,6 +233,24 @@
 - Insomnia After School
 - Hinamatsuri
 - Skip and loafer
+- A sign of affection
+- Remake our life
+- Tonikawa
+- Kono Oto Tomare
+- Yamada-kun to 7-nin no majo
+- My Dress-Up Darling
+- The Dangers in my heart
+- Insomanicas after school
+- Ore monogatari
+- Sakrua-sou no pet no kanojo
+- Komi can't communicate
+- The angel next door spoils me rotten
+- Bottom-Tier Character Tomozaki
+- 7th time loop
+- Recovery of an MMO Junkie
+- KimiSen
+- My Love Story with Yamada-kun at Lv999
+- Snow White with the Read Hair
 
 ## Sports:
 
@@ -249,6 +264,7 @@
 - Blue Lock ( recommendation from here: https://www.youtube.com/watch?v=NH4DwFLlbHU )
 - Ping Pong the Animation
 - Overtake
+- Shangrila Frontier
 
 ## Isekai:
 
@@ -281,6 +297,15 @@
 - Sousou No Frieren
 - Burn the Witch
 - Darwins Game
+- Delicious in Dungeon
+- Migi and Dali
+- Death Mount Death Play
+- 16 bit sensation
+- Jellyfish can't swim in the night
+- Train to the end of the world
+- The Fable
+- Wind Breaker
+- Girls Band Cry
 
 ## Manga To Read:
 
@@ -322,6 +347,11 @@
 - All Sonny Boy OSTs
 - One Piece: To the Grand Line
 
+## Mangas to read:
+
+- Sakamoto Days
+- Tokyo Ghoul
+
 ## MAL accounts to lookout anime from(this is just a list of decent accounts I come across):
 
 - https://myanimelist.net/profile/G_Spark233
@@ -348,6 +378,8 @@
 ## Watch Websites:
 
 - https://aniwatch.me/
+- https://aniwatchtv.to/
+- anicrush.to
 - animesuge.to
 - animeowl.net
 - kissanimex.com
@@ -538,7 +570,7 @@
 - Deadman wonderland
 - Cyberpunk: Edgerunners
 - Mob Psycho 100 III
-- Beyond the boundary
+- Beyond the boundary (Koe no kanata)
 - The Disastrous Life of Saiki K.
 - Shiki
 - Mobile Suit Gundam 1979
@@ -551,10 +583,12 @@
 - Gamers
 - Heaven Official's Blessing S1 (Tian Guan Ci Fu)
 - Initial D
-    - https://www.reddit.com/r/initiald/comments/ktqsh0/initial_d_watch_order/
 - Mind Game
 - Mushi Shi
 - Bocchi the rock
+- Pluto
+- Tonari no kaibustsu-kun(My little monster)
+- Btooom!
 
 ## Caught up Mangas:
 
@@ -564,7 +598,6 @@
 - Dorohedero
 - Black Clover
 - Slam dunk
-- Tokyo Ghoul
 - Promised Neverland
 - Tengen Toppa Gurren Lagann
 - Horimiya

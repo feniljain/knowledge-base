@@ -31,6 +31,7 @@
 
 - Programming Elixir >= 1.6: https://medium.com/pragmatic-programmers/table-of-contents-796d06946fcf
 - Hands-on Elixir & OTP: Cryptocurrency trading bot: https://book.elixircryptobot.com/
+- Book On The Erlang Runtime System: https://blog.stenmans.org/theBeamBook/
 
 ## Repos:
 

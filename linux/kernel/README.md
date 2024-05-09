@@ -68,7 +68,7 @@
 - KASAN: https://www.kernel.org/doc/html/v4.14/dev-tools/kasan.html
 - Setting up email clients for kernel dev: https://github.com/torvalds/linux/blob/master/Documentation/process/email-clients.rst
 - https://www.kernel.org/doc/linux/MAINTAINERS
-- All mailing lists index: http://vger.kernel.org/vger-lists.html
+- All mailing lists index: http://vger.kernel.org/vger-lists.html ( New : https://subspace.kernel.org/vger.kernel.org.html )
 - Owners + last active periods: https://git.kernel.org/
 - Guide to kernel development process: https://www.kernel.org/doc/html/latest/process/development-process.html
 - First Kernel Patch: https://wiki.linuxfoundation.org/lkmp/lkmp_first_kernel_patch

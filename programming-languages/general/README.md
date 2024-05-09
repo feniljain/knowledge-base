@@ -244,6 +244,9 @@
 - The different ways to handle errors in C: https://mccue.dev/pages/7-27-22-c-errors
 - malloc() and free() are a bad API: https://www.foonathan.net/2022/08/malloc-interface/
 - https://interrupt.memfault.com/blog/a-modern-c-dev-env
+-  Generic Makefile for C++ projects with multiple cpp and h files: https://gist.github.com/zobayer1/7265c698d1b024bb7723bc624aeedeb3
+- Coroutines in C: https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html
+- Some tips for writing good C APIs/ABIs: https://nibblestew.blogspot.com/2024/04/c-is-dead-long-live-c-apis.html
 
 ### Blog series/articles collection:
 

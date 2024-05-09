@@ -31,6 +31,7 @@
 - https://nohello.net/en/
 - A collection of text files as guides to do various stuff: http://textfiles.com/directory.html
 - Search engine of shadow libraries: books, papers, comics, magazines. ⭐️ Z-Library, Library Genesis, Sci-Hub.: https://annas-archive.org/
+- Polish filters for AdBlock, uBlock Origin & AdGuard: https://majkiit.github.io/polish-ads-filter/en/
 
 ## Blogs and articles:
 
@@ -64,6 +65,7 @@
 - https://www.swarmia.com/blog/daily-stand-ups/
 - Are sofware engineers really engineers?: https://www.hillelwayne.com/post/are-we-really-engineers/
 - General Guide to Finding Accommodation In a New City (Targetted to Bangalore) : https://nvinayvarma189.github.io/posts/house-hunting/
+- What makes a great technical blog: https://notes.eatonphil.com/2024-04-10-what-makes-a-great-tech-blog.html
 
 ## Blog series/Articles collection:
 
@@ -149,6 +151,7 @@
 - Allows you easily scan for and delete scam comments using several methods : https://github.com/ThioJoe/YT-Spammer-Purge
 - Flashcard app in your terminal ( has support for Anki too ): https://github.com/TBS1996/speki
 - An open-source keystroke visualizer: https://github.com/keycastr/keycastr
+- "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files: https://github.com/rclone/rclone
 
 ## Newsletters:
 

@@ -66,6 +66,7 @@
 - https://learnawesome.org/
 - https://tinyprograms.org/
 - https://codingchallenges.fyi/
+- Ideas for projects to work on: https://aboutideasnow.com/
 
 ## Blogs and Articles:
 
@@ -232,6 +233,8 @@
 - Is Parallel Programming Hard, And, If So, What Can You Do About It?: https://mirrors.edge.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html
 - Interactive Introduction To CRDTs: https://jakelazaroff.com/words/an-interactive-intro-to-crdts/
 - Rob Pike's 5 Rules of programming: https://users.ece.utexas.edu/~adnan/pike.html
+- Introduction To Low Latency Programming: Minimize Branching And Jumping: https://tech.davidgorski.ca/introduction-to-low-latency-programming-minimize-branching-and-jumping/
+- Fifty Things you can do with a Software Defined Radio: https://blinry.org/50-things-with-sdr/
 
 ### Tutorials:
 
@@ -435,6 +438,7 @@
 - Fundamentals of Control Theory: https://engineeringmedia.com/books
 - Small Memory Software: Patterns for systems with limited memory: https://www.smallmemory.com/book.html
 - https://www.codehiddenlanguage.com/
+- Data Structures for Data-Intensive Applications: https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf
 
 ## Tools:
 

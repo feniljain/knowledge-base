@@ -138,6 +138,7 @@
 - Seven habits of effective text editing: https://moolenaar.net/habits.html
 - A guide on Neovim's LSP client: https://vonheikemen.github.io/devlog/tools/neovim-lsp-client-guide/
 - https://vonheikemen.github.io/devlog/tools/vim-and-the-quickfix-list/
+- Best Vim Tips: https://vim.fandom.com/wiki/Best_Vim_Tips
 
 ## VimTricks:
 
@@ -244,6 +245,7 @@
 - Share one rust-analyzer server instance between multiple LSP clients to save resources: https://github.com/pr2502/ra-multiplex
 - A version manager for neovim: https://github.com/MordechaiHadad/bob
 - Wasm platform for nvim: https://github.com/Borwe/wasm_nvim
+- https://github.com/dusans/vim-hardmode
 
 ## VimRCs for reference:
 

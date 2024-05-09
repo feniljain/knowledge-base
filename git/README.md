@@ -78,6 +78,10 @@
 - In a git repository, where do your files live?: https://jvns.ca/blog/2023/09/14/in-a-git-repository--where-do-your-files-live-/
 - Confusing Git Terminology: https://jvns.ca/blog/2023/11/01/confusing-git-terminology/
 - Some misc git facts: https://jvns.ca/blog/2023/10/20/some-miscellaneous-git-facts/
+- Amazing Git Tips and Tricks: https://blog.gitbutler.com/git-tips-and-tricks/
+- Popular Git Config Options: https://jvns.ca/blog/2024/02/16/popular-git-config-options/
+- Someone's git worktree usage: https://notes.billmill.org/blog/2024/03/How_I_use_git_worktrees.html
+- How HEAD works in git: https://jvns.ca/blog/2024/03/08/how-head-works-in-git/
 
 ## Tutorials:
 
@@ -112,6 +116,7 @@
 - Stunning insights for your GitHub Repo: https://repobeats.axiom.co/
 - https://github.com/Wilfred/difftastic
 - High-velocity, monorepo-scale workflow for Git: https://github.com/arxanas/git-branchless
+- A Git-compatible VCS that is both simple and powerful: https://github.com/martinvonz/jj
 
 ## Git Internals:
 

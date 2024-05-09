@@ -17,9 +17,10 @@
 - https://papl.cs.brown.edu/
 - https://papl.cs.brown.edu/2020/index.html
 - List of companies working on things realted to compiler: https://mgaudet.github.io/CompilerJobs/
-- A bunch of resources: https://bernsteinbear.com/pl-resources/
 - QBE is a compiler backend that aims to provide 70% of the performance of industrial optimizing compilers in 10% of the code: https://c9x.me/compile/
 - understanding register allocation via graph coloring: https://rsms.me/projects/chaitin
+- libFirm is a C library that provides a graph-based intermediate representation, optimizations, and assembly code generation suitable for use in compilers: https://pp.ipd.kit.edu/firm/
+- https://compileroptimizations.com/index.html
 
 ## Blogs and articles:
 
@@ -175,6 +176,7 @@
 - Building a high performance JSON parser: https://dave.cheney.net/paste/gophercon-sg-2023.html
 - Nice intro understanding to terms in LTO and what it is: https://convolv.es/guides/lto/
 - Compiler Resources: https://gist.github.com/RealNeGate/d0d45b74d7352872d4cf2470a600fbbb
+- How JIT Compilers are Implemented and Fast: Pypy, LuaJIT, Graal and More: https://kipp.ly/jits-impls/
 
 ## Blog series/Articles collection:
 
@@ -300,3 +302,5 @@
 ## Podcasts:
 
 - Cliff Click's podcast: https://player.fm/series/programming-and-performance-with-cliff-click-1549714
+
+I am a PL enthusiast, have been hanging around in PL communities for a while. Compilers and their internals peak my interest the most, also one of the reasons, I started contributing to various upstream rust tooling projects, they are their own compiler implementations but somehow lesser complex :P

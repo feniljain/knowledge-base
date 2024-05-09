@@ -186,7 +186,8 @@
 - A Linux lightweight and high-performance transparent proxy solution based on eBPF: https://github.com/v2rayA/dae
 - eBPF explorer lets you see all the maps and programs in eBPF subsystem: https://github.com/ebpfdev/explorer
 - eBPF verifier log viewer: https://github.com/ph1048/ebpfdbg
--  A modular and blazing fast runtime security framework for the IoT, powered by eBPF: https://github.com/Exein-io/pulsar
+- A modular and blazing fast runtime security framework for the IoT, powered by eBPF: https://github.com/Exein-io/pulsar
+- A dynamic real-time view of running eBPF programs. It displays the average runtime, events per second, and estimated total CPU % for each program: https://github.com/Netflix/bpftop
 
 ## Reddit and twitter threads:
 

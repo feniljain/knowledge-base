@@ -49,6 +49,9 @@
 - Nice visual tutorial on understand redirections: https://wiki.bash-hackers.org/howto/redirection_tutorial
 - Envio is a command-line tool that simplifies the management of environment variables across multiple profiles. It allows users to easily switch between different configurations and apply them to their current environment: https://github.com/humblepenguinn/envio
 - The data structure behind terminals: https://www.warp.dev/blog/the-data-structure-behind-terminals
+- Comparison of ZSH frameworks and plugin managers: https://gist.github.com/laggardkernel/4a4c4986ccdcaf47b91e8227f9868ded
+- Configuring Zsh Without Dependencies: https://thevaluable.dev/zsh-install-configure-mouseless/
+- Faster and enjoyable ZSH (maybe): https://htr3n.github.io/2018/07/faster-zsh/
 
 ### Tools:
 
@@ -95,6 +98,8 @@
 - Share your terminal over the web: https://github.com/tsl0922/ttyd
 - A better and friendly vi(vim) mode plugin for ZSH: https://github.com/jeffreytse/zsh-vi-mode
 - Reparent a running program to a new terminal: https://github.com/nelhage/reptyr
+- https://github.com/unixorn/awesome-zsh-plugins
+- Flexible and fast ZSH plugin manager: https://github.com/zdharma-continuum/zinit
 
 ## Terminal tools I use:
 

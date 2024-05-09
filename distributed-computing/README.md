@@ -25,6 +25,7 @@
 - Optimism vs Pessimism in Distributed Systems: https://brooker.co.za/blog/2023/10/18/optimism.html
 - Linearizability versus Serializability: http://www.bailis.org/blog/linearizability-versus-serializability/
 - Testing Distributed Systems: https://asatarin.github.io/testing-distributed-systems/
+- https://surfingcomplexity.blog/2023/12/31/consistency/
 
 ## Videos:
 

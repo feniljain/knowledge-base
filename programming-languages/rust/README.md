@@ -417,6 +417,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - Category Theory with Rust (pt1): https://www.kurtlawrence.info/blog/category-theory-with-rust-pt1
 - Time Travel Debugging in Rust: https://www.travelneil.com/time-travel-debugging-in-rust.html
 - Interrupts is Threads: https://onevariable.com/blog/interrupts-is-threads/
+- Code golfing Rust Binaries: https://darkcoding.net/software/a-very-small-rust-binary-indeed
 
 ## Blog Series/Collection of articles:
 
@@ -556,6 +557,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - GitHub action for cache-efficient Rust crates installation: https://github.com/baptiste0928/cargo-install
 - One to one realtime video meeting : https://github.com/williamlsh/meeting.rs
 - Interactively Visualizing Ownership and Borrowing for Rust: https://github.com/rustviz/rustviz
+- Automating Cargo project configuration using cargo-wizard: https://kobzol.github.io/rust/cargo/2024/03/10/rust-cargo-wizard.html
 
 ## Videos:
 

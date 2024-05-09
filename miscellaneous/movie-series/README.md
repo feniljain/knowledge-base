@@ -6,15 +6,16 @@
 - big bang theory
 - friends
 - brooklyn 99
-- better call saul
 - rings of power
 - young sheldon
-- 1899 ( Once it completes )
 - Superpumped ( Uber's story )
 - Dark Waters ( Good Psychological Thriller )
 - 3%
-- midsommar
 - jojo rabbit
+- Aloners
+- Reacher series
+- Hannibal
+- last of us
 
 # Already watched ( list is heavily incomplete ):
 
@@ -28,3 +29,7 @@
 - silicon valley
 - the boys
 - lord of rings all movies
+- midsomnar
+- better call saul
+- 1899
+- shogun

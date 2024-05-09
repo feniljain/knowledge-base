@@ -45,6 +45,7 @@
 - https://dannorth.net/2022/02/10/cupid-for-joyful-coding/
 - Project Management for Software Engineers: https://sookocheff.com/post/engineering-management/project-management-for-software-engineers/
 - Random Fuzzy Thoughts: https://tigerbeetle.com/blog/2023-03-28-random-fuzzy-thoughts/
+- A nice article on relevance of different components at different maturity levels of project: https://matklad.github.io/2024/03/22/basic-things.html
 
 ## Blogs Series:
 

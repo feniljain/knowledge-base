@@ -237,6 +237,7 @@
 - Dap configuration for the record and replay debugger. Supports Rust, C++ and C: https://github.com/jonboh/nvim-dap-rr
 - https://github.com/vxpm/ferris.nvim
 - https://github.com/mangelozzi/rgflow.nvim
+- https://github.com/kr40/nvim-macros
 
 ## Things to try out in next release:
 
@@ -292,3 +293,11 @@
 - https://www.reddit.com/r/neovim/comments/19aratu/psa_nvimtreesitter_breaking_changes_on_highlight/
 - Highlight in folds: https://twitter.com/Neovim/status/1751036490396655634
 - https://www.reddit.com/r/neovim/comments/1abd2cq/what_are_your_favorite_tricks_using_neovim/
+- https://github.com/fredeeb/tardis.nvim
+- https://github.com/agoodshort/telescope-git-submodules.nvim
+- https://twitter.com/Neovim/status/1755246318174261478
+- https://github.com/stevearc/conform.nvim
+- Shift to using it once it's completely out: Trouble v3 is now in beta!: https://www.reddit.com/r/neovim/comments/1bq6w7f/trouble_v3_is_now_in_beta/
+- Built-in commenting: https://github.com/neovim/neovim/pull/28176
+- Explore if we can use this instead of harpoon: https://github.com/dharmx/track.nvim
+- https://github.com/sam4llis/nvim-tundra
