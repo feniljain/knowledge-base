@@ -146,6 +146,8 @@
 - A curated list of data engineering tools for software developers: https://github.com/igorbarinov/awesome-data-engineering
 - A simple HTTP proxy that fogs over naughty URLs: https://github.com/stripe/smokescreen
 - Techniques and numbers for estimating system's performance from first-principles: https://github.com/sirupsen/napkin-math
+- Unified datasets for public cloud provider IP ranges. Providers include AWS, Azure, CloudFlare, DigitalOcean, Fastly, Google Cloud and Oracle Cloud: https://github.com/tobilg/public-cloud-provider-ip-ranges
+- A collective list of free APIs: https://github.com/public-apis/public-apis
 
 ## Videos:
 

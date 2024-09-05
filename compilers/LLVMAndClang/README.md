@@ -10,6 +10,7 @@
 - How to contribute to LLVM: https://developers.redhat.com/articles/2022/12/20/how-contribute-llvm
 - Mapping Python to LLVM: https://blog.exaloop.io/python-llvm/
 - A Gentle Introduction to LLVM IR: https://mcyoung.xyz/2023/08/01/llvm-ir/
+- How to Compile Your Language: https://isuckatcs.github.io/how-to-compile-your-language/index.html
 
 ## Repos:
 
@@ -20,6 +21,10 @@
 - Safe Wrapper for LLVM Bindings: https://github.com/TheDan64/inkwell
 - Cargo subcommand for viewing LLVM optimization remarks: https://github.com/kobzol/cargo-remark
 - A superoptimizer for LLVM IR: https://github.com/google/souper
+
+# Books:
+
+- Mapping High Level Constructs to LLVM IR: https://mapping-high-level-constructs-to-llvm-ir.readthedocs.io/en/latest/
 
 ## Reddit and twitter threads:
 

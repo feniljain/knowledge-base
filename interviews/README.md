@@ -3,6 +3,7 @@
 # DO NOT TRY TO GRIND LEETCODE BLINDLY
 
 Instead use sites like these (discussion where I found these: https://news.ycombinator.com/item?id=37534204):
+
 - https://seanprashad.com/leetcode-patterns/
 - https://neetcode.io/
 - https://algo.monster/
@@ -18,6 +19,8 @@ Instead use sites like these (discussion where I found these: https://news.ycomb
 - https://www.bigocheatsheet.com/
 - Do go through this in any case: http://www.ardendertat.com/2012/01/09/programming-interview-questions/
 - http://layoffs.fyi/
+- Improve your resume and LinkedIn profile: https://resumeworded.com/
+- https://www.rezi.ai/
 
 ## Blogs and Articles:
 
@@ -82,6 +85,7 @@ Instead use sites like these (discussion where I found these: https://news.ycomb
 - How to pass the interview for software engineering roles in Big Tech - Handbook: https://www.lambrospetrou.com/articles/big-tech-software-interviews/
 - https://henrikwarne.com/2024/02/11/finding-a-new-software-developer-job/
 - https://pragtob.wordpress.com/2023/11/29/interviewing-tips-technical-challenges-coding-more/
+- https://www.ashwinmenon.com/posts/thoughts/2022-02-10-tech-interviews-beating-the-game/
 
 ## Videos:
 

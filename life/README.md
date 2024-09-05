@@ -421,6 +421,11 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - We are what we repeatedly do. Excellence then, is not an act, but a habit. - Will Durant
 - More people would learn from their mistakes if they weren't so busy denying them. - Harold J Smith
 - Being happy doesn't mean that everything is perfect. It means that you decided to look beyond the imperfections.
+- It's a helluva start, being able to recognize what makes you happy. - Lucille Ball
+- Let your days fill up with small moments that work together to achieve big dreams. - Andres Pira
+- Adopt the pace of nature, her secret is patience. - Ralph Emerson
+- This is your life. Do what you love, and do it often. - Holstee Manifesto
+- To be beautiful means to be yourself. You don't need to be accepted by others. You need to be yourself. - Thich Nhat Hanh
 
 ## Books:
 

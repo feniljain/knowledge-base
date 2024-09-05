@@ -79,6 +79,7 @@
 - Linux System Call Table: https://chromium.googlesource.com/chromiumos/docs/+/master/constants/syscalls.md
 - How to do Memory Profiling?: https://easyperf.net/blog/2024/02/12/Memory-Profiling-Part1
 - Pseudo Graceful Process Termination through Code Injection: https://sigma-star.at/blog/2024/02/exit0-code-injection/
+- Linux network performance ultimate guide: https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide/
 
 ### Linux working:
 
@@ -134,6 +135,7 @@
 - RamFS, RootFS, InitramFS: https://www.kernel.org/doc/Documentation/filesystems/ramfs-rootfs-initramfs.txt
 - Differences Between ELF-32 and ELF-64: https://interrupt.memfault.com/blog/elf-format-differences
 - https://systemd-by-example.com/
+- What is PID 0?: Also covers what code parts of linux kernel gets executed in early boot time: https://blog.dave.tf/post/linux-pid0/
 
 ### Tutorials:
 
@@ -259,6 +261,11 @@
 - USB WiFi Adapter Information for Linux: https://github.com/morrownr/USB-WiFi
 - Linux-factory: A framework used to create custom Linux Debian operating systems: https://github.com/clayrisser/linux-factory
 - Some helpful preload libraries for pwning stuff: https://github.com/zardus/preeny
+- A memory profiler for Linux: https://github.com/koute/bytehound
+- sched_ext schedulers and tools: https://github.com/sched-ext/scx
+- the event driven initramfs infrastructure: https://github.com/dracutdevs/dracut
+- X-Ray vision for Linux systems, perf, debug: https://github.com/tanelpoder/0xtools
+- A heap memory profiler for Linux: https://github.com/KDE/heaptrack
 
 ## Podcasts:
 

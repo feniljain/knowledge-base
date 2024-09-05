@@ -13,6 +13,8 @@
 - http://eudyptula-challenge.org/
 - Interactive map of kernel: https://makelinux.github.io/kernel/map/
 - easylkb: Easy Linux Kernel Builder: https://tmpout.sh/3/20.html
+- A Linux kernel syscall implementation tracker: https://syscalls.mebeim.net/?table=x86/64/x64/latest
+- Linux Call convention by architechture: https://syscall.sh/
 
 ## Blogs and articles:
 
@@ -40,6 +42,7 @@
 - Nolibc: a minimal C-library replacement shipped with the kernel: https://lwn.net/SubscriberLink/920158/313ec4305df220bb/
 - Kernel Live Patching: Concept: https://documentation.suse.com/smart/deploy-upgrade/html/concept-klp/index.html
 - Introducing kpatch: Dynamic Kernel Patching: https://www.redhat.com/en/blog/introducing-kpatch-dynamic-kernel-patching
+- Linux Kernel Teaching: https://linux-kernel-labs.github.io/refs/heads/master/index.html
 
 ## Dev:
 
@@ -68,7 +71,7 @@
 - KASAN: https://www.kernel.org/doc/html/v4.14/dev-tools/kasan.html
 - Setting up email clients for kernel dev: https://github.com/torvalds/linux/blob/master/Documentation/process/email-clients.rst
 - https://www.kernel.org/doc/linux/MAINTAINERS
-- All mailing lists index: http://vger.kernel.org/vger-lists.html ( New : https://subspace.kernel.org/vger.kernel.org.html )
+- All mailing lists index: http://vger.kernel.org/vger-lists.html ( New : https://subspace.kernel.org/vger.kernel.org.html)
 - Owners + last active periods: https://git.kernel.org/
 - Guide to kernel development process: https://www.kernel.org/doc/html/latest/process/development-process.html
 - First Kernel Patch: https://wiki.linuxfoundation.org/lkmp/lkmp_first_kernel_patch
@@ -78,6 +81,7 @@
 - Coding Style PPT by Greg: http://www.kroah.com/linux/talks/ols_2002_kernel_codingstyle_talk/html/index.html
 - Project Ideas for a linux kernel module: https://news.ycombinator.com/item?id=35784514
 - Nix flake for linux kernel module development with rust support: https://github.com/jordanisaacs/kernel-module-flake
+- Receive and process logs from the Linux kernel: https://github.com/facebook/netconsd
 
 ## Blog series/Article collection:
 

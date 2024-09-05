@@ -115,6 +115,8 @@
 - https://engineercodex.substack.com/p/how-facebook-scaled-memcached
 - https://www.uber.com/en-IN/blog/how-uber-serves-over-40-million-reads-per-second-using-an-integrated-cache/
 - Notes on GitLab Postgres Schema Design: https://shekhargulati.com/2022/07/08/my-notes-on-gitlabs-postgres-schema-design/
+- Reducing search indexing latency to one second: https://blog.x.com/engineering/en_us/topics/infrastructure/2020/reducing-search-indexing-latency-to-one-second
+- Google Calendar Complete DB Design: https://kb.databasedesignbook.com/posts/google-calendar/
 
 ## Repos:
 

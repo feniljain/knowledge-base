@@ -1,4 +1,4 @@
-<h2 align="center">Terminal</h2>
+<h2 align="center">Terminal/Shell</h2>
 
 ## Websites:
 
@@ -52,6 +52,8 @@
 - Comparison of ZSH frameworks and plugin managers: https://gist.github.com/laggardkernel/4a4c4986ccdcaf47b91e8227f9868ded
 - Configuring Zsh Without Dependencies: https://thevaluable.dev/zsh-install-configure-mouseless/
 - Faster and enjoyable ZSH (maybe): https://htr3n.github.io/2018/07/faster-zsh/
+- https://mywiki.wooledge.org/Bashism
+- How XTerm works: https://kevroletin.github.io/terminal/2021/12/11/how-terminal-works-in.html
 
 ### Tools:
 
@@ -61,6 +63,10 @@
 ### Tutorials:
 
 - Build your own shell: https://github.com/tokenrove/build-your-own-shell
+
+## Reddit and twitter threads:
+
+- Problems with colors/italics, etc. with tmux/neovim: https://www.reddit.com/r/neovim/comments/171lezz/comment/k3rhqxi/
 
 ## Tips:
 

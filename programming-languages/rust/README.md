@@ -558,6 +558,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - One to one realtime video meeting : https://github.com/williamlsh/meeting.rs
 - Interactively Visualizing Ownership and Borrowing for Rust: https://github.com/rustviz/rustviz
 - Automating Cargo project configuration using cargo-wizard: https://kobzol.github.io/rust/cargo/2024/03/10/rust-cargo-wizard.html
+- Remove unused Rust dependencies with this one weird trick!: https://github.com/bnjbvr/cargo-machete
 
 ## Videos:
 

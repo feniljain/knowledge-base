@@ -9,3 +9,9 @@
 
 - https://stronglifts.com/
 - https://musclewiki.com/
+- https://www.50pullups.com/
+
+# Climbing:
+
+- Technique Fundamentals: https://www.youtube.com/watch?v=b8sHOSukVi8&list=PLiZDfsSZ2zD1zSG7TlxnFC8iRq1SNuDwd
+- Things to improve at every grade: https://www.youtube.com/watch?v=h5Oxp9qujeE

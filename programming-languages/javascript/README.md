@@ -63,6 +63,7 @@
 - Experiments with the JavaScript Garbage Collector: https://dev.to/codux/experiments-with-the-javascript-garbage-collector-2ae3
 - ES modules: A cartoon deep-dive: https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/
 - An introduction to debugging in NodeJS: https://blog.openreplay.com/an-introduction-to-debugging-in-nodejs/
+- Your Node is Leaking Memory? setTimeout Could be the Reason: https://lucumr.pocoo.org/2024/6/5/node-timeout/
 
 ### Tutorials:
 

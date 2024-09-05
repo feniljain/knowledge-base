@@ -255,25 +255,11 @@
 ### Repos:
 
 - https://github.com/taichi-dev/taichi
+- A categorized list of C++ resources: https://github.com/MattPD/cpplinks/
 
 ### Learning:
 
 - https://www.learncpp.com/
-
-## Zig
-
-### Websites:
-
-- https://ziglearn.org/
-
-### Blogs and articles:
-
-- https://medium.com/swlh/zig-the-introduction-dcd173a86975
-- https://www.openmymind.net/learning_zig/
-
-### Repos:
-
-- https://codeberg.org/ziglings/exercises/
 
 ## Carbon:
 

@@ -23,6 +23,8 @@
 - Start your own ISP: https://startyourownisp.com/
 - https://routeviews.org/
 - Wireshark Profiles Repository: https://www.cellstream.com/wireshark-profiles-repository/
+- https://howdns.works/
+- a fully functional dynamic IP routing daemon: https://bird.network.cz/
 
 ## Diagrams:
 
@@ -44,6 +46,7 @@
 - How to send raw network packets in Python with tun/tap: https://jvns.ca/blog/2022/09/06/send-network-packets-python-tun-tap/
 - Building a Transport Protocol on ARP: https://kognise.dev/writing/arp
 - Running one's own root Certificate Authority in 2023: https://wejn.org/2023/09/running-ones-own-root-certificate-authority-in-2023/
+- Computer Networking Fundamentals course: https://labs.iximiuz.com/courses/computer-networking-fundamentals
 
 ### Others:
 
@@ -162,6 +165,11 @@
 - https://www.openmymind.net/WebSocket-Framing-Masking-Fragmentation-and-More/
 - Autobahn WebSocket protocol testsuite: https://github.com/crossbario/autobahn-testsuite
 - the top of the DNS hierarchy: https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html
+- An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?": https://github.com/alex/what-happens-when
+- TCP Performance and the Mathis Equation: https://netcraftsmen.com/tcp-performance-and-the-mathis-equation/
+- A Short IPv6 Guide for Home IPv4 Admins: https://gist.github.com/timothyham/dd003dbad5614b425a8325ec820fd785
+- Tunneling: http://www.saminiir.com/openvpn-puts-packets-inside-your-packets/#tunneling
+- Forwarding over 100 Mpps with FD.io VPP on x86: https://medium.com/google-cloud/forwarding-over-100-mpps-with-fd-io-vpp-on-x86-62b9447da554
 
 ## Books:
 
@@ -206,6 +214,9 @@
 - Async-friendly WebTransport implementation in Rust: https://github.com/BiagioFesta/wtransport
 - WebSockets From Scratch: https://github.com/pusher/websockets-from-scratch-tutorial/blob/master/README.md
 - PacketMill: Toward per-core 100-Gbps Networking: https://github.com/aliireza/packetmill
+- https://github.com/netty/netty
+- tcpdump like XDP packet capture: https://github.com/cloudflare/xdpcap
+- FD.io - The Fast Data Project Relentlessly focused on data IO speed and efficiency for more flexible and scalable networks and storage: https://github.com/FDio
 
 ## Reddit, twitter and HN threads:
 

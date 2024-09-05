@@ -235,6 +235,7 @@
 - Rob Pike's 5 Rules of programming: https://users.ece.utexas.edu/~adnan/pike.html
 - Introduction To Low Latency Programming: Minimize Branching And Jumping: https://tech.davidgorski.ca/introduction-to-low-latency-programming-minimize-branching-and-jumping/
 - Fifty Things you can do with a Software Defined Radio: https://blinry.org/50-things-with-sdr/
+- Software Optimization Resources: https://www.agner.org/optimize/
 
 ### Tutorials:
 

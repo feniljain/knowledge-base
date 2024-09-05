@@ -15,6 +15,8 @@
 - https://drawsql.app/
 - PostgreSQL's explain analyze made readable: https://explain.depesz.com/
 - A guide to database performance for developers: https://use-the-index-luke.com/
+- postgres encyclopedia: https://pgpedia.info/
+- https://sql-workbench.com/
 
 ## Blogs And Articles:
 
@@ -133,6 +135,7 @@
 - BTrees Learning Resources: https://eatonphil.com/btrees.html
 - Postgres HowTos: https://gitlab.com/postgres-ai/postgresql-consulting/postgres-howtos
 - Recovering Deleted Data From PostgreSQL Tables: https://www.cybertec-postgresql.com/en/recovering-deleted-data-from-postgresql-tables/
+- Postgres Autovacuum Tuning Basics: https://www.enterprisedb.com/blog/autovacuum-tuning-basics
 
 ## Blog Series:
 
@@ -160,6 +163,7 @@
 - Subreddit dedicated sepcifically to database development: https://www.reddit.com/r/databasedevelopment/comments/unj8d1/getting_started_with_database_development/
 - Writing your own PostgreSQL driver: https://medium.com/scum-gazeta/writing-your-own-postgresql-driver-ebd5fd6d187d
 - How to build a simple LSM-Tree storage engine in the Rust: https://skyzh.github.io/mini-lsm/
+- Building a database based on logs: https://buttondown.email/jaffray/archive/null-bitmap-builds-a-database-1-the-log-is/
 
 ## Books:
 
@@ -196,6 +200,8 @@
 - https://postgresql-anonymizer.readthedocs.io/en/stable/
 - PostgreSQL Index Advisor: https://github.com/supabase/index_advisor
 - linter for PostgreSQL, focused on migrations: https://github.com/sbdchd/squawk
+- Reorganize tables in PostgreSQL databases with minimal locks: https://github.com/reorg/pg_repack
+- Read dead but unvacuumed tuples from a PostgreSQL relation: https://github.com/df7cb/pg_dirtyread
 
 ## Research Papers:
 

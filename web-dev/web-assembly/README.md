@@ -12,6 +12,7 @@
 - Full Libreoffice running in wasm: https://lab.allotropia.de/wasm/
 - Package manager for web assembly: https://wapm.io/
 - https://www.fermyon.com/
+- Analyze a wasm file and get a breakdown of what contributed to the module’s size: https://github.com/surma/wasmphobia
 
 # Videos:
 

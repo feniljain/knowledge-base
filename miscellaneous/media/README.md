@@ -28,6 +28,10 @@
 - moviesdrive
 - yeahmovies
 - https://vadapav.mov/
+- https://ww4.yts.nz/
+- https://hurawatch.vip/
+- https://watchseries.bar/
+- https://ww7.solarmovie.to/
 
 # Blogs and articles:
 

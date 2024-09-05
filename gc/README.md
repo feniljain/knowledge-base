@@ -23,6 +23,7 @@
 - Samsara, a safe Rust concurrent cycle collector: https://redvice.org/2023/samsara-garbage-collector/
 - Unified Theory of Garbage Collection: https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/unified-theory-gc/
 - Writing a Simple Garbage Collector in C: http://maplant.com/gc.html
+- Garbage collectors are scary: https://www.enyo.de/fw/notes/garbage-collectors-are-scary.html
 
 ## Repos:
 

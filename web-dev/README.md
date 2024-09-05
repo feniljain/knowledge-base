@@ -7,6 +7,7 @@
 - https://module-federation.github.io/
 - https://web-dev-resources.com/
 - https://www.browsers.fyi/
+- How do web browsers work: https://browser.engineering/
 
 ## Blogs And Articles:
 

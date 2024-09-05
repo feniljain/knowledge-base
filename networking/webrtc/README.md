@@ -27,6 +27,7 @@
 - https://icetest.info/
 - https://quic.video/
 - https://iceperf.com/results
+- Simple Samples to get started: https://webrtc.github.io/samples/
 
 ## GoogleGroups:
 
@@ -162,6 +163,9 @@
 - Mastering the AV1 SVC chains: https://medooze.medium.com/mastering-the-av1-svc-chains-a4b2a6a23925
 - Live video over data channel: https://www.webrtc-developers.com/a-journey-on-video-streams-and-bytes/
 - Probing WebRTC Bandwidth Probing – why and how in gcc: https://webrtchacks.com/probing-webrtc-bandwidth-probing-why-and-how-in-gcc/
+- Testing iOS and iPadOS Network Conditions Using Network Link Conditioner: https://webrtc.ventures/2024/06/testing-ios-and-ipados-network-conditions-using-apple-network-link-conditioner/
+- Mastering Transceivers : https://hexdocs.pm/ex_webrtc/mastering_transceivers.html
+- How WebRTC speaker selection works: https://blog.mozilla.org/webrtc/how-webrtc-speaker-selection-works/
 
 ### Tutorials:
 
@@ -173,6 +177,7 @@ Social audio applications with Janus: https://www.meetecho.com/blog/social-audio
 ## Blog series/articles collection:
 
 - http://www.rtcbits.com/
+- https://blog.mozilla.org/webrtc/
 
 ## Videos:
 
@@ -186,6 +191,7 @@ Social audio applications with Janus: https://www.meetecho.com/blog/social-audio
 - Developing a cross-platform WebRTC API using Rust and WebAssembly: https://www.youtube.com/watch?v=E_sTmp5W_dM
 - All the 2022 RTC Conference WebRTC talks: https://webrtc.ventures/2022/10/rtc-conference-2022-webrtc-track-talks/
 - How We Built a Globally Distributed Mesh Network to Scale WebRTC: https://blog.livekit.io/scaling-webrtc-with-distributed-mesh/
+- ADC - Audio Developer Conference: https://www.youtube.com/@audiodevcon/videos
 
 ## Repos:
 
@@ -249,6 +255,11 @@ Social audio applications with Janus: https://www.meetecho.com/blog/social-audio
 - donut is a zero setup required SRT+MPEG-TS -> WebRTC Bridge powered by Pion: https://github.com/flavioribeiro/donut
 - Useful snippets to copy paste while debugging webrtc encoding configurations on other websites in the JS console: https://github.com/ggarber/webrtc-intercept
 - Testing framework for decoders conformance: https://github.com/fluendo/fluster
+- Open-source media server for real-time, low-latency, programmable video and audio mixing: https://github.com/membraneframework/live_compositor
+- https://www.webrtc-experiment.com/
+- A Sans I/O WebRTC implementation in Rust: https://github.com/algesten/str0m
+- Go library for real time media SDP/RTP/RTCP: https://github.com/emiago/media
+- https://github.com/jech/galene
 
 ## Useful SO questions:
 

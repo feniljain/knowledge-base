@@ -345,6 +345,8 @@
 - A go framework for microservices: https://github.com/go-kratos/kratos
 - Suggests struct field arrangments to make memory usage most efficient: https://github.com/orijtech/structslop
 - Make your Go programs use less memory (maybe): https://github.com/dkorunic/betteralign
+- A tool for analyzing the dependencies in compiled Golang binaries, providing insight into their impact on the final build: https://github.com/Zxilly/go-size-analyzer
+- fgprof is a sampling Go profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together:  https://github.com/felixge/fgprof
 
 ## Packages:
 

@@ -48,6 +48,8 @@
     z+[Enter]: bring current line to top, and also reposition the cursor to the beginning of the line
     z-: bring current line to bottom, and also reposition the cursor to the beginning of the line
 - :options. It has a listing of all the possible options, grouped into categories, each with their default value, current value and description. It's interactive - you can change values in real time and see the results.
+- vim.lsp.status()
+- client.supports_method(<method>)
 
 ## StatusLine:
 

@@ -15,7 +15,6 @@
 - yu yu hakusho(like hunter X hunter)
 - Fog hill of five elements
 - Overlord
-- Akudama drive
 - Sword art online
 - Drifters
 - Toaru Majutsu no Index III
@@ -35,11 +34,12 @@
 - Re:Creators
 - Mieruko-chan: Horror
 - Heavenly Delusion
-- Golden Kamuy
 - Rurouni kenshin ( new adaptation )
 - zom 100: bucket list of the dead
 - Kaijuu 8-gou
 - Metallic Rouge
+- Arcane
+- The elusive samurai
 
 ## Mecha and Space:
 
@@ -116,6 +116,7 @@
 - humanity has declined
 - from the new world
 - eden of the east
+- Shoshimin: how to become ordinary
 
 ## Adventure and Magic(supernatural):
 
@@ -126,6 +127,7 @@
 - Bofuri S2
 - Yaa boy kong ming
 - Girl's last tour
+- Wistoria: Wand and sword
 
 ## Comedy:
 
@@ -192,7 +194,6 @@
 - himouto umaru chan
 - Kakushigoto
 - 3D kanojo: Real Girl
-- Sing "yesterday" for me
 - Aoi bungaku: No longer human
 - chihayafuru
 - Colorful
@@ -251,6 +252,9 @@
 - KimiSen
 - My Love Story with Yamada-kun at Lv999
 - Snow White with the Read Hair
+- Days with my stepsister
+- Senpai is an otonoko
+- Makeine: Too many losing heroines
 
 ## Sports:
 
@@ -262,7 +266,6 @@
 - 2.43
 - sk8 the infinity
 - Blue Lock ( recommendation from here: https://www.youtube.com/watch?v=NH4DwFLlbHU )
-- Ping Pong the Animation
 - Overtake
 - Shangrila Frontier
 
@@ -281,7 +284,6 @@
 - Natsume Yuujinchou
 - Blue Period
 - Oshi no ko
-- The Apothecary Diaries
 - Good Night World
 
 ## Ecchi:
@@ -306,11 +308,25 @@
 - The Fable
 - Wind Breaker
 - Girls Band Cry
-
-## Manga To Read:
-
-- One Punch Man
-- One Piece: Hand drawn one
+- Gangsta
+- Paradise Kiss
+- Wolf's Rain
+- Tekkonkinkreet
+- Angel's Egg
+- Words bubble like soda pop
+- penguin highway
+- Jin roh
+- children of the sea
+- redline
+- memories
+- millenium actress
+- josee the tiget and the fish
+- maquia
+- summer wars
+- tokyo grandfathers
+- in this corner of the world
+- Scavengers Reign
+- Saint young men
 
 ## Links:
 
@@ -351,6 +367,29 @@
 
 - Sakamoto Days
 - Tokyo Ghoul
+- Real
+- Blue Giant
+- Blue Period
+- Solanin
+- The Fable
+- Sidooh
+- Tenkachi nihoon
+- Hideout
+- Kowloon Generic Romance
+- The Climber
+- Homunculus
+- helck
+- i am a hero
+- claymore
+- akumetsu
+- holyland
+- pandemonium
+- sun-ken rock
+- the legend of the strongest: kurosawa
+- gachiakuta
+- Blade of the immortal
+- We Did It - Bokutachi ga Yarimashita
+- Spirit Circle
 
 ## MAL accounts to lookout anime from(this is just a list of decent accounts I come across):
 
@@ -420,6 +459,7 @@
 - A list: https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_anime_downloading
 - https://animension.to/
 - https://www.wcofun.net/
+- https://hianime.to
 
 ## Download websites:
 
@@ -589,6 +629,13 @@
 - Pluto
 - Tonari no kaibustsu-kun(My little monster)
 - Btooom!
+- Golden Kamuy
+- Sing "yesterday" for me
+- Ping Pong the Animation
+- The Apothecary Diaries
+- Akudama drive
+- The seven deadly sins
+- The Case Study of Vanitas
 
 ## Caught up Mangas:
 
@@ -597,8 +644,9 @@
 - Ao haru ride
 - Dorohedero
 - Black Clover
-- Slam dunk
 - Promised Neverland
 - Tengen Toppa Gurren Lagann
 - Horimiya
 - 20th Century Boys
+- Berserk
+- Slam dunk

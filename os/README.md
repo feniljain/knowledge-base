@@ -66,6 +66,7 @@
 - Assemblers: https://maskray.me/blog/2023-05-08-assemblers
 - actually portable executable: https://justine.lol/ape.html
 - How spinlocks work in Linux: https://blog.regehr.org/archives/2173
+- How memory is layed out for a function call: https://gist.githubusercontent.com/7etsuo/14810672cca4e40baf4e2f1fa954e549/raw/310c81cc90a55522b525037235f30374da346478/stackframe%2520cheatsheet
 
 ## Blog series/Articles collections:
 

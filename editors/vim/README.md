@@ -139,6 +139,7 @@
 - A guide on Neovim's LSP client: https://vonheikemen.github.io/devlog/tools/neovim-lsp-client-guide/
 - https://vonheikemen.github.io/devlog/tools/vim-and-the-quickfix-list/
 - Best Vim Tips: https://vim.fandom.com/wiki/Best_Vim_Tips
+- https://www.petergundel.de/git/neovim/telescope/2023/03/22/git-jump-in-neovim-with-telescope.html
 
 ## VimTricks:
 
@@ -198,6 +199,12 @@
 - Make neovim automatically pick up include paths from Makefile: https://www.reddit.com/r/neovim/comments/xylcvz/search_makefile_for_include_paths/
 - Nice thread to play with statuscolumn: https://www.reddit.com/r/neovim/comments/10bmy9w/lets_see_your_status_columns/
 - List of obscure plugins or functions that are cool: https://www.reddit.com/r/neovim/comments/157jlb8/any_obscure_plugins_or_functions_that_are_cool/
+- https://www.reddit.com/r/neovim/comments/16b0n3a/comment/jzcbhxo/
+- Share your favorite .vimrc lines and I’ll create a compiled file of everyone’s favorites : https://www.reddit.com/r/vim/comments/166a3ij/share_your_favorite_vimrc_lines_and_ill_create_a/
+- https://www.reddit.com/r/neovim/comments/16b0n3a/whats_your_new_favorite_functions_share_em/
+- https://www.reddit.com/r/vim/comments/7dv9as/how_to_edit_the_vim_quickfix_list/
+- Optimize your setup for large files: https://www.reddit.com/r/neovim/comments/190ntm3/how_neovim_performs_on_large_files_a_comparison/
+- https://www.reddit.com/r/neovim/comments/1abd2cq/what_are_your_favorite_tricks_using_neovim/
 
 ## Vimscript:
 
@@ -227,6 +234,7 @@
 
 ## Repos:
 
+- Most vimscripts in one place: https://github.com/vim-scripts
 - Interesting IDE: https://github.com/onivim/oni2
 - https://github.com/taohexxx/navim
 - https://github.com/iggredible/Learn-Vim

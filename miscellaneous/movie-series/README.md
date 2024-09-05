@@ -15,9 +15,13 @@
 - Aloners
 - Reacher series
 - Hannibal
-- last of us
+- Mr InBetween
+- Black Sails
+- undone series
 
 # Already watched ( list is heavily incomplete ):
+
+### Series:
 
 - Stranger Things
 - Dark
@@ -28,8 +32,31 @@
 - sherlock
 - silicon valley
 - the boys
-- lord of rings all movies
-- midsomnar
 - better call saul
 - 1899
 - shogun
+
+### Movies:
+
+- One million yen girl
+- lord of rings all movies
+- hereditary
+- midsomnar
+- the anatomy of jane doe
+- handmaiden
+- oldboy
+- the banshees of inisherin
+- Prime Thrillers
+- Time crimes
+- Borat 2
+- Predestination
+- Coherence
+- Insendies
+- Truman Show
+- Tenet
+- Inception
+- Interstellar
+- Oppenheimer
+- Monster (Japanese)
+- Requiem for a Dream
+- The Platform (2019, Spanish)

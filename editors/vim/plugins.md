@@ -75,8 +75,10 @@
 - Vim plugin that displays tags in a window, ordered by scope: https://github.com/preservim/tagbar
 - https://github.com/tpope/vim-rhubarb
 - https://github.com/AndrewRadev/splitjoin.vim
+- https://github.com/dstein64/vim-menu
+- https://github.com/tpope/vim-unimpaired
 
-## Lua/Nvim 0.5+ Exclusive plugins(Can be 0.7+ too):
+## Lua/Nvim Exclusive plugins:
 
 - Collection of neovim plugins: https://nvim-awesome.vercel.app/
 - https://github.com/p00f/nvim-ts-rainbow
@@ -193,111 +195,66 @@
 - https://github.com/RutaTang/quicknote.nvim
 - https://github.com/jonboh/nvim-dap-rr
 - Neovim plugin for interacting with Rust-Analyzer's LSP extensions: https://github.com/vxpm/ferris.nvim
-
-## Some plugins/things I wanna checkout:
-
-- https://github.com/Pocco81/DAPInstall.nvim
+- null-ls.nvim alternative: https://github.com/nvimtools/none-ls.nvim/
+- https://git.sr.ht/~whynothugo/lsp_lines.nvim
+- https://github.com/askfiy/lsp_extra_dim
+- https://github.com/niuiic/code-shot.nvim
+- ultimate-autopair.nvim
+- Faster LuaLS setup for Neovim: https://github.com/folke/lazydev.nvim
+- Debug Adapter Protocol *manager* for Neovim: https://github.com/Pocco81/DAPInstall.nvim
+- https://github.com/fredeeb/tardis.nvim
 - https://github.com/rafamadriz/friendly-snippets
-- About Telescope extension wrapper around `:changes`: https://github.com/LinArcX/telescope-changes.nvim
-- https://github.com/sindrets/diffview.nvim ( This now has completely vscode type merge tools, check here: https://www.reddit.com/r/neovim/comments/x7iw4m/update_diffviewnvim_now_has_a_merge_tool/ )
-- https://github.com/Maan2003/lsp_lines.nvim, check due to this: https://www.reddit.com/r/neovim/comments/w5h9tl/lsp_linesnvim_v2_is_out/
-- A Neovim plugin to copy text through SSH with OSC52: https://github.com/ojroques/nvim-osc52
-- Neovim plugin to automatic change normal string to template string in JS like languages: https://github.com/axelvc/template-string.nvim
 - Pomodoro for neovim: https://github.com/dbinagi/nomodoro
 - Better comments helps you to organize your comments with highlights and virtual text: https://github.com/Djancyp/better-comments.nvim
-- Vscode type themes/colorschemes/syntax highlighting: https://github.com/icedman/nvim-textmate
-- Image Viewer as ASCII Art: https://github.com/samodostal/image.nvim
 - https://github.com/gaoDean/autolist.nvim
 - https://github.com/ptethng/telescope-makefile
-- Start using default lua/viml and C treesitter parsers:  https://this-week-in-neovim.org/2022/Sep/12
-- https://github.com/David-Kunz/markid
-- Isn't this available by default in new version now?: https://github.com/smjonas/inc-rename.nvim
-- https://github.com/lewis6991/gitsigns.nvim *( recommended too much here: https://www.reddit.com/r/neovim/comments/xd57hd/diffviewnvim_vs_fugitive/ )
-- https://www.reddit.com/r/neovim/comments/xg48k9/what_is_the_coolest_unknownish_plugin_that_youre/
-- https://www.youtube.com/watch?v=uL9oOZStezw: Improve usage of `a`, usage of `=ap`, search and replace in select mode
-- https://github.com/AckslD/nvim-neoclip.lua (Checkout the corresponding telescope plugin too)
-- If treesitter fails in nvim 0.8.0: https://www.reddit.com/r/neovim/comments/xw2vjy/treesitter_no_longer_works_after_upgraded_to/
-- https://github.com/folke/noice.nvim: It's from folke, and seems super interesting
-- https://jdhao.github.io/2022/10/05/nvim-v08-release/
-- Simple winbar/statusline plugin that shows your current code context ( Like vscode ) : https://github.com/SmiteshP/nvim-navic
-- What are you going to put into your Winbar: https://www.reddit.com/r/neovim/comments/xxssix/what_are_you_going_to_put_into_your_winbar/
-- https://github.com/kevinhwang91/nvim-hlslens
-    - Also checkout `searchcount` in lualine
-- https://github.com/Tsuzat/NeoSolarized.nvim
-- https://github.com/jbyuki/venn.nvim
-- Edit quickfix list: https://github.com/itchyny/vim-qfedit
-- Integrate stabilize.nvim PR
-- https://github.com/tpope/vim-sleuth
-- https://github.com/lewis6991/gitsigns.nvim
-- https://github.com/moll/vim-bbye
-- Neovim plugin that simplifies macros, enhancing productivity with harmony: https://github.com/ecthelionvi/NeoComposer.nvim
-- https://www.reddit.com/r/neovim/comments/14fdyjk/typescripttoolsnvim_the_typescript_integration/
-- https://github.com/David-Kunz/markid
-- Deferring of NeoVim diagnostics, think to use this if you are facing perf issues with LSP client: https://github.com/yorickpeterse/nvim-dd
+- https://github.com/smjonas/inc-rename.nvim
 - Dap configuration for the record and replay debugger. Supports Rust, C++ and C: https://github.com/jonboh/nvim-dap-rr
-- https://github.com/vxpm/ferris.nvim
-- https://github.com/mangelozzi/rgflow.nvim
-- https://github.com/kr40/nvim-macros
+- Neovim plugin for interacting with Rust-Analyzer's LSP extensions: https://github.com/vxpm/ferris.nvim
+- Deferring of NeoVim diagnostics, think to use this if you are facing perf issues with LSP client: https://github.com/yorickpeterse/nvim-dd
+- Use popup windows to navigate files/buffer and to contain shells/TUIs: https://github.com/carbon-steel/detour.nvim/
+- Make editing big files faster: https://github.com/LunarVim/bigfile.nvim
+- Folding plugin for neovim: https://github.com/kevinhwang91/nvim-ufo
+
+## Things to re-check/remember after trying them out:
+
+- usefulness of hardtime.nvim
+- usefulness of this (clear all buffers except current active one, current mapping: <Space>cab): https://www.reddit.com/r/neovim/comments/16b0n3a/comment/jzxw67q/
+- usefulness of markid treesitter plugin
+- uselfulness of `set shiftround`
+- uselfulness of `set smarttab`
+- uselfulness of `set hlsearch`
+- uselfulness of `set lazyredraw`
+- uselfulness of `set display+=lastline`
+- uselfulness of mini.operators replace functionality
+- Use :telescope registers more for yanking based operations
+- Use quickfix lists edit feature more
+- Use symbols listing for a file feature more
+- Use diffview.nvim's diff + gitsigns hunk feature more
+- Effects of reducing updatetime
+- Is cmdheight=0 as useful/or not intrusive (if yes, keep it)?
+- Searching within selected piece of text
+- Making use of <C-w>d to instantly see diagnostic float window
+- https://www.shortcutfoo.com/blog/top-50-vim-configuration-options
+- https://www.youtube.com/watch?v=RdyfT2dbt78
+    - vib for `()` and viB for `{}`
+    - Append to end of all lines with variable length using `C-v` , `$` and then `A`
+    - Marks
 
 ## Things to try out in next release:
 
-- Move away from null-ls: https://github.com/jose-elias-alvarez/null-ls.nvim/issues/1621
-    - Also refer this issue to see what all LSP servers you can migrate to native LSP itself: https://github.com/nvimtools/none-ls.nvim/issues/58
-- Move to using lazy.nvim for loading plugins: https://github.com/folke/lazy.nvim
-- Give this a try: https://www.reddit.com/r/neovim/comments/154cyc6/comment/jsoe4tm/
-- experiment with this plugin: https://github.com/sindrets/diffview.nvim
-- https://github.com/nacro90/numb.nvim
-- https://git.sr.ht/~whynothugo/lsp_lines.nvim
-- https://github.com/neovim/nvim-lspconfig/wiki/UI-Customization#customizing-how-diagnostics-are-displayed
-- Get symbols-outline.nvim working
-- https://github.com/SmiteshP/nvim-navic
-- https://github.com/askfiy/lsp_extra_dim
-- https://www.reddit.com/r/neovim/comments/15wapw7/update_hardtimenvim_more_hints_custom_hints/
-- vim.lsp.status()
-- client.supports_method(<method>)
-- https://github.com/niuiic/code-shot.nvim
-- https://github.com/wintermute-cell/gitignore.nvim
-- https://www.reddit.com/r/neovim/comments/16b0n3a/comment/jzcbhxo/
-- https://www.reddit.com/r/vim/comments/166a3ij/comment/jyivcnl/
-- Last point here could be super useful: https://www.reddit.com/r/neovim/comments/16b0n3a/comment/jzbnr0z/
-- ultimate-autopair.nvim
-- Understand the importance of this change and if it could be helpful to you: https://twitter.com/Neovim/status/1701951440820826414
-- New Native Neovim LSP Inlay Hints: https://www.youtube.com/watch?v=DYaTzkw3zqQ
-- https://www.reddit.com/r/neovim/comments/16n7r0q/pretty_lsp_floating_windows_now_part_of_neovim/
-- https://www.reddit.com/r/neovim/comments/16qcncm/how_do_you_put_borders_on_this_lsp_preview_ive/
-- Find nice UIs around this PR: https://www.reddit.com/r/neovim/comments/16tdrfd/telescopenvim_fully_customizable_layout/
-- Community Fork of null-ls: https://www.reddit.com/r/neovim/comments/16wystn/nonelsnvim_is_a_community_fork_of_nulllsnvim/
-- https://www.reddit.com/r/neovim/comments/171lezz/comment/k3rhqxi/
-- https://www.reddit.com/r/neovim/comments/17cwptz/native_snippet_api_has_been_merged_into_neovim/
-- https://github.com/vxpm/ferris.nvim
-- https://github.com/mangelozzi/rgflow.nvim
-- feat(clipboard): add OSC 52 clipboard support: https://github.com/neovim/neovim/pull/25872
-- Use popup windows to navigate files/buffer and to contain shells/TUIs: https://github.com/carbon-steel/detour.nvim/
-- https://twitter.com/Neovim/status/1724027241477128362
-- https://www.petergundel.de/git/neovim/telescope/2023/03/22/git-jump-in-neovim-with-telescope.html
-- Check all utilities in this: https://github.com/echasnovski/mini.nvim
-- https://www.reddit.com/r/neovim/comments/17ux1nf/comment/k9b4423/
-- https://www.reddit.com/r/neovim/comments/18ri1bm/its_been_like_10_years_and_i_just_learned_that/ : https://github.com/tversteeg/registers.nvim
-- https://news.ycombinator.com/item?id=38755694
-- Integrate this properly in your workflow: https://www.reddit.com/r/neovim/comments/18ucnby/finally_telescope_support_location_paths/
-- https://github.com/tris203/hawtkeys.nvim
-- https://github.com/neovim/neovim/issues/21422
-- Make a keybinding for type definition preview from lspsaga, and correct lspsaga impl
-    - Also give a project-wide search and replace a try
-    - And call heirarchy too
-    - shift to using breadcrumbs from this, if you decide to remove lspsaga, then use the plugin instead
-    - shift to using symbols outline from this
-    - also use number of impls available
-- Shift config to modern: https://github.com/nvim-lua/kickstart.nvim
-- Optimize your setup for large files: https://www.reddit.com/r/neovim/comments/190ntm3/how_neovim_performs_on_large_files_a_comparison/
-- https://www.reddit.com/r/neovim/comments/19aratu/psa_nvimtreesitter_breaking_changes_on_highlight/
-- Highlight in folds: https://twitter.com/Neovim/status/1751036490396655634
-- https://www.reddit.com/r/neovim/comments/1abd2cq/what_are_your_favorite_tricks_using_neovim/
-- https://github.com/fredeeb/tardis.nvim
-- https://github.com/agoodshort/telescope-git-submodules.nvim
-- https://twitter.com/Neovim/status/1755246318174261478
-- https://github.com/stevearc/conform.nvim
-- Shift to using it once it's completely out: Trouble v3 is now in beta!: https://www.reddit.com/r/neovim/comments/1bq6w7f/trouble_v3_is_now_in_beta/
-- Built-in commenting: https://github.com/neovim/neovim/pull/28176
-- Explore if we can use this instead of harpoon: https://github.com/dharmx/track.nvim
-- https://github.com/sam4llis/nvim-tundra
+- https://github.com/sindrets/diffview.nvim ( This now has completely vscode type merge tools, check here: https://www.reddit.com/r/neovim/comments/x7iw4m/update_diffviewnvim_now_has_a_merge_tool/ )
+- https://github.com/jbyuki/venn.nvim
+    - https://github.com/vim-scripts/DrawIt
+
+- https://github.com/b0o/SchemaStore.nvim
+- https://yapjiahong2003.medium.com/solving-merge-conflicts-easily-in-neovim-with-fugitive-cb5f4e205e8f
+    - also checkout hunk related features from `gitsigns.nvim`
+- Does telescope not satisfy this usecase?: Find a new terminal management tool instead of harpoon
+    - https://github.com/akinsho/toggleterm.nvim
+        - https://github.com/NvChad/NvChad/issues/489
+- Think what usecases would be good for loclist instead of quickfix list
+- https://github.com/stevearc/quicker.nvim
+- https://www.reddit.com/r/neovim/comments/1eud0zt/vim_motions_and_tricks_i_wish_i_learned_earlier/
+- https://github.com/dgox16/oldworld.nvim
+- https://x.com/Neovim/status/1828582223450099788

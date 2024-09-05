@@ -26,6 +26,7 @@
 - Linearizability versus Serializability: http://www.bailis.org/blog/linearizability-versus-serializability/
 - Testing Distributed Systems: https://asatarin.github.io/testing-distributed-systems/
 - https://surfingcomplexity.blog/2023/12/31/consistency/
+- https://karanchawla.io/2024/06/24/distributed_systems_reading
 
 ## Videos:
 
