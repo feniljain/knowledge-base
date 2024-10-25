@@ -328,6 +328,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - A cheatsheet for some potentially confusing terms in Rust: https://ferrous-systems.com/blog/cheatsheet-for-confusing-rust-terms/
 - Rust to Assembly: Understanding the Inner Workings of Rust: https://eventhelix.com/rust/
 - Thread-per-core: https://without.boats/blog/thread-per-core/
+- Issue around improving rust's default thread implementation and what all other popular libs do for implementing mutex: https://github.com/rust-lang/rust/issues/93740#issuecomment-1041391284
 
 ### Others:
 
@@ -559,6 +560,9 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - Interactively Visualizing Ownership and Borrowing for Rust: https://github.com/rustviz/rustviz
 - Automating Cargo project configuration using cargo-wizard: https://kobzol.github.io/rust/cargo/2024/03/10/rust-cargo-wizard.html
 - Remove unused Rust dependencies with this one weird trick!: https://github.com/bnjbvr/cargo-machete
+- “Zero setup” cross compilation and “cross testing” of Rust crates: https://github.com/cross-rs/cross
+- [perf, benchmarking] Experimental one-shot benchmarking/profiling harness for Rust: https://github.com/bheisler/iai
+- [docker] A cargo-subcommand to speed up Rust Docker builds using Docker layer caching: https://github.com/LukeMathWalker/cargo-chef
 
 ## Videos:
 
@@ -652,6 +656,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - https://rust-unofficial.github.io/too-many-lists/
 - https://www.manning.com/livevideo/rust-in-motion
 - LifetimeKata: A Practical Introduction to Lifetime Annotations, like Rustlings&MacroKata: https://www.reddit.com/r/rust/comments/10dwdde/lifetimekata_a_practical_introduction_to_lifetime/
+- Rust book with exercises + better visualiztion: https://rust-book.cs.brown.edu/
 
 ## Interesting Projects:
 

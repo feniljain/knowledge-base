@@ -18,6 +18,7 @@
 - Mr InBetween
 - Black Sails
 - undone series
+- wednesday
 
 # Already watched ( list is heavily incomplete ):
 

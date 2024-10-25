@@ -136,6 +136,7 @@
 - Postgres HowTos: https://gitlab.com/postgres-ai/postgresql-consulting/postgres-howtos
 - Recovering Deleted Data From PostgreSQL Tables: https://www.cybertec-postgresql.com/en/recovering-deleted-data-from-postgresql-tables/
 - Postgres Autovacuum Tuning Basics: https://www.enterprisedb.com/blog/autovacuum-tuning-basics
+- Notes on tuning postgres for cpu and memory benchmarking: https://www.n0derunner.com/notes-on-tuning-postgres-for-memory-benchmarks/
 
 ## Blog Series:
 
@@ -170,6 +171,7 @@
 - https://www.databass.dev/
 - https://www.scylladb.com/2023/10/02/introducing-database-performance-at-scale-a-free-open-source-book/
 - Postgres 14 internals: https://postgrespro.com/blog/pgsql/5969985
+- Build your won database from scratch in go: https://build-your-own.org/database/
 
 ## Podcast:
 

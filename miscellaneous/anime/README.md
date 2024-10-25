@@ -181,7 +181,6 @@
 - Handa-kun
 - Boku to kimi no taisetsu na hanashi
 - Sukasuka
-- Kimi ni Todoke
 - Masamune kuns revenge
 - The anthem of the heart
 - Kiznaiver
@@ -327,6 +326,7 @@
 - in this corner of the world
 - Scavengers Reign
 - Saint young men
+- https://myanimelist.net/anime/51358/Dead_Dead_Demons_Dededede_Destruction
 
 ## Links:
 

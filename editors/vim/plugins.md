@@ -221,25 +221,23 @@
 - usefulness of hardtime.nvim
 - usefulness of this (clear all buffers except current active one, current mapping: <Space>cab): https://www.reddit.com/r/neovim/comments/16b0n3a/comment/jzxw67q/
 - usefulness of markid treesitter plugin
-- uselfulness of `set shiftround`
-- uselfulness of `set smarttab`
-- uselfulness of `set hlsearch`
-- uselfulness of `set lazyredraw`
-- uselfulness of `set display+=lastline`
 - uselfulness of mini.operators replace functionality
 - Use :telescope registers more for yanking based operations
 - Use quickfix lists edit feature more
 - Use symbols listing for a file feature more
 - Use diffview.nvim's diff + gitsigns hunk feature more
-- Effects of reducing updatetime
-- Is cmdheight=0 as useful/or not intrusive (if yes, keep it)?
-- Searching within selected piece of text
 - Making use of <C-w>d to instantly see diagnostic float window
 - https://www.shortcutfoo.com/blog/top-50-vim-configuration-options
+    - uselfulness of `set shiftround`
+    - uselfulness of `set smarttab`
+    - uselfulness of `set hlsearch`
+    - uselfulness of `set lazyredraw`
+    - uselfulness of `set display+=lastline`
 - https://www.youtube.com/watch?v=RdyfT2dbt78
     - vib for `()` and viB for `{}`
     - Append to end of all lines with variable length using `C-v` , `$` and then `A`
     - Marks
+- using `git commit --fixup` : https://stackoverflow.com/questions/3103589/how-can-i-easily-fixup-a-past-commit
 
 ## Things to try out in next release:
 
@@ -247,6 +245,7 @@
 - https://github.com/jbyuki/venn.nvim
     - https://github.com/vim-scripts/DrawIt
 
+- Update to nvim 0.10.2: https://github.com/neovim/neovim/commit/8b98642002d0506d20628683958cb5c97a0dad80
 - https://github.com/b0o/SchemaStore.nvim
 - https://yapjiahong2003.medium.com/solving-merge-conflicts-easily-in-neovim-with-fugitive-cb5f4e205e8f
     - also checkout hunk related features from `gitsigns.nvim`
@@ -258,3 +257,13 @@
 - https://www.reddit.com/r/neovim/comments/1eud0zt/vim_motions_and_tricks_i_wish_i_learned_earlier/
 - https://github.com/dgox16/oldworld.nvim
 - https://x.com/Neovim/status/1828582223450099788
+- https://github.com/sam4llis/nvim-tundra
+- Kinda like gruvbox, just more darker on the choclate side, give it a thought: https://github.com/qaptoR-nvim/chocolatier.nvim
+- https://github.com/atuinsh/atuin
+- https://github.com/maxandron/goplements.nvim
+- Do we want to give this a try above stow?: https://www.chezmoi.io/
+- Try this theme: https://www.reddit.com/r/neovim/comments/1flcqrp/primeppuccin_for_neovim/
+- Try to recreate this colorscheme, seems to ship with a perfectly muted bg: https://www.reddit.com/r/neovim/comments/1fq9ha4/default_nivm_light_theme_is_amazing/
+- https://x.com/Neovim/status/1841115178152124595
+- https://github.com/mistricky/codesnap.nvim
+- Try this font: https://typeof.net/Iosevka/

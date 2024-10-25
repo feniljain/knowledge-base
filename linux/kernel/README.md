@@ -82,6 +82,7 @@
 - Project Ideas for a linux kernel module: https://news.ycombinator.com/item?id=35784514
 - Nix flake for linux kernel module development with rust support: https://github.com/jordanisaacs/kernel-module-flake
 - Receive and process logs from the Linux kernel: https://github.com/facebook/netconsd
+- Quickly build and run kernels inside a virtualized snapshot of your live system: https://github.com/arighi/virtme-ng
 
 ## Blog series/Article collection:
 

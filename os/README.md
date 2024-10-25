@@ -32,6 +32,8 @@
 - Writing a file system from scratch: https://blog.carlosgaldino.com/writing-a-file-system-from-scratch-in-rust.html
 - Writing a Unix-like OS in Rust: https://vmm.dev/en/rust/osinrust.md
 - Kernels 101 – Let’s write a Kernel: https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel
+- https://littleosbook.github.io/
+- Coding for SSDs: https://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/
 
 ### Others:
 
@@ -130,6 +132,7 @@
 ## Reddit and twitter threads:
 
 - https://www.reddit.com/r/kernel/comments/qf0dyo/resources_a_newbie_can_learn_from_regarding/
+- Resources to help implement your own OS: https://x.com/bluewmist/status/1849289098747642168
 
 ## Repos:
 

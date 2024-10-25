@@ -27,6 +27,8 @@
 - Testing Distributed Systems: https://asatarin.github.io/testing-distributed-systems/
 - https://surfingcomplexity.blog/2023/12/31/consistency/
 - https://karanchawla.io/2024/06/24/distributed_systems_reading
+- Notes on Distributed Systems for Young Bloods: https://www.somethingsimilar.com/2013/01/14/notes-on-distributed-systems-for-young-bloods/
+- Student's Guide to Raft: https://thesquareplanet.com/blog/students-guide-to-raft/
 
 ## Videos:
 

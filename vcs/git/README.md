@@ -1,4 +1,4 @@
-<h2 align="center">GIT</h2>
+<h2 align="center">git</h2>
 
 ## Websites:
 
@@ -82,6 +82,7 @@
 - Popular Git Config Options: https://jvns.ca/blog/2024/02/16/popular-git-config-options/
 - Someone's git worktree usage: https://notes.billmill.org/blog/2024/03/How_I_use_git_worktrees.html
 - How HEAD works in git: https://jvns.ca/blog/2024/03/08/how-head-works-in-git/
+- Creating a Git commit: The Hard Way: https://avestura.dev/blog/creating-a-git-commit-the-hard-way
 
 ## Tutorials:
 

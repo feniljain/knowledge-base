@@ -236,6 +236,7 @@
 - Introduction To Low Latency Programming: Minimize Branching And Jumping: https://tech.davidgorski.ca/introduction-to-low-latency-programming-minimize-branching-and-jumping/
 - Fifty Things you can do with a Software Defined Radio: https://blinry.org/50-things-with-sdr/
 - Software Optimization Resources: https://www.agner.org/optimize/
+- Locking in WebKit, article which introduces parking locking concept which `parking_lot` rust crate uses: https://webkit.org/blog/6161/locking-in-webkit/
 
 ### Tutorials:
 
@@ -251,7 +252,7 @@
 - Nice collection of blogs: https://xeiaso.net/
 - Interesting writeups about concurrency concepts: https://www.1024cores.net/
 
-## Newsletters;
+## Newsletters
 
 - https://www.quastor.org/
 - https://abyteofcoding.com/

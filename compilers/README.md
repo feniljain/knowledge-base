@@ -49,6 +49,7 @@
 - Compiler Hacking: https://yangdanny97.github.io/blog/2020/05/29/chocopy-typechecker
 - MLIR Tutorial for beginners: https://github.com/j2kun/mlir-tutorial
 - Write your own retro compiler: http://t3x.org/t3x/0/book.html
+- Writing a very simple JIT Compiler in about 1000 lines of C: https://kuterdinel.com/writing-a-very-simple-jit-compiler-in-about-1000-lines-of-c.html
 
 ### Others:
 

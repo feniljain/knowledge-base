@@ -143,6 +143,7 @@
 - Shrinking a Shared Library: https://serge-sans-paille.github.io/pythran-stories/shrinking-a-shared-library.html
 - Writing a Debugger From Scratch: https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/
 - A Minimum Complete Tutorial of Linux ext4 File System: A Minimum Complete Tutorial of Linux ext4 File System
+- Perf usage tutorial: https://github.com/NAThompson/performance_tuning_tutorial
 
 ### Others:
 

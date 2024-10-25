@@ -148,6 +148,9 @@
 - Techniques and numbers for estimating system's performance from first-principles: https://github.com/sirupsen/napkin-math
 - Unified datasets for public cloud provider IP ranges. Providers include AWS, Azure, CloudFlare, DigitalOcean, Fastly, Google Cloud and Oracle Cloud: https://github.com/tobilg/public-cloud-provider-ip-ranges
 - A collective list of free APIs: https://github.com/public-apis/public-apis
+- Modern HTTP benchmarking tool: https://github.com/wg/wrk
+- A simple zero-config tool to make locally trusted development certificates: https://github.com/FiloSottile/mkcert
+- HTTPS on local: https://caddyserver.com/docs/quick-starts/reverse-proxy#https-from-client-to-proxy
 
 ## Videos:
 

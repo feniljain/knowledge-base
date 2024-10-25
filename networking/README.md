@@ -217,6 +217,7 @@
 - https://github.com/netty/netty
 - tcpdump like XDP packet capture: https://github.com/cloudflare/xdpcap
 - FD.io - The Fast Data Project Relentlessly focused on data IO speed and efficiency for more flexible and scalable networks and storage: https://github.com/FDio
+- A TCP proxy to simulate network and system conditions for chaos and resiliency testing: https://github.com/Shopify/toxiproxy
 
 ## Reddit, twitter and HN threads:
 
