@@ -47,6 +47,7 @@
 - https://caniuse.rs/
 - https://releases.rs/
 - An unofficial guide to the Rust ecosystem: https://blessed.rs/
+- https://rustcombinators.com/
 
 ## Blogs and Articles:
 
@@ -241,6 +242,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - Hypervisor Development in Rust Part 1: https://memn0ps.github.io/hypervisor-development-in-rust-part-1/
 - Time travel debugging Rust in NeoVim: https://jonboh.dev/posts/rr/
 - Let's Build a Cargo Compatible Build Tool: https://ductile.systems/freight-part-1/
+- How to create a custom memory allocator in Rust: https://www.brochweb.com/blog/post/how-to-create-a-custom-memory-allocator-in-rust/
 
 ### Language general:
 

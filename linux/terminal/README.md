@@ -4,6 +4,7 @@
 
 - Merge pdfs from terminal: https://pdftk.en.softonic.com/
 - https://help.ubuntu.com/community/UsingTheTerminal
+- ASCII Control Characters: https://jvns.ca/ascii.html
 
 ## Videos:
 
@@ -159,3 +160,4 @@
 - https://github.com/wez/wezterm ( Pretty famous in discussion here: https://www.reddit.com/r/neovim/comments/wmr9bs/what_terminal_emulator_do_you_use/?sort=top)
 - A TUI playground to experiment with jq: https://github.com/noahgorstein/jqp
 - Write terminal GIFs as code for integration testing and demoing your CLI tools: https://github.com/charmbracelet/vhs
+- the curses debugger: http://cgdb.github.io/

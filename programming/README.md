@@ -67,6 +67,7 @@
 - https://tinyprograms.org/
 - https://codingchallenges.fyi/
 - Ideas for projects to work on: https://aboutideasnow.com/
+- A free and open source map of the world: https://protomaps.com/
 
 ## Blogs and Articles:
 
@@ -237,6 +238,7 @@
 - Fifty Things you can do with a Software Defined Radio: https://blinry.org/50-things-with-sdr/
 - Software Optimization Resources: https://www.agner.org/optimize/
 - Locking in WebKit, article which introduces parking locking concept which `parking_lot` rust crate uses: https://webkit.org/blog/6161/locking-in-webkit/
+- Atomics for humans: https://gist.github.com/kprotty/bb26b963441baf2ab3486a07fbf4762e
 
 ### Tutorials:
 
@@ -441,6 +443,7 @@
 - Small Memory Software: Patterns for systems with limited memory: https://www.smallmemory.com/book.html
 - https://www.codehiddenlanguage.com/
 - Data Structures for Data-Intensive Applications: https://cs-people.bu.edu/mathan/publications/fnt23-athanassoulis.pdf
+- A Science of Concurrent Programs: https://lamport.azurewebsites.net/tla/science.pdf
 
 ## Tools:
 

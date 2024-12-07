@@ -170,6 +170,10 @@
 - A Short IPv6 Guide for Home IPv4 Admins: https://gist.github.com/timothyham/dd003dbad5614b425a8325ec820fd785
 - Tunneling: http://www.saminiir.com/openvpn-puts-packets-inside-your-packets/#tunneling
 - Forwarding over 100 Mpps with FD.io VPP on x86: https://medium.com/google-cloud/forwarding-over-100-mpps-with-fd-io-vpp-on-x86-62b9447da554
+- Speed, scale and reliability: 25 years of Google data-center networking evolution: https://cloud.google.com/blog/products/networking/speed-scale-reliability-25-years-of-data-center-networking
+- [perf,network] https://rigtorp.se/low-latency-guide/
+- https://blog.packagecloud.io/monitoring-tuning-linux-networking-stack-receiving-data/
+- It’s always TCP_NODELAY. Every damn time: https://brooker.co.za/blog/2024/05/09/nagle.html
 
 ## Books:
 

@@ -32,6 +32,7 @@
 - https://hurawatch.vip/
 - https://watchseries.bar/
 - https://ww7.solarmovie.to/
+- Torrent search engine: https://torrentz2.nz/
 
 # Blogs and articles:
 
@@ -69,6 +70,7 @@
 - Find open directories using Open Directory Search Tool: https://github.com/IceWreck/OpenDirectorySearchTool
 - Privacy-respecting YouTube Music frontend with no ads or telemetry: https://github.com/maaa101/burgertunes
 - Continuing the legacy of Vanced: https://github.com/revanced
+- YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader): https://github.com/th-ch/youtube-music
 
 # Reddit and twitter threads:
 

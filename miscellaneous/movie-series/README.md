@@ -19,6 +19,9 @@
 - Black Sails
 - undone series
 - wednesday
+- The Fountain
+- 12 Angry Men
+- the wire
 
 # Already watched ( list is heavily incomplete ):
 

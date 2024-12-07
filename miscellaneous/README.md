@@ -10,6 +10,7 @@
 - https://stronglifts.com/
 - https://musclewiki.com/
 - https://www.50pullups.com/
+- https://stronglifts.com/
 
 # Climbing:
 

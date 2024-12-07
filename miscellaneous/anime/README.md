@@ -38,8 +38,10 @@
 - zom 100: bucket list of the dead
 - Kaijuu 8-gou
 - Metallic Rouge
-- Arcane
+- Arcane S1 & S2
 - The elusive samurai
+- Xam'd: Lost Memories
+- Mecha-ude: mechanical arms
 
 ## Mecha and Space:
 
@@ -111,12 +113,13 @@
 - Mononoke
 - Toilet-bound Hanako-kun
 - ID: Invaded
-- Beastars
 - scrapped princess
 - humanity has declined
 - from the new world
 - eden of the east
 - Shoshimin: how to become ordinary
+- Undead Girl Murder Farc
+- Wolf's Rain
 
 ## Adventure and Magic(supernatural):
 
@@ -158,11 +161,9 @@
 - Amagami SS
 - Nichijou
 - Space Dandy
-- Rankings of Kings
 - Gin no saji
 - Undead unluck
 - Mashle: Magic and Muscles
-- Under Ninja
 
 ## Sad & Romance & SOL:
 
@@ -232,7 +233,6 @@
 - Skip and Loafer
 - Insomnia After School
 - Hinamatsuri
-- Skip and loafer
 - A sign of affection
 - Remake our life
 - Tonikawa
@@ -240,7 +240,7 @@
 - Yamada-kun to 7-nin no majo
 - My Dress-Up Darling
 - The Dangers in my heart
-- Insomanicas after school
+- Insomaniacs after school
 - Ore monogatari
 - Sakrua-sou no pet no kanojo
 - Komi can't communicate
@@ -254,8 +254,10 @@
 - Days with my stepsister
 - Senpai is an otonoko
 - Makeine: Too many losing heroines
+- 365 days to the wedding
+- Blue Box
 
-## Sports:
+## Sports and Music:
 
 - Stars align
 - Free!
@@ -267,6 +269,7 @@
 - Blue Lock ( recommendation from here: https://www.youtube.com/watch?v=NH4DwFLlbHU )
 - Overtake
 - Shangrila Frontier
+- Blue Giant
 
 ## Isekai:
 
@@ -309,7 +312,6 @@
 - Girls Band Cry
 - Gangsta
 - Paradise Kiss
-- Wolf's Rain
 - Tekkonkinkreet
 - Angel's Egg
 - Words bubble like soda pop
@@ -327,6 +329,7 @@
 - Scavengers Reign
 - Saint young men
 - https://myanimelist.net/anime/51358/Dead_Dead_Demons_Dededede_Destruction
+- Negative Positive Angler
 
 ## Links:
 
@@ -601,7 +604,6 @@
 - Hellsing Ultimate
 - Great Teacher Onizuka
 - One Piece
-- Baccano
 - Hajime no Ippo
 - Summer Time Rendering
 - Barakamon
@@ -633,9 +635,16 @@
 - Sing "yesterday" for me
 - Ping Pong the Animation
 - The Apothecary Diaries
-- Akudama drive
 - The seven deadly sins
+- Uzumaki
+- Under Ninja
+- Baccano
+- Ranking of Kings
+- Scissor Seven
 - The Case Study of Vanitas
+- Beastars
+- Orb: On the movements of the earth
+- Akudama drive
 
 ## Caught up Mangas:
 

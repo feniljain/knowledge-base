@@ -83,6 +83,7 @@
 - Someone's git worktree usage: https://notes.billmill.org/blog/2024/03/How_I_use_git_worktrees.html
 - How HEAD works in git: https://jvns.ca/blog/2024/03/08/how-head-works-in-git/
 - Creating a Git commit: The Hard Way: https://avestura.dev/blog/creating-a-git-commit-the-hard-way
+- How I use Git: https://registerspill.thorstenball.com/p/how-i-use-git
 
 ## Tutorials:
 
@@ -118,6 +119,8 @@
 - https://github.com/Wilfred/difftastic
 - High-velocity, monorepo-scale workflow for Git: https://github.com/arxanas/git-branchless
 - A Git-compatible VCS that is both simple and powerful: https://github.com/martinvonz/jj
+- A syntax-aware git merge driver for a growing collection of programming languages and file formats: https://codeberg.org/mergiraf/mergiraf
+- Customize your git commit hashes: https://github.com/not-an-aardvark/lucky-commit
 
 ## Git Internals:
 

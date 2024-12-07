@@ -16,3 +16,7 @@
 ## Repos:
 
 - Full list of general software design patterns: https://github.com/kamranahmedse/design-patterns-for-humans
+
+## Papers:
+
+- An Empirical Evaluation of Columnar Storage Formats: https://www.vldb.org/pvldb/vol17/p148-zeng.pdf

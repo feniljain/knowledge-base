@@ -116,6 +116,7 @@
 - Debugging Node.js in Production: https://netflixtechblog.com/debugging-node-js-in-production-75901bb10f2d
 - Envoy as an API Gateway: https://ekhabarov.com/post/envoy-as-an-api-gateway/
 - Strategies to manage websocket connections at scale: https://www.canva.dev/blog/engineering/enabling-real-time-collaboration-with-rsocket/
+- An Illustrated Guide to OAuth and OpenID Connect: https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc
 
 ## Blog series/Articles collection:
 

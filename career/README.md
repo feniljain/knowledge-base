@@ -36,6 +36,8 @@
 - Optimal Stopping Theory For Hiring: https://matt-rickard.ghost.io/optimal-stopping-theory/
 - The Well Rounded Engineer: https://speakerdeck.com/swanandp/the-well-rounded-engineer
 - Some notes on possible things to do/explore when joining a new team: https://notes.eatonphil.com/2024-03-11-first-month-on-a-database-team.html
+- https://www.seangoedecke.com/how-to-ship/
+- https://bitfieldconsulting.com/posts/career
 
 ## Blog series/Collection of articles:
 

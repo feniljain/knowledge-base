@@ -215,6 +215,8 @@
 - Use popup windows to navigate files/buffer and to contain shells/TUIs: https://github.com/carbon-steel/detour.nvim/
 - Make editing big files faster: https://github.com/LunarVim/bigfile.nvim
 - Folding plugin for neovim: https://github.com/kevinhwang91/nvim-ufo
+- Bmessages.nvim better :messages window using an auto-updating buffer: https://github.com/ariel-frischer/bmessages.nvim
+- Snacks.profiler: https://github.com/folke/snacks.nvim/blob/main/docs/profiler.md
 
 ## Things to re-check/remember after trying them out:
 
@@ -267,3 +269,8 @@
 - https://x.com/Neovim/status/1841115178152124595
 - https://github.com/mistricky/codesnap.nvim
 - Try this font: https://typeof.net/Iosevka/
+- https://github.com/mhinz/neovim-remote (from here: https://maskray.me/blog/2024-11-02-tinkering-with-neovim)
+- https://maskray.me/blog/2024-11-02-tinkering-with-neovim
+- https://github.com/folke/snacks.nvim
+- https://www.reddit.com/r/neovim/comments/1h25lal/what_are_your_favorite_underappreciated_neovim/
+- LSP powered folding: https://x.com/Neovim/status/1863340715662577995

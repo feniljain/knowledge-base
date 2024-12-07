@@ -260,6 +260,7 @@ Social audio applications with Janus: https://www.meetecho.com/blog/social-audio
 - A Sans I/O WebRTC implementation in Rust: https://github.com/algesten/str0m
 - Go library for real time media SDP/RTP/RTCP: https://github.com/emiago/media
 - https://github.com/jech/galene
+- Multi site video relay WebRTC SFU: https://github.com/atomirex/umbrella
 
 ## Useful SO questions:
 

@@ -242,6 +242,7 @@
 - Graph based intermediate representation and backend for optimising compilers: https://github.com/libfirm/libfirm
 - A self-hosting and educational C optimizing compiler: https://github.com/sysprog21/shecc
 - https://github.com/wdv4758h/awesome-jit
+- A list of dead JIT compiler projects for CPython: https://github.com/markshannon/JIT_graveyard
 
 ## Grammars:
 

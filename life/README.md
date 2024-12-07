@@ -7,7 +7,6 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 
 - https://hbs1963.com/
 - https://nofreakingspeaking.com/
-- Find exercises that work specific muscles: https://musclewiki.com/
 - https://www.themodernnomads.in/home
 
 ## Few Points:

@@ -17,6 +17,8 @@
 - A guide to database performance for developers: https://use-the-index-luke.com/
 - postgres encyclopedia: https://pgpedia.info/
 - https://sql-workbench.com/
+- https://pglocks.org/
+- everything about posgres configuration: https://postgresqlco.nf/doc/en/param/
 
 ## Blogs And Articles:
 
@@ -137,6 +139,8 @@
 - Recovering Deleted Data From PostgreSQL Tables: https://www.cybertec-postgresql.com/en/recovering-deleted-data-from-postgresql-tables/
 - Postgres Autovacuum Tuning Basics: https://www.enterprisedb.com/blog/autovacuum-tuning-basics
 - Notes on tuning postgres for cpu and memory benchmarking: https://www.n0derunner.com/notes-on-tuning-postgres-for-memory-benchmarks/
+- Userland Disk I/O: https://transactional.blog/how-to-learn/disk-io
+- [benchmark] Benchmarking PostgreSQL Batch Ingest: https://www.timescale.com/blog/benchmarking-postgresql-batch-ingest/
 
 ## Blog Series:
 
@@ -204,6 +208,9 @@
 - linter for PostgreSQL, focused on migrations: https://github.com/sbdchd/squawk
 - Reorganize tables in PostgreSQL databases with minimal locks: https://github.com/reorg/pg_repack
 - Read dead but unvacuumed tuples from a PostgreSQL relation: https://github.com/df7cb/pg_dirtyread
+- [benchmark] ClickBench — a Benchmark For Analytical DBMS: https://github.com/ClickHouse/ClickBench
+- Probabilistic transaction graph for optimistic concurrency control: https://github.com/tidwall/ptx
+- build your own query planner: https://github.com/tuannh982/query-planner-guide
 
 ## Research Papers:
 
@@ -255,3 +262,10 @@
 - A Critique of SQL, 40 Years Later: https://carlineng.com/?postid=sql-critique#blog
 - Type Constraints in 65 lines of SQL: https://supabase.com/blog/type-constraints-in-65-lines-of-sql
 - https://antonz.org/sql-window-functions-rolling-aggregates/
+
+## List
+
+- https://github.com/splitgraph/seafowl
+- https://github.com/apache/datafusion
+- https://github.com/apache/spark
+- https://age.apache.org/

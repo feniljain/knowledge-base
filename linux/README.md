@@ -220,6 +220,7 @@
 - Universal FOSS Cross-Platform Archive Manager: https://github.com/peazip/PeaZip
 - A list of generic tools for parsing binary data structures, such as file formats, network protocols or bitstreams: https://github.com/dloss/binary-parsing
 - Explore ELF objects through the power of SQL: https://github.com/fzakaria/sqlelf
+- An enhanced man page viewer for linux and BSD systems based on OpenGL and mandoc libraries: https://github.com/zigalenarcic/mangl
 
 ### Others:
 
@@ -334,6 +335,7 @@
 - Collection of free software for linux: https://www.reddit.com/r/linux/comments/s6ieb1/update_after_reading_600_of_your_comments_here_is/
 - Linux kernel development trick: https://twitter.com/vegard_no/status/1483378883017814017
 - How filesystems work in linux, a diagram and discussion: https://www.reddit.com/r/linux/comments/we0rky/filesystem_roadmap/
+- Better font rendering on linux: https://x.com/WadeGrimshire/status/1857923285918556661
 
 ## Config Repos:
 
