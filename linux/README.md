@@ -268,6 +268,7 @@
 - the event driven initramfs infrastructure: https://github.com/dracutdevs/dracut
 - X-Ray vision for Linux systems, perf, debug: https://github.com/tanelpoder/0xtools
 - A heap memory profiler for Linux: https://github.com/KDE/heaptrack
+- Native code graphical debugger and introspection toolchain for Linux: https://github.com/jcalabro/uscope
 
 ## Podcasts:
 

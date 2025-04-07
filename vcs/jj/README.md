@@ -8,3 +8,4 @@
 - https://ahal.ca/blog/2024/jujutsu-mercurial-haven/
 - https://lottia.net/notes/0013-git-jujutsu-miniature.html
 - https://reasonablypolymorphic.com/blog/jj-strategy/index.html
+- https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html

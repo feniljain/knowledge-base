@@ -8,10 +8,7 @@
 - https://proxysql.com/
 - https://planetscale.com/
 - https://db-engines.com/
-- https://unifiedpush.org/
-- https://neon.tech/
 - https://psql-tips.org/
-- https://www.edgedb.com/
 - https://drawsql.app/
 - PostgreSQL's explain analyze made readable: https://explain.depesz.com/
 - A guide to database performance for developers: https://use-the-index-luke.com/
@@ -176,6 +173,7 @@
 - https://www.scylladb.com/2023/10/02/introducing-database-performance-at-scale-a-free-open-source-book/
 - Postgres 14 internals: https://postgrespro.com/blog/pgsql/5969985
 - Build your won database from scratch in go: https://build-your-own.org/database/
+- Building query compilers: https://pi3.informatik.uni-mannheim.de/~moer/querycompiler.pdf
 
 ## Podcast:
 
