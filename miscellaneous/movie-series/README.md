@@ -64,3 +64,11 @@
 - Monster (Japanese)
 - Requiem for a Dream
 - The Platform (2019, Spanish)
+- Red
+- Boy who harnessed the wind
+- Flow
+- Memories of a murderer
+- Parasite
+- Dune
+- Perfect Days
+- Confession of murder

@@ -425,6 +425,7 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - Adopt the pace of nature, her secret is patience. - Ralph Emerson
 - This is your life. Do what you love, and do it often. - Holstee Manifesto
 - To be beautiful means to be yourself. You don't need to be accepted by others. You need to be yourself. - Thich Nhat Hanh
+- Practice the art of interpreting situations constructively.
 
 ## Books:
 

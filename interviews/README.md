@@ -21,6 +21,8 @@ Instead use sites like these (discussion where I found these: https://news.ycomb
 - http://layoffs.fyi/
 - Improve your resume and LinkedIn profile: https://resumeworded.com/
 - https://www.rezi.ai/
+- https://resume-nation.github.io/#/home
+- https://rxresu.me/
 
 ## Blogs and Articles:
 
@@ -138,6 +140,8 @@ Instead use sites like these (discussion where I found these: https://news.ycomb
 - Curated interview preparation materials for busy engineers: https://github.com/yangshun/tech-interview-handbook
 - https://dev.to/olanetsoft/12-github-repositories-to-help-you-ace-your-job-interview-2a08
 - https://github.com/ashishps1/awesome-behavioral-interviews
+- https://github.com/xitanggg/open-resume
+- https://github.com/srbhr/Resume-Matcher
 
 ## Tweets/HN Threads:
 

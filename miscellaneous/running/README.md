@@ -9,3 +9,4 @@
 - How to Run Properly for Beginners: https://www.youtube.com/watch?v=m-P8ge77FY4
 - How To Breathe While Running: https://www.youtube.com/watch?v=L_vZjikr5Ew
 - How to breathe while running | Andrew Huberman and Lex Fridman: https://www.youtube.com/watch?v=msGKrclcsbck
+-  How to Run Longer Without Getting So Tired: https://www.youtube.com/watch?v=jmyLSQ0REmo

@@ -33,6 +33,9 @@
 - https://watchseries.bar/
 - https://ww7.solarmovie.to/
 - Torrent search engine: https://torrentz2.nz/
+- https://prmovies.living/
+- https://moviesvideo.top/movie4k/
+- https://sflix2.to/
 
 # Blogs and articles:
 

@@ -422,6 +422,10 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - Interrupts is Threads: https://onevariable.com/blog/interrupts-is-threads/
 - Code golfing Rust Binaries: https://darkcoding.net/software/a-very-small-rust-binary-indeed
 
+### Benchmarking crates:
+
+- 2025: Comparing Rust Actor Libraries: Actix, Coerce, Kameo, Ractor, and Xtra: https://theari.dev/blog/comparing-rust-actor-libraries/
+
 ## Blog Series/Collection of articles:
 
 - Very good collection of blogs on rust from one the of important contributors: https://without.boats/
@@ -565,6 +569,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - “Zero setup” cross compilation and “cross testing” of Rust crates: https://github.com/cross-rs/cross
 - [perf, benchmarking] Experimental one-shot benchmarking/profiling harness for Rust: https://github.com/bheisler/iai
 - [docker] A cargo-subcommand to speed up Rust Docker builds using Docker layer caching: https://github.com/LukeMathWalker/cargo-chef
+- Minimizing Rust Binary Size: https://github.com/johnthagen/min-sized-rust
 
 ## Videos:
 

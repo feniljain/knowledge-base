@@ -10,6 +10,7 @@
 ## Blogs and articles:
 
 - Challenging algorithms and data structures every programmer should try: https://austinhenley.com/blog/challengingalgorithms.html
+- Succinct data structures: https://blog.startifact.com/posts/succinct/
 
 ## Videos:
 

@@ -140,6 +140,7 @@
 - https://vonheikemen.github.io/devlog/tools/vim-and-the-quickfix-list/
 - Best Vim Tips: https://vim.fandom.com/wiki/Best_Vim_Tips
 - https://www.petergundel.de/git/neovim/telescope/2023/03/22/git-jump-in-neovim-with-telescope.html
+- Quick vim tips to generate and increment numbers: https://irian.to/blogs/quick-vim-tips-to-generate-and-increment-numbers
 
 ## VimTricks:
 

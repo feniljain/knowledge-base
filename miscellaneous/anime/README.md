@@ -240,7 +240,6 @@
 - Yamada-kun to 7-nin no majo
 - My Dress-Up Darling
 - The Dangers in my heart
-- Insomaniacs after school
 - Ore monogatari
 - Sakrua-sou no pet no kanojo
 - Komi can't communicate
@@ -330,6 +329,9 @@
 - Saint young men
 - https://myanimelist.net/anime/51358/Dead_Dead_Demons_Dededede_Destruction
 - Negative Positive Angler
+- World Trigger
+- Saga of Tanya the Evil
+- Legend of the Galactic Heroes
 
 ## Links:
 
@@ -642,6 +644,7 @@
 - Ranking of Kings
 - Scissor Seven
 - The Case Study of Vanitas
+- Insomaniacs after school
 - Beastars
 - Orb: On the movements of the earth
 - Akudama drive
@@ -659,3 +662,4 @@
 - 20th Century Boys
 - Berserk
 - Slam dunk
+- Billy bat
