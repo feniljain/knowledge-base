@@ -251,6 +251,7 @@
 - https://github.com/b0o/SchemaStore.nvim
 - https://yapjiahong2003.medium.com/solving-merge-conflicts-easily-in-neovim-with-fugitive-cb5f4e205e8f
     - also checkout hunk related features from `gitsigns.nvim`
+        - This guy seems to be using hunks feature using this config: https://github.com/iainsimmons/nvim-config/blob/a35065766b6133caa27e9574c3878dc8a875d0ab/lua/plugins/git.lua
 - Does telescope not satisfy this usecase?: Find a new terminal management tool instead of harpoon
     - https://github.com/akinsho/toggleterm.nvim
         - https://github.com/NvChad/NvChad/issues/489
@@ -272,6 +273,7 @@
 - https://github.com/mhinz/neovim-remote (from here: https://maskray.me/blog/2024-11-02-tinkering-with-neovim)
 - https://maskray.me/blog/2024-11-02-tinkering-with-neovim
 - https://github.com/folke/snacks.nvim
+    - https://github.com/iainsimmons/nvim-config/blob/main/lua/plugins/snacks.lua
 - https://www.reddit.com/r/neovim/comments/1h25lal/what_are_your_favorite_underappreciated_neovim/
 - LSP powered folding: https://x.com/Neovim/status/1863340715662577995
 - https://x.com/Neovim/status/1883664516984283305
@@ -347,3 +349,23 @@
 - https://github.com/obsidian-nvim/obsidian.nvim
 - https://x.com/Neovim/status/1928431197039759537
 - https://x.com/Neovim/status/1933207269384077493
+- https://www.reddit.com/r/neovim/comments/1h8q8ih/goodbye_to_the_press_enter_in_messages/
+- https://evantravers.com/articles/2024/09/17/making-my-nvim-act-more-like-helix-with-mini-nvim/
+- https://github.com/OXY2DEV/markview.nvim
+- https://www.reddit.com/r/neovim/comments/1hbo6bk/a_new_way_to_setup_lsps_has_been_merged/
+- https://x.com/Neovim/status/1871175767880597841
+- https://github.com/0xstepit/flow.nvim
+- https://www.reddit.com/r/neovim/comments/1hkmqoc/blinkcmp_v081_is_actually_usable_now_yay/
+- https://x.com/Neovim/status/1877399779916861866
+- Explore use of this instead of vifm, does this help in cases where you press list all files in very big folders by mistake? https://github.com/sxyazi/yazi
+- https://fx.wtf/
+- Explore usage of this instead of nvm: https://github.com/Schniz/fnm
+- https://github.com/iainsimmons/nvim-config/blob/a35065766b6133caa27e9574c3878dc8a875d0ab/lua/config/keymaps.lua
+- https://github.com/folke/lazydev.nvim
+- Can we set this up to work like bacon for large codebases? Don't provide LSP features, just linting: https://github.com/mfussenegger/nvim-lint
+- https://github.com/TobinPalmer/rayso.nvim
+- See first screenshot of searching, it provides a nice UI to do advanced filtering on search like you have been wanting to do using telescope: https://github.com/MagicDuck/grug-far.nvim
+- https://github.com/prochri/telescope-all-recent.nvim
+- https://github.com/fdschmidt93/telescope-egrepify.nvim OR https://github.com/nvim-telescope/telescope-live-grep-args.nvim
+- https://github.com/nvim-telescope/telescope.nvim/wiki/Configuration-Recipes
+- https://x.com/Neovim/status/1878713369613762844

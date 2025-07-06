@@ -24,9 +24,11 @@
 - [perf] Easy flamegraphs for Rust projects and everything else, without Perl or pipes: https://github.com/flamegraph-rs/flamegraph
 - [perf, list] Collection of different perf tools: https://github.com/MattPD/cpplinks/blob/master/performance.tools.md
 - [memory] A LD_PRELOAD based memory profiler and leak detector for Linux: https://github.com/jrfonseca/memtrail
-- [benchmkar] A Benchmark for Real-Time Analytics Applications: https://github.com/timescale/rtabench/
+- [benchmkark] A Benchmark for Real-Time Analytics Applications: https://github.com/timescale/rtabench/
 - https://github.com/axboe/fio
 - [perf] Performance monitoring tools for Linux: https://github.com/sysstat/sysstat
+- [perf] https://github.com/iovisor/bcc/blob/master/tools/memleak.py
+- [tracing] https://stratoshark.org/
 
 ## Reddit and twitter threads:
 

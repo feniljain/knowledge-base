@@ -174,6 +174,7 @@
 - [perf,network] https://rigtorp.se/low-latency-guide/
 - https://blog.packagecloud.io/monitoring-tuning-linux-networking-stack-receiving-data/
 - It’s always TCP_NODELAY. Every damn time: https://brooker.co.za/blog/2024/05/09/nagle.html
+- Analyzing the Performance of Linux Networking Approaches for Packet Processing, A Comparative Analysis of DPDK, io_uring and the standard Linux network stack: https://www.diva-portal.org/smash/get/diva2:1789103/FULLTEXT01.pdf
 
 ## Books:
 
@@ -222,6 +223,7 @@
 - tcpdump like XDP packet capture: https://github.com/cloudflare/xdpcap
 - FD.io - The Fast Data Project Relentlessly focused on data IO speed and efficiency for more flexible and scalable networks and storage: https://github.com/FDio
 - A TCP proxy to simulate network and system conditions for chaos and resiliency testing: https://github.com/Shopify/toxiproxy
+- Build your own layer-2 virtual switch in less than 300 lines of code: https://github.com/peiyuanix/build-your-own-zerotier
 
 ## Reddit, twitter and HN threads:
 

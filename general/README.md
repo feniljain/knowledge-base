@@ -152,6 +152,7 @@
 - Flashcard app in your terminal ( has support for Anki too ): https://github.com/TBS1996/speki
 - An open-source keystroke visualizer: https://github.com/keycastr/keycastr
 - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files: https://github.com/rclone/rclone
+- The Grammar Checker for Developers: https://github.com/Automattic/harper
 
 ## Newsletters:
 

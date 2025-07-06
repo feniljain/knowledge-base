@@ -243,6 +243,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - Time travel debugging Rust in NeoVim: https://jonboh.dev/posts/rr/
 - Let's Build a Cargo Compatible Build Tool: https://ductile.systems/freight-part-1/
 - How to create a custom memory allocator in Rust: https://www.brochweb.com/blog/post/how-to-create-a-custom-memory-allocator-in-rust/
+- Debugging meomry leaks in Rust applications: https://flakm.com/posts/phantom_leak/
 
 ### Language general:
 

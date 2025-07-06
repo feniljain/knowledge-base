@@ -34,6 +34,7 @@
 - Kernels 101 – Let’s write a Kernel: https://arjunsreedharan.org/post/82710718100/kernels-101-lets-write-a-kernel
 - https://littleosbook.github.io/
 - Coding for SSDs: https://codecapsule.com/2014/02/12/coding-for-ssds-part-1-introduction-and-table-of-contents/
+- Operating System in 1,000 Lines: https://operating-system-in-1000-lines.vercel.app/en/
 
 ### Others:
 

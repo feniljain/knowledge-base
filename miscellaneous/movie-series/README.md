@@ -72,3 +72,10 @@
 - Dune
 - Perfect Days
 - Confession of murder
+- 1408
+- Memories of Murder
+- Perfect Days
+- The man from earth
+- The Truman Show
+- Confession of a murder
+- 12 Angry Men 1957

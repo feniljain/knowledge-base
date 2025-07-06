@@ -6,6 +6,7 @@
 - Free and open source resume builder: https://rxresu.me/
 - http://www.nondot.org/sabre/Resume.html
 - https://layoffs.fyi/
+- https://typst.app/universe/package/basic-resume
 
 ## Blogs and articles:
 
@@ -38,6 +39,7 @@
 - Some notes on possible things to do/explore when joining a new team: https://notes.eatonphil.com/2024-03-11-first-month-on-a-database-team.html
 - https://www.seangoedecke.com/how-to-ship/
 - https://bitfieldconsulting.com/posts/career
+- Principal Engineer Roles Framework: https://www.linkedin.com/pulse/principal-engineer-roles-framework-mai-lan-tomsen-bukovec-142df/
 
 ## Blog series/Collection of articles:
 

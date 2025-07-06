@@ -41,6 +41,7 @@
 - The elusive samurai
 - Xam'd: Lost Memories
 - Mecha-ude: mechanical arms
+- Delicious in Dungeon
 
 ## Mecha and Space:
 
@@ -117,6 +118,7 @@
 - Shoshimin: how to become ordinary
 - Undead Girl Murder Farc
 - Wolf's Rain
+- Dead Dead Demon's Dededede Destruction
 
 ## Adventure and Magic(supernatural):
 
@@ -160,6 +162,7 @@
 - Gin no saji
 - Undead unluck
 - Mashle: Magic and Muscles
+- Bang Brave Bang Bravern
 
 ## Sad & Romance & SOL:
 
@@ -250,6 +253,8 @@
 - Makeine: Too many losing heroines
 - 365 days to the wedding
 - Blue Box
+- Too Many Losing Heroines!
+- The Dangers in My Heart
 
 ## Sports and Music:
 
@@ -264,6 +269,7 @@
 - Overtake
 - Shangrila Frontier
 - Blue Giant
+- Girls Band Cry
 
 ## Isekai:
 
@@ -295,7 +301,6 @@
 - Sousou No Frieren
 - Burn the Witch
 - Darwins Game
-- Delicious in Dungeon
 - Migi and Dali
 - Death Mount Death Play
 - 16 bit sensation
@@ -644,10 +649,13 @@
 - Orb: On the movements of the earth
 - Ikebukuro West Gate Park
 - Akudama drive
+- Look Back
+- Scissor Seven
 - Ghost Hunt
 - Re:Creators
 - Lazarus
-- non non biyori
+- Non Non biyori
+- Yu Yu Hakusho
 
 ## Caught up Mangas:
 
