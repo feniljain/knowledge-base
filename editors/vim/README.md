@@ -141,6 +141,7 @@
 - Best Vim Tips: https://vim.fandom.com/wiki/Best_Vim_Tips
 - https://www.petergundel.de/git/neovim/telescope/2023/03/22/git-jump-in-neovim-with-telescope.html
 - Quick vim tips to generate and increment numbers: https://irian.to/blogs/quick-vim-tips-to-generate-and-increment-numbers
+- https://dev.to/iggredible/learning-vim-regex-26ep
 
 ## VimTricks:
 
@@ -232,6 +233,7 @@
 - http://vimcaps.com/
 - A list of VIM Plugins: https://hackingcpp.com/dev/vim_plugins.html
 - Vim on webassembly: https://www.vimonlineeditor.com/
+- https://vimregex.com/
 
 ## Repos:
 

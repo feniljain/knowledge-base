@@ -335,3 +335,15 @@
     - Under `new features`/ `LSP` in https://neovim.io/doc/user/news-0.11.html check above mentioned method, and any way we can start using location lists
 - Check `new features` / `Options` in https://neovim.io/doc/user/news-0.11.html for:`completeopt` and see if we can use any new features
 - Check if deprecation in above blog affects any of the config
+- https://www.reddit.com/r/neovim/comments/1jnq28d/nvimcmp_vs_blinkcmp/
+- https://www.reddit.com/r/neovim/comments/1juk3kb/underrated_colorschemes/
+- https://x.com/Neovim/status/1915478301088338135/
+- https://x.com/Neovim/status/1916150589769089436
+- https://www.reddit.com/r/neovim/comments/1kdrhjn/minikeymap_make_special_key_mappings_multistep/
+- https://www.reddit.com/r/tmux/comments/1kbozsb/tmuxdotbar_a_simple_and_minimalist_status_bar/
+- https://www.reddit.com/r/neovim/comments/1kcz8un/great_improvements_to_the_cmdline_in_nightly/
+- https://github.com/luisiacc/gruvbox-baby
+- https://www.reddit.com/r/neovim/comments/1kednez/i_created_debug_mode_for_neovim_debugmasternvim/
+- https://github.com/obsidian-nvim/obsidian.nvim
+- https://x.com/Neovim/status/1928431197039759537
+- https://x.com/Neovim/status/1933207269384077493

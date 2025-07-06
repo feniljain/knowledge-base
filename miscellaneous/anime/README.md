@@ -31,7 +31,6 @@
 - Lycoris Recoil
 - C Danchi: Horror ( check how it is before starting tho )
 - Balance Unlimited
-- Re:Creators
 - Mieruko-chan: Horror
 - Heavenly Delusion
 - Rurouni kenshin ( new adaptation )
@@ -72,9 +71,7 @@
 - Zetsuen no tempest
 - Great Pretender
 - Suzumiya Haruhi no Yuuutsu
-- Ghosthunt
 - K-project
-- Ikebukuro West Gate Park
 - The garden of sinners
 - Monogatari
 - Fugou keiji balance unlimited
@@ -152,7 +149,6 @@
 - Nijiro days
 - Science Fell in Love, So I Tried to Prove It
 - Seitokai Yakuindomo
-- non non biyori
 - Monster musume
 - Uzuki chan wants to hang out
 - Zombieland saga
@@ -231,7 +227,6 @@
 - Oshi no ko
 - Kaguya sama season 3
 - Skip and Loafer
-- Insomnia After School
 - Hinamatsuri
 - A sign of affection
 - Remake our life
@@ -647,7 +642,12 @@
 - Insomaniacs after school
 - Beastars
 - Orb: On the movements of the earth
+- Ikebukuro West Gate Park
 - Akudama drive
+- Ghost Hunt
+- Re:Creators
+- Lazarus
+- non non biyori
 
 ## Caught up Mangas:
 

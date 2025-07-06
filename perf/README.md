@@ -12,6 +12,7 @@
 - [tracing] Linux tracing systems and how they fit together: https://jvns.ca/blog/2017/07/05/linux-tracing-systems/
 - [benchmark] https://justinblank.com/notebooks/benchmarking.html
 - [perf,network] Low latency tuning guide: https://rigtorp.se/low-latency-guide/
+- [perf, tool] https://man7.org/linux/man-pages/man2/mincore.2.html
 
 ## Repos
 
@@ -23,6 +24,9 @@
 - [perf] Easy flamegraphs for Rust projects and everything else, without Perl or pipes: https://github.com/flamegraph-rs/flamegraph
 - [perf, list] Collection of different perf tools: https://github.com/MattPD/cpplinks/blob/master/performance.tools.md
 - [memory] A LD_PRELOAD based memory profiler and leak detector for Linux: https://github.com/jrfonseca/memtrail
+- [benchmkar] A Benchmark for Real-Time Analytics Applications: https://github.com/timescale/rtabench/
+- https://github.com/axboe/fio
+- [perf] Performance monitoring tools for Linux: https://github.com/sysstat/sysstat
 
 ## Reddit and twitter threads:
 
