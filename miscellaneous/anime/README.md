@@ -2,7 +2,6 @@
 
 ## Action and Thriller:
 
-- Gyakkyou Burai Kaiji: Ultimate Survivor: Thriller
 - Gankutsuou: The Count of Monte Cristo: Thriller
 - When They Cry: Thriller
 - Phantom: Requiem for the Phantom: Thriller
@@ -41,7 +40,16 @@
 - The elusive samurai
 - Xam'd: Lost Memories
 - Mecha-ude: mechanical arms
+<<<<<<< HEAD
 - Delicious in Dungeon
+||||||| parent of 6dbbd1d (add: resources on 20-09-25)
+=======
+- Samurai 7
+- Last Exile
+- Legend of the Galactic Heroes
+- Saga of Tanya the Evil
+- World Trigger
+>>>>>>> 6dbbd1d (add: resources on 20-09-25)
 
 ## Mecha and Space:
 
@@ -130,6 +138,7 @@
 - Yaa boy kong ming
 - Girl's last tour
 - Wistoria: Wand and sword
+- Kaiba
 
 ## Comedy:
 
@@ -253,8 +262,13 @@
 - Makeine: Too many losing heroines
 - 365 days to the wedding
 - Blue Box
+<<<<<<< HEAD
 - Too Many Losing Heroines!
 - The Dangers in My Heart
+||||||| parent of 6dbbd1d (add: resources on 20-09-25)
+=======
+- Negative Positive Angler
+>>>>>>> 6dbbd1d (add: resources on 20-09-25)
 
 ## Sports and Music:
 
@@ -287,6 +301,7 @@
 - Blue Period
 - Oshi no ko
 - Good Night World
+- Beck: Mongolian Chop Squad
 
 ## Ecchi:
 
@@ -328,10 +343,6 @@
 - Scavengers Reign
 - Saint young men
 - https://myanimelist.net/anime/51358/Dead_Dead_Demons_Dededede_Destruction
-- Negative Positive Angler
-- World Trigger
-- Saga of Tanya the Evil
-- Legend of the Galactic Heroes
 
 ## Links:
 
@@ -656,6 +667,9 @@
 - Lazarus
 - Non Non biyori
 - Yu Yu Hakusho
+- Takopi's Original Sin
+- To Be Hero X
+- Great Pretender
 
 ## Caught up Mangas:
 

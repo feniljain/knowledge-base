@@ -55,6 +55,7 @@
 - Faster and enjoyable ZSH (maybe): https://htr3n.github.io/2018/07/faster-zsh/
 - https://mywiki.wooledge.org/Bashism
 - How XTerm works: https://kevroletin.github.io/terminal/2021/12/11/how-terminal-works-in.html
+- timeout in bash scripts: https://heitorpb.github.io/bla/timeout/
 
 ### Tools:
 

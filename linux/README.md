@@ -144,6 +144,7 @@
 - Writing a Debugger From Scratch: https://www.timdbg.com/posts/writing-a-debugger-from-scratch-part-1/
 - A Minimum Complete Tutorial of Linux ext4 File System: A Minimum Complete Tutorial of Linux ext4 File System
 - Perf usage tutorial: https://github.com/NAThompson/performance_tuning_tutorial
+- Hypervisor in 1000 lines: https://1000hv.seiya.me/en/
 
 ### Others:
 
@@ -393,3 +394,4 @@
 - https://www.sobyte.net/post/2022-04/io-uring/
 - Lord of the io_uring: io_uring tutorial, examples and reference: https://github.com/shuveb/loti
 - io_uring basics: Writing a file to disk: https://notes.eatonphil.com/2023-10-19-write-file-to-disk-with-io_uring.html
+- https://blog.habets.se/2025/04/io-uring-ktls-and-rust-for-zero-syscall-https-server.html

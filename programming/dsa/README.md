@@ -7,6 +7,7 @@
 - https://matklad.github.io/2023/08/13/role-of-algorithms.html
 - Bit Twiddling Hacks: https://graphics.stanford.edu/~seander/bithacks.html
 - https://www.lintcode.com/
+- https://cses.fi/problemset/
 
 ## Blogs and articles:
 

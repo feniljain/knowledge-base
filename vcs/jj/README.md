@@ -10,3 +10,4 @@
 - https://reasonablypolymorphic.com/blog/jj-strategy/index.html
 - https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html
 - https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/
+- https://github.com/jkoppel/jj-workshop

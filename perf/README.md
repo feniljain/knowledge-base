@@ -6,6 +6,7 @@
 - [perf] AMD μProf, performance analysis tool-suite for x86 applications: https://www.amd.com/en/developer/uprof.html
 - [perf, linux] Monitoring and managing linux system status and performance: https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/8/html/monitoring_and_managing_system_status_and_performance/index
 - [perf] Intel perf guide OR `Practical Intel AVX Optimization on 2nd generation Intel Core Processors`: https://web.archive.org/web/20151101074635/https://software.intel.com/en-us/articles/practical-intel-avx-optimization-on-2nd-generation-intel-core-processors
+- [tracing] https://stratoshark.org/
 
 ## Blogs
 
@@ -13,6 +14,7 @@
 - [benchmark] https://justinblank.com/notebooks/benchmarking.html
 - [perf,network] Low latency tuning guide: https://rigtorp.se/low-latency-guide/
 - [perf, tool] https://man7.org/linux/man-pages/man2/mincore.2.html
+- [perf] https://github.com/iovisor/bcc/blob/master/tools/memleak.py
 
 ## Repos
 
@@ -29,6 +31,7 @@
 - [perf] Performance monitoring tools for Linux: https://github.com/sysstat/sysstat
 - [perf] https://github.com/iovisor/bcc/blob/master/tools/memleak.py
 - [tracing] https://stratoshark.org/
+- [perf] https://github.com/performancecopilot
 
 ## Reddit and twitter threads:
 

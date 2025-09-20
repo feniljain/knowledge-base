@@ -142,6 +142,7 @@
 - https://www.petergundel.de/git/neovim/telescope/2023/03/22/git-jump-in-neovim-with-telescope.html
 - Quick vim tips to generate and increment numbers: https://irian.to/blogs/quick-vim-tips-to-generate-and-increment-numbers
 - https://dev.to/iggredible/learning-vim-regex-26ep
+- How do I debug a non-functioning keymap in Vim? https://stackoverflow.com/questions/29033976/how-do-i-debug-a-non-functioning-keymap-in-vim
 
 ## VimTricks:
 

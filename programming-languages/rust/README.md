@@ -422,6 +422,8 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - Time Travel Debugging in Rust: https://www.travelneil.com/time-travel-debugging-in-rust.html
 - Interrupts is Threads: https://onevariable.com/blog/interrupts-is-threads/
 - Code golfing Rust Binaries: https://darkcoding.net/software/a-very-small-rust-binary-indeed
+- Debugging memory leaks in Rust applications : https://flakm.com/posts/phantom_leak/
+- https://rumcajs.dev/posts/memory-analysis-in-rust/
 
 ### Benchmarking crates:
 
@@ -571,6 +573,9 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - [perf, benchmarking] Experimental one-shot benchmarking/profiling harness for Rust: https://github.com/bheisler/iai
 - [docker] A cargo-subcommand to speed up Rust Docker builds using Docker layer caching: https://github.com/LukeMathWalker/cargo-chef
 - Minimizing Rust Binary Size: https://github.com/johnthagen/min-sized-rust
+- Rust release github action: https://github.com/release-plz/release-plz
+- Rust release github action: https://github.com/axodotdev/cargo-dist
+- cargo subcommand for showing assembly, LLVM IR and MLIR: https://github.com/pacak/cargo-show-asm
 
 ## Videos:
 
@@ -729,6 +734,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - you_can::turn_off_the_borrow_checker : https://docs.rs/you-can/latest/you_can/attr.turn_off_the_borrow_checker.html
 - https://crates.io/crates/whichever-compiles
 - ε-serde is an ε-copy (i.e., almost zero-copy) serialization/deserialization framework: https://crates.io/crates/epserde
+- https://crates.io/crates/cargo-call-stack
 
 ## Rust Internals:
 
@@ -825,6 +831,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - Rust cheat sheet for begineers: https://quickref.me/rust
 - Learn Rust by making projects: https://www.sotr.blog/
 - Rust 101: an open-source university course: https://tweedegolf.nl/en/blog/80/rust-101-open-source-university-course
+- Learn Rust the dangerous way, Rust for C programmers: https://cliffle.com/p/dangerust/
 
 ### Blogs and articles:
 

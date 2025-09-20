@@ -369,3 +369,14 @@
 - https://github.com/fdschmidt93/telescope-egrepify.nvim OR https://github.com/nvim-telescope/telescope-live-grep-args.nvim
 - https://github.com/nvim-telescope/telescope.nvim/wiki/Configuration-Recipes
 - https://x.com/Neovim/status/1878713369613762844
+- https://www.reddit.com/r/neovim/comments/1m3vdr4/migrating_to_neovims_new_builtin_plugin_manager/
+- https://x.com/justinmk/status/1946632250616922284
+- https://www.reddit.com/r/neovim/comments/1misv3f/explaining_all_vim_modes_even_the_weird_ones/
+- https://x.com/Neovim/status/1962250819098562607
+- https://www.reddit.com/r/neovim/comments/1n59kir/neovim_now_supports_lsp_ontype_formatting/
+- https://github.com/MagicDuck/grug-far.nvim
+- https://github.com/nvim-mini/mini-git
+- https://www.reddit.com/r/neovim/comments/1kgu748/masonnvim_20_has_been_released/
+- https://www.reddit.com/r/neovim/comments/1kpw9pz/with_all_the_improvements_in_011_how_does_your/
+- https://www.reddit.com/r/neovim/s/WNWYKYEKth
+- https://x.com/BHolmesDev/status/1949450982431281467/

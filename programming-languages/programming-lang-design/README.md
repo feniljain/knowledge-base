@@ -11,6 +11,7 @@
 - https://www.typetheoryforall.com/
 - https://www.plai.org/
 - Rosetta Code presents solutions to the same task in as many different languages as possible, to demonstrate how languages are similar and different: https://rosettacode.org/wiki/Rosetta_Code
+- Minimal impls of famous type systems: https://sdiehl.github.io/typechecker-zoo/
 
 # Blogs and articles:
 
