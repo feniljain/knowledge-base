@@ -40,6 +40,10 @@
 - https://www.seangoedecke.com/how-to-ship/
 - https://bitfieldconsulting.com/posts/career
 - Principal Engineer Roles Framework: https://www.linkedin.com/pulse/principal-engineer-roles-framework-mai-lan-tomsen-bukovec-142df/
+- https://brooker.co.za/blog/2022/11/08/writing.html
+- https://brooker.co.za/blog/2024/02/06/time.html
+- https://brooker.co.za/blog/2024/03/04/mousetrap.html
+- https://brooker.co.za/blog/2020/10/19/big-changes.html
 
 ## Blog series/Collection of articles:
 

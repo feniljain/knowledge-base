@@ -220,15 +220,10 @@
 
 ## Things to re-check/remember after trying them out:
 
-- usefulness of hardtime.nvim
-- usefulness of this (clear all buffers except current active one, current mapping: <Space>cab): https://www.reddit.com/r/neovim/comments/16b0n3a/comment/jzxw67q/
-- usefulness of markid treesitter plugin
 - uselfulness of mini.operators replace functionality
-- Use :telescope registers more for yanking based operations
-- Use quickfix lists edit feature more
 - Use symbols listing for a file feature more
 - Use diffview.nvim's diff + gitsigns hunk feature more
-- Making use of <C-w>d to instantly see diagnostic float window
+    - https://github.com/sindrets/diffview.nvim ( This now has completely vscode type merge tools, check here: https://www.reddit.com/r/neovim/comments/x7iw4m/update_diffviewnvim_now_has_a_merge_tool/ )
 - https://www.shortcutfoo.com/blog/top-50-vim-configuration-options
     - uselfulness of `set shiftround`
     - uselfulness of `set smarttab`
@@ -240,123 +235,37 @@
     - Append to end of all lines with variable length using `C-v` , `$` and then `A`
     - Marks
 - using `git commit --fixup` : https://stackoverflow.com/questions/3103589/how-can-i-easily-fixup-a-past-commit
+- https://github.com/jbyuki/venn.nvim
+    - https://github.com/vim-scripts/DrawIt
+- Debugging, use cgdb: https://maskray.me/blog/2024-11-02-tinkering-with-neovim
 
 ## Things to try out in next release:
 
-- Upgrade to 0.10.4: https://x.com/Neovim/status/1884623447646474676
-- https://github.com/sindrets/diffview.nvim ( This now has completely vscode type merge tools, check here: https://www.reddit.com/r/neovim/comments/x7iw4m/update_diffviewnvim_now_has_a_merge_tool/ )
-- https://github.com/jbyuki/venn.nvim
-    - https://github.com/vim-scripts/DrawIt
+- https://www.reddit.com/r/neovim/comments/1hkmqoc/blinkcmp_v081_is_actually_usable_now_yay/
+- https://github.com/oskarrrrrrr/symbols.nvim : https://www.reddit.com/r/neovim/comments/1jeah4p/symbolsnvim_hey_look_i_made_it_faster/
+    - symbols.nvim maybe faster but it has less treesitter parsers support
+- Learn how to use builtin telescope options like selecting among current telescope results
+- https://x.com/Neovim/status/1902355522470183348
+    - This wasn't working in last version, telescope window looked ugly
+    - https://www.reddit.com/r/neovim/comments/1jeg8v4/comment/miicjny/
+- [https://www.reddit.com/r/neovim/comments/1jl47r9/astronvim_v5_released/](https://www.reddit.com/r/neovim/comments/1jl47r9/astronvim_v5_released/)
+- Has it become treesitter driven yet?: https://x.com/Neovim/status/1933207269384077493
+- https://www.reddit.com/r/neovim/comments/1kcz8un/great_improvements_to_the_cmdline_in_nightly/
+- Can we set this up to work like bacon for large codebases? Don't provide LSP features, just linting: https://github.com/mfussenegger/nvim-lint
+- Re-check if cmdheight=0 has no issues with search, recording macro message, "Press ENTER" messages anymore
 
-- https://github.com/b0o/SchemaStore.nvim
+## Longer work:
+
 - https://yapjiahong2003.medium.com/solving-merge-conflicts-easily-in-neovim-with-fugitive-cb5f4e205e8f
     - also checkout hunk related features from `gitsigns.nvim`
         - This guy seems to be using hunks feature using this config: https://github.com/iainsimmons/nvim-config/blob/a35065766b6133caa27e9574c3878dc8a875d0ab/lua/plugins/git.lua
-- Does telescope not satisfy this usecase?: Find a new terminal management tool instead of harpoon
-    - https://github.com/akinsho/toggleterm.nvim
-        - https://github.com/NvChad/NvChad/issues/489
-- Think what usecases would be good for loclist instead of quickfix list
-- https://github.com/stevearc/quicker.nvim
-- https://www.reddit.com/r/neovim/comments/1eud0zt/vim_motions_and_tricks_i_wish_i_learned_earlier/
-- https://github.com/dgox16/oldworld.nvim
-- https://x.com/Neovim/status/1828582223450099788
-- https://github.com/sam4llis/nvim-tundra
-- Kinda like gruvbox, just more darker on the choclate side, give it a thought: https://github.com/qaptoR-nvim/chocolatier.nvim
-- https://github.com/atuinsh/atuin
-- https://github.com/maxandron/goplements.nvim
-- Do we want to give this a try above stow?: https://www.chezmoi.io/
-- Try this theme: https://www.reddit.com/r/neovim/comments/1flcqrp/primeppuccin_for_neovim/
-- Try to recreate this colorscheme, seems to ship with a perfectly muted bg: https://www.reddit.com/r/neovim/comments/1fq9ha4/default_nivm_light_theme_is_amazing/
-- https://x.com/Neovim/status/1841115178152124595
-- https://github.com/mistricky/codesnap.nvim
-- Try this font: https://typeof.net/Iosevka/
-- https://github.com/mhinz/neovim-remote (from here: https://maskray.me/blog/2024-11-02-tinkering-with-neovim)
-- https://maskray.me/blog/2024-11-02-tinkering-with-neovim
-- https://github.com/folke/snacks.nvim
-    - https://github.com/iainsimmons/nvim-config/blob/main/lua/plugins/snacks.lua
-- https://www.reddit.com/r/neovim/comments/1h25lal/what_are_your_favorite_underappreciated_neovim/
-- LSP powered folding: https://x.com/Neovim/status/1863340715662577995
-- https://x.com/Neovim/status/1883664516984283305
-- https://x.com/Neovim/status/1883665852198994395
-- https://github.com/ggml-org/llama.vim
-- https://x.com/justinmk/status/1888607160231219592
-- https://www.reddit.com/r/neovim/comments/1ims1br/shadownvim_a_dark_muted_colorscheme_for_neovim/
-- https://x.com/Neovim/status/1893465186847080563/photo/2
-- https://x.com/Neovim/status/1894420578343203045
-- Explore this for symbols outline cause it can use treesitter and get the outline, instead of just relying on LSPs: https://github.com/stevearc/aerial.nvim/
-    - Also explore if outline.nvim supports treesitter based outline
-    - prefer aerial.nvim cause even AstroNvim uses it and someone was praising it on HN: https://news.ycombinator.com/item?id=35135458
-    - https://github.com/oskarrrrrrr/symbols.nvim : https://www.reddit.com/r/neovim/comments/1jeah4p/symbolsnvim_hey_look_i_made_it_faster/
-        - some people seem to have problem with aerial in reddit chat here
-- https://x.com/Neovim/status/1898016686097187266
-- https://github.com/Alexis12119/nvim-config/tree/main
-- https://www.reddit.com/r/neovim/comments/p8wtmn/telescopenvim_how_to_take_what_i_selected_in/
-- Check can we replace our fork with this?: https://github.com/polarmutex/git-worktree.nvim
-- Learn how to use builtin telescope options like selecting among current telescope results
-- https://x.com/Neovim/status/1902355522470183348
-- https://www.reddit.com/r/neovim/comments/1jeg8v4/comment/miicjny/
-- https://x.com/Neovim/status/1904908380432441486
+- https://github.com/fdschmidt93/telescope-egrepify.nvim OR https://github.com/nvim-telescope/telescope-live-grep-args.nvim
 
-- https://github.com/neovim/neovim/pull/29976
-- https://github.com/OXY2DEV/markview.nvim
-- [https://www.reddit.com/r/neovim/comments/1jkkiau/comment/mjyftmn/](https://www.reddit.com/r/neovim/comments/1jkkiau/comment/mjyftmn/)
-    - explore why did `]d` and `[d` get deprecated
-    - I think they are not removed:
-        - https://gpanders.com/blog/whats-new-in-neovim-0-11/#defaults
-- [https://www.reddit.com/r/neovim/comments/1jl47r9/astronvim_v5_released/](https://www.reddit.com/r/neovim/comments/1jl47r9/astronvim_v5_released/)
-- https://github.com/brenoprata10/nvim-highlight-colors
-    - check if some LSP plugin uses it to provide good highlights? If not, remove it
-- https://github.com/echasnovski/mini.icons
-    - replace other icon plugin I have been using
-- https://github.com/neovim/neovim/pull/30501
-    - Is this useful to specify custom commenstrings? If yes, check astro release above and see what all have they defined
-- https://github.com/neovim/neovim/pull/31311
-    - Any better than treesitter folds?
-- https://www.reddit.com/r/neovim/comments/1jiciii/pick_specific_window_to_open_a_file_with/
-    - Should I switch away from nerdtree finally?
-    - Explore file related LSP actions (like rename, this automatically updates all imports too)
-- https://gpanders.com/blog/whats-new-in-neovim-0-11/
-- https://www.reddit.com/r/neovim/comments/1jjpk7g/10_blinkcmp_performant_batteriesincluded/
-    - explore to shift to this from nvim-cmp
-    - It's batteries included so it requires minimal configuration just to work.
-    And it's faster than nvim-cmp.
-    - Another problem with nvim-cmp: [https://www.reddit.com/r/neovim/comments/1jjpk7g/comment/mjp637r/](https://www.reddit.com/r/neovim/comments/1jjpk7g/comment/mjp637r/)
-- Wanna replace `lsp_lines`? How well does it interact with treesitter now?: [https://www.reddit.com/r/neovim/comments/1jkd3al/comment/mjudzhu/](https://www.reddit.com/r/neovim/comments/1jkd3al/comment/mjudzhu/)
-- https://x.com/Neovim/status/1797629199454499223
-- [https://www.reddit.com/r/neovim/comments/1jl32od/for_those_who_want_to_try_neovim_011s_builtin_lsp](https://www.reddit.com/r/neovim/comments/1jl32od/for_those_who_want_to_try_neovim_011s_builtin_lsp/)
-    - https://github.com/benlubas/cmp2lsp
-    - [https://www.reddit.com/r/neovim/comments/1jl32od/comment/mk56yu7/](https://www.reddit.com/r/neovim/comments/1jl32od/comment/mk56yu7/)
-- https://neovim.io/doc/user/news-0.11.html
-- Remove `vim-unimpaired`:
-    - https://gpanders.com/blog/whats-new-in-neovim-0-11/#defaults
-    - https://neovim.io/doc/user/news-0.11.html#_defaults
-- Migrate lsp apis: https://neovim.io/doc/user/news-0.11.html#_lsp
-- https://neovim.io/doc/user/news-0.11.html#_defaults
-    - Check `Options` under this, to bring back line numbers in terminal view, changes need to be made
-- [https://neovim.io/doc/user/lsp.html#vim.lsp.util.locations_to_items()](https://neovim.io/doc/user/lsp.html#vim.lsp.util.locations_to_items())
-    - Under `new features`/ `LSP` in https://neovim.io/doc/user/news-0.11.html check above mentioned method, and any way we can start using location lists
-- Check `new features` / `Options` in https://neovim.io/doc/user/news-0.11.html for:`completeopt` and see if we can use any new features
-- Check if deprecation in above blog affects any of the config
-- https://www.reddit.com/r/neovim/comments/1jnq28d/nvimcmp_vs_blinkcmp/
-- https://www.reddit.com/r/neovim/comments/1juk3kb/underrated_colorschemes/
-- https://x.com/Neovim/status/1915478301088338135/
-- https://x.com/Neovim/status/1916150589769089436
-- https://www.reddit.com/r/neovim/comments/1kdrhjn/minikeymap_make_special_key_mappings_multistep/
-- https://www.reddit.com/r/tmux/comments/1kbozsb/tmuxdotbar_a_simple_and_minimalist_status_bar/
-- https://www.reddit.com/r/neovim/comments/1kcz8un/great_improvements_to_the_cmdline_in_nightly/
-- https://github.com/luisiacc/gruvbox-baby
-- https://www.reddit.com/r/neovim/comments/1kednez/i_created_debug_mode_for_neovim_debugmasternvim/
-- https://github.com/obsidian-nvim/obsidian.nvim
-- https://x.com/Neovim/status/1928431197039759537
-- https://x.com/Neovim/status/1933207269384077493
-- https://www.reddit.com/r/neovim/comments/1h8q8ih/goodbye_to_the_press_enter_in_messages/
-- https://evantravers.com/articles/2024/09/17/making-my-nvim-act-more-like-helix-with-mini-nvim/
-- https://github.com/OXY2DEV/markview.nvim
-- https://www.reddit.com/r/neovim/comments/1hbo6bk/a_new_way_to_setup_lsps_has_been_merged/
-- https://x.com/Neovim/status/1871175767880597841
-- https://github.com/0xstepit/flow.nvim
-- https://www.reddit.com/r/neovim/comments/1hkmqoc/blinkcmp_v081_is_actually_usable_now_yay/
-- https://x.com/Neovim/status/1877399779916861866
+## Terminal stuff:
+
+- https://github.com/atuinsh/atuin
+- Do we want to give this a try above stow?: https://www.chezmoi.io/
+- Try this font: https://typeof.net/Iosevka/
 - Explore use of this instead of vifm, does this help in cases where you press list all files in very big folders by mistake? https://github.com/sxyazi/yazi
 - https://fx.wtf/
 - Explore usage of this instead of nvm: https://github.com/Schniz/fnm
@@ -380,3 +289,13 @@
 - https://www.reddit.com/r/neovim/comments/1kpw9pz/with_all_the_improvements_in_011_how_does_your/
 - https://www.reddit.com/r/neovim/s/WNWYKYEKth
 - https://x.com/BHolmesDev/status/1949450982431281467/
+- Explore usage of this instead of nvm: https://github.com/Schniz/fnm
+- https://github.com/iainsimmons/nvim-config/blob/a35065766b6133caa27e9574c3878dc8a875d0ab/lua/config/keymaps.lua
+- https://github.com/folke/lazydev.nvim
+- Can we set this up to work like bacon for large codebases? Don't provide LSP features, just linting: https://github.com/mfussenegger/nvim-lint
+- https://github.com/TobinPalmer/rayso.nvim
+- See first screenshot of searching, it provides a nice UI to do advanced filtering on search like you have been wanting to do using telescope: https://github.com/MagicDuck/grug-far.nvim
+- https://github.com/prochri/telescope-all-recent.nvim
+- https://github.com/fdschmidt93/telescope-egrepify.nvim OR https://github.com/nvim-telescope/telescope-live-grep-args.nvim
+- https://github.com/nvim-telescope/telescope.nvim/wiki/Configuration-Recipes
+- https://x.com/Neovim/status/1878713369613762844

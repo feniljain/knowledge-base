@@ -65,6 +65,7 @@ Solution: https://zettelkasten.de/posts/reading-web-rss-note-taking/
 - Networking is a necessary — and misunderstood — skill. Here’s how to hone it.: https://www.vox.com/even-better/23416328/networking-tips-job-professional-email-example-scary
 - What Is the Cycle of Avoidance And How to Break It: https://www.lifehack.org/938891/cycle-of-avoidance
 - Conversation Skills Essentials: https://tynan.com/letstalk/
+- https://brooker.co.za/blog/2023/04/20/hobbies.html
 
 ## Videos:
 

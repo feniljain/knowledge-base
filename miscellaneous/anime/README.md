@@ -40,16 +40,12 @@
 - The elusive samurai
 - Xam'd: Lost Memories
 - Mecha-ude: mechanical arms
-<<<<<<< HEAD
 - Delicious in Dungeon
-||||||| parent of 6dbbd1d (add: resources on 20-09-25)
-=======
 - Samurai 7
 - Last Exile
 - Legend of the Galactic Heroes
 - Saga of Tanya the Evil
 - World Trigger
->>>>>>> 6dbbd1d (add: resources on 20-09-25)
 
 ## Mecha and Space:
 
@@ -151,7 +147,6 @@
 - Kobayashi no maid dragon
 - Tonari no seki-kun
 - Maidens of the savage
-- Wotokoi: Love is hard for otaku
 - Amagi Brilliant Park
 - Pet girl of sakurasou
 - Devil is a part timer
@@ -185,7 +180,6 @@
 - Hi Score Girl
 - Sakura-sou no Pet na Kanojo
 - Boarding school Juliet
-- Kokoro connect
 - Tsurezure children
 - Handa-kun
 - Boku to kimi no taisetsu na hanashi
@@ -214,7 +208,6 @@
 - Tada kun never falls in love
 - Oreshura
 - Tsuko ga kirei
-- Kokoro Connect
 - Kids on the slope
 - zutto mae kara suki deshita movie
 - Love, cubnibyo and other delusions
@@ -262,13 +255,9 @@
 - Makeine: Too many losing heroines
 - 365 days to the wedding
 - Blue Box
-<<<<<<< HEAD
 - Too Many Losing Heroines!
 - The Dangers in My Heart
-||||||| parent of 6dbbd1d (add: resources on 20-09-25)
-=======
 - Negative Positive Angler
->>>>>>> 6dbbd1d (add: resources on 20-09-25)
 
 ## Sports and Music:
 
@@ -664,12 +653,16 @@
 - Scissor Seven
 - Ghost Hunt
 - Re:Creators
-- Lazarus
 - Non Non biyori
 - Yu Yu Hakusho
 - Takopi's Original Sin
 - To Be Hero X
 - Great Pretender
+- Wotokoi: Love is hard for otaku
+- Kokoro Connect
+- Bakuman
+- Lazarus
+- Uma Usume
 
 ## Caught up Mangas:
 
@@ -685,3 +678,4 @@
 - Berserk
 - Slam dunk
 - Billy bat
+- Blame
