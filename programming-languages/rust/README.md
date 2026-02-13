@@ -243,7 +243,8 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - Time travel debugging Rust in NeoVim: https://jonboh.dev/posts/rr/
 - Let's Build a Cargo Compatible Build Tool: https://ductile.systems/freight-part-1/
 - How to create a custom memory allocator in Rust: https://www.brochweb.com/blog/post/how-to-create-a-custom-memory-allocator-in-rust/
-- Debugging meomry leaks in Rust applications: https://flakm.com/posts/phantom_leak/
+- Debugging memory leaks in Rust applications: https://archive.is/Vst7q
+    - Original link: https://flakm.com/posts/phantom_leak/
 
 ### Language general:
 
@@ -576,6 +577,8 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - Rust release github action: https://github.com/release-plz/release-plz
 - Rust release github action: https://github.com/axodotdev/cargo-dist
 - cargo subcommand for showing assembly, LLVM IR and MLIR: https://github.com/pacak/cargo-show-asm
+- Rust debugger for Linux x86-64: https://github.com/godzie44/BugStalker
+- Friendly little instrumentation profiler for Rust: https://github.com/EmbarkStudios/puffin
 
 ## Videos:
 
@@ -735,6 +738,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - https://crates.io/crates/whichever-compiles
 - ε-serde is an ε-copy (i.e., almost zero-copy) serialization/deserialization framework: https://crates.io/crates/epserde
 - https://crates.io/crates/cargo-call-stack
+- Profile/debug binary targets on macOS using Xcode Instruments: https://crates.io/crates/cargo-instruments
 
 ## Rust Internals:
 

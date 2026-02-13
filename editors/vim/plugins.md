@@ -253,6 +253,8 @@
 - https://www.reddit.com/r/neovim/comments/1kcz8un/great_improvements_to_the_cmdline_in_nightly/
 - Can we set this up to work like bacon for large codebases? Don't provide LSP features, just linting: https://github.com/mfussenegger/nvim-lint
 - Re-check if cmdheight=0 has no issues with search, recording macro message, "Press ENTER" messages anymore
+- How to get list of workspace diagnostics/trouble in quickfix list
+    - How to disable preview of code on hove in trouble
 
 ## Longer work:
 

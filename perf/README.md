@@ -15,6 +15,8 @@
 - [perf,network] Low latency tuning guide: https://rigtorp.se/low-latency-guide/
 - [perf, tool] https://man7.org/linux/man-pages/man2/mincore.2.html
 - [perf] https://github.com/iovisor/bcc/blob/master/tools/memleak.py
+- [perf] https://blog.bugsiki.dev/posts/apple-pmu/
+- [profile] OOMProf - Profiling on the Brink: https://www.polarsignals.com/blog/posts/2025/08/13/oomprof
 
 ## Repos
 
@@ -32,6 +34,8 @@
 - [perf] https://github.com/iovisor/bcc/blob/master/tools/memleak.py
 - [tracing] https://stratoshark.org/
 - [perf] https://github.com/performancecopilot
+- [perf] Friendly little instrumentation profiler for Rust: https://github.com/EmbarkStudios/puffin
+- [intel, perf] A simulator that can predict the throughput of basic blocks on recent Intel microarchitectures: https://github.com/andreas-abel/uiCA
 
 ## Reddit and twitter threads:
 

@@ -36,6 +36,8 @@
 - https://zolmok.org/posts/tmux-multiple-projects-sessions/
 - https://blog.guilhermegarnier.com/2017/12/increasing-productivity-in-tmux-with-a-single-prefix-key/
 - https://chasewb.substack.com/p/automuxsh
+- https://willhbr.net/2025/10/25/full-speed-tmux-interpreter/
+- https://willhbr.net/2025/12/13/programming-with-tmux-for-beginners/
 
 ## Reddit and twitter threads:
 

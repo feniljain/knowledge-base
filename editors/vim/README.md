@@ -143,6 +143,7 @@
 - Quick vim tips to generate and increment numbers: https://irian.to/blogs/quick-vim-tips-to-generate-and-increment-numbers
 - https://dev.to/iggredible/learning-vim-regex-26ep
 - How do I debug a non-functioning keymap in Vim? https://stackoverflow.com/questions/29033976/how-do-i-debug-a-non-functioning-keymap-in-vim
+- https://alok.github.io/2018/04/26/using-vim-s-conceal-to-make-languages-more-tolerable/
 
 ## VimTricks:
 

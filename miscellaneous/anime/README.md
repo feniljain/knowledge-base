@@ -11,7 +11,6 @@
 - Fate/Zero
 - Wonder Egg: The priority
 - Sword of a stranger: Movie action
-- yu yu hakusho(like hunter X hunter)
 - Fog hill of five elements
 - Overlord
 - Sword art online
@@ -46,6 +45,9 @@
 - Legend of the Galactic Heroes
 - Saga of Tanya the Evil
 - World Trigger
+- Solo levelling
+- Clevatess
+- Trigun Stargaze
 
 ## Mecha and Space:
 
@@ -62,7 +64,8 @@
 ## Shounen:
 
 - Seven Deadly Sins
-- YuYu Hakusho
+- My hero academia
+- Gachiakuta
 
 ## Fiction & Mystery & Psychological:
 
@@ -123,6 +126,7 @@
 - Undead Girl Murder Farc
 - Wolf's Rain
 - Dead Dead Demon's Dededede Destruction
+- Summer Hikaru Died
 
 ## Adventure and Magic(supernatural):
 
@@ -135,6 +139,8 @@
 - Girl's last tour
 - Wistoria: Wand and sword
 - Kaiba
+- The Outcast
+- The legend of hei 2
 
 ## Comedy:
 
@@ -218,7 +224,6 @@
 - Hotarubi no Mori e
 - Love tyrant
 - Photo Kano
-- Saenai Heroine no Sodatekata
 - Kanamewo
 - Higehiro: after being rejected, I shaved and took in a highschool runaway
 - Ballroom e Youkoso(Welcome to the ballroom)
@@ -258,6 +263,7 @@
 - Too Many Losing Heroines!
 - The Dangers in My Heart
 - Negative Positive Angler
+- Apocalypse Hotel
 
 ## Sports and Music:
 
@@ -273,6 +279,8 @@
 - Shangrila Frontier
 - Blue Giant
 - Girls Band Cry
+- 100 meters
+- Medalist
 
 ## Isekai:
 
@@ -658,9 +666,13 @@
 - Takopi's Original Sin
 - To Be Hero X
 - Great Pretender
+- City: The animation
 - Wotokoi: Love is hard for otaku
 - Kokoro Connect
 - Bakuman
+- Girl's Last Tour
+- Rage of bahamut
+- Legend of hei
 - Lazarus
 - Uma Usume
 
@@ -679,3 +691,5 @@
 - Slam dunk
 - Billy bat
 - Blame
+- Hirayashumi
+- Girl's Last Tour

@@ -3,6 +3,7 @@
 ## Websites:
 
 - Build you own PC guides: https://pcpartpicker.com/
+- This website provides more than 400,000 pages with detailed latency, throughput, and port usage data for most x86 instructions on recent Intel and AMD microarchitectures: https://uops.info/
 
 ## Blogs and articles:
 
