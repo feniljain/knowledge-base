@@ -20,8 +20,8 @@
 - undone series
 - wednesday
 - The Fountain
-- 12 Angry Men
 - the wire
+- Hell and catch fire
 
 # Already watched ( list is heavily incomplete ):
 
@@ -39,6 +39,8 @@
 - better call saul
 - 1899
 - shogun
+- succession
+- three body problem
 
 ### Movies:
 

@@ -875,6 +875,7 @@ t https://whileydave.com/2021/10/26/test-driving-the-rust-model-checker-rmc/
 - https://github.com/kud1ing/awesome-rust
 - https://github.com/sunface/rust-by-practice
 - https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust
+- Beginner, advanced, expert level Rust training material: https://github.com/microsoft/RustTraining
 
 ### Reddit and twitter threads:
 

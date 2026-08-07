@@ -220,8 +220,6 @@
 
 ## Things to re-check/remember after trying them out:
 
-- uselfulness of mini.operators replace functionality
-- Use symbols listing for a file feature more
 - Use diffview.nvim's diff + gitsigns hunk feature more
     - https://github.com/sindrets/diffview.nvim ( This now has completely vscode type merge tools, check here: https://www.reddit.com/r/neovim/comments/x7iw4m/update_diffviewnvim_now_has_a_merge_tool/ )
 - https://www.shortcutfoo.com/blog/top-50-vim-configuration-options
@@ -231,37 +229,26 @@
     - uselfulness of `set lazyredraw`
     - uselfulness of `set display+=lastline`
 - https://www.youtube.com/watch?v=RdyfT2dbt78
-    - vib for `()` and viB for `{}`
     - Append to end of all lines with variable length using `C-v` , `$` and then `A`
     - Marks
 - using `git commit --fixup` : https://stackoverflow.com/questions/3103589/how-can-i-easily-fixup-a-past-commit
 - https://github.com/jbyuki/venn.nvim
     - https://github.com/vim-scripts/DrawIt
 - Debugging, use cgdb: https://maskray.me/blog/2024-11-02-tinkering-with-neovim
+- i_Ctrl-R<register-name> for inserting from any register
 
 ## Things to try out in next release:
 
-- https://www.reddit.com/r/neovim/comments/1hkmqoc/blinkcmp_v081_is_actually_usable_now_yay/
-- https://github.com/oskarrrrrrr/symbols.nvim : https://www.reddit.com/r/neovim/comments/1jeah4p/symbolsnvim_hey_look_i_made_it_faster/
-    - symbols.nvim maybe faster but it has less treesitter parsers support
-- Learn how to use builtin telescope options like selecting among current telescope results
-- https://x.com/Neovim/status/1902355522470183348
-    - This wasn't working in last version, telescope window looked ugly
-    - https://www.reddit.com/r/neovim/comments/1jeg8v4/comment/miicjny/
-- [https://www.reddit.com/r/neovim/comments/1jl47r9/astronvim_v5_released/](https://www.reddit.com/r/neovim/comments/1jl47r9/astronvim_v5_released/)
-- Has it become treesitter driven yet?: https://x.com/Neovim/status/1933207269384077493
-- https://www.reddit.com/r/neovim/comments/1kcz8un/great_improvements_to_the_cmdline_in_nightly/
-- Can we set this up to work like bacon for large codebases? Don't provide LSP features, just linting: https://github.com/mfussenegger/nvim-lint
-- Re-check if cmdheight=0 has no issues with search, recording macro message, "Press ENTER" messages anymore
-- How to get list of workspace diagnostics/trouble in quickfix list
-    - How to disable preview of code on hove in trouble
+- port things from this: Setting up neovim 0.12 (the core configuration before plugins)
+- https://github.com/neovim/neovim/commit/35b57441b0bac035dcfc591830e82abc560720b1
+- https://x.com/Neovim/status/2083554751178817974
+- Enable in minimal vim maybe? https://x.com/Neovim/status/2084590217680310294
 
 ## Longer work:
 
 - https://yapjiahong2003.medium.com/solving-merge-conflicts-easily-in-neovim-with-fugitive-cb5f4e205e8f
     - also checkout hunk related features from `gitsigns.nvim`
         - This guy seems to be using hunks feature using this config: https://github.com/iainsimmons/nvim-config/blob/a35065766b6133caa27e9574c3878dc8a875d0ab/lua/plugins/git.lua
-- https://github.com/fdschmidt93/telescope-egrepify.nvim OR https://github.com/nvim-telescope/telescope-live-grep-args.nvim
 
 ## Terminal stuff:
 
@@ -271,33 +258,3 @@
 - Explore use of this instead of vifm, does this help in cases where you press list all files in very big folders by mistake? https://github.com/sxyazi/yazi
 - https://fx.wtf/
 - Explore usage of this instead of nvm: https://github.com/Schniz/fnm
-- https://github.com/iainsimmons/nvim-config/blob/a35065766b6133caa27e9574c3878dc8a875d0ab/lua/config/keymaps.lua
-- https://github.com/folke/lazydev.nvim
-- Can we set this up to work like bacon for large codebases? Don't provide LSP features, just linting: https://github.com/mfussenegger/nvim-lint
-- https://github.com/TobinPalmer/rayso.nvim
-- See first screenshot of searching, it provides a nice UI to do advanced filtering on search like you have been wanting to do using telescope: https://github.com/MagicDuck/grug-far.nvim
-- https://github.com/prochri/telescope-all-recent.nvim
-- https://github.com/fdschmidt93/telescope-egrepify.nvim OR https://github.com/nvim-telescope/telescope-live-grep-args.nvim
-- https://github.com/nvim-telescope/telescope.nvim/wiki/Configuration-Recipes
-- https://x.com/Neovim/status/1878713369613762844
-- https://www.reddit.com/r/neovim/comments/1m3vdr4/migrating_to_neovims_new_builtin_plugin_manager/
-- https://x.com/justinmk/status/1946632250616922284
-- https://www.reddit.com/r/neovim/comments/1misv3f/explaining_all_vim_modes_even_the_weird_ones/
-- https://x.com/Neovim/status/1962250819098562607
-- https://www.reddit.com/r/neovim/comments/1n59kir/neovim_now_supports_lsp_ontype_formatting/
-- https://github.com/MagicDuck/grug-far.nvim
-- https://github.com/nvim-mini/mini-git
-- https://www.reddit.com/r/neovim/comments/1kgu748/masonnvim_20_has_been_released/
-- https://www.reddit.com/r/neovim/comments/1kpw9pz/with_all_the_improvements_in_011_how_does_your/
-- https://www.reddit.com/r/neovim/s/WNWYKYEKth
-- https://x.com/BHolmesDev/status/1949450982431281467/
-- Explore usage of this instead of nvm: https://github.com/Schniz/fnm
-- https://github.com/iainsimmons/nvim-config/blob/a35065766b6133caa27e9574c3878dc8a875d0ab/lua/config/keymaps.lua
-- https://github.com/folke/lazydev.nvim
-- Can we set this up to work like bacon for large codebases? Don't provide LSP features, just linting: https://github.com/mfussenegger/nvim-lint
-- https://github.com/TobinPalmer/rayso.nvim
-- See first screenshot of searching, it provides a nice UI to do advanced filtering on search like you have been wanting to do using telescope: https://github.com/MagicDuck/grug-far.nvim
-- https://github.com/prochri/telescope-all-recent.nvim
-- https://github.com/fdschmidt93/telescope-egrepify.nvim OR https://github.com/nvim-telescope/telescope-live-grep-args.nvim
-- https://github.com/nvim-telescope/telescope.nvim/wiki/Configuration-Recipes
-- https://x.com/Neovim/status/1878713369613762844

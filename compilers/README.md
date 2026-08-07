@@ -244,6 +244,7 @@
 - https://github.com/wdv4758h/awesome-jit
 - A list of dead JIT compiler projects for CPython: https://github.com/markshannon/JIT_graveyard
 - Open deep learning compiler stack for cpu, gpu and specialized accelerators: https://github.com/apache/tvm/
+- https://github.com/SeaOfNodes
 
 ## Grammars:
 

@@ -36,6 +36,7 @@
 - [perf] https://github.com/performancecopilot
 - [perf] Friendly little instrumentation profiler for Rust: https://github.com/EmbarkStudios/puffin
 - [intel, perf] A simulator that can predict the throughput of basic blocks on recent Intel microarchitectures: https://github.com/andreas-abel/uiCA
+- [perf] https://github.com/wolfpld/tracy
 
 ## Reddit and twitter threads:
 

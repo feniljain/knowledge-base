@@ -14,7 +14,6 @@
 - Fog hill of five elements
 - Overlord
 - Sword art online
-- Drifters
 - Toaru Majutsu no Index III
 - Brand new animal
 - Tokyo Majin
@@ -48,6 +47,7 @@
 - Solo levelling
 - Clevatess
 - Trigun Stargaze
+- Land of the Lustrous
 
 ## Mecha and Space:
 
@@ -127,6 +127,8 @@
 - Wolf's Rain
 - Dead Dead Demon's Dededede Destruction
 - Summer Hikaru Died
+- Link Click season 2 and 3
+- The Ghost in the Shell
 
 ## Adventure and Magic(supernatural):
 
@@ -141,6 +143,7 @@
 - Kaiba
 - The Outcast
 - The legend of hei 2
+- Mushoku Tensei 3
 
 ## Comedy:
 
@@ -173,6 +176,7 @@
 - Undead unluck
 - Mashle: Magic and Muscles
 - Bang Brave Bang Bravern
+- Draw this, then die
 
 ## Sad & Romance & SOL:
 
@@ -264,6 +268,7 @@
 - The Dangers in My Heart
 - Negative Positive Angler
 - Apocalypse Hotel
+- Dogakobo: Though I Am an Inept Villainess
 
 ## Sports and Music:
 
@@ -299,6 +304,8 @@
 - Oshi no ko
 - Good Night World
 - Beck: Mongolian Chop Squad
+- Jaadugar: A Witch in Mongolia
+- Sparks of Tomorrow
 
 ## Ecchi:
 
@@ -675,6 +682,9 @@
 - Legend of hei
 - Lazarus
 - Uma Usume
+- Drifters
+- Rurouni kenshin ( new adaptation )
+- Journal With Witch
 
 ## Caught up Mangas:
 

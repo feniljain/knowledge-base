@@ -16,3 +16,10 @@
 
 - Technique Fundamentals: https://www.youtube.com/watch?v=b8sHOSukVi8&list=PLiZDfsSZ2zD1zSG7TlxnFC8iRq1SNuDwd
 - Things to improve at every grade: https://www.youtube.com/watch?v=h5Oxp9qujeE
+- Lock off for climbers: https://www.youtube.com/watch?v=3bKw6LXWsC4
+- One arm lock off: https://www.youtube.com/watch?v=PZ4-Bioyo-M
+- Flexibility: https://www.youtube.com/watch?v=2Fmx-iHsKYg
+
+# Drawing:
+
+- https://rknight.me/blog/drawing-resources/

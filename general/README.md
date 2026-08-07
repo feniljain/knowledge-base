@@ -66,6 +66,7 @@
 - Are sofware engineers really engineers?: https://www.hillelwayne.com/post/are-we-really-engineers/
 - General Guide to Finding Accommodation In a New City (Targetted to Bangalore) : https://nvinayvarma189.github.io/posts/house-hunting/
 - What makes a great technical blog: https://notes.eatonphil.com/2024-04-10-what-makes-a-great-tech-blog.html
+- DIY soft drinks: https://blinry.org/diy-soft-drinks/
 
 ## Blog series/Articles collection:
 

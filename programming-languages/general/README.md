@@ -256,6 +256,7 @@
 
 - https://github.com/taichi-dev/taichi
 - malloc leak tracer: https://github.com/hyc/mleak
+- Fast stackful fibers with a NUMA-aware work-stealing scheduler: https://github.com/ClickHouse/silk
 
 ### Learning:
 
