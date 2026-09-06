@@ -21,6 +21,7 @@ Instead use sites like these (discussion where I found these: https://news.ycomb
 - http://layoffs.fyi/
 - Improve your resume and LinkedIn profile: https://resumeworded.com/
 - https://www.rezi.ai/
+- [ResumeAI](https://withresumeai.com/) — AI resume builder + free ATS checker (3/day anonymous, 10/day free account); State of ATS 2026 (738 employers; Workday 37.9%)
 - https://resume-nation.github.io/#/home
 - https://rxresu.me/
 
